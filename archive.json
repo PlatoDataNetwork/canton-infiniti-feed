@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-12_1542-est",
+      "slug": "upflam-payments-and-wallet-platform-opens-to-everyone-on-canton",
+      "title": "Upflam payments and wallet platform opens to everyone on Canton",
+      "body": "Canton Signal Feed (Nov 12, 2026 · 3:42 PM ET)\n- **Upflam payments and wallet platform opens to everyone on Canton** — Upflam has dropped its invite-only access: anyone can now sign up, create a Canton wallet and take payments through payment links, invoices, donation pages, embeddable buttons, recurring AutoPay and a WooCommerce plugin, with a 0.1% fee on incoming payments (CC Space)\n- **First trades of tokenized U.S. equity under SEC Innovation Exemption executed on Canton** — Shares of Canton Strategic Holdings (NASDAQ: CNTN) traded on November 4 on TSV, the permissioned venue for tokenized NMS stocks on Canton, with Five North as seller, DRW Cumberland as buyer and Flowdesk as liquidity provider; Fairmint, the SEC-registered transfer agent, recorded the shares and the trades settled atomically, the first of their kind under the SEC's September 17 Innovation Exemption (Morningstar)\n- **Wells Fargo among organizations awarded MainNet validator allocations** — The Canton Foundation Tokenomics Working Group awarded additional MainNet validator node allocations, including three to Wells Fargo alongside Visoty, Cartumi, Winsnip, Winnode and Otoclick, issued in line with current network capacity and health assessments (CC Space)\n- **Canton Foundation launches Community Research Grants with up to 50,000 CC per month** — The Foundation has launched Canton Community Research Grants, with up to 50,000 CC per month available beginning in November 2026 at the Foundation's discretion for original research and educational content (CoinStats)\n\nNetwork: CC $0.08917 | Market cap $3.57B | 24h volume $8.76M | Supply 40.04B CC; milestone: Canton handles $300 billion to $400 billion in repo daily, much of it through Broadridge's Distributed Ledger Repo platform, according to Digital Asset CEO Yuval Rooz at Token2049 (DropsTab for market data; CoinStats for the repo milestone)",
+      "timestamp": "2026-11-12T15:42:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/upflam-payments-and-wallet-platform-opens-to-everyone-on-canton",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-12_1442-est",
       "slug": "dtcc-plans-to-connect-its-tokenization-service-to-solana-in-the-second",
       "title": "DTCC plans to connect its Tokenization Service to Solana in the second half of 2027",
