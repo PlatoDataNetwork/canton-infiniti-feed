@@ -29,8 +29,41 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-12T18:12:00-05:00",
+  "updated": "2026-11-12T18:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-12_1842-est",
+      "slug": "visa-joins-canton-as-a-super-validator-announced-on-its-q4-earnings-ca",
+      "url": "https://canton.w3ai.io/feed/visa-joins-canton-as-a-super-validator-announced-on-its-q4-earnings-ca",
+      "title": "Visa joins Canton as a Super Validator, announced on its Q4 earnings call",
+      "content_text": "Canton Signal Feed (Nov 12, 2026 · 6:42 PM ET)\n- **Visa joins Canton as a Super Validator, announced on its Q4 earnings call** — Visa's CEO named the Canton Super Validator role on the company's October 30 earnings call, alongside validator roles on Tempo and Circle's Arc as part of Visa's onchain network strategy; the role adds a global payments operator to the institutions running Canton's Global Synchronizer and does not directly change Canton Coin's token economics (TradingView)\n- **DA Registry launches Proof of Transfer API for privacy-enabled Canton assets** — Digital Asset's DA Registry now lets wallet and exchange users independently confirm whether a transfer of a privacy-enabled Canton asset succeeded, failed or is pending, without exposing confidential transaction data; Bybit has already integrated the API and Digital Asset is urging other wallets and exchanges to follow (CC Space)\n- **Chainlink brings Data Streams, Proof of Reserve and CCIP to Canton as a Super Validator** — Under the partnership, Chainlink's Data Streams, SmartData products including Proof of Reserve, and its Cross-Chain Interoperability Protocol serve Canton applications, while Chainlink Labs runs a domain validator and a synchronizer node as a Super Validator, taking part in ordering and finalizing transactions across the Global Synchronizer; Canton has also joined the Chainlink Scale program (Finance Loop)\n- **Kaiko extends its Series B to $110 million, led by S&P Global with Canton participating** — The market-data provider, itself a Canton Super Validator, extended the round to $110 million with S&P Global leading and Canton also participating, a sign of institutional money flowing into the data infrastructure around the network (CC Space)\n\nNetwork: CC $0.0893 | Market cap $3.57B (rank #27) | 24h volume $9.20M | Supply 40.04B CC; milestone: 56 Canton Improvement Proposals now carry Final status, approved and adopted on-chain by a two-thirds majority of Super Validators (CoinMarketHelp for market data; Canton Network Docs for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 12, 2026 · 6:42 PM ET)<br/>- **Visa joins Canton as a Super Validator, announced on its Q4 earnings call** — Visa&#x27;s CEO named the Canton Super Validator role on the company&#x27;s October 30 earnings call, alongside validator roles on Tempo and Circle&#x27;s Arc as part of Visa&#x27;s onchain network strategy; the role adds a global payments operator to the institutions running Canton&#x27;s Global Synchronizer and does not directly change Canton Coin&#x27;s token economics (TradingView)<br/>- **DA Registry launches Proof of Transfer API for privacy-enabled Canton assets** — Digital Asset&#x27;s DA Registry now lets wallet and exchange users independently confirm whether a transfer of a privacy-enabled Canton asset succeeded, failed or is pending, without exposing confidential transaction data; Bybit has already integrated the API and Digital Asset is urging other wallets and exchanges to follow (CC Space)<br/>- **Chainlink brings Data Streams, Proof of Reserve and CCIP to Canton as a Super Validator** — Under the partnership, Chainlink&#x27;s Data Streams, SmartData products including Proof of Reserve, and its Cross-Chain Interoperability Protocol serve Canton applications, while Chainlink Labs runs a domain validator and a synchronizer node as a Super Validator, taking part in ordering and finalizing transactions across the Global Synchronizer; Canton has also joined the Chainlink Scale program (Finance Loop)<br/>- **Kaiko extends its Series B to $110 million, led by S&amp;P Global with Canton participating** — The market-data provider, itself a Canton Super Validator, extended the round to $110 million with S&amp;P Global leading and Canton also participating, a sign of institutional money flowing into the data infrastructure around the network (CC Space)<br/><br/>Network: CC $0.0893 | Market cap $3.57B (rank #27) | 24h volume $9.20M | Supply 40.04B CC; milestone: 56 Canton Improvement Proposals now carry Final status, approved and adopted on-chain by a two-thirds majority of Super Validators (CoinMarketHelp for market data; Canton Network Docs for the milestone)</p>",
+      "date_published": "2026-11-12T18:42:00-05:00",
+      "date_modified": "2026-11-12T18:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "27",
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 12, 2026 · 6:42 PM ET",
+      "body": "Canton Signal Feed (Nov 12, 2026 · 6:42 PM ET)\n- **Visa joins Canton as a Super Validator, announced on its Q4 earnings call** — Visa's CEO named the Canton Super Validator role on the company's October 30 earnings call, alongside validator roles on Tempo and Circle's Arc as part of Visa's onchain network strategy; the role adds a global payments operator to the institutions running Canton's Global Synchronizer and does not directly change Canton Coin's token economics (TradingView)\n- **DA Registry launches Proof of Transfer API for privacy-enabled Canton assets** — Digital Asset's DA Registry now lets wallet and exchange users independently confirm whether a transfer of a privacy-enabled Canton asset succeeded, failed or is pending, without exposing confidential transaction data; Bybit has already integrated the API and Digital Asset is urging other wallets and exchanges to follow (CC Space)\n- **Chainlink brings Data Streams, Proof of Reserve and CCIP to Canton as a Super Validator** — Under the partnership, Chainlink's Data Streams, SmartData products including Proof of Reserve, and its Cross-Chain Interoperability Protocol serve Canton applications, while Chainlink Labs runs a domain validator and a synchronizer node as a Super Validator, taking part in ordering and finalizing transactions across the Global Synchronizer; Canton has also joined the Chainlink Scale program (Finance Loop)\n- **Kaiko extends its Series B to $110 million, led by S&P Global with Canton participating** — The market-data provider, itself a Canton Super Validator, extended the round to $110 million with S&P Global leading and Canton also participating, a sign of institutional money flowing into the data infrastructure around the network (CC Space)\n\nNetwork: CC $0.0893 | Market cap $3.57B (rank #27) | 24h volume $9.20M | Supply 40.04B CC; milestone: 56 Canton Improvement Proposals now carry Final status, approved and adopted on-chain by a two-thirds majority of Super Validators (CoinMarketHelp for market data; Canton Network Docs for the milestone)",
+      "image_url": null,
+      "published": "2026-11-12T18:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-12_1812-est",
       "slug": "openassets-brings-markets-in-a-box-tokenization-platform-to-canton-as",
