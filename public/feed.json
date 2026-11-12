@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-12T10:33:00-05:00",
+  "updated": "2026-11-12T13:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-12_1342-est",
+      "slug": "nomura-group-and-boostry-approved-for-canton-super-validator-participa",
+      "url": "https://canton.w3ai.io/feed/nomura-group-and-boostry-approved-for-canton-super-validator-participa",
+      "title": "Nomura Group and BOOSTRY approved for Canton Super Validator participation under CIP-0130",
+      "content_text": "Canton Signal Feed (Nov 12, 2026 · 1:42 PM ET)\n- **Nomura Group and BOOSTRY approved for Canton Super Validator participation under CIP-0130** — The November 10 vote passed with 11 in favour and two non-votes, giving the pair one shared arrangement to earn up to 10 reward weight through verified milestones tied to regulated customer access, institutional settlement and collateral integration (CantonNews)\n- **OpenZeppelin Daml library and four reference designs clear Canton Dev Fund vote** — The security firm's open-source Daml contracts library and reference designs for a privacy-preserving DEX, a lending protocol, cross-chain stablecoin payments and a fourth design were approved, giving Canton builders vetted, reusable building blocks (CC Space)\n- **SEC staff view Canton Coin as a digital commodity in November 3 no-action letter** — Division of Corporation Finance staff said they would not recommend enforcement over programmatic minting of CC by Super Validators, Validators and app providers as described; the letter is a staff position only and does not address secondary-market trading (Unchained)\n- **CIP-0129 universal burn timeline points to private synchronizers in Q1 2027** — The first phase would apply universal fee burning to private synchronizers, described as ambitious rather than a firm deadline, with volume-based pricing estimated for Q3 2027 (CoinMarketCap)\n\nNetwork: CC $0.08859 | Market cap $3.55B (rank 26) | 24h volume $11.54M | Supply 40.03B CC; milestone: CIP-0130 adds a path to a new weight-10 Super Validator arrangement on the Global Synchronizer (CoinDesk for market data; CantonNews for the validator milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 12, 2026 · 1:42 PM ET)<br/>- **Nomura Group and BOOSTRY approved for Canton Super Validator participation under CIP-0130** — The November 10 vote passed with 11 in favour and two non-votes, giving the pair one shared arrangement to earn up to 10 reward weight through verified milestones tied to regulated customer access, institutional settlement and collateral integration (CantonNews)<br/>- **OpenZeppelin Daml library and four reference designs clear Canton Dev Fund vote** — The security firm&#x27;s open-source Daml contracts library and reference designs for a privacy-preserving DEX, a lending protocol, cross-chain stablecoin payments and a fourth design were approved, giving Canton builders vetted, reusable building blocks (CC Space)<br/>- **SEC staff view Canton Coin as a digital commodity in November 3 no-action letter** — Division of Corporation Finance staff said they would not recommend enforcement over programmatic minting of CC by Super Validators, Validators and app providers as described; the letter is a staff position only and does not address secondary-market trading (Unchained)<br/>- **CIP-0129 universal burn timeline points to private synchronizers in Q1 2027** — The first phase would apply universal fee burning to private synchronizers, described as ambitious rather than a firm deadline, with volume-based pricing estimated for Q3 2027 (CoinMarketCap)<br/><br/>Network: CC $0.08859 | Market cap $3.55B (rank 26) | 24h volume $11.54M | Supply 40.03B CC; milestone: CIP-0130 adds a path to a new weight-10 Super Validator arrangement on the Global Synchronizer (CoinDesk for market data; CantonNews for the validator milestone)</p>",
+      "date_published": "2026-11-12T13:42:00-05:00",
+      "date_modified": "2026-11-12T13:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 12, 2026 · 1:42 PM ET",
+      "body": "Canton Signal Feed (Nov 12, 2026 · 1:42 PM ET)\n- **Nomura Group and BOOSTRY approved for Canton Super Validator participation under CIP-0130** — The November 10 vote passed with 11 in favour and two non-votes, giving the pair one shared arrangement to earn up to 10 reward weight through verified milestones tied to regulated customer access, institutional settlement and collateral integration (CantonNews)\n- **OpenZeppelin Daml library and four reference designs clear Canton Dev Fund vote** — The security firm's open-source Daml contracts library and reference designs for a privacy-preserving DEX, a lending protocol, cross-chain stablecoin payments and a fourth design were approved, giving Canton builders vetted, reusable building blocks (CC Space)\n- **SEC staff view Canton Coin as a digital commodity in November 3 no-action letter** — Division of Corporation Finance staff said they would not recommend enforcement over programmatic minting of CC by Super Validators, Validators and app providers as described; the letter is a staff position only and does not address secondary-market trading (Unchained)\n- **CIP-0129 universal burn timeline points to private synchronizers in Q1 2027** — The first phase would apply universal fee burning to private synchronizers, described as ambitious rather than a firm deadline, with volume-based pricing estimated for Q3 2027 (CoinMarketCap)\n\nNetwork: CC $0.08859 | Market cap $3.55B (rank 26) | 24h volume $11.54M | Supply 40.03B CC; milestone: CIP-0130 adds a path to a new weight-10 Super Validator arrangement on the Global Synchronizer (CoinDesk for market data; CantonNews for the validator milestone)",
+      "image_url": null,
+      "published": "2026-11-12T13:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-12_1033-est",
       "slug": "canton-roadmap-leads-with-tokenized-stocks-then-repo-and-derivatives",
