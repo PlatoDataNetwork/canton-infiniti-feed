@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-12T13:42:00-05:00",
+  "updated": "2026-11-12T14:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-12_1412-est",
+      "slug": "canton-foundation-backs-redstone-pricing-tool-with-15-8-million-canton",
+      "url": "https://canton.w3ai.io/feed/canton-foundation-backs-redstone-pricing-tool-with-15-8-million-canton",
+      "title": "Canton Foundation backs RedStone pricing tool with 15.8 million Canton Coin",
+      "content_text": "Canton Signal Feed (Nov 12, 2026 · 2:12 PM ET)\n- **Canton Foundation backs RedStone pricing tool with 15.8 million Canton Coin** — The Foundation approved almost 15.8 million CC, worth about $1.55 million, to fund RedStone's open-source Canton Access and Privacy Standard (CAPS) tool, letting institutions value transactions from a shared reference price without revealing their agreed settlement amounts; initial pricing covers tokenized funds, private-market assets and structured products under the Apache 2.0 license (Cointelegraph)\n- **Uber completes 24/7 treasury pilot on Canton with HSBC, Franklin Templeton, Tradeweb and Fireblocks** — Uber used HSBC Tokenized Deposits to buy Franklin Templeton tokenized money market fund shares on Tradeweb through delivery-versus-payment transactions on Canton via Fireblocks, and liquidated part of the holding over a weekend while continuing to earn yield throughout the investment lifecycle (HSBC)\n- **Societe Generale accepts $10 million in tokenized Treasuries as collateral on Canton** — The bank's Prime Services & Clearing division accepted the DTCC-tokenized Treasuries as eligible collateral, reflecting them in its existing back-office and collateral systems, and intends to develop support for recurring collateral movements and explore onchain repo financing (Societe Generale)\n- **Circle reports 379.9 million Canton Coin held at September 30** — Circle's quarterly filing shows 379,921,930 CC with a fair value of about $48.0 million at September 30, 2026, up in quantity from 367,760,063 CC held at December 31, 2025 (Circle Form 10-Q)\n\nNetwork: CC $0.0885 | Market cap $3.54B | 24h volume $16.35M | Supply 40.04B CC; milestone: more than 600 institutions onboarded across the Canton ecosystem (CoinMarketCap for market data; Cointelegraph for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 12, 2026 · 2:12 PM ET)<br/>- **Canton Foundation backs RedStone pricing tool with 15.8 million Canton Coin** — The Foundation approved almost 15.8 million CC, worth about $1.55 million, to fund RedStone&#x27;s open-source Canton Access and Privacy Standard (CAPS) tool, letting institutions value transactions from a shared reference price without revealing their agreed settlement amounts; initial pricing covers tokenized funds, private-market assets and structured products under the Apache 2.0 license (Cointelegraph)<br/>- **Uber completes 24/7 treasury pilot on Canton with HSBC, Franklin Templeton, Tradeweb and Fireblocks** — Uber used HSBC Tokenized Deposits to buy Franklin Templeton tokenized money market fund shares on Tradeweb through delivery-versus-payment transactions on Canton via Fireblocks, and liquidated part of the holding over a weekend while continuing to earn yield throughout the investment lifecycle (HSBC)<br/>- **Societe Generale accepts $10 million in tokenized Treasuries as collateral on Canton** — The bank&#x27;s Prime Services &amp; Clearing division accepted the DTCC-tokenized Treasuries as eligible collateral, reflecting them in its existing back-office and collateral systems, and intends to develop support for recurring collateral movements and explore onchain repo financing (Societe Generale)<br/>- **Circle reports 379.9 million Canton Coin held at September 30** — Circle&#x27;s quarterly filing shows 379,921,930 CC with a fair value of about $48.0 million at September 30, 2026, up in quantity from 367,760,063 CC held at December 31, 2025 (Circle Form 10-Q)<br/><br/>Network: CC $0.0885 | Market cap $3.54B | 24h volume $16.35M | Supply 40.04B CC; milestone: more than 600 institutions onboarded across the Canton ecosystem (CoinMarketCap for market data; Cointelegraph for the milestone)</p>",
+      "date_published": "2026-11-12T14:12:00-05:00",
+      "date_modified": "2026-11-12T14:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 12, 2026 · 2:12 PM ET",
+      "body": "Canton Signal Feed (Nov 12, 2026 · 2:12 PM ET)\n- **Canton Foundation backs RedStone pricing tool with 15.8 million Canton Coin** — The Foundation approved almost 15.8 million CC, worth about $1.55 million, to fund RedStone's open-source Canton Access and Privacy Standard (CAPS) tool, letting institutions value transactions from a shared reference price without revealing their agreed settlement amounts; initial pricing covers tokenized funds, private-market assets and structured products under the Apache 2.0 license (Cointelegraph)\n- **Uber completes 24/7 treasury pilot on Canton with HSBC, Franklin Templeton, Tradeweb and Fireblocks** — Uber used HSBC Tokenized Deposits to buy Franklin Templeton tokenized money market fund shares on Tradeweb through delivery-versus-payment transactions on Canton via Fireblocks, and liquidated part of the holding over a weekend while continuing to earn yield throughout the investment lifecycle (HSBC)\n- **Societe Generale accepts $10 million in tokenized Treasuries as collateral on Canton** — The bank's Prime Services & Clearing division accepted the DTCC-tokenized Treasuries as eligible collateral, reflecting them in its existing back-office and collateral systems, and intends to develop support for recurring collateral movements and explore onchain repo financing (Societe Generale)\n- **Circle reports 379.9 million Canton Coin held at September 30** — Circle's quarterly filing shows 379,921,930 CC with a fair value of about $48.0 million at September 30, 2026, up in quantity from 367,760,063 CC held at December 31, 2025 (Circle Form 10-Q)\n\nNetwork: CC $0.0885 | Market cap $3.54B | 24h volume $16.35M | Supply 40.04B CC; milestone: more than 600 institutions onboarded across the Canton ecosystem (CoinMarketCap for market data; Cointelegraph for the milestone)",
+      "image_url": null,
+      "published": "2026-11-12T14:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-12_1342-est",
       "slug": "nomura-group-and-boostry-approved-for-canton-super-validator-participa",
