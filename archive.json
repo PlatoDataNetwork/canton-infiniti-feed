@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-12_1612-est",
+      "slug": "tokenomics-committee-approves-stable-coin-sbc-as-a-featured-app-on-can",
+      "title": "Tokenomics Committee approves Stable Coin (SBC) as a Featured App on Canton",
+      "body": "Canton Signal Feed (Nov 12, 2026 · 4:12 PM ET)\n- **Tokenomics Committee approves Stable Coin (SBC) as a Featured App on Canton** — The Global Synchronizer Foundation's Tokenomics Committee approved Stable Coin Inc.'s SBC application for Featured App status, which now goes to Super Validators for on-chain approval; the same notice confirms an additional Super Validator weight release for Canton Strategic Holdings under the Digital Asset Treasury programme (CC Space)\n- **EDX Markets launches CBTC spot trading, bringing Bitcoin-backed assets to Canton institutions** — EDX Markets partnered with BitSafe to launch spot trading of CBTC, BitSafe's Bitcoin-backed asset on Canton backed 1:1 by Bitcoin, in its first availability on a centralized exchange; Granite River Trading supports liquidity, with CBTC/USD perpetuals planned in the coming weeks and Canton Coin planned as eligible collateral (Morningstar)\n- **Canton builds out its South Korea presence through Shinhan, Hanwha and LG CNS** — Shinhan Financial Group has cooperation and strategic investment links with the Canton Foundation, including Shinhan Asset Management approved as a Super Validator, Hanwha Investment & Securities has partnered with Digital Asset and invested in the company, and LG CNS is exploring Canton-based services and infrastructure (Bitrue)\n- **Tokenomics Committee pauses Wintip's Featured App status after flagged activity** — The Global Synchronizer Foundation's Tokenomics Committee voted to pause Featured App status for Wintip (Winsnip) on MainNet after on-chain activity was flagged for review by the Accountability Committee; Featured App status boosts the rewards an application earns, so the pause materially changes its economics (CC Space)\n\nNetwork: CC $0.0892 | Market cap $3.57B | 24h volume $14.86M | Supply 40.04B CC; milestone: RWA.xyz tracks $370.5 billion of represented real-world assets on Canton, 88.6% of all represented value it tracks, all in Broadridge's Distributed Ledger Repo (CoinMarketCap for market data; RWA.xyz for the milestone)",
+      "timestamp": "2026-11-12T16:12:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/tokenomics-committee-approves-stable-coin-sbc-as-a-featured-app-on-can",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-12_1542-est",
       "slug": "upflam-payments-and-wallet-platform-opens-to-everyone-on-canton",
       "title": "Upflam payments and wallet platform opens to everyone on Canton",
