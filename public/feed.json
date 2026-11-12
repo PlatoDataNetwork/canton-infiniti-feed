@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-12T14:12:00-05:00",
+  "updated": "2026-11-12T14:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-12_1442-est",
+      "slug": "dtcc-plans-to-connect-its-tokenization-service-to-solana-in-the-second",
+      "url": "https://canton.w3ai.io/feed/dtcc-plans-to-connect-its-tokenization-service-to-solana-in-the-second",
+      "title": "DTCC plans to connect its Tokenization Service to Solana in the second half of 2027",
+      "content_text": "Canton Signal Feed (Nov 12, 2026 · 2:42 PM ET)\n- **DTCC plans to connect its Tokenization Service to Solana in the second half of 2027** — The service launched on Canton and DTCC's private network on October 28, so Canton remains its first live venue; the announcement signals a future multi-network strategy rather than a move away from Canton (CoinMarketCap)\n- **Blockdaemon faces losing 4.0 escrowed Super Validator weight after its milestones expire** — Blockdaemon's adoption milestones under CIP-94 expired without being met, so the Foundation has proposed stripping the 4.0 escrowed reward weight held via MPCH in the first visible application of the Super Validator Accountability Framework, with voting running until November 17 (CC Space)\n- **Rome Protocol launches Ostia, a zero-knowledge EVM chain settling on Canton** — Ostia is live on Canton DevNet as an Ethereum-compatible chain whose blocks are proved with zero-knowledge proofs and settled in a single Canton transaction, with a bridge that moves Canton Coin and ERC-20 tokens between the two sides (CC Space)\n- **Digital Asset and the American Idea Foundation select Canton for a three-state RISE benefits pilot** — The pilot is planned for Q1 2027 pending federal approval, with Canton coordinating payment rules while limiting access to recipients' sensitive information; locations and participating programs have not been disclosed (CoinMarketCap)\n\nNetwork: CC $0.0890 | Market cap $3.56B (rank 27) | 24h volume $9.20M | Supply 40.04B CC; milestone: Featured App Guidance v2.0b is in force, cutting the per-transaction featured app reward cap to $0.79 with activity markers required to match burned fees one-for-one (HookScreener for market data; CC Space for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 12, 2026 · 2:42 PM ET)<br/>- **DTCC plans to connect its Tokenization Service to Solana in the second half of 2027** — The service launched on Canton and DTCC&#x27;s private network on October 28, so Canton remains its first live venue; the announcement signals a future multi-network strategy rather than a move away from Canton (CoinMarketCap)<br/>- **Blockdaemon faces losing 4.0 escrowed Super Validator weight after its milestones expire** — Blockdaemon&#x27;s adoption milestones under CIP-94 expired without being met, so the Foundation has proposed stripping the 4.0 escrowed reward weight held via MPCH in the first visible application of the Super Validator Accountability Framework, with voting running until November 17 (CC Space)<br/>- **Rome Protocol launches Ostia, a zero-knowledge EVM chain settling on Canton** — Ostia is live on Canton DevNet as an Ethereum-compatible chain whose blocks are proved with zero-knowledge proofs and settled in a single Canton transaction, with a bridge that moves Canton Coin and ERC-20 tokens between the two sides (CC Space)<br/>- **Digital Asset and the American Idea Foundation select Canton for a three-state RISE benefits pilot** — The pilot is planned for Q1 2027 pending federal approval, with Canton coordinating payment rules while limiting access to recipients&#x27; sensitive information; locations and participating programs have not been disclosed (CoinMarketCap)<br/><br/>Network: CC $0.0890 | Market cap $3.56B (rank 27) | 24h volume $9.20M | Supply 40.04B CC; milestone: Featured App Guidance v2.0b is in force, cutting the per-transaction featured app reward cap to $0.79 with activity markers required to match burned fees one-for-one (HookScreener for market data; CC Space for the milestone)</p>",
+      "date_published": "2026-11-12T14:42:00-05:00",
+      "date_modified": "2026-11-12T14:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 12, 2026 · 2:42 PM ET",
+      "body": "Canton Signal Feed (Nov 12, 2026 · 2:42 PM ET)\n- **DTCC plans to connect its Tokenization Service to Solana in the second half of 2027** — The service launched on Canton and DTCC's private network on October 28, so Canton remains its first live venue; the announcement signals a future multi-network strategy rather than a move away from Canton (CoinMarketCap)\n- **Blockdaemon faces losing 4.0 escrowed Super Validator weight after its milestones expire** — Blockdaemon's adoption milestones under CIP-94 expired without being met, so the Foundation has proposed stripping the 4.0 escrowed reward weight held via MPCH in the first visible application of the Super Validator Accountability Framework, with voting running until November 17 (CC Space)\n- **Rome Protocol launches Ostia, a zero-knowledge EVM chain settling on Canton** — Ostia is live on Canton DevNet as an Ethereum-compatible chain whose blocks are proved with zero-knowledge proofs and settled in a single Canton transaction, with a bridge that moves Canton Coin and ERC-20 tokens between the two sides (CC Space)\n- **Digital Asset and the American Idea Foundation select Canton for a three-state RISE benefits pilot** — The pilot is planned for Q1 2027 pending federal approval, with Canton coordinating payment rules while limiting access to recipients' sensitive information; locations and participating programs have not been disclosed (CoinMarketCap)\n\nNetwork: CC $0.0890 | Market cap $3.56B (rank 27) | 24h volume $9.20M | Supply 40.04B CC; milestone: Featured App Guidance v2.0b is in force, cutting the per-transaction featured app reward cap to $0.79 with activity markers required to match burned fees one-for-one (HookScreener for market data; CC Space for the milestone)",
+      "image_url": null,
+      "published": "2026-11-12T14:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-12_1412-est",
       "slug": "canton-foundation-backs-redstone-pricing-tool-with-15-8-million-canton",
