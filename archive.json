@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-12_1842-est",
+      "slug": "visa-joins-canton-as-a-super-validator-announced-on-its-q4-earnings-ca",
+      "title": "Visa joins Canton as a Super Validator, announced on its Q4 earnings call",
+      "body": "Canton Signal Feed (Nov 12, 2026 · 6:42 PM ET)\n- **Visa joins Canton as a Super Validator, announced on its Q4 earnings call** — Visa's CEO named the Canton Super Validator role on the company's October 30 earnings call, alongside validator roles on Tempo and Circle's Arc as part of Visa's onchain network strategy; the role adds a global payments operator to the institutions running Canton's Global Synchronizer and does not directly change Canton Coin's token economics (TradingView)\n- **DA Registry launches Proof of Transfer API for privacy-enabled Canton assets** — Digital Asset's DA Registry now lets wallet and exchange users independently confirm whether a transfer of a privacy-enabled Canton asset succeeded, failed or is pending, without exposing confidential transaction data; Bybit has already integrated the API and Digital Asset is urging other wallets and exchanges to follow (CC Space)\n- **Chainlink brings Data Streams, Proof of Reserve and CCIP to Canton as a Super Validator** — Under the partnership, Chainlink's Data Streams, SmartData products including Proof of Reserve, and its Cross-Chain Interoperability Protocol serve Canton applications, while Chainlink Labs runs a domain validator and a synchronizer node as a Super Validator, taking part in ordering and finalizing transactions across the Global Synchronizer; Canton has also joined the Chainlink Scale program (Finance Loop)\n- **Kaiko extends its Series B to $110 million, led by S&P Global with Canton participating** — The market-data provider, itself a Canton Super Validator, extended the round to $110 million with S&P Global leading and Canton also participating, a sign of institutional money flowing into the data infrastructure around the network (CC Space)\n\nNetwork: CC $0.0893 | Market cap $3.57B (rank #27) | 24h volume $9.20M | Supply 40.04B CC; milestone: 56 Canton Improvement Proposals now carry Final status, approved and adopted on-chain by a two-thirds majority of Super Validators (CoinMarketHelp for market data; Canton Network Docs for the milestone)",
+      "timestamp": "2026-11-12T18:42:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/visa-joins-canton-as-a-super-validator-announced-on-its-q4-earnings-ca",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-12_1812-est",
       "slug": "openassets-brings-markets-in-a-box-tokenization-platform-to-canton-as",
       "title": "OpenAssets brings markets-in-a-box tokenization platform to Canton as DA Registry implementation partner",
