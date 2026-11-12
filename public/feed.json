@@ -1,0 +1,67 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Canton Signal Feed — Infiniti Signals",
+  "home_page_url": "https://canton.w3ai.io/feed",
+  "feed_url": "https://canton.w3ai.io/feed.json",
+  "authors": [
+    {
+      "name": "Infiniti Signals",
+      "url": "https://infiniti.w3ai.io"
+    }
+  ],
+  "site": "Canton Signal Feed — Infiniti Signals",
+  "site_url": "https://canton.w3ai.io",
+  "feed_page_url": "https://canton.w3ai.io/feed",
+  "description": "Canton Signal Feed is the Infiniti Signals intelligence layer for the Canton Network ecosystem: twice-hourly editions covering ecosystem, product, partnerships, funding, regulation and security news across Canton Network and its registry companies, published directly to the web page as soon as each edition is generated.",
+  "language": "en",
+  "author": {
+    "name": "Infiniti Signals",
+    "url": "https://infiniti.w3ai.io"
+  },
+  "tags": [
+    "Canton Network",
+    "Canton Coin",
+    "tokenization",
+    "RWA",
+    "Digital Asset",
+    "institutional blockchain"
+  ],
+  "refresh_interval_minutes": 15,
+  "page_refresh_seconds": 60,
+  "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
+  "updated": "2026-11-12T10:33:00-05:00",
+  "items": [
+    {
+      "id": "canton-2026-11-12_1033-est",
+      "slug": "canton-roadmap-leads-with-tokenized-stocks-then-repo-and-derivatives",
+      "url": "https://canton.w3ai.io/feed/canton-roadmap-leads-with-tokenized-stocks-then-repo-and-derivatives",
+      "title": "Canton roadmap leads with tokenized stocks, then repo and derivatives",
+      "content_text": "Canton Signal Feed (Nov 12, 2026 · 10:33 AM ET)\n- **Canton roadmap leads with tokenized stocks, then repo and derivatives** — Digital Asset CEO Yuval Rooz set out the sequence in an X Space: tokenized equities first, following the first trades under the SEC's Innovation Exemption, then repo trading, derivatives and private assets (BSCN)\n- **Progmat signs with Digital Asset to tokenize Japanese government bonds on Canton** — The MOU builds tokenized JGBs (tJGB) with live pilot testing this month by a working group of more than 68 institutions, including MUFG, targeting 24/7 on-chain repo settlement (Genfinity)\n- **DTCC Tokenization Service is live on Canton, covering Treasuries, equities and ETFs** — The service launched October 28 with Morgan Stanley reported as an early user; DTCC also co-chairs Canton's governance alongside Euroclear (Cryptensive)\n\nNetwork: CC $0.0909 | Market cap $3.6B (rank 27) | 24h volume $12.7M | Supply 40.0B CC (CoinGecko via Crypheat)",
+      "content_html": "<p>Canton Signal Feed (Nov 12, 2026 · 10:33 AM ET)<br/>- **Canton roadmap leads with tokenized stocks, then repo and derivatives** — Digital Asset CEO Yuval Rooz set out the sequence in an X Space: tokenized equities first, following the first trades under the SEC&#x27;s Innovation Exemption, then repo trading, derivatives and private assets (BSCN)<br/>- **Progmat signs with Digital Asset to tokenize Japanese government bonds on Canton** — The MOU builds tokenized JGBs (tJGB) with live pilot testing this month by a working group of more than 68 institutions, including MUFG, targeting 24/7 on-chain repo settlement (Genfinity)<br/>- **DTCC Tokenization Service is live on Canton, covering Treasuries, equities and ETFs** — The service launched October 28 with Morgan Stanley reported as an early user; DTCC also co-chairs Canton&#x27;s governance alongside Euroclear (Cryptensive)<br/><br/>Network: CC $0.0909 | Market cap $3.6B (rank 27) | 24h volume $12.7M | Supply 40.0B CC (CoinGecko via Crypheat)</p>",
+      "date_published": "2026-11-12T10:33:00-05:00",
+      "date_modified": "2026-11-12T10:33:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 12, 2026 · 10:33 AM ET",
+      "body": "Canton Signal Feed (Nov 12, 2026 · 10:33 AM ET)\n- **Canton roadmap leads with tokenized stocks, then repo and derivatives** — Digital Asset CEO Yuval Rooz set out the sequence in an X Space: tokenized equities first, following the first trades under the SEC's Innovation Exemption, then repo trading, derivatives and private assets (BSCN)\n- **Progmat signs with Digital Asset to tokenize Japanese government bonds on Canton** — The MOU builds tokenized JGBs (tJGB) with live pilot testing this month by a working group of more than 68 institutions, including MUFG, targeting 24/7 on-chain repo settlement (Genfinity)\n- **DTCC Tokenization Service is live on Canton, covering Treasuries, equities and ETFs** — The service launched October 28 with Morgan Stanley reported as an early user; DTCC also co-chairs Canton's governance alongside Euroclear (Cryptensive)\n\nNetwork: CC $0.0909 | Market cap $3.6B (rank 27) | 24h volume $12.7M | Supply 40.0B CC (CoinGecko via Crypheat)",
+      "image_url": null,
+      "published": "2026-11-12T10:33:00-05:00",
+      "kind": "briefing"
+    }
+  ]
+}
