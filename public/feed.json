@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-12T21:12:00-05:00",
+  "updated": "2026-11-12T21:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-12_2142-est",
+      "slug": "edx-markets-partners-with-canton-to-list-canton-coin-settle-stablecoin",
+      "url": "https://canton.w3ai.io/feed/edx-markets-partners-with-canton-to-list-canton-coin-settle-stablecoin",
+      "title": "EDX Markets partners with Canton to list Canton Coin, settle stablecoins and validate the network",
+      "content_text": "Canton Signal Feed (Nov 12, 2026 · 9:42 PM ET)\n- **EDX Markets partners with Canton to list Canton Coin, settle stablecoins and validate the network** — EDX Markets will list Canton Coin on its institutional-only spot exchange, support settlement in stablecoins on Canton and operate as a validator, strengthening the network's security and governance as adoption scales across global financial markets (Mondo Visione)\n- **Taurus adds custody for the Canton Token Standard as a Canton Super Validator** — Taurus now provides custody support for the Canton Token Standard and has joined Canton as a Super Validator, participating in consensus on the Global Synchronizer and helping banks use Canton's privacy and collateral features, building on its infrastructure work for Deutsche Bank, CACEIS, Santander and State Street (Taurus)\n- **CIP-0096 ends liveness rewards, leaving activity rewards as the only validator minting route** — Validators now earn Canton Coin only through activity rewards, minted in proportion to CC burned by their users for traffic purchases or transfers; CIP-0096 discontinued liveness rewards for uptime alone, capping them at $0 effective April 30, 2026, while traffic credits remain non-transferable once CC is converted (Canton Network)\n- **Canton Dev Fund analysis finds failed votes expire from absent voters, not rejections** — A community analysis of the Dev Fund repository found seven funding votes failed with almost no votes against, expiring after 21 days because the 51%-of-eligible-voters threshold was never met, with four reopened within days; repository labels also undercount failures because reopening a vote resets them (CC Space)\n\nNetwork: CC $0.0884 | Market cap $3.54B (rank 27) | 24h volume $8.69M | Supply 40.05B CC; milestone: Broadridge's Distributed Ledger Repo platform processed an average of $345 billion in daily repo transactions in October, totaling $7.6 trillion for the month (CoinMarketHelp for market data; Broadridge via Daniil Kozin for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 12, 2026 · 9:42 PM ET)<br/>- **EDX Markets partners with Canton to list Canton Coin, settle stablecoins and validate the network** — EDX Markets will list Canton Coin on its institutional-only spot exchange, support settlement in stablecoins on Canton and operate as a validator, strengthening the network&#x27;s security and governance as adoption scales across global financial markets (Mondo Visione)<br/>- **Taurus adds custody for the Canton Token Standard as a Canton Super Validator** — Taurus now provides custody support for the Canton Token Standard and has joined Canton as a Super Validator, participating in consensus on the Global Synchronizer and helping banks use Canton&#x27;s privacy and collateral features, building on its infrastructure work for Deutsche Bank, CACEIS, Santander and State Street (Taurus)<br/>- **CIP-0096 ends liveness rewards, leaving activity rewards as the only validator minting route** — Validators now earn Canton Coin only through activity rewards, minted in proportion to CC burned by their users for traffic purchases or transfers; CIP-0096 discontinued liveness rewards for uptime alone, capping them at $0 effective April 30, 2026, while traffic credits remain non-transferable once CC is converted (Canton Network)<br/>- **Canton Dev Fund analysis finds failed votes expire from absent voters, not rejections** — A community analysis of the Dev Fund repository found seven funding votes failed with almost no votes against, expiring after 21 days because the 51%-of-eligible-voters threshold was never met, with four reopened within days; repository labels also undercount failures because reopening a vote resets them (CC Space)<br/><br/>Network: CC $0.0884 | Market cap $3.54B (rank 27) | 24h volume $8.69M | Supply 40.05B CC; milestone: Broadridge&#x27;s Distributed Ledger Repo platform processed an average of $345 billion in daily repo transactions in October, totaling $7.6 trillion for the month (CoinMarketHelp for market data; Broadridge via Daniil Kozin for the milestone)</p>",
+      "date_published": "2026-11-12T21:42:00-05:00",
+      "date_modified": "2026-11-12T21:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 12, 2026 · 9:42 PM ET",
+      "body": "Canton Signal Feed (Nov 12, 2026 · 9:42 PM ET)\n- **EDX Markets partners with Canton to list Canton Coin, settle stablecoins and validate the network** — EDX Markets will list Canton Coin on its institutional-only spot exchange, support settlement in stablecoins on Canton and operate as a validator, strengthening the network's security and governance as adoption scales across global financial markets (Mondo Visione)\n- **Taurus adds custody for the Canton Token Standard as a Canton Super Validator** — Taurus now provides custody support for the Canton Token Standard and has joined Canton as a Super Validator, participating in consensus on the Global Synchronizer and helping banks use Canton's privacy and collateral features, building on its infrastructure work for Deutsche Bank, CACEIS, Santander and State Street (Taurus)\n- **CIP-0096 ends liveness rewards, leaving activity rewards as the only validator minting route** — Validators now earn Canton Coin only through activity rewards, minted in proportion to CC burned by their users for traffic purchases or transfers; CIP-0096 discontinued liveness rewards for uptime alone, capping them at $0 effective April 30, 2026, while traffic credits remain non-transferable once CC is converted (Canton Network)\n- **Canton Dev Fund analysis finds failed votes expire from absent voters, not rejections** — A community analysis of the Dev Fund repository found seven funding votes failed with almost no votes against, expiring after 21 days because the 51%-of-eligible-voters threshold was never met, with four reopened within days; repository labels also undercount failures because reopening a vote resets them (CC Space)\n\nNetwork: CC $0.0884 | Market cap $3.54B (rank 27) | 24h volume $8.69M | Supply 40.05B CC; milestone: Broadridge's Distributed Ledger Repo platform processed an average of $345 billion in daily repo transactions in October, totaling $7.6 trillion for the month (CoinMarketHelp for market data; Broadridge via Daniil Kozin for the milestone)",
+      "image_url": null,
+      "published": "2026-11-12T21:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-12_2112-est",
       "slug": "tharimmune-approved-as-a-canton-super-validator-the-first-publicly-tra",
