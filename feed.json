@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-13T05:12:00-05:00",
+  "updated": "2026-11-13T06:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-13_0612-est",
+      "slug": "chainsafe-s-daml-reason-gives-ai-written-daml-a-second-check-before-it",
+      "url": "https://canton.w3ai.io/feed/chainsafe-s-daml-reason-gives-ai-written-daml-a-second-check-before-it",
+      "title": "ChainSafe's Daml Reason gives AI-written Daml a second check before it compiles",
+      "content_text": "Canton Signal Feed (Nov 13, 2026 · 6:12 AM ET)\n- **ChainSafe's Daml Reason gives AI-written Daml a second check before it compiles** — Daml Reason is an MCP server built on 1,461 curated patterns drawn from daml-finance, Splice and the Daml SDK; coding agents get a verdict on draft Daml code before compiling, and the tool abstains when nothing strong matches rather than guessing, adding a review layer for AI-generated contracts on Canton (CantonNews)\n- **New Canton paymaster proposal sets out the first step toward Universal Burn** — The draft, announced for discussion on November 10, would let dedicated synchronizers record their traffic in ten-minute intervals and have a designated paymaster burn the corresponding Canton Coin on the Global Synchronizer afterward, with reward eligibility recorded through the paymaster and Super Validators registering the synchronizer; it remains a draft under governance review, with no final pricing curve or deployment date and a first version that trusts operators to report traffic correctly (CantonNews)\n- **Broadridge's Distributed Ledger Repo settled $7.6 trillion in October on Canton, as its daily pace eased** — Broadridge said on November 6 that its DLR platform, which runs on Canton, settled $7.6 trillion of repo transactions in October, an average of $345 billion per settlement day; the monthly total was up about 1.3% from September's $7.5 trillion, while the daily average fell from $359 billion, and the release names no counterparties and gives no fee or revenue breakdown for the platform (BlockchainReporter)\n- **Supanova restores wallet services after completing its Canton account upgrade** — Supanova announced on November 7 that its account upgrade was complete and wallet creation and withdrawals had resumed, following a temporary pause on new wallet creation; users who had hit a message that their Canton account could not be opened were told to sign in again to create the wallet (CC Tools)\n\nNetwork: CC $0.088 | Market cap $3.53B (rank 27) | 24h volume $11.04M | Supply 40.05B CC; milestone: Canton's mainnet dashboard showed 5 active governance proposals today, with 13 Super Validators and about 1.6K validators (Kriptometre for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 13, 2026 · 6:12 AM ET)<br/>- **ChainSafe&#x27;s Daml Reason gives AI-written Daml a second check before it compiles** — Daml Reason is an MCP server built on 1,461 curated patterns drawn from daml-finance, Splice and the Daml SDK; coding agents get a verdict on draft Daml code before compiling, and the tool abstains when nothing strong matches rather than guessing, adding a review layer for AI-generated contracts on Canton (CantonNews)<br/>- **New Canton paymaster proposal sets out the first step toward Universal Burn** — The draft, announced for discussion on November 10, would let dedicated synchronizers record their traffic in ten-minute intervals and have a designated paymaster burn the corresponding Canton Coin on the Global Synchronizer afterward, with reward eligibility recorded through the paymaster and Super Validators registering the synchronizer; it remains a draft under governance review, with no final pricing curve or deployment date and a first version that trusts operators to report traffic correctly (CantonNews)<br/>- **Broadridge&#x27;s Distributed Ledger Repo settled $7.6 trillion in October on Canton, as its daily pace eased** — Broadridge said on November 6 that its DLR platform, which runs on Canton, settled $7.6 trillion of repo transactions in October, an average of $345 billion per settlement day; the monthly total was up about 1.3% from September&#x27;s $7.5 trillion, while the daily average fell from $359 billion, and the release names no counterparties and gives no fee or revenue breakdown for the platform (BlockchainReporter)<br/>- **Supanova restores wallet services after completing its Canton account upgrade** — Supanova announced on November 7 that its account upgrade was complete and wallet creation and withdrawals had resumed, following a temporary pause on new wallet creation; users who had hit a message that their Canton account could not be opened were told to sign in again to create the wallet (CC Tools)<br/><br/>Network: CC $0.088 | Market cap $3.53B (rank 27) | 24h volume $11.04M | Supply 40.05B CC; milestone: Canton&#x27;s mainnet dashboard showed 5 active governance proposals today, with 13 Super Validators and about 1.6K validators (Kriptometre for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-13T06:12:00-05:00",
+      "date_modified": "2026-11-13T06:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 13, 2026 · 6:12 AM ET",
+      "body": "Canton Signal Feed (Nov 13, 2026 · 6:12 AM ET)\n- **ChainSafe's Daml Reason gives AI-written Daml a second check before it compiles** — Daml Reason is an MCP server built on 1,461 curated patterns drawn from daml-finance, Splice and the Daml SDK; coding agents get a verdict on draft Daml code before compiling, and the tool abstains when nothing strong matches rather than guessing, adding a review layer for AI-generated contracts on Canton (CantonNews)\n- **New Canton paymaster proposal sets out the first step toward Universal Burn** — The draft, announced for discussion on November 10, would let dedicated synchronizers record their traffic in ten-minute intervals and have a designated paymaster burn the corresponding Canton Coin on the Global Synchronizer afterward, with reward eligibility recorded through the paymaster and Super Validators registering the synchronizer; it remains a draft under governance review, with no final pricing curve or deployment date and a first version that trusts operators to report traffic correctly (CantonNews)\n- **Broadridge's Distributed Ledger Repo settled $7.6 trillion in October on Canton, as its daily pace eased** — Broadridge said on November 6 that its DLR platform, which runs on Canton, settled $7.6 trillion of repo transactions in October, an average of $345 billion per settlement day; the monthly total was up about 1.3% from September's $7.5 trillion, while the daily average fell from $359 billion, and the release names no counterparties and gives no fee or revenue breakdown for the platform (BlockchainReporter)\n- **Supanova restores wallet services after completing its Canton account upgrade** — Supanova announced on November 7 that its account upgrade was complete and wallet creation and withdrawals had resumed, following a temporary pause on new wallet creation; users who had hit a message that their Canton account could not be opened were told to sign in again to create the wallet (CC Tools)\n\nNetwork: CC $0.088 | Market cap $3.53B (rank 27) | 24h volume $11.04M | Supply 40.05B CC; milestone: Canton's mainnet dashboard showed 5 active governance proposals today, with 13 Super Validators and about 1.6K validators (Kriptometre for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-13T06:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-13_0512-est",
       "slug": "canton-foundation-welcomes-six-new-members-in-november-2026-spanning-l",
