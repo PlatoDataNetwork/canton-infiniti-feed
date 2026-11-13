@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-12T22:12:00-05:00",
+  "updated": "2026-11-12T22:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-12_2242-est",
+      "slug": "bny-icapital-nasdaq-and-s-p-global-make-strategic-investments-in-digit",
+      "url": "https://canton.w3ai.io/feed/bny-icapital-nasdaq-and-s-p-global-make-strategic-investments-in-digit",
+      "title": "BNY, iCapital, Nasdaq and S&P Global make strategic investments in Digital Asset",
+      "content_text": "Canton Signal Feed (Nov 12, 2026 · 10:42 PM ET)\n- **BNY, iCapital, Nasdaq and S&P Global make strategic investments in Digital Asset** — The four institutions have taken strategic stakes in Digital Asset, the creator of the Canton Network, in a round whose terms were not disclosed, framing the bet as the convergence of traditional and decentralized finance toward an interoperable, privacy-enabled market; Nasdaq said the investment builds on joint post-trade and collateral work, while iCapital pointed to tokenization of alternatives (Digital Asset)\n- **Bitwise Canton ETP gives European investors exchange-traded Canton Coin exposure on Xetra** — The Bitwise Canton ETP trades on Deutsche Börse Xetra under ticker BWCC, tracks the Kaiko CANTO Reference Rate LDNLF index with a 0.85% annual fee, is fully backed by Canton Coin held in cold storage and can be bought through a regular brokerage account without a crypto wallet (Markets Media)\n- **AMINA becomes the first FINMA-regulated bank to offer Canton Coin custody and trading** — The Zug-based Swiss bank now lets institutional clients, Super Validators and professional investors hold and trade Canton Coin through a single regulated institution, supporting tokenized asset management, collateral operations, repo activity and settlement on Canton without relying on third-party crypto custodians or exchanges (FintechNewsCH)\n- **Global Synchronizer had about 60 Super Validators at September 30, up from 13 at launch** — Canton's Canton Coin filing records growth from 13 Super Validators at launch to approximately 60 by September 30, 2026, with only 13 Super Validator Node Operators and any addition or protocol change requiring approval from at least two-thirds of existing operators (SEC filing)\n\nNetwork: CC $0.08601 | Market cap $3.44B | 24h volume $15.22M | Supply 40.04B CC; milestone: Canton Coin now trades on 26 cryptocurrency exchanges, including KuCoin and Kraken (CoinCodex)",
+      "content_html": "<p>Canton Signal Feed (Nov 12, 2026 · 10:42 PM ET)<br/>- **BNY, iCapital, Nasdaq and S&amp;P Global make strategic investments in Digital Asset** — The four institutions have taken strategic stakes in Digital Asset, the creator of the Canton Network, in a round whose terms were not disclosed, framing the bet as the convergence of traditional and decentralized finance toward an interoperable, privacy-enabled market; Nasdaq said the investment builds on joint post-trade and collateral work, while iCapital pointed to tokenization of alternatives (Digital Asset)<br/>- **Bitwise Canton ETP gives European investors exchange-traded Canton Coin exposure on Xetra** — The Bitwise Canton ETP trades on Deutsche Börse Xetra under ticker BWCC, tracks the Kaiko CANTO Reference Rate LDNLF index with a 0.85% annual fee, is fully backed by Canton Coin held in cold storage and can be bought through a regular brokerage account without a crypto wallet (Markets Media)<br/>- **AMINA becomes the first FINMA-regulated bank to offer Canton Coin custody and trading** — The Zug-based Swiss bank now lets institutional clients, Super Validators and professional investors hold and trade Canton Coin through a single regulated institution, supporting tokenized asset management, collateral operations, repo activity and settlement on Canton without relying on third-party crypto custodians or exchanges (FintechNewsCH)<br/>- **Global Synchronizer had about 60 Super Validators at September 30, up from 13 at launch** — Canton&#x27;s Canton Coin filing records growth from 13 Super Validators at launch to approximately 60 by September 30, 2026, with only 13 Super Validator Node Operators and any addition or protocol change requiring approval from at least two-thirds of existing operators (SEC filing)<br/><br/>Network: CC $0.08601 | Market cap $3.44B | 24h volume $15.22M | Supply 40.04B CC; milestone: Canton Coin now trades on 26 cryptocurrency exchanges, including KuCoin and Kraken (CoinCodex)</p>",
+      "date_published": "2026-11-12T22:42:00-05:00",
+      "date_modified": "2026-11-12T22:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 12, 2026 · 10:42 PM ET",
+      "body": "Canton Signal Feed (Nov 12, 2026 · 10:42 PM ET)\n- **BNY, iCapital, Nasdaq and S&P Global make strategic investments in Digital Asset** — The four institutions have taken strategic stakes in Digital Asset, the creator of the Canton Network, in a round whose terms were not disclosed, framing the bet as the convergence of traditional and decentralized finance toward an interoperable, privacy-enabled market; Nasdaq said the investment builds on joint post-trade and collateral work, while iCapital pointed to tokenization of alternatives (Digital Asset)\n- **Bitwise Canton ETP gives European investors exchange-traded Canton Coin exposure on Xetra** — The Bitwise Canton ETP trades on Deutsche Börse Xetra under ticker BWCC, tracks the Kaiko CANTO Reference Rate LDNLF index with a 0.85% annual fee, is fully backed by Canton Coin held in cold storage and can be bought through a regular brokerage account without a crypto wallet (Markets Media)\n- **AMINA becomes the first FINMA-regulated bank to offer Canton Coin custody and trading** — The Zug-based Swiss bank now lets institutional clients, Super Validators and professional investors hold and trade Canton Coin through a single regulated institution, supporting tokenized asset management, collateral operations, repo activity and settlement on Canton without relying on third-party crypto custodians or exchanges (FintechNewsCH)\n- **Global Synchronizer had about 60 Super Validators at September 30, up from 13 at launch** — Canton's Canton Coin filing records growth from 13 Super Validators at launch to approximately 60 by September 30, 2026, with only 13 Super Validator Node Operators and any addition or protocol change requiring approval from at least two-thirds of existing operators (SEC filing)\n\nNetwork: CC $0.08601 | Market cap $3.44B | 24h volume $15.22M | Supply 40.04B CC; milestone: Canton Coin now trades on 26 cryptocurrency exchanges, including KuCoin and Kraken (CoinCodex)",
+      "image_url": null,
+      "published": "2026-11-12T22:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-12_2212-est",
       "slug": "r-tli-brings-threshold-key-management-to-canton-validators-so-no-singl",
