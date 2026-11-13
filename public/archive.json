@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-12_2112-est",
+      "slug": "tharimmune-approved-as-a-canton-super-validator-the-first-publicly-tra",
+      "title": "Tharimmune approved as a Canton Super Validator, the first publicly traded company supported by the Canton Foundation",
+      "body": "Canton Signal Feed (Nov 12, 2026 · 9:12 PM ET)\n- **Tharimmune approved as a Canton Super Validator, the first publicly traded company supported by the Canton Foundation** — Tharimmune, Inc. (NASDAQ: THAR) has been approved to operate as a Super Validator, securing transactions and earning Canton Coin rewards to support the digital asset treasury strategy it established in November 2025; the company plans to publish quarterly research on onchain analytics, governance and tokenomics and to host public webinars to drive institutional adoption across capital markets (AInvest)\n- **Logical Synchronizer Upgrades are live on Canton MainNet with Canton 3.5 under CIP-0117** — The upgrade mechanism runs new synchronizer infrastructure in parallel with the existing network and switches over automatically in seconds or minutes, preserving all historical data with no migration reloads and no coordinated outages; applications keep running under the same logical synchronizer identity and legacy synchronizers remain available for 30 days before decommissioning (Canton Network)\n- **Franklin Templeton's Benji platform sells a tokenized U.S. Treasury to Virtu Financial, settling in USDCx on Canton** — Franklin Templeton brought its Benji fund platform to Canton in November 2025 to give institutions access to tokenized investment products; the following July it sold a tokenized U.S. Treasury to Virtu Financial on Tradeweb, with the trade settling in USDCx, the Canton version of USDC, on the network (Datawallet)\n\nNetwork: CC $0.0883 | Market cap $3.53B (rank 27) | 24h volume $8.76M | Supply 40.05B CC; milestone: featured applications on Canton reached about 140 by early November, up from 107 at the end of the second quarter of 2026 (Kriptometre for market data; Datawallet for the milestone)",
+      "timestamp": "2026-11-12T21:12:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/tharimmune-approved-as-a-canton-super-validator-the-first-publicly-tra",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-12_2012-est",
       "slug": "canton-foundation-launches-official-daml-3-developer-certification",
       "title": "Canton Foundation launches official Daml 3 developer certification",
