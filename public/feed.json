@@ -29,8 +29,72 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-13T11:12:00-05:00",
+  "updated": "2026-11-13T12:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-13_1242-est",
+      "slug": "anchain-ai-seeks-1-6-million-cc-to-build-canton-fraud-investigation-to",
+      "url": "https://canton.w3ai.io/feed/anchain-ai-seeks-1-6-million-cc-to-build-canton-fraud-investigation-to",
+      "title": "AnChain.AI seeks 1.6 million CC to build Canton fraud-investigation tools that work within the network's privacy model",
+      "content_text": "Canton Signal Feed (Nov 13, 2026 · 12:42 PM ET)\n- **AnChain.AI seeks 1.6 million CC to build Canton fraud-investigation tools that work within the network's privacy model** — The November 8 Development Fund proposal, still needing a champion and not yet approved, would build a read-only toolkit over 24 weeks that turns only the transaction records an operator is authorised to see into a reviewable evidence case for human reviewers; 1 million CC, 62.5% of the request, is reserved for stages requiring live adoption, ending with at least two independent organisations using it on MainNet over 30 consecutive days (CantonNews)\n- **TSV chief says Canton's first tokenized stock trade matters because the shares were real, not synthetic** — In a November 13 interview, TSV CEO Ali Abrar said most tokenized-stock products only mirror a price without conveying ownership, while the November 4 Canton trade moved actual Canton Strategic Holdings common stock with full shareholder rights through a permissioned Tradecraft pool, recorded by an SEC-registered transfer agent; he said atomic settlement removes T+1 counterparty risk, while overnight liquidity, synchronised trading halts and dividend and voting records remain the hard problems (Traders Magazine)\n- **New analysis says DTCC's Canton tokenization service is live but narrower than its headlines** — A November 13 assessment notes 20 DTC participants have signed access agreements and only 34 securities were eligible at launch, with BNY and Goldman Sachs not on the production list despite Goldman's July demonstration role, DTCC publishing no tokenized volume so far, and the cash leg of a weekend repo still waiting on the digital-cash roadmap rather than moving on the token's schedule (Douglas J. Boggs)\n\nNetwork: CC $0.087945 | Market cap $3.52B (rank 26) | 24h volume $11.01M | Supply 40.05B CC; milestone: Canton's mainnet dashboard showed rewards over the last 24 hours rising to 10.7M CC, up from 10.0M earlier today, with 6 active governance proposals, about 1.6K validators and 602.3M total transactions (3Commas for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 13, 2026 · 12:42 PM ET)<br/>- **AnChain.AI seeks 1.6 million CC to build Canton fraud-investigation tools that work within the network&#x27;s privacy model** — The November 8 Development Fund proposal, still needing a champion and not yet approved, would build a read-only toolkit over 24 weeks that turns only the transaction records an operator is authorised to see into a reviewable evidence case for human reviewers; 1 million CC, 62.5% of the request, is reserved for stages requiring live adoption, ending with at least two independent organisations using it on MainNet over 30 consecutive days (CantonNews)<br/>- **TSV chief says Canton&#x27;s first tokenized stock trade matters because the shares were real, not synthetic** — In a November 13 interview, TSV CEO Ali Abrar said most tokenized-stock products only mirror a price without conveying ownership, while the November 4 Canton trade moved actual Canton Strategic Holdings common stock with full shareholder rights through a permissioned Tradecraft pool, recorded by an SEC-registered transfer agent; he said atomic settlement removes T+1 counterparty risk, while overnight liquidity, synchronised trading halts and dividend and voting records remain the hard problems (Traders Magazine)<br/>- **New analysis says DTCC&#x27;s Canton tokenization service is live but narrower than its headlines** — A November 13 assessment notes 20 DTC participants have signed access agreements and only 34 securities were eligible at launch, with BNY and Goldman Sachs not on the production list despite Goldman&#x27;s July demonstration role, DTCC publishing no tokenized volume so far, and the cash leg of a weekend repo still waiting on the digital-cash roadmap rather than moving on the token&#x27;s schedule (Douglas J. Boggs)<br/><br/>Network: CC $0.087945 | Market cap $3.52B (rank 26) | 24h volume $11.01M | Supply 40.05B CC; milestone: Canton&#x27;s mainnet dashboard showed rewards over the last 24 hours rising to 10.7M CC, up from 10.0M earlier today, with 6 active governance proposals, about 1.6K validators and 602.3M total transactions (3Commas for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-13T12:42:00-05:00",
+      "date_modified": "2026-11-13T12:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 13, 2026 · 12:42 PM ET",
+      "body": "Canton Signal Feed (Nov 13, 2026 · 12:42 PM ET)\n- **AnChain.AI seeks 1.6 million CC to build Canton fraud-investigation tools that work within the network's privacy model** — The November 8 Development Fund proposal, still needing a champion and not yet approved, would build a read-only toolkit over 24 weeks that turns only the transaction records an operator is authorised to see into a reviewable evidence case for human reviewers; 1 million CC, 62.5% of the request, is reserved for stages requiring live adoption, ending with at least two independent organisations using it on MainNet over 30 consecutive days (CantonNews)\n- **TSV chief says Canton's first tokenized stock trade matters because the shares were real, not synthetic** — In a November 13 interview, TSV CEO Ali Abrar said most tokenized-stock products only mirror a price without conveying ownership, while the November 4 Canton trade moved actual Canton Strategic Holdings common stock with full shareholder rights through a permissioned Tradecraft pool, recorded by an SEC-registered transfer agent; he said atomic settlement removes T+1 counterparty risk, while overnight liquidity, synchronised trading halts and dividend and voting records remain the hard problems (Traders Magazine)\n- **New analysis says DTCC's Canton tokenization service is live but narrower than its headlines** — A November 13 assessment notes 20 DTC participants have signed access agreements and only 34 securities were eligible at launch, with BNY and Goldman Sachs not on the production list despite Goldman's July demonstration role, DTCC publishing no tokenized volume so far, and the cash leg of a weekend repo still waiting on the digital-cash roadmap rather than moving on the token's schedule (Douglas J. Boggs)\n\nNetwork: CC $0.087945 | Market cap $3.52B (rank 26) | 24h volume $11.01M | Supply 40.05B CC; milestone: Canton's mainnet dashboard showed rewards over the last 24 hours rising to 10.7M CC, up from 10.0M earlier today, with 6 active governance proposals, about 1.6K validators and 602.3M total transactions (3Commas for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-13T12:42:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-13_1142-est",
+      "slug": "independent-review-scores-canton-68-out-of-100-on-trust-and-finds-no-t",
+      "url": "https://canton.w3ai.io/feed/independent-review-scores-canton-68-out-of-100-on-trust-and-finds-no-t",
+      "title": "Independent review scores Canton 68 out of 100 on trust and finds no third-party audit in its sources",
+      "content_text": "Canton Signal Feed (Nov 13, 2026 · 11:42 AM ET)\n- **Independent review scores Canton 68 out of 100 on trust and finds no third-party audit in its sources** — VaultX's review, checked November 7, rates Canton \"Solid\" at 68 out of 100: it found no third-party audit of the Canton Coin token contract, treasury or protocol in the sources it reviewed and no single official statement of the core network entity's jurisdiction, while also finding no verified hack or exploit and no regulator warnings, lawsuits or court cases against CC; it flags thin retail access as a further gap (VaultX)\n- **Kintsu plans Prime, a curator-managed credit vault for Canton lending** — Prime would pool stablecoin deposits in a vault and let a curator allocate them across separate lending markets, each pairing one collateral asset with one loan asset under its own rates and limits; the public beta page sits on Canton Testnet with Markets and Vaults marked as coming soon, so Prime remains a plan rather than a live vault, building on Kintsu's private beta for borrowers, lenders and vault managers (CantonNews)\n- **Temple accounts for most of Canton's DEX volume, with Rocky Exchange leading on all-time spot volume** — Temple processed $698 million in 30 days, about 85% of DEX volume on Canton, while Rocky Exchange has reached $2.09 billion in all-time spot volume; the same ecosystem roundup puts Alpend's private money market at $2.4 million in total value locked (CoinNewsify)\n\nNetwork: CC $0.0868 | Market cap $3.48B (rank 27) | 24h volume $9.75M | Supply 40.05B CC; milestone: total value locked on Canton stood at $12.2M, small against the network's market cap because locked DeFi value is not the network's main use (Kriptometre for market data; Crypheat for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 13, 2026 · 11:42 AM ET)<br/>- **Independent review scores Canton 68 out of 100 on trust and finds no third-party audit in its sources** — VaultX&#x27;s review, checked November 7, rates Canton &quot;Solid&quot; at 68 out of 100: it found no third-party audit of the Canton Coin token contract, treasury or protocol in the sources it reviewed and no single official statement of the core network entity&#x27;s jurisdiction, while also finding no verified hack or exploit and no regulator warnings, lawsuits or court cases against CC; it flags thin retail access as a further gap (VaultX)<br/>- **Kintsu plans Prime, a curator-managed credit vault for Canton lending** — Prime would pool stablecoin deposits in a vault and let a curator allocate them across separate lending markets, each pairing one collateral asset with one loan asset under its own rates and limits; the public beta page sits on Canton Testnet with Markets and Vaults marked as coming soon, so Prime remains a plan rather than a live vault, building on Kintsu&#x27;s private beta for borrowers, lenders and vault managers (CantonNews)<br/>- **Temple accounts for most of Canton&#x27;s DEX volume, with Rocky Exchange leading on all-time spot volume** — Temple processed $698 million in 30 days, about 85% of DEX volume on Canton, while Rocky Exchange has reached $2.09 billion in all-time spot volume; the same ecosystem roundup puts Alpend&#x27;s private money market at $2.4 million in total value locked (CoinNewsify)<br/><br/>Network: CC $0.0868 | Market cap $3.48B (rank 27) | 24h volume $9.75M | Supply 40.05B CC; milestone: total value locked on Canton stood at $12.2M, small against the network&#x27;s market cap because locked DeFi value is not the network&#x27;s main use (Kriptometre for market data; Crypheat for the milestone)</p>",
+      "date_published": "2026-11-13T11:42:00-05:00",
+      "date_modified": "2026-11-13T11:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 13, 2026 · 11:42 AM ET",
+      "body": "Canton Signal Feed (Nov 13, 2026 · 11:42 AM ET)\n- **Independent review scores Canton 68 out of 100 on trust and finds no third-party audit in its sources** — VaultX's review, checked November 7, rates Canton \"Solid\" at 68 out of 100: it found no third-party audit of the Canton Coin token contract, treasury or protocol in the sources it reviewed and no single official statement of the core network entity's jurisdiction, while also finding no verified hack or exploit and no regulator warnings, lawsuits or court cases against CC; it flags thin retail access as a further gap (VaultX)\n- **Kintsu plans Prime, a curator-managed credit vault for Canton lending** — Prime would pool stablecoin deposits in a vault and let a curator allocate them across separate lending markets, each pairing one collateral asset with one loan asset under its own rates and limits; the public beta page sits on Canton Testnet with Markets and Vaults marked as coming soon, so Prime remains a plan rather than a live vault, building on Kintsu's private beta for borrowers, lenders and vault managers (CantonNews)\n- **Temple accounts for most of Canton's DEX volume, with Rocky Exchange leading on all-time spot volume** — Temple processed $698 million in 30 days, about 85% of DEX volume on Canton, while Rocky Exchange has reached $2.09 billion in all-time spot volume; the same ecosystem roundup puts Alpend's private money market at $2.4 million in total value locked (CoinNewsify)\n\nNetwork: CC $0.0868 | Market cap $3.48B (rank 27) | 24h volume $9.75M | Supply 40.05B CC; milestone: total value locked on Canton stood at $12.2M, small against the network's market cap because locked DeFi value is not the network's main use (Kriptometre for market data; Crypheat for the milestone)",
+      "image_url": null,
+      "published": "2026-11-13T11:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-13_1112-est",
       "slug": "silvana-v2-brings-private-trading-to-canton-with-orders-matched-away-f",
