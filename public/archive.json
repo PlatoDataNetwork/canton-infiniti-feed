@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-14_1612-est",
+      "slug": "goldman-sachs-is-proposed-as-a-super-validator-on-canton-under-a-miles",
+      "title": "Goldman Sachs is proposed as a Super Validator on Canton under a milestone-based programme",
+      "body": "Canton Signal Feed (Nov 14, 2026 · 4:12 PM ET)\n- **Goldman Sachs is proposed as a Super Validator on Canton under a milestone-based programme** — A governance CIP, authored by Abeetha Pitigala and currently in Proposed status, would designate Goldman Sachs and Co. as a Canton Super Validator with a maximum earnable weight of 10 under a programme agreed with the Canton Foundation; weight is earned incrementally as ecosystem commitments are met, rewards do not mint until milestones are verified, unearned weight tied to missed deadlines is removed, and approval requires a two-thirds Super Validator vote, with specific milestones and timelines remaining confidential until Goldman Sachs and the Foundation agree on disclosure (CC Privacy Club)\n- **TreasurySpring's Canton plan wins approval with a $5 billion outstanding target for its fund shares** — The plan, approved September 9, targets $5 billion in outstanding fund shares and $20 billion in cumulative issuance within 12 months, starting with $10 million outstanding and $15 million cumulative issuance at three months and reaching $1 billion outstanding by month six; Canton will hold ownership records for the fund shares, TreasurySpring can earn a maximum Super Validator reward weight of four with evidence that targets are reached and maintained for a month, and it already operates a Canton validator (CC Privacy Club)\n- **Canton Coin futures open interest falls to $29.0 million as liquidations stay modest at $73,800** — Coinalyze's latest aggregated read puts Canton Coin futures open interest at $29.0 million, down 8.42% in 24 hours, with futures volume at $14.0 million and tracked liquidations at $73,800, a sharp step down from the $35.10 million open interest recorded earlier today (Coinalyze)\n- **Canton Coin appears on an oversold screen as its live price slips to $0.0770, down 10.64% in 24 hours** — BlocFolio's live November 14 read, computed at 21:30 UTC, puts Canton Coin at $0.0770, down 10.64% in 24 hours, 17.54% over seven days and 60.3% below its all-time high of $0.1942 set on February 3, 2026, with the coin now appearing in its Oversold Crypto Screener (BlocFolio)\n\nNetwork: CC $0.0774 | Market cap $3.10B (rank 26) | 24h volume $13.49M | Supply 40.05B CC; milestone: MainNet validator onboarding capacity stands at 50 validators per week, with priority for projects that have working devnet or testnet applications ready for production (Kriptometre for market data; CC Privacy Club for the milestone)",
+      "timestamp": "2026-11-14T16:12:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/goldman-sachs-is-proposed-as-a-super-validator-on-canton-under-a-miles",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-14_1542-est",
       "slug": "decrypt-s-november-14-explainer-puts-canton-s-september-snapshot-at-ab",
       "title": "Decrypt's November 14 explainer puts Canton's September snapshot at about 60 Super Validators and more than 120 applications",
