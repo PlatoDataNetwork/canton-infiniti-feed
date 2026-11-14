@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-14_1342-est",
+      "slug": "canton-chain-fees-run-at-about-7-675-a-day-a-steady-usage-baseline-eve",
+      "title": "Canton chain fees run at about $7,675 a day, a steady usage baseline even as market sentiment stays cold",
+      "body": "Canton Signal Feed (Nov 14, 2026 · 1:42 PM ET)\n- **Canton chain fees run at about $7,675 a day, a steady usage baseline even as market sentiment stays cold** — Crypheat's November 14 read puts daily chain fees at about $7,675, which it treats as a proxy for real demand for block space on Canton, while its composite heat score for Canton Coin sits at 5, labelled COLD, with the price down 26.0% over the past 30 days; the fee pace points to continuing network use underneath the weak price action, and the heat score is a composite sentiment gauge, not a network fundamental (Crypheat)\n- **Canton Coin spot prices narrow to 8.06% apart across exchanges, with still no arbitrage route worth taking** — ArbitrageGap's live scan at 6:43 PM UTC on November 14 puts the cheapest spot price on WEEX at $0.074775 and the dearest on Kraken at $0.080805 across 12 liquid spot exchanges, a spread narrowed from 9.06% earlier today, with no route rated worth taking after fees and the best futures route, long WhiteBIT and short Hyperliquid, at 0.71% after taker fees and flagged risky (ArbitrageGap)\n- **Canton perpetuals volume holds near a quarter-million dollars as spot DEX volume carries the chain's trading** — DefiLlama's November 14 chain read puts perpetuals volume at $250,741 over 24 hours and $1.93 million over seven days, down 73.39% on the week, against spot DEX volume of $20.56 million in 24 hours and $139.07 million over seven days, up 4.77%, with DEX-versus-CEX dominance at just 0.07% (DefiLlama)\n- **Canton Coin sits inside a defined buy zone on the daily chart, with trend still sideways** — Flicker's November 14 daily analysis, written at 4:45 PM UTC, places the price inside buy zone B1 at $0.07691 to $0.08339, scores the trend sideways at 13 of 100 with a risk score of 72 of 100, and puts the nearest support at $0.05862, 27.4% below, and the nearest resistance at $0.08680, 7.4% above; the read is a Hold with four of six factors agreeing, and is analysis, not advice (Flicker)\n\nNetwork: CC $0.0806 | Market cap $3.23B (rank 26) | 24h volume $11.87M | Supply 40.05B CC; milestone: the MainNet upgrade to Splice 0.10.0 is listed for November 16, with about 1.6K validators and 13 Super Validators on the network (BlocFolio for market data; CantonNews for the milestone)",
+      "timestamp": "2026-11-14T13:42:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-chain-fees-run-at-about-7-675-a-day-a-steady-usage-baseline-eve",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-14_1312-est",
       "slug": "certik-ranks-canton-first-among-compared-blockchains-for-third-quarter",
       "title": "CertiK ranks Canton first among compared blockchains for third-quarter fees, at more than $155 million",
