@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-13_1912-est",
+      "slug": "r13n-labs-canton-reward-engine-gets-a-fresh-dev-fund-vote-after-the-fi",
+      "title": "R13N Labs' Canton Reward Engine gets a fresh Dev Fund vote after the first vote closed without passing",
+      "body": "Canton Signal Feed (Nov 13, 2026 · 7:12 PM ET)\n- **R13N Labs' Canton Reward Engine gets a fresh Dev Fund vote after the first vote closed without passing** — The reopened vote is still on the existing request for up to 3,636,363.64 CC for software that would help Canton applications calculate and distribute rewards funded by campaign sponsors; the previous vote closed without passing after receiving no binding votes, which is different from committee members voting against it, and approval remains pending (CantonNews)\n- **Memora sets out how it would check the SOL backing of SOLx before any tokens are minted on Canton** — Each SOLx is meant to be backed one-for-one by SOL held in reserve on Solana, and Memora says it is using RedStone CAPS to check that reserve on Canton before minting, with minting stopping if reserve data is unavailable or the figures do not match; the November 11 explanation describes a proposed safeguard, not a live bridge launch or independently verified reserves (CantonNews)\n- **Canton Strategic Holdings pairs its validator and Super Validator operations with a locking-as-a-service offer built around Canton Coin** — The company, rebranded from Tharimmune in February 2026, runs validation and liveness services on Canton and offers locking-as-a-service that secures its own Canton Coin holdings for clients while legal ownership stays with them, anchoring a digital-asset treasury strategy centred on CC (TickerOn)\n- **Canton Coin now trades on 26 cryptocurrency exchanges, including KuCoin and Kraken** — The exchange coverage gives CC spot access across 26 venues, a wider listing footprint than a purely institutional network token would suggest, while the coin remains well below the all-time high of $0.1941 it set on February 3, 2026 (CoinCodex)\n\nNetwork: CC $0.0876 | Market cap $3.51B (rank 27) | 24h volume $10.16M | Supply 40.05B CC; milestone: a MainNet upgrade to Splice 0.10.0 is listed for November 16, with the time still to be confirmed, alongside 6 active governance proposals and about 1.6K validators on the network (Kriptometre for market data; CantonNews for the milestone)",
+      "timestamp": "2026-11-13T19:12:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/r13n-labs-canton-reward-engine-gets-a-fresh-dev-fund-vote-after-the-fi",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-13_1842-est",
       "slug": "no-canton-coin-arbitrage-route-is-worth-taking-tonight-with-prices-4-2",
       "title": "No Canton Coin arbitrage route is worth taking tonight, with prices 4.29% apart across exchanges",
