@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-14_0612-est",
+      "slug": "tritemius-expands-its-ios-wallet-through-testflight-adding-canton-asse",
+      "title": "Tritemius expands its iOS wallet through TestFlight, adding Canton assets and two Lightning options",
+      "body": "Canton Signal Feed (Nov 14, 2026 · 6:12 AM ET)\n- **Tritemius expands its iOS wallet through TestFlight, adding Canton assets and two Lightning options** — Tritemius Labs says the update, available through TestFlight rather than a confirmed general App Store release, adds support for cETH from onRails, HANDL from HandlPay and Edel's tokenized stock and index products labelled AAPL, MSTR, QQQ and SPY, plus a one-click Lightning option that needs no personal node and a personal-node option where the user runs the node and Tritemius acts as its controller; Lightning remains a separate Bitcoin payment capability alongside Canton asset support and does not settle on Canton (CantonNews)\n- **REX-Osprey Canton Coin ETF passes its November 13 effective date with no ticker or trading launch confirmed** — A November 14 update notes the filing reached its post-effective amendment date of November 13, but no ticker or trading launch has been confirmed, and a separate review found no post-November 13 filing, exchange listing application or issuer statement confirming trading; the fund, a series of ETF Opportunities Trust, seeks 1x the performance of Canton Coin and would invest at least 80% of net assets in CC exposure, so effectiveness alone is not a market debut (CoinStats)\n- **Memora says SOLx minting stops if its SOL reserve check fails, using RedStone CAPS on Canton** — Memora says each SOLx should be backed one-for-one by SOL held in reserve on Solana and that it is using RedStone CAPS to check the reserve on Canton before minting, with minting stopping if reserve data is unavailable or the figures do not match; the November 11 explanation describes the proposed safeguard, not a live bridge launch or independently verified reserves (CantonNews)\n- **Cauri Wallet now charges network fees in Canton Coin on sends, a cost it previously covered** — From November 11, Cauri began requiring users to pay network fees in CC on sends; the change shifts a cost the wallet previously absorbed onto the sender, and it applies as a network-fee rule rather than a change to the asset being sent (CoinStats)\n\nNetwork: CC $0.08522 | Market cap $3.41B | 24h volume $10.84M | Supply 40.05B CC; milestone: 448M CC was burned in October, above the 2026 monthly average of 432M, while total CC burned and network activity continue under the burn-and-mint model (CoinStats for market data and the milestone)",
+      "timestamp": "2026-11-14T06:12:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/tritemius-expands-its-ios-wallet-through-testflight-adding-canton-asse",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-14_0542-est",
       "slug": "edel-reports-a-theft-of-about-300-000-in-edel-tokens-with-the-stolen-t",
       "title": "Edel reports a theft of about $300,000 in EDEL tokens, with the stolen tokens since sold or blocked",
