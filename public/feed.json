@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-14T06:35:31-05:00",
+  "updated": "2026-11-14T06:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-14_0642-est",
+      "slug": "console-wallet-reports-full-service-restoration-after-a-precautionary",
+      "url": "https://canton.w3ai.io/feed/console-wallet-reports-full-service-restoration-after-a-precautionary",
+      "title": "Console Wallet reports full service restoration after a precautionary suspension",
+      "content_text": "Canton Signal Feed (Nov 14, 2026 · 6:42 AM ET)\n- **Console Wallet reports full service restoration after a precautionary suspension** — Console said in its November 12 update that it was fully operational after a precautionary suspension following suspicious activity the previous week; the restoration is the project's reported status and the short notice does not provide a full incident analysis (CantonNews)\n- **Cantex adds optional two-factor authentication for actions that move assets or grant permissions** — The wallet update covers withdrawals, transfers, pre-approvals and bridge transactions, adding another check beyond the initial sign-in that users can choose to apply to those actions (CantonNews)\n- **Two Canton development proposals pass their votes, for Python tooling and a protected co-validator** — Obsidian Systems' 1.27 million CC proposal to generate Python classes from compiled Daml packages passed and was merged, including delivery and a year of maintenance, and Financial Privacy Inc.'s 4.59 million CC proposal to build a Canton participant inside a trusted execution environment also passed and was merged, covering DevNet and TestNet development, a reference deployment and maintenance; neither vote establishes a completed production service (CantonNews)\n- **Digital Asset has 30 open roles as of November 14, with posted pay from $140,000 to $220,000** — None of the roles are listed as remote and 36% are senior level, with Scala, Kubernetes and Python the most requested skills and the highest posted range, $180,000 to $220,000, for a Principal Product Manager for the Canton Network Ecosystem (Landed Jobs)\n\nNetwork: CC $0.085174 | Market cap $3.41B (rank 26) | 24h volume $11.24M | Supply 40.05B CC; milestone: total transactions reached 603.0M and total parties stood at 946.8K, with rewards over the last 24 hours at 7.3M CC, about 1.6K validators and 13 Super Validators (CoinArena for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 14, 2026 · 6:42 AM ET)<br/>- **Console Wallet reports full service restoration after a precautionary suspension** — Console said in its November 12 update that it was fully operational after a precautionary suspension following suspicious activity the previous week; the restoration is the project&#x27;s reported status and the short notice does not provide a full incident analysis (CantonNews)<br/>- **Cantex adds optional two-factor authentication for actions that move assets or grant permissions** — The wallet update covers withdrawals, transfers, pre-approvals and bridge transactions, adding another check beyond the initial sign-in that users can choose to apply to those actions (CantonNews)<br/>- **Two Canton development proposals pass their votes, for Python tooling and a protected co-validator** — Obsidian Systems&#x27; 1.27 million CC proposal to generate Python classes from compiled Daml packages passed and was merged, including delivery and a year of maintenance, and Financial Privacy Inc.&#x27;s 4.59 million CC proposal to build a Canton participant inside a trusted execution environment also passed and was merged, covering DevNet and TestNet development, a reference deployment and maintenance; neither vote establishes a completed production service (CantonNews)<br/>- **Digital Asset has 30 open roles as of November 14, with posted pay from $140,000 to $220,000** — None of the roles are listed as remote and 36% are senior level, with Scala, Kubernetes and Python the most requested skills and the highest posted range, $180,000 to $220,000, for a Principal Product Manager for the Canton Network Ecosystem (Landed Jobs)<br/><br/>Network: CC $0.085174 | Market cap $3.41B (rank 26) | 24h volume $11.24M | Supply 40.05B CC; milestone: total transactions reached 603.0M and total parties stood at 946.8K, with rewards over the last 24 hours at 7.3M CC, about 1.6K validators and 13 Super Validators (CoinArena for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-14T06:42:00-05:00",
+      "date_modified": "2026-11-14T06:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:42 AM ET",
+      "body": "Canton Signal Feed (Nov 14, 2026 · 6:42 AM ET)\n- **Console Wallet reports full service restoration after a precautionary suspension** — Console said in its November 12 update that it was fully operational after a precautionary suspension following suspicious activity the previous week; the restoration is the project's reported status and the short notice does not provide a full incident analysis (CantonNews)\n- **Cantex adds optional two-factor authentication for actions that move assets or grant permissions** — The wallet update covers withdrawals, transfers, pre-approvals and bridge transactions, adding another check beyond the initial sign-in that users can choose to apply to those actions (CantonNews)\n- **Two Canton development proposals pass their votes, for Python tooling and a protected co-validator** — Obsidian Systems' 1.27 million CC proposal to generate Python classes from compiled Daml packages passed and was merged, including delivery and a year of maintenance, and Financial Privacy Inc.'s 4.59 million CC proposal to build a Canton participant inside a trusted execution environment also passed and was merged, covering DevNet and TestNet development, a reference deployment and maintenance; neither vote establishes a completed production service (CantonNews)\n- **Digital Asset has 30 open roles as of November 14, with posted pay from $140,000 to $220,000** — None of the roles are listed as remote and 36% are senior level, with Scala, Kubernetes and Python the most requested skills and the highest posted range, $180,000 to $220,000, for a Principal Product Manager for the Canton Network Ecosystem (Landed Jobs)\n\nNetwork: CC $0.085174 | Market cap $3.41B (rank 26) | 24h volume $11.24M | Supply 40.05B CC; milestone: total transactions reached 603.0M and total parties stood at 946.8K, with rewards over the last 24 hours at 7.3M CC, about 1.6K validators and 13 Super Validators (CoinArena for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-14T06:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-event-sv-13546432971",
       "slug": "devnet-lsu-0-13-required-march-2027",
