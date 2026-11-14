@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-14_1142-est",
+      "slug": "canton-coin-futures-open-interest-falls-to-36-08-million-as-24-hour-li",
+      "title": "Canton Coin futures open interest falls to $36.08 million as 24-hour liquidations jump to $219,910, almost entirely longs",
+      "body": "Canton Signal Feed (Nov 14, 2026 · 11:42 AM ET)\n- **Canton Coin futures open interest falls to $36.08 million as 24-hour liquidations jump to $219,910, almost entirely longs** — Total CC futures open interest fell 6.89% in 24 hours to $36.08 million, down from $38.44 million earlier today, while tracked liquidations rose to $219,910, of which $219,770 were long positions and only $138 were shorts; futures volume was $20.12 million, about 2.4 times spot volume of $8.54 million, and the OI-weighted funding rate held at 0.0025%, below the 0.01% baseline (CoinGlass)\n- **Canton ranks fourth of 27 networks for institutional adoption, scoring 80 out of 100 ahead of Polygon** — A November 14 institutional adoption comparison scores Canton at 80/100, ranked #4 of 27 tracked cryptocurrencies, ahead of Polygon at 74/100 and rank #6, with both networks carrying 10 tracked institutional signals; Canton's tracked partners include Goldman Sachs, BNY Mellon, BNP Paribas, Société Générale, DTCC and JPMorgan Chase, its spot ETF status is listed as live, and the scores update twice daily from regulatory filings, named bank deployments, ETF flows and on-chain real-world-asset data rather than price action (TokenSonar)\n- **OpenZeppelin's Canton Daml library and four reference designs clear the Dev Fund vote** — OpenZeppelin, the smart-contract security firm recently acquired by S&P Global, has had its open-source Daml contracts library and four reference application designs for Canton — a privacy-preserving DEX, a lending protocol, cross-chain stablecoin payments and one further design — approved by Digital Asset and passed by the Dev Fund committee, giving teams building financial apps on Canton vetted, reusable building blocks instead of starting from scratch (CC Space)\n- **Canton apps record $6,866 in revenue over 24 hours alongside $1.79 million in token incentives** — DefiLlama's November 14 chain read puts Canton app revenue at $6,866 over the last 24 hours, with token incentives of $1.79 million over the same window and reported inflows of $0; the revenue and incentives figures are separate from the app-fees total reported in an earlier edition (DefiLlama)\n\nNetwork: CC $0.0813 | Market cap $3.26B (rank 26) | 24h volume $13.37M | Supply 40.05B CC; milestone: live MainNet activity stood at 11.00 TPS with rewards over the last 24 hours at 9.9M CC, total transactions at 603.0M, total parties at 946.8K, total burned at 6.03B CC, about 1.6K validators, 13 Super Validators and 6 active proposals (Kriptometre for market data; CantonNews for the milestone)",
+      "timestamp": "2026-11-14T11:42:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-futures-open-interest-falls-to-36-08-million-as-24-hour-li",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-14_1112-est",
       "slug": "canton-perpetuals-volume-falls-to-251-675-in-24-hours-as-spot-dex-volu",
       "title": "Canton perpetuals volume falls to $251,675 in 24 hours as spot DEX volume holds above $20 million",
