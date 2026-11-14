@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-13T19:12:00-05:00",
+  "updated": "2026-11-13T19:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-13_1942-est",
+      "slug": "mexc-s-featured-app-status-is-recommended-for-a-pause-over-canton-coin",
+      "url": "https://canton.w3ai.io/feed/mexc-s-featured-app-status-is-recommended-for-a-pause-over-canton-coin",
+      "title": "MEXC's Featured App status is recommended for a pause over Canton Coin locking requirements",
+      "content_text": "Canton Signal Feed (Nov 13, 2026 · 7:42 PM ET)\n- **MEXC's Featured App status is recommended for a pause over Canton Coin locking requirements** — The Tokenomics Committee has recommended pausing MEXC's Featured Application status because it does not meet the Canton Coin locking requirements introduced by CIP-0116, meaning the exchange's party stops earning featured-app rewards until it complies (CC Space)\n- **Canton Foundation opens Community Research Grants for original research and educational content** — Content published between November 1 and November 30, 2026 may be considered for the first round, with up to 50,000 CC per month available beginning in November 2026 at the Foundation's discretion; full terms, including eligibility and screening, are expected on or before November 15, and no grant will be made before then (CoinStats)\n- **Wells Fargo is awarded three MainNet validator allocations as institutional node uptake continues** — The Canton Foundation Tokenomics Working Group awarded the additional allocations to Wells Fargo alongside Visoty, Cartumi, Winsnip, Winnode and Otoclick, issued in line with current network capacity and health assessments (CC Space)\n- **Canton 3.7.0 brings protocol version 37 with new party-hosting states and lower ordering latency** — Released October 29, the version adds v31 topology transactions that give each hosting participant a hosting state for PartyToParticipant mappings instead of the old onboarding flag, supports multiple synchronizers without a feature flag, cuts CantonBFT ordering latency and bounds protocol, topology and ACS commitment collections, with messages over a limit rejected (Canton Network Docs)\n\nNetwork: CC $0.085744 | Market cap $3.4B (rank 27) | 24h volume $10.9M | Supply 40.05B CC; milestone: total parties on MainNet rose to 946.8K and total transactions reached 603.0M, with about 1.6K validators, 13 Super Validators and 6 active governance proposals (Crypheat for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 13, 2026 · 7:42 PM ET)<br/>- **MEXC&#x27;s Featured App status is recommended for a pause over Canton Coin locking requirements** — The Tokenomics Committee has recommended pausing MEXC&#x27;s Featured Application status because it does not meet the Canton Coin locking requirements introduced by CIP-0116, meaning the exchange&#x27;s party stops earning featured-app rewards until it complies (CC Space)<br/>- **Canton Foundation opens Community Research Grants for original research and educational content** — Content published between November 1 and November 30, 2026 may be considered for the first round, with up to 50,000 CC per month available beginning in November 2026 at the Foundation&#x27;s discretion; full terms, including eligibility and screening, are expected on or before November 15, and no grant will be made before then (CoinStats)<br/>- **Wells Fargo is awarded three MainNet validator allocations as institutional node uptake continues** — The Canton Foundation Tokenomics Working Group awarded the additional allocations to Wells Fargo alongside Visoty, Cartumi, Winsnip, Winnode and Otoclick, issued in line with current network capacity and health assessments (CC Space)<br/>- **Canton 3.7.0 brings protocol version 37 with new party-hosting states and lower ordering latency** — Released October 29, the version adds v31 topology transactions that give each hosting participant a hosting state for PartyToParticipant mappings instead of the old onboarding flag, supports multiple synchronizers without a feature flag, cuts CantonBFT ordering latency and bounds protocol, topology and ACS commitment collections, with messages over a limit rejected (Canton Network Docs)<br/><br/>Network: CC $0.085744 | Market cap $3.4B (rank 27) | 24h volume $10.9M | Supply 40.05B CC; milestone: total parties on MainNet rose to 946.8K and total transactions reached 603.0M, with about 1.6K validators, 13 Super Validators and 6 active governance proposals (Crypheat for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-13T19:42:00-05:00",
+      "date_modified": "2026-11-13T19:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 13, 2026 · 7:42 PM ET",
+      "body": "Canton Signal Feed (Nov 13, 2026 · 7:42 PM ET)\n- **MEXC's Featured App status is recommended for a pause over Canton Coin locking requirements** — The Tokenomics Committee has recommended pausing MEXC's Featured Application status because it does not meet the Canton Coin locking requirements introduced by CIP-0116, meaning the exchange's party stops earning featured-app rewards until it complies (CC Space)\n- **Canton Foundation opens Community Research Grants for original research and educational content** — Content published between November 1 and November 30, 2026 may be considered for the first round, with up to 50,000 CC per month available beginning in November 2026 at the Foundation's discretion; full terms, including eligibility and screening, are expected on or before November 15, and no grant will be made before then (CoinStats)\n- **Wells Fargo is awarded three MainNet validator allocations as institutional node uptake continues** — The Canton Foundation Tokenomics Working Group awarded the additional allocations to Wells Fargo alongside Visoty, Cartumi, Winsnip, Winnode and Otoclick, issued in line with current network capacity and health assessments (CC Space)\n- **Canton 3.7.0 brings protocol version 37 with new party-hosting states and lower ordering latency** — Released October 29, the version adds v31 topology transactions that give each hosting participant a hosting state for PartyToParticipant mappings instead of the old onboarding flag, supports multiple synchronizers without a feature flag, cuts CantonBFT ordering latency and bounds protocol, topology and ACS commitment collections, with messages over a limit rejected (Canton Network Docs)\n\nNetwork: CC $0.085744 | Market cap $3.4B (rank 27) | 24h volume $10.9M | Supply 40.05B CC; milestone: total parties on MainNet rose to 946.8K and total transactions reached 603.0M, with about 1.6K validators, 13 Super Validators and 6 active governance proposals (Crypheat for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-13T19:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-13_1912-est",
       "slug": "r13n-labs-canton-reward-engine-gets-a-fresh-dev-fund-vote-after-the-fi",
