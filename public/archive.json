@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-14_0442-est",
+      "slug": "circle-internet-group-and-upflam-are-named-in-the-latest-mainnet-valid",
+      "title": "Circle Internet Group and Upflam are named in the latest MainNet validator allocation notice as the onboarding queue keeps widening",
+      "body": "Canton Signal Feed (Nov 14, 2026 · 4:42 AM ET)\n- **Circle Internet Group and Upflam are named in the latest MainNet validator allocation notice as the onboarding queue keeps widening** — The notice, published November 11 under the heading \"Validator Allocations - November 9th\", names Circle Internet Group and Upflam alongside AUM-Digik, HostDeFi Validator Collective and Noah HQ; an allocation gives an organisation a place in the MainNet onboarding process and does not by itself confirm a running node or a launch date for native USDC on Canton, and a separate approval notice names five more operators — Canborsa, Carbazena, GateKeeper, Initiativ and Talwex — whose uses range from trading and liquidity provision to institutional commodities and corporate-bond markets (CantonNews)\n- **Canton's app reward switch is targeted for February 2027, tying Featured App rewards to measured network traffic** — Under CIP-0104, application rewards would link to actual network traffic rather than manually generated activity markers; the February 2027 target remains contingent on Tokenomics Committee approval, so activation is not yet confirmed (CoinMarketCap)\n- **Canton's DeFi footprint edges down in locked value even as daily DEX volume rises above $20 million** — DefiLlama's November 14 snapshot puts Canton DeFi total value locked at $11.74 million, down from $11.96 million a day earlier, while 24-hour DEX volume rose to $20.04 million from $19.09 million, keeping on-chain DeFi small against the network's institutional settlement activity (DefiLlama)\n\nNetwork: CC $0.0844 | Market cap $3.38B (rank 26) | 24h volume $11.08M | Supply 40.05B CC; milestone: a MainNet upgrade to Splice 0.10.0 is listed for November 16, with the time still to be confirmed, alongside about 1.6K validators, 13 Super Validators and 6 active governance proposals (BlocFolio for market data; CantonNews for the milestone)",
+      "timestamp": "2026-11-14T04:42:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/circle-internet-group-and-upflam-are-named-in-the-latest-mainnet-valid",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-14_0412-est",
       "slug": "onepump-launches-on-canton-with-52-markets-listed-on-its-launchpad",
       "title": "OnePump launches on Canton with 52 markets listed on its launchpad",
