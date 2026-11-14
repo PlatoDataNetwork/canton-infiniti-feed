@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-14_0942-est",
+      "slug": "canton-bridge-volume-reads-zero-in-the-last-24-hours-with-399-220-over",
+      "title": "Canton bridge volume reads zero in the last 24 hours, with $399,220 over seven days all through Chainlink",
+      "body": "Canton Signal Feed (Nov 14, 2026 · 9:42 AM ET)\n- **Canton bridge volume reads zero in the last 24 hours, with $399,220 over seven days all through Chainlink** — DefiLlama's November 14 bridge read for Canton shows no bridge volume in the last 24 hours, $399,220 over the last seven days and $11.68 million over the last 30 days, a weekly change of -41.96%, with Chainlink listed as the sole bridge protocol tracked for the chain; the zero is the tracker's reported figure for the window, not a confirmed halt to cross-chain activity (DefiLlama)\n- **Temple remains Canton's largest DeFi protocol at $6.25 million locked, ahead of Alpend and Cantex** — DefiLlama's November 14 protocol rankings put Temple, a Canton DEX, first at $6.25 million in total value locked, followed by Alpend lending at $1.95 million, Cantex at $1.79 million and Tradecraft at $1.48 million, across eight tracked Canton protocols in total (DefiLlama)\n- **Canton Coin slips below its November 13 low on the daily chart, with the candle still open** — A November 14 daily-chart read puts CC at $0.08496, below the $0.08506 low reached on November 13 after a 27% fall in 23 days from the October 21 high, and says a daily close below that level would extend the weak downtrend, while a close above $0.09467 would end it; trend strength is low, so neither side is given the edge until a close confirms (Sylvo)\n- **Live MainNet rewards rise to 9.2 million CC even as current activity eases to 1.00 TPS** — CantonNews' live MainNet counter on November 14 shows rewards over the last 24 hours at 9.2 million CC, up from 8.7 million earlier today, with current activity at 1.00 TPS, alongside total transactions at 603.0 million, total parties at 946.8K, total burned at 6.03B CC, about 1.6K validators, 13 Super Validators and 6 active proposals (CantonNews)\n\nNetwork: CC $0.0822 | Market cap $3.29B (rank 26) | 24h volume $11.37M | Supply 40.05B CC; milestone: live MainNet rewards over the last 24 hours rose to 9.2M CC, with activity at 1.00 TPS, total transactions at 603.0M, total parties at 946.8K, total burned at 6.03B CC, about 1.6K validators, 13 Super Validators and 6 active proposals (Kaavon for market data; CantonNews for the milestone)",
+      "timestamp": "2026-11-14T09:42:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-bridge-volume-reads-zero-in-the-last-24-hours-with-399-220-over",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-14_0912-est",
       "slug": "governance-locks-bring-super-validator-and-featured-app-locking-enforc",
       "title": "Governance locks bring Super Validator and Featured App locking enforcement on-chain under CIP-0127",
