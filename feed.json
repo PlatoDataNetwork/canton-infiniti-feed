@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-13T19:42:00-05:00",
+  "updated": "2026-11-14T04:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-14_0412-est",
+      "slug": "onepump-launches-on-canton-with-52-markets-listed-on-its-launchpad",
+      "url": "https://canton.w3ai.io/feed/onepump-launches-on-canton-with-52-markets-listed-on-its-launchpad",
+      "title": "OnePump launches on Canton with 52 markets listed on its launchpad",
+      "content_text": "Canton Signal Feed (Nov 14, 2026 · 4:12 AM ET)\n- **OnePump launches on Canton with 52 markets listed on its launchpad** — OneSwap's memecoin launchpad has moved beyond its waitlist into a working token market: creators launch tokens that trade early on a bonding curve in Canton Coin and graduate into a OneSwap liquidity pool once the required reserve is reached; its public dashboard on November 14 displayed 52 markets and one graduated listing, JOSE, which graduated with 250,000 CC bonded, and creators earn 0.5% of bonding-curve trades and 0.2% after graduation, paid in CC and claimable from 1 CC (CantonNews)\n- **Canton Wallet is back online on a more secure validator, with a one-time passkey upgrade at sign-in** — Users are asked to approve the one-time security upgrade with their passkey the next time they sign in; their address and assets stay the same, no fees are charged and nothing is sent as part of the upgrade (CantonNews)\n- **Canton processed more than 5.6 million private transactions in one week, staying above 800,000 a day** — Daily volumes held above 800,000 throughout the week and peaked at 888,000 on November 4, with each participating institution able to see only the transaction data it is entitled to see under Canton's privacy model; transaction counts vary by what a source includes, so weekly totals from different sources are not directly comparable (CC Tools)\n- **Digital Asset's DA Registry Proof of Transfer API lets users verify a Canton transfer without exposing its details** — The API lets wallet and exchange users independently confirm whether a transfer of a privacy-enabled Canton asset succeeded, failed or is still pending, without exposing confidential transaction data; Bybit has already integrated it, and Digital Asset is urging other wallets and exchanges to follow (CC Space)\n\nNetwork: CC $0.0847 | Market cap $3.39B (rank 26) | 24h volume $10.95M | Supply 40.05B CC; milestone: total CC burned on MainNet reached 6.03B and total transactions reached 603.0M, with rewards over the last 24 hours at 5.6M CC, about 1.6K validators, 13 Super Validators and 6 active governance proposals (Kriptometre for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 14, 2026 · 4:12 AM ET)<br/>- **OnePump launches on Canton with 52 markets listed on its launchpad** — OneSwap&#x27;s memecoin launchpad has moved beyond its waitlist into a working token market: creators launch tokens that trade early on a bonding curve in Canton Coin and graduate into a OneSwap liquidity pool once the required reserve is reached; its public dashboard on November 14 displayed 52 markets and one graduated listing, JOSE, which graduated with 250,000 CC bonded, and creators earn 0.5% of bonding-curve trades and 0.2% after graduation, paid in CC and claimable from 1 CC (CantonNews)<br/>- **Canton Wallet is back online on a more secure validator, with a one-time passkey upgrade at sign-in** — Users are asked to approve the one-time security upgrade with their passkey the next time they sign in; their address and assets stay the same, no fees are charged and nothing is sent as part of the upgrade (CantonNews)<br/>- **Canton processed more than 5.6 million private transactions in one week, staying above 800,000 a day** — Daily volumes held above 800,000 throughout the week and peaked at 888,000 on November 4, with each participating institution able to see only the transaction data it is entitled to see under Canton&#x27;s privacy model; transaction counts vary by what a source includes, so weekly totals from different sources are not directly comparable (CC Tools)<br/>- **Digital Asset&#x27;s DA Registry Proof of Transfer API lets users verify a Canton transfer without exposing its details** — The API lets wallet and exchange users independently confirm whether a transfer of a privacy-enabled Canton asset succeeded, failed or is still pending, without exposing confidential transaction data; Bybit has already integrated it, and Digital Asset is urging other wallets and exchanges to follow (CC Space)<br/><br/>Network: CC $0.0847 | Market cap $3.39B (rank 26) | 24h volume $10.95M | Supply 40.05B CC; milestone: total CC burned on MainNet reached 6.03B and total transactions reached 603.0M, with rewards over the last 24 hours at 5.6M CC, about 1.6K validators, 13 Super Validators and 6 active governance proposals (Kriptometre for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-14T04:12:00-05:00",
+      "date_modified": "2026-11-14T04:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 4:12 AM ET",
+      "body": "Canton Signal Feed (Nov 14, 2026 · 4:12 AM ET)\n- **OnePump launches on Canton with 52 markets listed on its launchpad** — OneSwap's memecoin launchpad has moved beyond its waitlist into a working token market: creators launch tokens that trade early on a bonding curve in Canton Coin and graduate into a OneSwap liquidity pool once the required reserve is reached; its public dashboard on November 14 displayed 52 markets and one graduated listing, JOSE, which graduated with 250,000 CC bonded, and creators earn 0.5% of bonding-curve trades and 0.2% after graduation, paid in CC and claimable from 1 CC (CantonNews)\n- **Canton Wallet is back online on a more secure validator, with a one-time passkey upgrade at sign-in** — Users are asked to approve the one-time security upgrade with their passkey the next time they sign in; their address and assets stay the same, no fees are charged and nothing is sent as part of the upgrade (CantonNews)\n- **Canton processed more than 5.6 million private transactions in one week, staying above 800,000 a day** — Daily volumes held above 800,000 throughout the week and peaked at 888,000 on November 4, with each participating institution able to see only the transaction data it is entitled to see under Canton's privacy model; transaction counts vary by what a source includes, so weekly totals from different sources are not directly comparable (CC Tools)\n- **Digital Asset's DA Registry Proof of Transfer API lets users verify a Canton transfer without exposing its details** — The API lets wallet and exchange users independently confirm whether a transfer of a privacy-enabled Canton asset succeeded, failed or is still pending, without exposing confidential transaction data; Bybit has already integrated it, and Digital Asset is urging other wallets and exchanges to follow (CC Space)\n\nNetwork: CC $0.0847 | Market cap $3.39B (rank 26) | 24h volume $10.95M | Supply 40.05B CC; milestone: total CC burned on MainNet reached 6.03B and total transactions reached 603.0M, with rewards over the last 24 hours at 5.6M CC, about 1.6K validators, 13 Super Validators and 6 active governance proposals (Kriptometre for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-14T04:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-13_1942-est",
       "slug": "mexc-s-featured-app-status-is-recommended-for-a-pause-over-canton-coin",
