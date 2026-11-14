@@ -29,8 +29,3208 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-14T06:12:00-05:00",
+  "updated": "2026-11-14T06:35:31-05:00",
   "items": [
+    {
+      "id": "canton-event-sv-13546432971",
+      "slug": "devnet-lsu-0-13-required-march-2027",
+      "url": "https://canton.w3ai.io/feed/devnet-lsu-0-13-required-march-2027",
+      "title": "DevNet LSU (0.13 Required) (March 2027)",
+      "content_text": "Canton Calendar — Wednesday, March 17, 2027\nDevNet LSU (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Wednesday, March 17, 2027<br/>DevNet LSU (0.13 Required) (March 2027)<br/>Protocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Wednesday, March 17, 2027\nDevNet LSU (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546432823",
+      "slug": "testnet-lsu-0-13-required-march-2027",
+      "url": "https://canton.w3ai.io/feed/testnet-lsu-0-13-required-march-2027",
+      "title": "TestNet LSU (0.13 Required) (March 2027)",
+      "content_text": "Canton Calendar — Wednesday, March 24, 2027\nTestNet LSU (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Wednesday, March 24, 2027<br/>TestNet LSU (0.13 Required) (March 2027)<br/>Protocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Wednesday, March 24, 2027\nTestNet LSU (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546424610",
+      "slug": "mainnet-upgrades-to-splice-0-13-3",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-13-3",
+      "title": "MainNet upgrades to Splice 0.13.3",
+      "content_text": "Canton Calendar — Monday, April 5, 2027\nMainNet upgrades to Splice 0.13.3\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, April 5, 2027<br/>MainNet upgrades to Splice 0.13.3<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, April 5, 2027\nMainNet upgrades to Splice 0.13.3\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546410848",
+      "slug": "testnet-upgrades-to-splice-0-13-4",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-13-4",
+      "title": "TestNet upgrades to Splice 0.13.4",
+      "content_text": "Canton Calendar — Monday, April 5, 2027\nTestNet upgrades to Splice 0.13.4\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, April 5, 2027<br/>TestNet upgrades to Splice 0.13.4<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, April 5, 2027\nTestNet upgrades to Splice 0.13.4\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546410673",
+      "slug": "mainnet-upgrades-to-splice-0-13-4",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-13-4",
+      "title": "MainNet upgrades to Splice 0.13.4",
+      "content_text": "Canton Calendar — Monday, April 12, 2027\nMainNet upgrades to Splice 0.13.4\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, April 12, 2027<br/>MainNet upgrades to Splice 0.13.4<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, April 12, 2027\nMainNet upgrades to Splice 0.13.4\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546410666",
+      "slug": "mainnet-upgrades-to-splice-0-13-2",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-13-2",
+      "title": "MainNet upgrades to Splice 0.13.2",
+      "content_text": "Canton Calendar — Monday, March 29, 2027\nMainNet upgrades to Splice 0.13.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 29, 2027<br/>MainNet upgrades to Splice 0.13.2<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 29, 2027\nMainNet upgrades to Splice 0.13.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546410626",
+      "slug": "mainnet-upgrades-to-splice-0-13-1",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-13-1",
+      "title": "MainNet upgrades to Splice 0.13.1",
+      "content_text": "Canton Calendar — Monday, March 22, 2027\nMainNet upgrades to Splice 0.13.1\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 22, 2027<br/>MainNet upgrades to Splice 0.13.1<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 22, 2027\nMainNet upgrades to Splice 0.13.1\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546407438",
+      "slug": "mainnet-topology-freeze-0-13",
+      "url": "https://canton.w3ai.io/feed/mainnet-topology-freeze-0-13",
+      "title": "MainNet Topology Freeze (0.13)",
+      "content_text": "Canton Calendar — Friday, April 2, 2027\nMainNet Topology Freeze (0.13)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Friday, April 2, 2027<br/>MainNet Topology Freeze (0.13)<br/>Protocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Friday, April 2, 2027\nMainNet Topology Freeze (0.13)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546407319",
+      "slug": "testnet-topology-freeze-0-13-required-march-2027",
+      "url": "https://canton.w3ai.io/feed/testnet-topology-freeze-0-13-required-march-2027",
+      "title": "TestNet Topology Freeze (0.13 Required) (March 2027)",
+      "content_text": "Canton Calendar — Tuesday, March 23, 2027\nTestNet Topology Freeze (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, March 23, 2027<br/>TestNet Topology Freeze (0.13 Required) (March 2027)<br/>Protocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, March 23, 2027\nTestNet Topology Freeze (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546407128",
+      "slug": "testnet-breaking-config-changes-0-13-required",
+      "url": "https://canton.w3ai.io/feed/testnet-breaking-config-changes-0-13-required",
+      "title": "TestNet Breaking Config Changes (0.13 Required)",
+      "content_text": "Canton Calendar — Tuesday, March 30, 2027\nTestNet Breaking Config Changes (0.13 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, March 30, 2027<br/>TestNet Breaking Config Changes (0.13 Required)<br/>Other Network Configuration Change · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, March 30, 2027\nTestNet Breaking Config Changes (0.13 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546407063",
+      "slug": "devnet-topology-freeze-0-13-required-march-2027",
+      "url": "https://canton.w3ai.io/feed/devnet-topology-freeze-0-13-required-march-2027",
+      "title": "DevNet Topology Freeze (0.13 Required) (March 2027)",
+      "content_text": "Canton Calendar — Tuesday, March 16, 2027\nDevNet Topology Freeze (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, March 16, 2027<br/>DevNet Topology Freeze (0.13 Required) (March 2027)<br/>Protocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, March 16, 2027\nDevNet Topology Freeze (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546406993",
+      "slug": "devnet-upgrades-to-splice-0-13-4",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-13-4",
+      "title": "DevNet upgrades to Splice 0.13.4",
+      "content_text": "Canton Calendar — Monday, March 29, 2027\nDevNet upgrades to Splice 0.13.4\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 29, 2027<br/>DevNet upgrades to Splice 0.13.4<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 29, 2027\nDevNet upgrades to Splice 0.13.4\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546406985",
+      "slug": "testnet-upgrades-to-splice-0-13-3",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-13-3",
+      "title": "TestNet upgrades to Splice 0.13.3",
+      "content_text": "Canton Calendar — Monday, March 29, 2027\nTestNet upgrades to Splice 0.13.3\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 29, 2027<br/>TestNet upgrades to Splice 0.13.3<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 29, 2027\nTestNet upgrades to Splice 0.13.3\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546406964",
+      "slug": "devnet-breaking-config-changes-0-13-required",
+      "url": "https://canton.w3ai.io/feed/devnet-breaking-config-changes-0-13-required",
+      "title": "DevNet Breaking Config Changes (0.13 Required)",
+      "content_text": "Canton Calendar — Tuesday, March 23, 2027\nDevNet Breaking Config Changes (0.13 Required)\nOther Network Configuration Change · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, March 23, 2027<br/>DevNet Breaking Config Changes (0.13 Required)<br/>Other Network Configuration Change · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, March 23, 2027\nDevNet Breaking Config Changes (0.13 Required)\nOther Network Configuration Change · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546401988",
+      "slug": "devnet-upgrades-to-splice-0-13-3",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-13-3",
+      "title": "DevNet upgrades to Splice 0.13.3",
+      "content_text": "Canton Calendar — Monday, March 22, 2027\nDevNet upgrades to Splice 0.13.3\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 22, 2027<br/>DevNet upgrades to Splice 0.13.3<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 22, 2027\nDevNet upgrades to Splice 0.13.3\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546396696",
+      "slug": "mainnet-breaking-config-changes-0-13-required",
+      "url": "https://canton.w3ai.io/feed/mainnet-breaking-config-changes-0-13-required",
+      "title": "MainNet Breaking Config Changes (0.13 Required)",
+      "content_text": "Canton Calendar — Tuesday, April 6, 2027\nMainNet Breaking Config Changes (0.13 Required)\nOther Network Configuration Change · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, April 6, 2027<br/>MainNet Breaking Config Changes (0.13 Required)<br/>Other Network Configuration Change · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, April 6, 2027\nMainNet Breaking Config Changes (0.13 Required)\nOther Network Configuration Change · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546396588",
+      "slug": "testnet-upgrades-to-splice-0-13-0",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-13-0",
+      "title": "TestNet upgrades to Splice 0.13.0",
+      "content_text": "Canton Calendar — Monday, March 8, 2027\nTestNet upgrades to Splice 0.13.0\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 8, 2027<br/>TestNet upgrades to Splice 0.13.0<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 8, 2027\nTestNet upgrades to Splice 0.13.0\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546391846",
+      "slug": "mainnet-new-daml-models-introduced-by-splice-0-13-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/mainnet-new-daml-models-introduced-by-splice-0-13-x-take-effect",
+      "title": "MainNet New Daml models introduced by Splice 0.13.x take effect",
+      "content_text": "Canton Calendar — Monday, March 29, 2027\nMainNet New Daml models introduced by Splice 0.13.x take effect\nSplice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 29, 2027<br/>MainNet New Daml models introduced by Splice 0.13.x take effect<br/>Splice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 29, 2027\nMainNet New Daml models introduced by Splice 0.13.x take effect\nSplice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546391720",
+      "slug": "testnet-upgrades-to-splice-0-13-2",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-13-2",
+      "title": "TestNet upgrades to Splice 0.13.2",
+      "content_text": "Canton Calendar — Monday, March 22, 2027\nTestNet upgrades to Splice 0.13.2\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 22, 2027<br/>TestNet upgrades to Splice 0.13.2<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 22, 2027\nTestNet upgrades to Splice 0.13.2\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546390130",
+      "slug": "devnet-upgrades-to-splice-0-13-1",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-13-1",
+      "title": "DevNet upgrades to Splice 0.13.1",
+      "content_text": "Canton Calendar — Monday, March 8, 2027\nDevNet upgrades to Splice 0.13.1\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 8, 2027<br/>DevNet upgrades to Splice 0.13.1<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 8, 2027\nDevNet upgrades to Splice 0.13.1\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546389859",
+      "slug": "mainnet-lsu-0-13-required-april-2027",
+      "url": "https://canton.w3ai.io/feed/mainnet-lsu-0-13-required-april-2027",
+      "title": "MainNet LSU (0.13 Required) (April 2027)",
+      "content_text": "Canton Calendar — Saturday, April 3, 2027\nMainNet LSU (0.13 Required) (April 2027)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Saturday, April 3, 2027<br/>MainNet LSU (0.13 Required) (April 2027)<br/>Protocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Saturday, April 3, 2027\nMainNet LSU (0.13 Required) (April 2027)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546379265",
+      "slug": "mainnet-upgrades-to-splice-0-13-0",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-13-0",
+      "title": "MainNet upgrades to Splice 0.13.0",
+      "content_text": "Canton Calendar — Monday, March 15, 2027\nMainNet upgrades to Splice 0.13.0\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 15, 2027<br/>MainNet upgrades to Splice 0.13.0<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 15, 2027\nMainNet upgrades to Splice 0.13.0\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546376085",
+      "slug": "devnet-upgrades-to-splice-0-13-2",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-13-2",
+      "title": "DevNet upgrades to Splice 0.13.2",
+      "content_text": "Canton Calendar — Monday, March 15, 2027\nDevNet upgrades to Splice 0.13.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 15, 2027<br/>DevNet upgrades to Splice 0.13.2<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 15, 2027\nDevNet upgrades to Splice 0.13.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546375944",
+      "slug": "testnet-upgrades-to-splice-0-13-1",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-13-1",
+      "title": "TestNet upgrades to Splice 0.13.1",
+      "content_text": "Canton Calendar — Monday, March 15, 2027\nTestNet upgrades to Splice 0.13.1\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 15, 2027<br/>TestNet upgrades to Splice 0.13.1<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 15, 2027\nTestNet upgrades to Splice 0.13.1\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546375608",
+      "slug": "testnet-new-daml-models-introduced-by-splice-0-13-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/testnet-new-daml-models-introduced-by-splice-0-13-x-take-effect",
+      "title": "TestNet New Daml models introduced by Splice 0.13.x take effect",
+      "content_text": "Canton Calendar — Monday, March 22, 2027\nTestNet New Daml models introduced by Splice 0.13.x take effect\nSplice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 22, 2027<br/>TestNet New Daml models introduced by Splice 0.13.x take effect<br/>Splice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 22, 2027\nTestNet New Daml models introduced by Splice 0.13.x take effect\nSplice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546375560",
+      "slug": "devnet-upgrades-to-splice-0-13-0",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-13-0",
+      "title": "DevNet upgrades to Splice 0.13.0",
+      "content_text": "Canton Calendar — Monday, March 1, 2027\nDevNet upgrades to Splice 0.13.0\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 1, 2027<br/>DevNet upgrades to Splice 0.13.0<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 1, 2027\nDevNet upgrades to Splice 0.13.0\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13546375220",
+      "slug": "devnet-new-daml-models-introduced-by-splice-0-13-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/devnet-new-daml-models-introduced-by-splice-0-13-x-take-effect",
+      "title": "DevNet New Daml models introduced by Splice 0.13.x take effect",
+      "content_text": "Canton Calendar — Monday, March 15, 2027\nDevNet New Daml models introduced by Splice 0.13.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 15, 2027<br/>DevNet New Daml models introduced by Splice 0.13.x take effect<br/>Splice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 15, 2027\nDevNet New Daml models introduced by Splice 0.13.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13018682963",
+      "slug": "mainnet-upgrades-to-splice-0-10-3",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-3",
+      "title": "MainNet upgrades to Splice 0.10.3",
+      "content_text": "Canton Calendar — Monday, December 7, 2026\nMainNet upgrades to Splice 0.10.3\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, December 7, 2026<br/>MainNet upgrades to Splice 0.10.3<br/>Weekly Upgrades · MainNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, December 7, 2026\nMainNet upgrades to Splice 0.10.3\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13018641250",
+      "slug": "mainnet-upgrades-to-splice-0-10-4",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-4",
+      "title": "MainNet upgrades to Splice 0.10.4",
+      "content_text": "Canton Calendar — Monday, January 11, 2027\nMainNet upgrades to Splice 0.10.4\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, January 11, 2027<br/>MainNet upgrades to Splice 0.10.4<br/>Weekly Upgrades · MainNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, January 11, 2027\nMainNet upgrades to Splice 0.10.4\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-13018640867",
+      "slug": "testnet-upgrades-to-splice-0-10-4",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-10-4",
+      "title": "TestNet upgrades to Splice 0.10.4",
+      "content_text": "Canton Calendar — Monday, December 7, 2026\nTestNet upgrades to Splice 0.10.4\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, December 7, 2026<br/>TestNet upgrades to Splice 0.10.4<br/>Weekly Upgrades · TestNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, December 7, 2026\nTestNet upgrades to Splice 0.10.4\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981644484",
+      "slug": "mainnet-lsu-0-12-required-march-2027",
+      "url": "https://canton.w3ai.io/feed/mainnet-lsu-0-12-required-march-2027",
+      "title": "MainNet LSU (0.12 Required) (March 2027)",
+      "content_text": "Canton Calendar — Saturday, March 6, 2027\nMainNet LSU (0.12 Required) (March 2027)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Saturday, March 6, 2027<br/>MainNet LSU (0.12 Required) (March 2027)<br/>Protocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Saturday, March 6, 2027\nMainNet LSU (0.12 Required) (March 2027)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981643108",
+      "slug": "mainnet-upgrades-to-splice-0-12-2",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-12-2",
+      "title": "MainNet upgrades to Splice 0.12.2",
+      "content_text": "Canton Calendar — Monday, March 1, 2027\nMainNet upgrades to Splice 0.12.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 1, 2027<br/>MainNet upgrades to Splice 0.12.2<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 1, 2027\nMainNet upgrades to Splice 0.12.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981643035",
+      "slug": "testnet-topology-freeze-0-12-required-february-2027",
+      "url": "https://canton.w3ai.io/feed/testnet-topology-freeze-0-12-required-february-2027",
+      "title": "TestNet Topology Freeze (0.12 Required) (February 2027)",
+      "content_text": "Canton Calendar — Tuesday, February 23, 2027\nTestNet Topology Freeze (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, February 23, 2027<br/>TestNet Topology Freeze (0.12 Required) (February 2027)<br/>Protocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, February 23, 2027\nTestNet Topology Freeze (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981642445",
+      "slug": "mainnet-breaking-config-changes-0-12-required",
+      "url": "https://canton.w3ai.io/feed/mainnet-breaking-config-changes-0-12-required",
+      "title": "MainNet Breaking Config Changes (0.12 Required)",
+      "content_text": "Canton Calendar — Tuesday, March 9, 2027\nMainNet Breaking Config Changes (0.12 Required)\nOther Network Configuration Change · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, March 9, 2027<br/>MainNet Breaking Config Changes (0.12 Required)<br/>Other Network Configuration Change · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, March 9, 2027\nMainNet Breaking Config Changes (0.12 Required)\nOther Network Configuration Change · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981642444",
+      "slug": "mainnet-upgrades-to-splice-0-12-0",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-12-0",
+      "title": "MainNet upgrades to Splice 0.12.0",
+      "content_text": "Canton Calendar — Monday, February 15, 2027\nMainNet upgrades to Splice 0.12.0\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 15, 2027<br/>MainNet upgrades to Splice 0.12.0<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 15, 2027\nMainNet upgrades to Splice 0.12.0\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981642215",
+      "slug": "devnet-upgrades-to-splice-0-12-1",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-12-1",
+      "title": "DevNet upgrades to Splice 0.12.1",
+      "content_text": "Canton Calendar — Monday, February 8, 2027\nDevNet upgrades to Splice 0.12.1\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 8, 2027<br/>DevNet upgrades to Splice 0.12.1<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 8, 2027\nDevNet upgrades to Splice 0.12.1\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981637446",
+      "slug": "devnet-breaking-config-changes-0-12-required",
+      "url": "https://canton.w3ai.io/feed/devnet-breaking-config-changes-0-12-required",
+      "title": "DevNet Breaking Config Changes (0.12 Required)",
+      "content_text": "Canton Calendar — Tuesday, February 23, 2027\nDevNet Breaking Config Changes (0.12 Required)\nOther Network Configuration Change · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, February 23, 2027<br/>DevNet Breaking Config Changes (0.12 Required)<br/>Other Network Configuration Change · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, February 23, 2027\nDevNet Breaking Config Changes (0.12 Required)\nOther Network Configuration Change · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981637063",
+      "slug": "testnet-upgrades-to-splice-0-12-0",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-12-0",
+      "title": "TestNet upgrades to Splice 0.12.0",
+      "content_text": "Canton Calendar — Monday, February 8, 2027\nTestNet upgrades to Splice 0.12.0\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 8, 2027<br/>TestNet upgrades to Splice 0.12.0<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 8, 2027\nTestNet upgrades to Splice 0.12.0\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981637055",
+      "slug": "devnet-upgrades-to-splice-0-12-2",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-12-2",
+      "title": "DevNet upgrades to Splice 0.12.2",
+      "content_text": "Canton Calendar — Monday, February 15, 2027\nDevNet upgrades to Splice 0.12.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 15, 2027<br/>DevNet upgrades to Splice 0.12.2<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 15, 2027\nDevNet upgrades to Splice 0.12.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981636932",
+      "slug": "mainnet-upgrades-to-splice-0-12-1",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-12-1",
+      "title": "MainNet upgrades to Splice 0.12.1",
+      "content_text": "Canton Calendar — Monday, February 22, 2027\nMainNet upgrades to Splice 0.12.1\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 22, 2027<br/>MainNet upgrades to Splice 0.12.1<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 22, 2027\nMainNet upgrades to Splice 0.12.1\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981636916",
+      "slug": "testnet-upgrades-to-splice-0-12-1",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-12-1",
+      "title": "TestNet upgrades to Splice 0.12.1",
+      "content_text": "Canton Calendar — Monday, February 15, 2027\nTestNet upgrades to Splice 0.12.1\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 15, 2027<br/>TestNet upgrades to Splice 0.12.1<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 15, 2027\nTestNet upgrades to Splice 0.12.1\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981636804",
+      "slug": "devnet-topology-freeze-0-12-required-february-2027",
+      "url": "https://canton.w3ai.io/feed/devnet-topology-freeze-0-12-required-february-2027",
+      "title": "DevNet Topology Freeze (0.12 Required) (February 2027)",
+      "content_text": "Canton Calendar — Tuesday, February 16, 2027\nDevNet Topology Freeze (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, February 16, 2027<br/>DevNet Topology Freeze (0.12 Required) (February 2027)<br/>Protocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, February 16, 2027\nDevNet Topology Freeze (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981634568",
+      "slug": "mainnet-topology-freeze-0-12",
+      "url": "https://canton.w3ai.io/feed/mainnet-topology-freeze-0-12",
+      "title": "MainNet Topology Freeze (0.12)",
+      "content_text": "Canton Calendar — Friday, March 5, 2027\nMainNet Topology Freeze (0.12)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Friday, March 5, 2027<br/>MainNet Topology Freeze (0.12)<br/>Protocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Friday, March 5, 2027\nMainNet Topology Freeze (0.12)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981634561",
+      "slug": "testnet-upgrades-to-splice-0-12-2",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-12-2",
+      "title": "TestNet upgrades to Splice 0.12.2",
+      "content_text": "Canton Calendar — Monday, February 22, 2027\nTestNet upgrades to Splice 0.12.2\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 22, 2027<br/>TestNet upgrades to Splice 0.12.2<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 22, 2027\nTestNet upgrades to Splice 0.12.2\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981634513",
+      "slug": "devnet-lsu-0-12-required-february-2027",
+      "url": "https://canton.w3ai.io/feed/devnet-lsu-0-12-required-february-2027",
+      "title": "DevNet LSU (0.12 Required) (February 2027)",
+      "content_text": "Canton Calendar — Wednesday, February 17, 2027\nDevNet LSU (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Wednesday, February 17, 2027<br/>DevNet LSU (0.12 Required) (February 2027)<br/>Protocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Wednesday, February 17, 2027\nDevNet LSU (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981634511",
+      "slug": "devnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/devnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
+      "title": "DevNet New Daml models introduced by Splice 0.12.x take effect",
+      "content_text": "Canton Calendar — Monday, February 15, 2027\nDevNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 15, 2027<br/>DevNet New Daml models introduced by Splice 0.12.x take effect<br/>Splice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 15, 2027\nDevNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981630900",
+      "slug": "mainnet-upgrades-to-splice-0-12-3",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-12-3",
+      "title": "MainNet upgrades to Splice 0.12.3",
+      "content_text": "Canton Calendar — Monday, March 8, 2027\nMainNet upgrades to Splice 0.12.3\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 8, 2027<br/>MainNet upgrades to Splice 0.12.3<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 8, 2027\nMainNet upgrades to Splice 0.12.3\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981630895",
+      "slug": "testnet-upgrades-to-splice-0-12-3",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-12-3",
+      "title": "TestNet upgrades to Splice 0.12.3",
+      "content_text": "Canton Calendar — Monday, March 1, 2027\nTestNet upgrades to Splice 0.12.3\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 1, 2027<br/>TestNet upgrades to Splice 0.12.3<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 1, 2027\nTestNet upgrades to Splice 0.12.3\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981630642",
+      "slug": "testnet-lsu-0-12-required-february-2027",
+      "url": "https://canton.w3ai.io/feed/testnet-lsu-0-12-required-february-2027",
+      "title": "TestNet LSU (0.12 Required) (February 2027)",
+      "content_text": "Canton Calendar — Wednesday, February 24, 2027\nTestNet LSU (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Wednesday, February 24, 2027<br/>TestNet LSU (0.12 Required) (February 2027)<br/>Protocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Wednesday, February 24, 2027\nTestNet LSU (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981630638",
+      "slug": "devnet-upgrades-to-splice-0-12-3",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-12-3",
+      "title": "DevNet upgrades to Splice 0.12.3",
+      "content_text": "Canton Calendar — Monday, February 22, 2027\nDevNet upgrades to Splice 0.12.3\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 22, 2027<br/>DevNet upgrades to Splice 0.12.3<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 22, 2027\nDevNet upgrades to Splice 0.12.3\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981629573",
+      "slug": "testnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/testnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
+      "title": "TestNet New Daml models introduced by Splice 0.12.x take effect",
+      "content_text": "Canton Calendar — Monday, February 22, 2027\nTestNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 22, 2027<br/>TestNet New Daml models introduced by Splice 0.12.x take effect<br/>Splice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 22, 2027\nTestNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981629558",
+      "slug": "mainnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/mainnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
+      "title": "MainNet New Daml models introduced by Splice 0.12.x take effect",
+      "content_text": "Canton Calendar — Monday, March 1, 2027\nMainNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, March 1, 2027<br/>MainNet New Daml models introduced by Splice 0.12.x take effect<br/>Splice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, March 1, 2027\nMainNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981629556",
+      "slug": "testnet-breaking-config-changes-0-12-required",
+      "url": "https://canton.w3ai.io/feed/testnet-breaking-config-changes-0-12-required",
+      "title": "TestNet Breaking Config Changes (0.12 Required)",
+      "content_text": "Canton Calendar — Tuesday, March 2, 2027\nTestNet Breaking Config Changes (0.12 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, March 2, 2027<br/>TestNet Breaking Config Changes (0.12 Required)<br/>Other Network Configuration Change · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, March 2, 2027\nTestNet Breaking Config Changes (0.12 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981625557",
+      "slug": "devnet-upgrades-to-splice-0-12-0",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-12-0",
+      "title": "DevNet upgrades to Splice 0.12.0",
+      "content_text": "Canton Calendar — Monday, February 1, 2027\nDevNet upgrades to Splice 0.12.0\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 1, 2027<br/>DevNet upgrades to Splice 0.12.0<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 1, 2027\nDevNet upgrades to Splice 0.12.0\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981598580",
+      "slug": "mainnet-topology-freeze-0-11",
+      "url": "https://canton.w3ai.io/feed/mainnet-topology-freeze-0-11",
+      "title": "MainNet Topology Freeze (0.11)",
+      "content_text": "Canton Calendar — Friday, February 5, 2027\nMainNet Topology Freeze (0.11)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Friday, February 5, 2027<br/>MainNet Topology Freeze (0.11)<br/>Protocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Friday, February 5, 2027\nMainNet Topology Freeze (0.11)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981598558",
+      "slug": "testnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/testnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
+      "title": "TestNet New Daml models introduced by Splice 0.11.x take effect",
+      "content_text": "Canton Calendar — Monday, January 25, 2027\nTestNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, January 25, 2027<br/>TestNet New Daml models introduced by Splice 0.11.x take effect<br/>Splice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, January 25, 2027\nTestNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981590116",
+      "slug": "testnet-upgrades-to-splice-0-11-0",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-11-0",
+      "title": "TestNet upgrades to Splice 0.11.0",
+      "content_text": "Canton Calendar — Monday, January 11, 2027\nTestNet upgrades to Splice 0.11.0\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, January 11, 2027<br/>TestNet upgrades to Splice 0.11.0<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, January 11, 2027\nTestNet upgrades to Splice 0.11.0\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981586967",
+      "slug": "mainnet-upgrades-to-splice-0-11-2",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-11-2",
+      "title": "MainNet upgrades to Splice 0.11.2",
+      "content_text": "Canton Calendar — Monday, February 1, 2027\nMainNet upgrades to Splice 0.11.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 1, 2027<br/>MainNet upgrades to Splice 0.11.2<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 1, 2027\nMainNet upgrades to Splice 0.11.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981586372",
+      "slug": "devnet-topology-freeze-0-11-required-january-2027",
+      "url": "https://canton.w3ai.io/feed/devnet-topology-freeze-0-11-required-january-2027",
+      "title": "DevNet Topology Freeze (0.11 Required) (January 2027)",
+      "content_text": "Canton Calendar — Tuesday, January 19, 2027\nDevNet Topology Freeze (0.11 Required) (January 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, January 19, 2027<br/>DevNet Topology Freeze (0.11 Required) (January 2027)<br/>Protocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, January 19, 2027\nDevNet Topology Freeze (0.11 Required) (January 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981586333",
+      "slug": "devnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/devnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
+      "title": "DevNet New Daml models introduced by Splice 0.11.x take effect",
+      "content_text": "Canton Calendar — Monday, January 18, 2027\nDevNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, January 18, 2027<br/>DevNet New Daml models introduced by Splice 0.11.x take effect<br/>Splice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, January 18, 2027\nDevNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981586311",
+      "slug": "mainnet-breaking-config-changes-0-11-required",
+      "url": "https://canton.w3ai.io/feed/mainnet-breaking-config-changes-0-11-required",
+      "title": "MainNet Breaking Config Changes (0.11 Required)",
+      "content_text": "Canton Calendar — Tuesday, February 9, 2027\nMainNet Breaking Config Changes (0.11 Required)\nOther Network Configuration Change · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, February 9, 2027<br/>MainNet Breaking Config Changes (0.11 Required)<br/>Other Network Configuration Change · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, February 9, 2027\nMainNet Breaking Config Changes (0.11 Required)\nOther Network Configuration Change · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981586273",
+      "slug": "devnet-upgrades-to-splice-0-11-2",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-11-2",
+      "title": "DevNet upgrades to Splice 0.11.2",
+      "content_text": "Canton Calendar — Monday, January 18, 2027\nDevNet upgrades to Splice 0.11.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, January 18, 2027<br/>DevNet upgrades to Splice 0.11.2<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, January 18, 2027\nDevNet upgrades to Splice 0.11.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981586149",
+      "slug": "testnet-upgrades-to-splice-0-11-2",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-11-2",
+      "title": "TestNet upgrades to Splice 0.11.2",
+      "content_text": "Canton Calendar — Monday, January 25, 2027\nTestNet upgrades to Splice 0.11.2\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, January 25, 2027<br/>TestNet upgrades to Splice 0.11.2<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, January 25, 2027\nTestNet upgrades to Splice 0.11.2\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981583252",
+      "slug": "testnet-topology-freeze-0-11-required-january-2027",
+      "url": "https://canton.w3ai.io/feed/testnet-topology-freeze-0-11-required-january-2027",
+      "title": "TestNet Topology Freeze (0.11 Required) (January 2027)",
+      "content_text": "Canton Calendar — Tuesday, January 26, 2027\nTestNet Topology Freeze (0.11 Required) (January 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, January 26, 2027<br/>TestNet Topology Freeze (0.11 Required) (January 2027)<br/>Protocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, January 26, 2027\nTestNet Topology Freeze (0.11 Required) (January 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981583203",
+      "slug": "testnet-breaking-config-changes-0-11-required",
+      "url": "https://canton.w3ai.io/feed/testnet-breaking-config-changes-0-11-required",
+      "title": "TestNet Breaking Config Changes (0.11 Required)",
+      "content_text": "Canton Calendar — Tuesday, February 2, 2027\nTestNet Breaking Config Changes (0.11 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, February 2, 2027<br/>TestNet Breaking Config Changes (0.11 Required)<br/>Other Network Configuration Change · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, February 2, 2027\nTestNet Breaking Config Changes (0.11 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981583190",
+      "slug": "mainnet-upgrades-to-splice-0-11-1",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-11-1",
+      "title": "MainNet upgrades to Splice 0.11.1",
+      "content_text": "Canton Calendar — Monday, January 25, 2027\nMainNet upgrades to Splice 0.11.1\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, January 25, 2027<br/>MainNet upgrades to Splice 0.11.1<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, January 25, 2027\nMainNet upgrades to Splice 0.11.1\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981583189",
+      "slug": "mainnet-upgrades-to-splice-0-11-0",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-11-0",
+      "title": "MainNet upgrades to Splice 0.11.0",
+      "content_text": "Canton Calendar — Monday, January 18, 2027\nMainNet upgrades to Splice 0.11.0\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, January 18, 2027<br/>MainNet upgrades to Splice 0.11.0<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, January 18, 2027\nMainNet upgrades to Splice 0.11.0\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981582870",
+      "slug": "mainnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/mainnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
+      "title": "MainNet New Daml models introduced by Splice 0.11.x take effect",
+      "content_text": "Canton Calendar — Monday, February 1, 2027\nMainNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 1, 2027<br/>MainNet New Daml models introduced by Splice 0.11.x take effect<br/>Splice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 1, 2027\nMainNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981582813",
+      "slug": "mainnet-upgrades-to-splice-0-11-3",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-11-3",
+      "title": "MainNet upgrades to Splice 0.11.3",
+      "content_text": "Canton Calendar — Monday, February 8, 2027\nMainNet upgrades to Splice 0.11.3\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 8, 2027<br/>MainNet upgrades to Splice 0.11.3<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 8, 2027\nMainNet upgrades to Splice 0.11.3\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981582805",
+      "slug": "devnet-lsu-0-11-required-january-2026",
+      "url": "https://canton.w3ai.io/feed/devnet-lsu-0-11-required-january-2026",
+      "title": "DevNet LSU (0.11 Required) (January 2026)",
+      "content_text": "Canton Calendar — Wednesday, January 20, 2027\nDevNet LSU (0.11 Required) (January 2026)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Wednesday, January 20, 2027<br/>DevNet LSU (0.11 Required) (January 2026)<br/>Protocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Wednesday, January 20, 2027\nDevNet LSU (0.11 Required) (January 2026)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981582760",
+      "slug": "testnet-upgrades-to-splice-0-11-3",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-11-3",
+      "title": "TestNet upgrades to Splice 0.11.3",
+      "content_text": "Canton Calendar — Monday, February 1, 2027\nTestNet upgrades to Splice 0.11.3\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, February 1, 2027<br/>TestNet upgrades to Splice 0.11.3<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, February 1, 2027\nTestNet upgrades to Splice 0.11.3\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981571281",
+      "slug": "devnet-breaking-config-changes-0-11-required",
+      "url": "https://canton.w3ai.io/feed/devnet-breaking-config-changes-0-11-required",
+      "title": "DevNet Breaking Config Changes (0.11 Required)",
+      "content_text": "Canton Calendar — Tuesday, January 26, 2027\nDevNet Breaking Config Changes (0.11 Required)\nOther Network Configuration Change · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, January 26, 2027<br/>DevNet Breaking Config Changes (0.11 Required)<br/>Other Network Configuration Change · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, January 26, 2027\nDevNet Breaking Config Changes (0.11 Required)\nOther Network Configuration Change · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981570670",
+      "slug": "testnet-lsu-0-11-required-january-2027",
+      "url": "https://canton.w3ai.io/feed/testnet-lsu-0-11-required-january-2027",
+      "title": "TestNet LSU (0.11 Required) (January 2027)",
+      "content_text": "Canton Calendar — Wednesday, January 27, 2027\nTestNet LSU (0.11 Required) (January 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Wednesday, January 27, 2027<br/>TestNet LSU (0.11 Required) (January 2027)<br/>Protocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Wednesday, January 27, 2027\nTestNet LSU (0.11 Required) (January 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981570271",
+      "slug": "testnet-upgrades-to-splice-0-11-1",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-11-1",
+      "title": "TestNet upgrades to Splice 0.11.1",
+      "content_text": "Canton Calendar — Monday, January 18, 2027\nTestNet upgrades to Splice 0.11.1\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, January 18, 2027<br/>TestNet upgrades to Splice 0.11.1<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, January 18, 2027\nTestNet upgrades to Splice 0.11.1\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981559687",
+      "slug": "mainnet-lsu-0-11-required-february-2027",
+      "url": "https://canton.w3ai.io/feed/mainnet-lsu-0-11-required-february-2027",
+      "title": "MainNet LSU (0.11 Required) (February 2027)",
+      "content_text": "Canton Calendar — Saturday, February 6, 2027\nMainNet LSU (0.11 Required) (February 2027)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Saturday, February 6, 2027<br/>MainNet LSU (0.11 Required) (February 2027)<br/>Protocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Saturday, February 6, 2027\nMainNet LSU (0.11 Required) (February 2027)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981559650",
+      "slug": "devnet-upgrades-to-splice-0-11-0",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-11-0",
+      "title": "DevNet upgrades to Splice 0.11.0",
+      "content_text": "Canton Calendar — Monday, December 7, 2026\nDevNet upgrades to Splice 0.11.0\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, December 7, 2026<br/>DevNet upgrades to Splice 0.11.0<br/>Weekly Upgrades · DevNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, December 7, 2026\nDevNet upgrades to Splice 0.11.0\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981549327",
+      "slug": "devnet-upgrades-to-splice-0-11-1",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-11-1",
+      "title": "DevNet upgrades to Splice 0.11.1",
+      "content_text": "Canton Calendar — Monday, January 11, 2027\nDevNet upgrades to Splice 0.11.1\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, January 11, 2027<br/>DevNet upgrades to Splice 0.11.1<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, January 11, 2027\nDevNet upgrades to Splice 0.11.1\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12981548855",
+      "slug": "devnet-upgrades-to-splice-0-11-3",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-11-3",
+      "title": "DevNet upgrades to Splice 0.11.3",
+      "content_text": "Canton Calendar — Monday, January 25, 2027\nDevNet upgrades to Splice 0.11.3\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, January 25, 2027<br/>DevNet upgrades to Splice 0.11.3<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, January 25, 2027\nDevNet upgrades to Splice 0.11.3\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690976431",
+      "slug": "mainnet-daml-models-introduced-by-splice-0-10-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/mainnet-daml-models-introduced-by-splice-0-10-x-take-effect",
+      "title": "MainNet: Daml models introduced by Splice 0.10.x take effect",
+      "content_text": "Canton Calendar — Tuesday, December 1, 2026\nMainNet: Daml models introduced by Splice 0.10.x take effect\nSplice Daml Model Effectivity · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, December 1, 2026<br/>MainNet: Daml models introduced by Splice 0.10.x take effect<br/>Splice Daml Model Effectivity · MainNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, December 1, 2026\nMainNet: Daml models introduced by Splice 0.10.x take effect\nSplice Daml Model Effectivity · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690976366",
+      "slug": "mainnet-breaking-configuration-changes-introduced-by-splice-0-10-x-tak",
+      "url": "https://canton.w3ai.io/feed/mainnet-breaking-configuration-changes-introduced-by-splice-0-10-x-tak",
+      "title": "MainNet: Breaking configuration changes introduced by Splice 0.10.x take effect",
+      "content_text": "Canton Calendar — Tuesday, December 8, 2026\nMainNet: Breaking configuration changes introduced by Splice 0.10.x take effect\nOther Network Configuration Change · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, December 8, 2026<br/>MainNet: Breaking configuration changes introduced by Splice 0.10.x take effect<br/>Other Network Configuration Change · MainNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, December 8, 2026\nMainNet: Breaking configuration changes introduced by Splice 0.10.x take effect\nOther Network Configuration Change · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690976140",
+      "slug": "testnet-daml-models-introduced-by-splice-0-10-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/testnet-daml-models-introduced-by-splice-0-10-x-take-effect",
+      "title": "TestNet: Daml models introduced by Splice 0.10.x take effect",
+      "content_text": "Canton Calendar — Tuesday, November 24, 2026\nTestNet: Daml models introduced by Splice 0.10.x take effect\nSplice Daml Model Effectivity · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, November 24, 2026<br/>TestNet: Daml models introduced by Splice 0.10.x take effect<br/>Splice Daml Model Effectivity · TestNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, November 24, 2026\nTestNet: Daml models introduced by Splice 0.10.x take effect\nSplice Daml Model Effectivity · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690975783",
+      "slug": "devnet-breaking-configuration-changes-introduced-by-splice-0-10-x-take",
+      "url": "https://canton.w3ai.io/feed/devnet-breaking-configuration-changes-introduced-by-splice-0-10-x-take",
+      "title": "DevNet: Breaking configuration changes introduced by Splice 0.10.x take effect",
+      "content_text": "Canton Calendar — Tuesday, November 24, 2026\nDevNet: Breaking configuration changes introduced by Splice 0.10.x take effect\nOther Network Configuration Change · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, November 24, 2026<br/>DevNet: Breaking configuration changes introduced by Splice 0.10.x take effect<br/>Other Network Configuration Change · DevNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, November 24, 2026\nDevNet: Breaking configuration changes introduced by Splice 0.10.x take effect\nOther Network Configuration Change · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690975704",
+      "slug": "testnet-upgrades-to-splice-0-10-2",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-10-2",
+      "title": "TestNet upgrades to Splice 0.10.2",
+      "content_text": "Canton Calendar — Monday, November 23, 2026\nTestNet upgrades to Splice 0.10.2\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, November 23, 2026<br/>TestNet upgrades to Splice 0.10.2<br/>Weekly Upgrades · TestNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, November 23, 2026\nTestNet upgrades to Splice 0.10.2\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690975690",
+      "slug": "devnet-upgrades-to-splice-0-10-3",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-10-3",
+      "title": "DevNet upgrades to Splice 0.10.3",
+      "content_text": "Canton Calendar — Monday, November 23, 2026\nDevNet upgrades to Splice 0.10.3\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, November 23, 2026<br/>DevNet upgrades to Splice 0.10.3<br/>Weekly Upgrades · DevNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, November 23, 2026\nDevNet upgrades to Splice 0.10.3\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690957648",
+      "slug": "testnet-upgrades-to-splice-0-10-3",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-10-3",
+      "title": "TestNet upgrades to Splice 0.10.3",
+      "content_text": "Canton Calendar — Monday, November 30, 2026\nTestNet upgrades to Splice 0.10.3\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, November 30, 2026<br/>TestNet upgrades to Splice 0.10.3<br/>Weekly Upgrades · TestNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, November 30, 2026\nTestNet upgrades to Splice 0.10.3\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690957127",
+      "slug": "testnet-logical-synchronizer-upgrade-0-10-x-required-november-2026",
+      "url": "https://canton.w3ai.io/feed/testnet-logical-synchronizer-upgrade-0-10-x-required-november-2026",
+      "title": "TestNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)",
+      "content_text": "Canton Calendar — Wednesday, November 25, 2026\nTestNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Wednesday, November 25, 2026<br/>TestNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)<br/>Protocol Upgrades (LSU) · TestNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Wednesday, November 25, 2026\nTestNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690956723",
+      "slug": "mainnet-upgrades-to-splice-0-10-0",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-0",
+      "title": "MainNet upgrades to Splice 0.10.0",
+      "content_text": "Canton Calendar — Monday, November 16, 2026\nMainNet upgrades to Splice 0.10.0\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, November 16, 2026<br/>MainNet upgrades to Splice 0.10.0<br/>Weekly Upgrades · MainNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, November 16, 2026\nMainNet upgrades to Splice 0.10.0\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690956494",
+      "slug": "testnet-upgrades-to-splice-0-10-1",
+      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-10-1",
+      "title": "TestNet upgrades to Splice 0.10.1",
+      "content_text": "Canton Calendar — Monday, November 16, 2026\nTestNet upgrades to Splice 0.10.1\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, November 16, 2026<br/>TestNet upgrades to Splice 0.10.1<br/>Weekly Upgrades · TestNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, November 16, 2026\nTestNet upgrades to Splice 0.10.1\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690956490",
+      "slug": "devnet-logical-synchronizer-upgrade-0-10-x-required-november-2026",
+      "url": "https://canton.w3ai.io/feed/devnet-logical-synchronizer-upgrade-0-10-x-required-november-2026",
+      "title": "DevNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)",
+      "content_text": "Canton Calendar — Wednesday, November 18, 2026\nDevNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Wednesday, November 18, 2026<br/>DevNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)<br/>Protocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Wednesday, November 18, 2026\nDevNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690943575",
+      "slug": "mainnet-topology-freeze-0-10-x-required-december-2026",
+      "url": "https://canton.w3ai.io/feed/mainnet-topology-freeze-0-10-x-required-december-2026",
+      "title": "MainNet: Topology Freeze (0.10.x Required) (December 2026)",
+      "content_text": "Canton Calendar — Friday, December 11, 2026\nMainNet: Topology Freeze (0.10.x Required) (December 2026)\nProtocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Friday, December 11, 2026<br/>MainNet: Topology Freeze (0.10.x Required) (December 2026)<br/>Protocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Friday, December 11, 2026\nMainNet: Topology Freeze (0.10.x Required) (December 2026)\nProtocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690943471",
+      "slug": "testnet-breaking-configuration-changes-introduced-by-splice-0-10-x-tak",
+      "url": "https://canton.w3ai.io/feed/testnet-breaking-configuration-changes-introduced-by-splice-0-10-x-tak",
+      "title": "TestNet: Breaking configuration changes introduced by Splice 0.10.x take effect",
+      "content_text": "Canton Calendar — Tuesday, December 1, 2026\nTestNet: Breaking configuration changes introduced by Splice 0.10.x take effect\nOther Network Configuration Change · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, December 1, 2026<br/>TestNet: Breaking configuration changes introduced by Splice 0.10.x take effect<br/>Other Network Configuration Change · TestNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, December 1, 2026\nTestNet: Breaking configuration changes introduced by Splice 0.10.x take effect\nOther Network Configuration Change · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690884026",
+      "slug": "devnet-daml-models-introduced-by-splice-0-10-0-take-effect",
+      "url": "https://canton.w3ai.io/feed/devnet-daml-models-introduced-by-splice-0-10-0-take-effect",
+      "title": "DevNet: Daml models introduced by Splice 0.10.0 take effect",
+      "content_text": "Canton Calendar — Tuesday, November 17, 2026\nDevNet: Daml models introduced by Splice 0.10.0 take effect\nSplice Daml Model Effectivity · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, November 17, 2026<br/>DevNet: Daml models introduced by Splice 0.10.0 take effect<br/>Splice Daml Model Effectivity · DevNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, November 17, 2026\nDevNet: Daml models introduced by Splice 0.10.0 take effect\nSplice Daml Model Effectivity · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690883723",
+      "slug": "mainnet-breaking-configurations-introduced-by-splice-0-9-x-take-effect",
+      "url": "https://canton.w3ai.io/feed/mainnet-breaking-configurations-introduced-by-splice-0-9-x-take-effect",
+      "title": "MainNet: Breaking configurations introduced by Splice 0.9.x take effect",
+      "content_text": "Canton Calendar — Tuesday, November 17, 2026\nMainNet: Breaking configurations introduced by Splice 0.9.x take effect\nOther Network Configuration Change · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, November 17, 2026<br/>MainNet: Breaking configurations introduced by Splice 0.9.x take effect<br/>Other Network Configuration Change · MainNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, November 17, 2026\nMainNet: Breaking configurations introduced by Splice 0.9.x take effect\nOther Network Configuration Change · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690867807",
+      "slug": "devnet-upgrades-to-splice-0-10-4",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-10-4",
+      "title": "DevNet upgrades to Splice 0.10.4",
+      "content_text": "Canton Calendar — Monday, November 30, 2026\nDevNet upgrades to Splice 0.10.4\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, November 30, 2026<br/>DevNet upgrades to Splice 0.10.4<br/>Weekly Upgrades · DevNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, November 30, 2026\nDevNet upgrades to Splice 0.10.4\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690867758",
+      "slug": "mainnet-upgrades-to-splice-0-10-2",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-2",
+      "title": "MainNet upgrades to Splice 0.10.2",
+      "content_text": "Canton Calendar — Monday, November 30, 2026\nMainNet upgrades to Splice 0.10.2\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, November 30, 2026<br/>MainNet upgrades to Splice 0.10.2<br/>Weekly Upgrades · MainNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, November 30, 2026\nMainNet upgrades to Splice 0.10.2\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690867545",
+      "slug": "testnet-topology-freeze-0-10-x-required-november-2026",
+      "url": "https://canton.w3ai.io/feed/testnet-topology-freeze-0-10-x-required-november-2026",
+      "title": "TestNet: Topology Freeze (0.10.x Required) (November 2026)",
+      "content_text": "Canton Calendar — Tuesday, November 24, 2026\nTestNet: Topology Freeze (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, November 24, 2026<br/>TestNet: Topology Freeze (0.10.x Required) (November 2026)<br/>Protocol Upgrades (LSU) · TestNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, November 24, 2026\nTestNet: Topology Freeze (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690852435",
+      "slug": "mainnet-logical-synchronizer-upgrade-0-10-x-required-december-2026",
+      "url": "https://canton.w3ai.io/feed/mainnet-logical-synchronizer-upgrade-0-10-x-required-december-2026",
+      "title": "MainNet: Logical Synchronizer Upgrade (0.10.x Required) (December 2026)",
+      "content_text": "Canton Calendar — Saturday, December 12, 2026\nMainNet: Logical Synchronizer Upgrade (0.10.x Required) (December 2026)\nProtocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Saturday, December 12, 2026<br/>MainNet: Logical Synchronizer Upgrade (0.10.x Required) (December 2026)<br/>Protocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Saturday, December 12, 2026\nMainNet: Logical Synchronizer Upgrade (0.10.x Required) (December 2026)\nProtocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690828896",
+      "slug": "devnet-topology-freeze-0-10-x-required-november-2026",
+      "url": "https://canton.w3ai.io/feed/devnet-topology-freeze-0-10-x-required-november-2026",
+      "title": "DevNet: Topology Freeze (0.10.x Required) (November 2026)",
+      "content_text": "Canton Calendar — Tuesday, November 17, 2026\nDevNet: Topology Freeze (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Tuesday, November 17, 2026<br/>DevNet: Topology Freeze (0.10.x Required) (November 2026)<br/>Protocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Tuesday, November 17, 2026\nDevNet: Topology Freeze (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690820725",
+      "slug": "mainnet-upgrades-to-splice-0-10-1",
+      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-1",
+      "title": "MainNet upgrades to Splice 0.10.1",
+      "content_text": "Canton Calendar — Monday, November 23, 2026\nMainNet upgrades to Splice 0.10.1\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, November 23, 2026<br/>MainNet upgrades to Splice 0.10.1<br/>Weekly Upgrades · MainNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, November 23, 2026\nMainNet upgrades to Splice 0.10.1\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
+    {
+      "id": "canton-event-sv-12690820594",
+      "slug": "devnet-upgrades-to-splice-0-10-2",
+      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-10-2",
+      "title": "DevNet upgrades to Splice 0.10.2",
+      "content_text": "Canton Calendar — Monday, November 16, 2026\nDevNet upgrades to Splice 0.10.2\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "content_html": "<p>Canton Calendar — Monday, November 16, 2026<br/>DevNet upgrades to Splice 0.10.2<br/>Weekly Upgrades · DevNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
+      "date_published": "2026-11-14T06:35:31-05:00",
+      "date_modified": "2026-11-14T06:35:31-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
+      "body": "Canton Calendar — Monday, November 16, 2026\nDevNet upgrades to Splice 0.10.2\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
+      "image_url": null,
+      "published": "2026-11-14T06:35:31-05:00",
+      "kind": "calendar-event"
+    },
     {
       "id": "canton-2026-11-14_0612-est",
       "slug": "tritemius-expands-its-ios-wallet-through-testflight-adding-canton-asse",
