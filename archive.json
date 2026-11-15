@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-15_1042-est",
+      "slug": "cantex-adds-optional-two-factor-authentication-for-actions-that-move-a",
+      "title": "Cantex adds optional two-factor authentication for actions that move assets or grant permissions",
+      "body": "Canton Signal Feed (Nov 15, 2026 · 10:42 AM ET)\n- **Cantex adds optional two-factor authentication for actions that move assets or grant permissions** — The wallet update covers withdrawals, transfers, pre-approvals and bridge transactions, adding another check beyond the initial sign-in that users can choose to apply to those actions; it is an optional setting, not a mandatory change for all accounts (CantonNews)\n- **The Hub reports 1,000 members on Canton, combining creator content with tradable community tickets** — The Hub says its platform combines creator content, live rooms and tradable community tickets on Canton and has announced 1,000 members; the figure is a milestone reported by the project itself and follows an earlier SprintFAM creator-network partnership, although the posts do not establish how many sign-ups came from that collaboration (CantonNews)\n- **Canton Coin spot prices widen to 4.88% apart across exchanges, with no route rated worth taking outright** — A live scan at 16:06 UTC on November 15 puts CC cheapest on MEXC at $0.078756 and dearest on OKX at $0.082602 across 11 exchanges with a liquid spot market, widened from 4.61% recorded at 9:12 AM; the widest route, buying on MEXC and selling on OKX at 4.26% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.68% after fees, and all 18 routes in profit are rated risky with none rated take (ArbitrageGap)\n- **Canton perpetuals are flagged as shorts crowded, with negative funding as open interest eases** — GetCoinSight's November 15 read at 16:02 UTC flags Canton CC as shorts crowded, with CC at $0.08255, funding at -0.0439% on an 8-hour equivalent basis and open interest across four venues at $29.2 million; crowded short positioning is a positioning label from the screener, not a forecast of a squeeze (GetCoinSight)\n\nNetwork: CC $0.0822 | Market cap $3.29B (rank 25) | 24h volume $20.70M | Supply 40,058,671,403 CC; milestone: live MainNet rewards (24h) rise to 9.5M CC, up from 9.1M at 10:12 AM, with current activity at 1.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (Criptano for market data; CantonNews for the milestone)",
+      "timestamp": "2026-11-15T10:42:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/cantex-adds-optional-two-factor-authentication-for-actions-that-move-a",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-15_1012-est",
       "slug": "about-79-of-canton-transactions-were-executed-privately-over-a-24-hour",
       "title": "About 79% of Canton transactions were executed privately over a 24-hour window in November",
