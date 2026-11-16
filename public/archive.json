@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-15_1912-est",
+      "slug": "canton-coin-climbs-10-16-in-24-hours-to-0-0852-as-its-market-cap-reach",
+      "title": "Canton Coin climbs 10.16% in 24 hours to $0.0852 as its market cap reaches $3.41 billion",
+      "body": "Canton Signal Feed (Nov 15, 2026 · 7:12 PM ET)\n- **Canton Coin climbs 10.16% in 24 hours to $0.0852 as its market cap reaches $3.41 billion** — The November 16 read at 00:15 UTC puts Canton Coin at rank 25 with 24-hour volume of $18.00 million, still down 5.13% over seven days and 59% below its all-time high of $0.1942; the read notes no specific recent catalyst and attributes the move to a broader crypto market advance despite extreme fear conditions (Criptano)\n- **Canton DeFi locked value stands at $11.5 million as 24-hour DEX volume eases to $16.66 million** — DefiLlama's November 15 snapshot puts total value locked down 2.70% in 24 hours, with DEX volume at $16.66 million, down from $16.89 million recorded at 4:12 PM, perps volume at $237,843, Temple still largest at $6.12 million ahead of Alpend at $1.91 million, Cantex at $1.79 million and Tradecraft at $1.47 million, across eight tracked protocols (DefiLlama)\n- **Console Wallet reports full service restoration after a precautionary suspension following suspicious activity** — In its November 12 update, Console said it was fully operational after suspending services the previous week as a precaution; the restoration is the project's reported status and the short notice does not provide a full incident analysis (CantonNews)\n- **Canton Coin spot prices sit 4.23% apart across exchanges, with no route rated worth taking outright** — A live scan at 00:13 UTC on November 16 puts Canton Coin cheapest on WEEX at $0.08176 and dearest on OKX at $0.085221 across 11 exchanges with a liquid spot market, changed from 4.70% recorded at 5:42 PM; the widest route, buying on WEEX and selling on OKX at 3.86% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.61% after fees, and all 15 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.0852 | Market cap $3.41B (rank 25) | 24h volume $18.00M | Supply 40,059,986,477 CC; milestone: live MainNet rewards (24h) rise to 13.9M CC, up from 13.2M CC at 5:42 PM, with current activity at 3.00 TPS, total transactions at 603.6M, total parties at 948.0K, total burned at 6.05B CC, about 1.6K validators, 13 Super Validators and 6 active proposals, with the MainNet upgrade to Splice 0.10.0 listed for November 16 (Criptano for market data; CantonNews for the milestone)",
+      "timestamp": "2026-11-15T19:12:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-climbs-10-16-in-24-hours-to-0-0852-as-its-market-cap-reach",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-15_1742-est",
       "slug": "sec-staff-no-action-relief-for-canton-coin-is-narrow-covering-only-the",
       "title": "SEC staff no-action relief for Canton Coin is narrow, covering only the programmatic minting described in Digital Asset's October 30 request",
