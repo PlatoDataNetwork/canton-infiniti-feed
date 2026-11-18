@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-18_1212-est",
+      "slug": "kaiko-extends-its-series-b-to-110-million-led-by-s-p-global-with-canton-also-participating",
+      "title": "Kaiko extends its Series B to $110 million, led by S&P Global with Canton also participating",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 12:12 PM ET)\n- **Kaiko extends its Series B to $110 million, led by S&P Global with Canton also participating** — The market-data provider, which is a Canton Super Validator, announced the extension on September 14 with S&P Global leading and Canton joining among other strategic investors; the company describes the round as a significant investment in data and data infrastructure from institutions that lead capital markets and digital assets, and no valuation or use-of-proceeds breakdown beyond that description was disclosed in the announcement (Canton Network Forum)\n- **CC Space launches its AI network explorer on Canton TestNet, with browsing open and 500 free credits on signup** — The AI-powered explorer lets users ask questions about the network based on indexed data, explore consensus, on-chain activity, governance and detailed analytics, and track validators or parties or start building with the API before MainNet; no account is needed to browse, and signing up gives 500 free credits to try the AI assistant, alerts and API (CC Space)\n- **CC Space cuts alert delivery cost tenfold to 5 credits and expands triggers across more channels** — Alert deliveries fall from 50 credits to 5, about 1.5 cents per notification, with expanded triggers covering validator and Super Validator health, traffic runway, Featured App compliance, party balances and governance proposals, delivered across web, email, Telegram, Slack, PagerDuty and webhook (CC Space)\n- **Canton Coin spot prices sit 5.18% apart across exchanges, with no route rated worth taking outright** — A live scan at 17:13 UTC on November 18 puts Canton Coin cheapest on WEEX at $0.078395 and dearest on Bitrue at $0.082455 across 13 exchanges with a liquid spot market, widened from 5.02% recorded at 10:12 AM; the widest route, buying on MEXC and selling on LBank at 4.54% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Hyperliquid at 0.24% after fees, and no route is rated take (ArbitrageGap)\n\nNetwork: CC $0.0819 | Market cap $3.28B (rank 25) | 24h volume $12.68M | Supply 40,072,723,113 CC, up 3.02% in 24 hours and down 10.56% over seven days as of the 17:00 UTC November 18 read; milestone: live MainNet rewards over the past 24 hours rise to 10.5M CC, up from 10.3M CC at 11:42 AM, with current activity at 1.00 TPS, about 1.6K validators and 13 Super Validators (Criptano for market data; CantonNews for the milestone)",
+      "timestamp": "2026-11-18T12:12:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/kaiko-extends-its-series-b-to-110-million-led-by-s-p-global-with-canton-also-participating",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-18_1142-est",
       "slug": "capconnect-enters-a-canton-super-validator-vote-with-a-plan-to-settle-commercial-paper-and",
       "title": "CapConnect+ enters a Canton Super Validator vote with a plan to settle commercial paper and its cash payment together on the network",
