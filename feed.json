@@ -29,8 +29,104 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-18T08:12:00-05:00",
+  "updated": "2026-11-18T10:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-18_1012-est",
+      "slug": "openassets-brings-its-markets-in-a-box-tokenization-platform-to-canton-as-a-da-registry-im",
+      "url": "https://canton.w3ai.io/feed/openassets-brings-its-markets-in-a-box-tokenization-platform-to-canton-as-a-da-registry-im",
+      "title": "OpenAssets brings its markets-in-a-box tokenization platform to Canton as a DA Registry implementation partner",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 10:12 AM ET)\n- **OpenAssets brings its markets-in-a-box tokenization platform to Canton as a DA Registry implementation partner** — In the November 5 collaboration with Digital Asset, OpenAssets will make its platform, which combines tokenized asset issuance, settlement, compliance, asset management and distribution in one stack, available to institutions on Canton, serving as an implementation partner for DA Registry, Digital Asset's tokenization engine; DA Registry adds allowlist, blocklist and transfer-approval controls connected to external KYC and AML providers, only the parties to a transaction can see it on Canton, and assets can take part in atomic settlement, collateral management and cross-application lending, with DA Registry already enabling more than 30 issuers and tokenization platforms on the network and no launch date or first customer disclosed (PR Newswire)\n- **Canton accounts for $320.7 billion of the $366 billion in represented tokenized assets tracked on RWA.xyz** — The November 7 snapshot puts Canton far ahead of other networks on that measure, with the total almost entirely driven by Broadridge's Distributed Ledger Repo platform, which uses Canton technology to manage short-term repo loans backed by U.S. government bonds and reported $7.5 trillion in transaction volume for September 2026; represented assets are positions recorded on the ledger rather than freely traded onchain assets, and Finadium analysts describe Canton at this stage as a specialised record-keeping layer rather than a decentralised distribution network (RWA Signal)\n- **About 79% of Canton transactions were executed privately in a 24-hour November window** — The November 14 review, drawing on CantonScan data, puts roughly 79% of transactions over the window as fully private under Daml-based smart contracts, with Digital Asset's institutional expansion supported by its $355 million June 2026 funding round and the October 2026 DTCC tokenization rollout; the figure describes the share of private execution, not total network volume (Basis Desk)\n- **Canton Coin spot prices sit 5.02% apart across exchanges, with no route rated worth taking outright** — A live scan at 15:31 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.079036 and dearest on Bitrue at $0.083005 across 13 exchanges with a liquid spot market, narrowed from 6.96% recorded this morning; the widest route, buying on MEXC and selling on LBank at 4.45% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.20% after fees, and all 9 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.0829 | Market cap $3.30B (rank 26) | 24h volume $13.46M | Supply 40,070,342,939 CC, up 1.31% in 24 hours with a 24-hour range of $0.0787 to $0.0857 as of the 14:22 UTC November 18 read; milestone: the network's infrastructure is supported by 827 validators, including 63 invitation-only Super Validators managed by the Canton Foundation (COINOTAG for market data; RWA Signal for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 10:12 AM ET)<br/>- **OpenAssets brings its markets-in-a-box tokenization platform to Canton as a DA Registry implementation partner** — In the November 5 collaboration with Digital Asset, OpenAssets will make its platform, which combines tokenized asset issuance, settlement, compliance, asset management and distribution in one stack, available to institutions on Canton, serving as an implementation partner for DA Registry, Digital Asset&#x27;s tokenization engine; DA Registry adds allowlist, blocklist and transfer-approval controls connected to external KYC and AML providers, only the parties to a transaction can see it on Canton, and assets can take part in atomic settlement, collateral management and cross-application lending, with DA Registry already enabling more than 30 issuers and tokenization platforms on the network and no launch date or first customer disclosed (PR Newswire)<br/>- **Canton accounts for $320.7 billion of the $366 billion in represented tokenized assets tracked on RWA.xyz** — The November 7 snapshot puts Canton far ahead of other networks on that measure, with the total almost entirely driven by Broadridge&#x27;s Distributed Ledger Repo platform, which uses Canton technology to manage short-term repo loans backed by U.S. government bonds and reported $7.5 trillion in transaction volume for September 2026; represented assets are positions recorded on the ledger rather than freely traded onchain assets, and Finadium analysts describe Canton at this stage as a specialised record-keeping layer rather than a decentralised distribution network (RWA Signal)<br/>- **About 79% of Canton transactions were executed privately in a 24-hour November window** — The November 14 review, drawing on CantonScan data, puts roughly 79% of transactions over the window as fully private under Daml-based smart contracts, with Digital Asset&#x27;s institutional expansion supported by its $355 million June 2026 funding round and the October 2026 DTCC tokenization rollout; the figure describes the share of private execution, not total network volume (Basis Desk)<br/>- **Canton Coin spot prices sit 5.02% apart across exchanges, with no route rated worth taking outright** — A live scan at 15:31 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.079036 and dearest on Bitrue at $0.083005 across 13 exchanges with a liquid spot market, narrowed from 6.96% recorded this morning; the widest route, buying on MEXC and selling on LBank at 4.45% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.20% after fees, and all 9 routes in profit are rated risky with none rated take (ArbitrageGap)<br/><br/>Network: CC $0.0829 | Market cap $3.30B (rank 26) | 24h volume $13.46M | Supply 40,070,342,939 CC, up 1.31% in 24 hours with a 24-hour range of $0.0787 to $0.0857 as of the 14:22 UTC November 18 read; milestone: the network&#x27;s infrastructure is supported by 827 validators, including 63 invitation-only Super Validators managed by the Canton Foundation (COINOTAG for market data; RWA Signal for the milestone)</p>",
+      "date_published": "2026-11-18T10:12:00-05:00",
+      "date_modified": "2026-11-18T10:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 10:12 AM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 10:12 AM ET)\n- **OpenAssets brings its markets-in-a-box tokenization platform to Canton as a DA Registry implementation partner** — In the November 5 collaboration with Digital Asset, OpenAssets will make its platform, which combines tokenized asset issuance, settlement, compliance, asset management and distribution in one stack, available to institutions on Canton, serving as an implementation partner for DA Registry, Digital Asset's tokenization engine; DA Registry adds allowlist, blocklist and transfer-approval controls connected to external KYC and AML providers, only the parties to a transaction can see it on Canton, and assets can take part in atomic settlement, collateral management and cross-application lending, with DA Registry already enabling more than 30 issuers and tokenization platforms on the network and no launch date or first customer disclosed (PR Newswire)\n- **Canton accounts for $320.7 billion of the $366 billion in represented tokenized assets tracked on RWA.xyz** — The November 7 snapshot puts Canton far ahead of other networks on that measure, with the total almost entirely driven by Broadridge's Distributed Ledger Repo platform, which uses Canton technology to manage short-term repo loans backed by U.S. government bonds and reported $7.5 trillion in transaction volume for September 2026; represented assets are positions recorded on the ledger rather than freely traded onchain assets, and Finadium analysts describe Canton at this stage as a specialised record-keeping layer rather than a decentralised distribution network (RWA Signal)\n- **About 79% of Canton transactions were executed privately in a 24-hour November window** — The November 14 review, drawing on CantonScan data, puts roughly 79% of transactions over the window as fully private under Daml-based smart contracts, with Digital Asset's institutional expansion supported by its $355 million June 2026 funding round and the October 2026 DTCC tokenization rollout; the figure describes the share of private execution, not total network volume (Basis Desk)\n- **Canton Coin spot prices sit 5.02% apart across exchanges, with no route rated worth taking outright** — A live scan at 15:31 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.079036 and dearest on Bitrue at $0.083005 across 13 exchanges with a liquid spot market, narrowed from 6.96% recorded this morning; the widest route, buying on MEXC and selling on LBank at 4.45% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.20% after fees, and all 9 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.0829 | Market cap $3.30B (rank 26) | 24h volume $13.46M | Supply 40,070,342,939 CC, up 1.31% in 24 hours with a 24-hour range of $0.0787 to $0.0857 as of the 14:22 UTC November 18 read; milestone: the network's infrastructure is supported by 827 validators, including 63 invitation-only Super Validators managed by the Canton Foundation (COINOTAG for market data; RWA Signal for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T10:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-18_0942-est",
+      "slug": "canton-foundation-opens-community-research-grants-with-up-to-50-000-canton-coin-a-month-fo",
+      "url": "https://canton.w3ai.io/feed/canton-foundation-opens-community-research-grants-with-up-to-50-000-canton-coin-a-month-fo",
+      "title": "Canton Foundation opens Community Research Grants with up to 50,000 Canton Coin a month for independent research and education",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 9:42 AM ET)\n- **Canton Foundation opens Community Research Grants with up to 50,000 Canton Coin a month for independent research and education** — The discretionary programme, published November 4, considers original research and educational content publicly published between November 1 and November 30, 2026 for its first round, with work shared by December 4 to be reviewed in connection with November; the Foundation may award less than the full monthly amount or nothing at all, full terms including eligibility, identity verification and sanctions screening were expected on or before November 15, and no grant will be made before those terms are published or without a signed grant agreement (Canton Foundation)\n- **FTP Tech links ChatGPT and Claude to a Canton agent wallet through a hosted MCP server, with user-set spending caps** — The validator operator's Model Context Protocol server lets a user ask a chatbot to research a tokenized asset and then buy it with Canton Coin in the same conversation; in the published demo an agent swaps 100 CC into tokenized silver and ETH for a 0.01 CC fee per trade, daily and per-payment caps are set on the wallet by the user and can be changed at any time, and availability and supported assets beyond the demo have not been independently confirmed (FTP Tech)\n- **Upflam payments and wallet platform opens to everyone on Canton, dropping its invite-only access** — Anyone can now sign up, create a Canton wallet and take payments through payment links, invoices, donation pages, embeddable buttons, recurring AutoPay and a WooCommerce plugin, with a 0.1% fee on incoming payments; fiat access and Shopify support remain planned rather than live (Canton Network Forum)\n- **Canton Dev Fund analysis finds failed funding votes expire from absent voters, not rejections** — A community analysis of the Dev Fund repository finds seven funding votes failed with almost no votes against: they simply expired after 21 days because the 51%-of-eligible-voters threshold was never met, and four were reopened within days; it also warns that repository labels undercount failures because reopening a vote resets them (CC Space)\n\nNetwork: CC $0.0829 | Market cap $3.32B (rank 26) | 24h volume $13.18M | Supply 40,072,723,113 CC, up 1.69% in 24 hours and down 9.80% over seven days as of the 15:00 UTC November 18 read; milestone: live MainNet rewards over the past 24 hours stand at 9.3M CC (Criptano for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 9:42 AM ET)<br/>- **Canton Foundation opens Community Research Grants with up to 50,000 Canton Coin a month for independent research and education** — The discretionary programme, published November 4, considers original research and educational content publicly published between November 1 and November 30, 2026 for its first round, with work shared by December 4 to be reviewed in connection with November; the Foundation may award less than the full monthly amount or nothing at all, full terms including eligibility, identity verification and sanctions screening were expected on or before November 15, and no grant will be made before those terms are published or without a signed grant agreement (Canton Foundation)<br/>- **FTP Tech links ChatGPT and Claude to a Canton agent wallet through a hosted MCP server, with user-set spending caps** — The validator operator&#x27;s Model Context Protocol server lets a user ask a chatbot to research a tokenized asset and then buy it with Canton Coin in the same conversation; in the published demo an agent swaps 100 CC into tokenized silver and ETH for a 0.01 CC fee per trade, daily and per-payment caps are set on the wallet by the user and can be changed at any time, and availability and supported assets beyond the demo have not been independently confirmed (FTP Tech)<br/>- **Upflam payments and wallet platform opens to everyone on Canton, dropping its invite-only access** — Anyone can now sign up, create a Canton wallet and take payments through payment links, invoices, donation pages, embeddable buttons, recurring AutoPay and a WooCommerce plugin, with a 0.1% fee on incoming payments; fiat access and Shopify support remain planned rather than live (Canton Network Forum)<br/>- **Canton Dev Fund analysis finds failed funding votes expire from absent voters, not rejections** — A community analysis of the Dev Fund repository finds seven funding votes failed with almost no votes against: they simply expired after 21 days because the 51%-of-eligible-voters threshold was never met, and four were reopened within days; it also warns that repository labels undercount failures because reopening a vote resets them (CC Space)<br/><br/>Network: CC $0.0829 | Market cap $3.32B (rank 26) | 24h volume $13.18M | Supply 40,072,723,113 CC, up 1.69% in 24 hours and down 9.80% over seven days as of the 15:00 UTC November 18 read; milestone: live MainNet rewards over the past 24 hours stand at 9.3M CC (Criptano for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-18T09:42:00-05:00",
+      "date_modified": "2026-11-18T09:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 9:42 AM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 9:42 AM ET)\n- **Canton Foundation opens Community Research Grants with up to 50,000 Canton Coin a month for independent research and education** — The discretionary programme, published November 4, considers original research and educational content publicly published between November 1 and November 30, 2026 for its first round, with work shared by December 4 to be reviewed in connection with November; the Foundation may award less than the full monthly amount or nothing at all, full terms including eligibility, identity verification and sanctions screening were expected on or before November 15, and no grant will be made before those terms are published or without a signed grant agreement (Canton Foundation)\n- **FTP Tech links ChatGPT and Claude to a Canton agent wallet through a hosted MCP server, with user-set spending caps** — The validator operator's Model Context Protocol server lets a user ask a chatbot to research a tokenized asset and then buy it with Canton Coin in the same conversation; in the published demo an agent swaps 100 CC into tokenized silver and ETH for a 0.01 CC fee per trade, daily and per-payment caps are set on the wallet by the user and can be changed at any time, and availability and supported assets beyond the demo have not been independently confirmed (FTP Tech)\n- **Upflam payments and wallet platform opens to everyone on Canton, dropping its invite-only access** — Anyone can now sign up, create a Canton wallet and take payments through payment links, invoices, donation pages, embeddable buttons, recurring AutoPay and a WooCommerce plugin, with a 0.1% fee on incoming payments; fiat access and Shopify support remain planned rather than live (Canton Network Forum)\n- **Canton Dev Fund analysis finds failed funding votes expire from absent voters, not rejections** — A community analysis of the Dev Fund repository finds seven funding votes failed with almost no votes against: they simply expired after 21 days because the 51%-of-eligible-voters threshold was never met, and four were reopened within days; it also warns that repository labels undercount failures because reopening a vote resets them (CC Space)\n\nNetwork: CC $0.0829 | Market cap $3.32B (rank 26) | 24h volume $13.18M | Supply 40,072,723,113 CC, up 1.69% in 24 hours and down 9.80% over seven days as of the 15:00 UTC November 18 read; milestone: live MainNet rewards over the past 24 hours stand at 9.3M CC (Criptano for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T09:42:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-18_0842-est",
+      "slug": "mexc-s-featured-app-status-is-recommended-for-a-pause-over-canton-coin-locking-requirement",
+      "url": "https://canton.w3ai.io/feed/mexc-s-featured-app-status-is-recommended-for-a-pause-over-canton-coin-locking-requirement",
+      "title": "MEXC's Featured App status is recommended for a pause over Canton Coin locking requirements",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 8:42 AM ET)\n- **MEXC's Featured App status is recommended for a pause over Canton Coin locking requirements** — The Tokenomics Committee has recommended pausing MEXC's Featured Application status because it does not meet the Canton Coin locking requirements introduced by CIP-0116, meaning the exchange's party stops earning featured-app rewards until it complies; the recommendation is an enforcement step under the locking rules, not a delisting of Canton Coin from the exchange (Global Synchronizer Foundation)\n- **OpenZeppelin's Canton Daml library and four reference designs clear the Dev Fund vote** — OpenZeppelin, the smart-contract security firm recently acquired by S&P Global, has had its open-source Daml contracts library and four reference application designs for Canton — a privacy-preserving DEX, a lending protocol, cross-chain stablecoin payments and one further design — approved by Digital Asset and passed by the Dev Fund committee, giving teams building financial apps on Canton vetted, reusable building blocks instead of starting from scratch (Canton Network Forum)\n- **Rome Protocol launches Ostia, a zero-knowledge EVM chain settling on Canton** — Rome Protocol has put Ostia live on Canton DevNet as an Ethereum-compatible chain whose blocks are proved with zero-knowledge proofs and settled in a single Canton transaction, with a bridge that moves Canton Coin and ERC-20 tokens between the two sides; the code is open source, so Solidity developers can now deploy to a chain that settles on Canton, and the launch is on DevNet, not MainNet (Canton Network Forum)\n- **DTCC plans to connect its tokenization service to Solana in the second half of 2027, with a Stellar connection planned for the first half** — The service launched on Canton and DTCC's private Besu network on October 28 and runs under agreements with 20 participants, and the November 15 expansion plan was characterised as a multichain strategy rather than a move away from Canton, so Canton remains the first live venue while the other connections are future work (CoinStats)\n\nNetwork: CC $0.082087 | Market cap $3.3B (rank 25) | 24h volume $11.7M | Supply 40,069,805,635 CC, down 0.1% in 24 hours and down 7.5% over seven days as of the November 18 read; milestone: more than 650 firms have connected to Canton in two years, per Digital Asset's Canton Summit 2026 recap (Crypheat for market data; Canton Network for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 8:42 AM ET)<br/>- **MEXC&#x27;s Featured App status is recommended for a pause over Canton Coin locking requirements** — The Tokenomics Committee has recommended pausing MEXC&#x27;s Featured Application status because it does not meet the Canton Coin locking requirements introduced by CIP-0116, meaning the exchange&#x27;s party stops earning featured-app rewards until it complies; the recommendation is an enforcement step under the locking rules, not a delisting of Canton Coin from the exchange (Global Synchronizer Foundation)<br/>- **OpenZeppelin&#x27;s Canton Daml library and four reference designs clear the Dev Fund vote** — OpenZeppelin, the smart-contract security firm recently acquired by S&amp;P Global, has had its open-source Daml contracts library and four reference application designs for Canton — a privacy-preserving DEX, a lending protocol, cross-chain stablecoin payments and one further design — approved by Digital Asset and passed by the Dev Fund committee, giving teams building financial apps on Canton vetted, reusable building blocks instead of starting from scratch (Canton Network Forum)<br/>- **Rome Protocol launches Ostia, a zero-knowledge EVM chain settling on Canton** — Rome Protocol has put Ostia live on Canton DevNet as an Ethereum-compatible chain whose blocks are proved with zero-knowledge proofs and settled in a single Canton transaction, with a bridge that moves Canton Coin and ERC-20 tokens between the two sides; the code is open source, so Solidity developers can now deploy to a chain that settles on Canton, and the launch is on DevNet, not MainNet (Canton Network Forum)<br/>- **DTCC plans to connect its tokenization service to Solana in the second half of 2027, with a Stellar connection planned for the first half** — The service launched on Canton and DTCC&#x27;s private Besu network on October 28 and runs under agreements with 20 participants, and the November 15 expansion plan was characterised as a multichain strategy rather than a move away from Canton, so Canton remains the first live venue while the other connections are future work (CoinStats)<br/><br/>Network: CC $0.082087 | Market cap $3.3B (rank 25) | 24h volume $11.7M | Supply 40,069,805,635 CC, down 0.1% in 24 hours and down 7.5% over seven days as of the November 18 read; milestone: more than 650 firms have connected to Canton in two years, per Digital Asset&#x27;s Canton Summit 2026 recap (Crypheat for market data; Canton Network for the milestone)</p>",
+      "date_published": "2026-11-18T08:42:00-05:00",
+      "date_modified": "2026-11-18T08:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 8:42 AM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 8:42 AM ET)\n- **MEXC's Featured App status is recommended for a pause over Canton Coin locking requirements** — The Tokenomics Committee has recommended pausing MEXC's Featured Application status because it does not meet the Canton Coin locking requirements introduced by CIP-0116, meaning the exchange's party stops earning featured-app rewards until it complies; the recommendation is an enforcement step under the locking rules, not a delisting of Canton Coin from the exchange (Global Synchronizer Foundation)\n- **OpenZeppelin's Canton Daml library and four reference designs clear the Dev Fund vote** — OpenZeppelin, the smart-contract security firm recently acquired by S&P Global, has had its open-source Daml contracts library and four reference application designs for Canton — a privacy-preserving DEX, a lending protocol, cross-chain stablecoin payments and one further design — approved by Digital Asset and passed by the Dev Fund committee, giving teams building financial apps on Canton vetted, reusable building blocks instead of starting from scratch (Canton Network Forum)\n- **Rome Protocol launches Ostia, a zero-knowledge EVM chain settling on Canton** — Rome Protocol has put Ostia live on Canton DevNet as an Ethereum-compatible chain whose blocks are proved with zero-knowledge proofs and settled in a single Canton transaction, with a bridge that moves Canton Coin and ERC-20 tokens between the two sides; the code is open source, so Solidity developers can now deploy to a chain that settles on Canton, and the launch is on DevNet, not MainNet (Canton Network Forum)\n- **DTCC plans to connect its tokenization service to Solana in the second half of 2027, with a Stellar connection planned for the first half** — The service launched on Canton and DTCC's private Besu network on October 28 and runs under agreements with 20 participants, and the November 15 expansion plan was characterised as a multichain strategy rather than a move away from Canton, so Canton remains the first live venue while the other connections are future work (CoinStats)\n\nNetwork: CC $0.082087 | Market cap $3.3B (rank 25) | 24h volume $11.7M | Supply 40,069,805,635 CC, down 0.1% in 24 hours and down 7.5% over seven days as of the November 18 read; milestone: more than 650 firms have connected to Canton in two years, per Digital Asset's Canton Summit 2026 recap (Crypheat for market data; Canton Network for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T08:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-18_0812-est",
       "slug": "further-asset-management-is-approved-as-a-canton-super-validator-the-first-at-that-tier-wi",
@@ -4734,102 +4830,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, November 30, 2026\nDevNet upgrades to Splice 0.10.4\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690867758",
-      "slug": "mainnet-upgrades-to-splice-0-10-2",
-      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-2",
-      "title": "MainNet upgrades to Splice 0.10.2",
-      "content_text": "Canton Calendar — Monday, November 30, 2026\nMainNet upgrades to Splice 0.10.2\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, November 30, 2026<br/>MainNet upgrades to Splice 0.10.2<br/>Weekly Upgrades · MainNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, November 30, 2026\nMainNet upgrades to Splice 0.10.2\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690867545",
-      "slug": "testnet-topology-freeze-0-10-x-required-november-2026",
-      "url": "https://canton.w3ai.io/feed/testnet-topology-freeze-0-10-x-required-november-2026",
-      "title": "TestNet: Topology Freeze (0.10.x Required) (November 2026)",
-      "content_text": "Canton Calendar — Tuesday, November 24, 2026\nTestNet: Topology Freeze (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, November 24, 2026<br/>TestNet: Topology Freeze (0.10.x Required) (November 2026)<br/>Protocol Upgrades (LSU) · TestNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, November 24, 2026\nTestNet: Topology Freeze (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690852435",
-      "slug": "mainnet-logical-synchronizer-upgrade-0-10-x-required-december-2026",
-      "url": "https://canton.w3ai.io/feed/mainnet-logical-synchronizer-upgrade-0-10-x-required-december-2026",
-      "title": "MainNet: Logical Synchronizer Upgrade (0.10.x Required) (December 2026)",
-      "content_text": "Canton Calendar — Saturday, December 12, 2026\nMainNet: Logical Synchronizer Upgrade (0.10.x Required) (December 2026)\nProtocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Saturday, December 12, 2026<br/>MainNet: Logical Synchronizer Upgrade (0.10.x Required) (December 2026)<br/>Protocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Saturday, December 12, 2026\nMainNet: Logical Synchronizer Upgrade (0.10.x Required) (December 2026)\nProtocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
