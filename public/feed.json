@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-18T12:12:00-05:00",
+  "updated": "2026-11-18T12:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-18_1242-est",
+      "slug": "palladium-labs-open-sources-its-chainlink-oracle-kit-for-canton-developers-packaging-the-p",
+      "url": "https://canton.w3ai.io/feed/palladium-labs-open-sources-its-chainlink-oracle-kit-for-canton-developers-packaging-the-p",
+      "title": "Palladium Labs open-sources its Chainlink oracle kit for Canton developers, packaging the price path Alpend already uses on MainNet",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 12:42 PM ET)\n\n- **Palladium Labs open-sources its Chainlink oracle kit for Canton developers, packaging the price path Alpend already uses on MainNet** — Version 1.0.0 of canton-oracle-kit, released on November 18 under the Apache 2.0 licence, brings together a report-verification contract, a price store and an example updater for Chainlink Data Streams reports; a pusher fetches a signed report, a Daml feeder contract calls Chainlink's verifier and checks the validity window, and the store rejects non-positive or stale prices and holds any move above a configured threshold in a pending state until a corroborating submission arrives, with the kit currently supporting V3 crypto reports on Daml SDK 3.4.11 and Canton 3.4.x and the application operator retaining authority over the verifier configuration, feed mappings and direct price writes (CantonNews)\n- **Wells Fargo is among the organisations awarded new MainNet validator allocations, receiving three alongside five other operators** — The Canton Foundation Tokenomics Working Group awarded the additional allocations to Wells Fargo alongside Visoty, Cartumi, Winsnip, Winnode and Otoclick, issued in line with current network capacity and health assessments, in a further sign of institutional uptake of running Canton infrastructure (CC Space)\n- **Three Canton applications lose Featured App status over free-traffic abuse, with the revocations now going to Super Validators** — The Tokenomics Committee, acting on the Featured App Accountability Committee's recommendation, is revoking Featured App status from Grofty Wallet, Yapper Agent and Ibex for abusing free traffic; the revocations still need on-chain approval by Super Validators, and Featured App status materially increases the Canton Coin rewards an application earns (CC Space)\n- **Broadridge and Tradeweb each booked $1.4 million in the September quarter for their Canton services, paid in newly minted Canton Coin** — The figures, drawn from the two firms' SEC filings and reviewed in a Community Research Grants analysis using November 14 to 15 data, were earned for performing services as Super Validators and Validators rather than as fees from clients, making protocol issuance the visible form of Canton revenue for both reporting firms in that quarter (Medium)\n\nNetwork: CC $0.0824 | Market cap $3.30B (rank 25) | 24h volume $19.97M | CC up 3.22% in 24 hours with a 24-hour range of $0.0790 to $0.0852 as of the November 18 read; milestone: live MainNet rewards over the past 24 hours rise to 11.4M CC, up from 10.5M CC at 12:12 PM, with current activity at 3.00 TPS, about 1.6K validators, 13 Super Validators and 3 active proposals (JustScreener for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 12:42 PM ET)<br/><br/>- **Palladium Labs open-sources its Chainlink oracle kit for Canton developers, packaging the price path Alpend already uses on MainNet** — Version 1.0.0 of canton-oracle-kit, released on November 18 under the Apache 2.0 licence, brings together a report-verification contract, a price store and an example updater for Chainlink Data Streams reports; a pusher fetches a signed report, a Daml feeder contract calls Chainlink&#x27;s verifier and checks the validity window, and the store rejects non-positive or stale prices and holds any move above a configured threshold in a pending state until a corroborating submission arrives, with the kit currently supporting V3 crypto reports on Daml SDK 3.4.11 and Canton 3.4.x and the application operator retaining authority over the verifier configuration, feed mappings and direct price writes (CantonNews)<br/>- **Wells Fargo is among the organisations awarded new MainNet validator allocations, receiving three alongside five other operators** — The Canton Foundation Tokenomics Working Group awarded the additional allocations to Wells Fargo alongside Visoty, Cartumi, Winsnip, Winnode and Otoclick, issued in line with current network capacity and health assessments, in a further sign of institutional uptake of running Canton infrastructure (CC Space)<br/>- **Three Canton applications lose Featured App status over free-traffic abuse, with the revocations now going to Super Validators** — The Tokenomics Committee, acting on the Featured App Accountability Committee&#x27;s recommendation, is revoking Featured App status from Grofty Wallet, Yapper Agent and Ibex for abusing free traffic; the revocations still need on-chain approval by Super Validators, and Featured App status materially increases the Canton Coin rewards an application earns (CC Space)<br/>- **Broadridge and Tradeweb each booked $1.4 million in the September quarter for their Canton services, paid in newly minted Canton Coin** — The figures, drawn from the two firms&#x27; SEC filings and reviewed in a Community Research Grants analysis using November 14 to 15 data, were earned for performing services as Super Validators and Validators rather than as fees from clients, making protocol issuance the visible form of Canton revenue for both reporting firms in that quarter (Medium)<br/><br/>Network: CC $0.0824 | Market cap $3.30B (rank 25) | 24h volume $19.97M | CC up 3.22% in 24 hours with a 24-hour range of $0.0790 to $0.0852 as of the November 18 read; milestone: live MainNet rewards over the past 24 hours rise to 11.4M CC, up from 10.5M CC at 12:12 PM, with current activity at 3.00 TPS, about 1.6K validators, 13 Super Validators and 3 active proposals (JustScreener for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-18T12:42:00-05:00",
+      "date_modified": "2026-11-18T12:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 12:42 PM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 12:42 PM ET)\n\n- **Palladium Labs open-sources its Chainlink oracle kit for Canton developers, packaging the price path Alpend already uses on MainNet** — Version 1.0.0 of canton-oracle-kit, released on November 18 under the Apache 2.0 licence, brings together a report-verification contract, a price store and an example updater for Chainlink Data Streams reports; a pusher fetches a signed report, a Daml feeder contract calls Chainlink's verifier and checks the validity window, and the store rejects non-positive or stale prices and holds any move above a configured threshold in a pending state until a corroborating submission arrives, with the kit currently supporting V3 crypto reports on Daml SDK 3.4.11 and Canton 3.4.x and the application operator retaining authority over the verifier configuration, feed mappings and direct price writes (CantonNews)\n- **Wells Fargo is among the organisations awarded new MainNet validator allocations, receiving three alongside five other operators** — The Canton Foundation Tokenomics Working Group awarded the additional allocations to Wells Fargo alongside Visoty, Cartumi, Winsnip, Winnode and Otoclick, issued in line with current network capacity and health assessments, in a further sign of institutional uptake of running Canton infrastructure (CC Space)\n- **Three Canton applications lose Featured App status over free-traffic abuse, with the revocations now going to Super Validators** — The Tokenomics Committee, acting on the Featured App Accountability Committee's recommendation, is revoking Featured App status from Grofty Wallet, Yapper Agent and Ibex for abusing free traffic; the revocations still need on-chain approval by Super Validators, and Featured App status materially increases the Canton Coin rewards an application earns (CC Space)\n- **Broadridge and Tradeweb each booked $1.4 million in the September quarter for their Canton services, paid in newly minted Canton Coin** — The figures, drawn from the two firms' SEC filings and reviewed in a Community Research Grants analysis using November 14 to 15 data, were earned for performing services as Super Validators and Validators rather than as fees from clients, making protocol issuance the visible form of Canton revenue for both reporting firms in that quarter (Medium)\n\nNetwork: CC $0.0824 | Market cap $3.30B (rank 25) | 24h volume $19.97M | CC up 3.22% in 24 hours with a 24-hour range of $0.0790 to $0.0852 as of the November 18 read; milestone: live MainNet rewards over the past 24 hours rise to 11.4M CC, up from 10.5M CC at 12:12 PM, with current activity at 3.00 TPS, about 1.6K validators, 13 Super Validators and 3 active proposals (JustScreener for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T12:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-18_1212-est",
       "slug": "kaiko-extends-its-series-b-to-110-million-led-by-s-p-global-with-canton-also-participating",
@@ -4799,38 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Friday, December 11, 2026\nMainNet: Topology Freeze (0.10.x Required) (December 2026)\nProtocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690943471",
-      "slug": "testnet-breaking-configuration-changes-introduced-by-splice-0-10-x-take-effect",
-      "url": "https://canton.w3ai.io/feed/testnet-breaking-configuration-changes-introduced-by-splice-0-10-x-take-effect",
-      "title": "TestNet: Breaking configuration changes introduced by Splice 0.10.x take effect",
-      "content_text": "Canton Calendar — Tuesday, December 1, 2026\nTestNet: Breaking configuration changes introduced by Splice 0.10.x take effect\nOther Network Configuration Change · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, December 1, 2026<br/>TestNet: Breaking configuration changes introduced by Splice 0.10.x take effect<br/>Other Network Configuration Change · TestNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, December 1, 2026\nTestNet: Breaking configuration changes introduced by Splice 0.10.x take effect\nOther Network Configuration Change · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
