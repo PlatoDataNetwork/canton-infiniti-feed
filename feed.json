@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-18T05:42:00-05:00",
+  "updated": "2026-11-18T06:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-18_0612-est",
+      "slug": "progmat-partners-with-digital-asset-to-tokenize-japanese-government-bonds-on-canton-for-ro",
+      "url": "https://canton.w3ai.io/feed/progmat-partners-with-digital-asset-to-tokenize-japanese-government-bonds-on-canton-for-ro",
+      "title": "Progmat partners with Digital Asset to tokenize Japanese government bonds on Canton for round-the-clock settlement",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 6:12 AM ET)\n- **Progmat partners with Digital Asset to tokenize Japanese government bonds on Canton for round-the-clock settlement** — The collaboration aims to settle the bonds in programmable token form on a 24/7 basis while preserving their legal rights; Progmat leads Japan's security token issuance market by value handled, and the initiative runs through a working group with 367 members that began live testing in November to build a sandbox for issuing tokenized government bonds and stablecoins, so the work is at the testing stage rather than a live government-bond issuance (Coin Newsify)\n- **TSV completes its first transaction under the SEC innovation exemption, settling tokenized Canton Strategic Holdings shares on Canton** — The November 4 transaction moved issuer-sponsored tokenized shares of Canton Strategic Holdings through a permissioned pool on Tradecraft and settled them on Canton, with Fairmint, an SEC-registered transfer agent, handling the shares and maintaining on-chain ownership records; TSV describes itself as the first United States tokenized stock trading platform operating under the exemption, and the structure removed the 30-day notice period usually required for third-party tokenization (Coin Newsify)\n- **Canton Development Fund approves RedStone's CAPS proposal to set a privacy standard for shared pricing data** — The Canton Access and Privacy Standard, approved on September 16, carries a 12-month development plan budgeted at 15.775 million Canton Coin, about $1.83 million, to let institutions use the same reference prices while keeping their own transaction terms confidential; the first implementations involve design partners Zenith and Memora, with Memora focusing on proof of reserves, so the standard is funded and in development rather than deployed network-wide (Cointelegraph)\n- **Cancore raises $7.2 million to scale its Liquidity OS for tokenized finance after settling $86 million on Canton MainNet** — The seed round values the Canton-based trading platform at a $60 million token valuation and drew Paper Ventures, dao5, ArkStream Capital, X Ventures, MH Ventures and Proof of Talk, with no formal lead investor and Paper Ventures and dao5 as the largest contributors; the $86 million settled figure is the platform's own reported MainNet total (The Block)\n\nNetwork: CC $0.0836 | Market cap $3.35B (rank 25) | 24h volume $15.39M | CC up 4.0% in 24 hours as of the 10:51 UTC November 18 read; milestone: Temple processed $698 million in 30 days, about 85% of Canton DEX volume, while Rocky Exchange leads all-time spot volume at $2.09 billion (CoinBird for market data, reporting CoinGecko figures; Coin Newsify for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 6:12 AM ET)<br/>- **Progmat partners with Digital Asset to tokenize Japanese government bonds on Canton for round-the-clock settlement** — The collaboration aims to settle the bonds in programmable token form on a 24/7 basis while preserving their legal rights; Progmat leads Japan&#x27;s security token issuance market by value handled, and the initiative runs through a working group with 367 members that began live testing in November to build a sandbox for issuing tokenized government bonds and stablecoins, so the work is at the testing stage rather than a live government-bond issuance (Coin Newsify)<br/>- **TSV completes its first transaction under the SEC innovation exemption, settling tokenized Canton Strategic Holdings shares on Canton** — The November 4 transaction moved issuer-sponsored tokenized shares of Canton Strategic Holdings through a permissioned pool on Tradecraft and settled them on Canton, with Fairmint, an SEC-registered transfer agent, handling the shares and maintaining on-chain ownership records; TSV describes itself as the first United States tokenized stock trading platform operating under the exemption, and the structure removed the 30-day notice period usually required for third-party tokenization (Coin Newsify)<br/>- **Canton Development Fund approves RedStone&#x27;s CAPS proposal to set a privacy standard for shared pricing data** — The Canton Access and Privacy Standard, approved on September 16, carries a 12-month development plan budgeted at 15.775 million Canton Coin, about $1.83 million, to let institutions use the same reference prices while keeping their own transaction terms confidential; the first implementations involve design partners Zenith and Memora, with Memora focusing on proof of reserves, so the standard is funded and in development rather than deployed network-wide (Cointelegraph)<br/>- **Cancore raises $7.2 million to scale its Liquidity OS for tokenized finance after settling $86 million on Canton MainNet** — The seed round values the Canton-based trading platform at a $60 million token valuation and drew Paper Ventures, dao5, ArkStream Capital, X Ventures, MH Ventures and Proof of Talk, with no formal lead investor and Paper Ventures and dao5 as the largest contributors; the $86 million settled figure is the platform&#x27;s own reported MainNet total (The Block)<br/><br/>Network: CC $0.0836 | Market cap $3.35B (rank 25) | 24h volume $15.39M | CC up 4.0% in 24 hours as of the 10:51 UTC November 18 read; milestone: Temple processed $698 million in 30 days, about 85% of Canton DEX volume, while Rocky Exchange leads all-time spot volume at $2.09 billion (CoinBird for market data, reporting CoinGecko figures; Coin Newsify for the milestone)</p>",
+      "date_published": "2026-11-18T06:12:00-05:00",
+      "date_modified": "2026-11-18T06:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 6:12 AM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 6:12 AM ET)\n- **Progmat partners with Digital Asset to tokenize Japanese government bonds on Canton for round-the-clock settlement** — The collaboration aims to settle the bonds in programmable token form on a 24/7 basis while preserving their legal rights; Progmat leads Japan's security token issuance market by value handled, and the initiative runs through a working group with 367 members that began live testing in November to build a sandbox for issuing tokenized government bonds and stablecoins, so the work is at the testing stage rather than a live government-bond issuance (Coin Newsify)\n- **TSV completes its first transaction under the SEC innovation exemption, settling tokenized Canton Strategic Holdings shares on Canton** — The November 4 transaction moved issuer-sponsored tokenized shares of Canton Strategic Holdings through a permissioned pool on Tradecraft and settled them on Canton, with Fairmint, an SEC-registered transfer agent, handling the shares and maintaining on-chain ownership records; TSV describes itself as the first United States tokenized stock trading platform operating under the exemption, and the structure removed the 30-day notice period usually required for third-party tokenization (Coin Newsify)\n- **Canton Development Fund approves RedStone's CAPS proposal to set a privacy standard for shared pricing data** — The Canton Access and Privacy Standard, approved on September 16, carries a 12-month development plan budgeted at 15.775 million Canton Coin, about $1.83 million, to let institutions use the same reference prices while keeping their own transaction terms confidential; the first implementations involve design partners Zenith and Memora, with Memora focusing on proof of reserves, so the standard is funded and in development rather than deployed network-wide (Cointelegraph)\n- **Cancore raises $7.2 million to scale its Liquidity OS for tokenized finance after settling $86 million on Canton MainNet** — The seed round values the Canton-based trading platform at a $60 million token valuation and drew Paper Ventures, dao5, ArkStream Capital, X Ventures, MH Ventures and Proof of Talk, with no formal lead investor and Paper Ventures and dao5 as the largest contributors; the $86 million settled figure is the platform's own reported MainNet total (The Block)\n\nNetwork: CC $0.0836 | Market cap $3.35B (rank 25) | 24h volume $15.39M | CC up 4.0% in 24 hours as of the 10:51 UTC November 18 read; milestone: Temple processed $698 million in 30 days, about 85% of Canton DEX volume, while Rocky Exchange leads all-time spot volume at $2.09 billion (CoinBird for market data, reporting CoinGecko figures; Coin Newsify for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T06:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-18_0542-est",
       "slug": "damlfuzz-funding-vote-seeks-a-free-open-source-tool-to-test-daml-contracts-for-authorisati",
@@ -4798,38 +4830,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, November 23, 2026\nMainNet upgrades to Splice 0.10.1\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690820594",
-      "slug": "devnet-upgrades-to-splice-0-10-2",
-      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-10-2",
-      "title": "DevNet upgrades to Splice 0.10.2",
-      "content_text": "Canton Calendar — Monday, November 16, 2026\nDevNet upgrades to Splice 0.10.2\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, November 16, 2026<br/>DevNet upgrades to Splice 0.10.2<br/>Weekly Upgrades · DevNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, November 16, 2026\nDevNet upgrades to Splice 0.10.2\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
