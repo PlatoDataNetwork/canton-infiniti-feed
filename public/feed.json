@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-18T11:12:00-05:00",
+  "updated": "2026-11-18T11:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-18_1142-est",
+      "slug": "capconnect-enters-a-canton-super-validator-vote-with-a-plan-to-settle-commercial-paper-and",
+      "url": "https://canton.w3ai.io/feed/capconnect-enters-a-canton-super-validator-vote-with-a-plan-to-settle-commercial-paper-and",
+      "title": "CapConnect+ enters a Canton Super Validator vote with a plan to settle commercial paper and its cash payment together on the network",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 11:42 AM ET)\n- **CapConnect+ enters a Canton Super Validator vote with a plan to settle commercial paper and its cash payment together on the network** — CIP-0131, with voting open since November 10, proposes a Super Validator role for CapConnect+ with a maximum of five weight units tied to delivery and adoption, sponsored by Tradeweb and endorsed by MPCH; the first production target is at least $100 million in aggregate commercial-paper issuance with both the asset and the cash settling on Canton through delivery-versus-payment, and further weight is tied to $1 billion, $5 billion and $10 billion in cumulative Canton-settled issuance, while the platform's $46.11 billion in issuance facilitated since early 2025 used existing settlement infrastructure and is not Canton volume, and no vote outcome has been established (CantonNews)\n- **Tokenomics Committee approves Stable Coin (SBC) as a Featured App, with the decision now going to Super Validators for on-chain approval** — The Global Synchronizer Foundation's Tokenomics Committee approved Stable Coin Inc.'s SBC application for Featured App status, which boosts the rewards an application earns for the activity it drives; the same notice confirms an additional Super Validator weight release for Canton Strategic Holdings under the Digital Asset Treasury programme, and committee approval alone does not grant the status until the on-chain vote passes (CC Space)\n- **Bitget paused Canton Coin deposits and withdrawals for wallet maintenance, with no security incident or network outage reported** — A report dated November 17 says Bitget paused CC deposits and withdrawals for wallet maintenance and had not given a reopening time; the notices did not report a security incident or a Canton Network outage, so the pause limits exchange transfers without indicating a protocol problem, and users are advised to verify service status before moving tokens (CoinMarketCap)\n- **Canton DeFi locked value eases to $11.33 million as 24-hour DEX volume holds at $17.37 million** — DefiLlama's November 18 snapshot puts total value locked at $11.33 million, down 1.47% in 24 hours from $11.55 million recorded earlier today, with DEX volume at $17.37 million in 24 hours and $130.84 million over seven days, perps volume at $236,218, and Temple still largest at $5.99 million ahead of Alpend at $2 million and Cantex at $1.74 million across eight tracked protocols (DefiLlama)\n\nNetwork: CC $0.0829 | Market cap $3.3B (rank 26) | 24h volume $13.0M | Supply about 40,062,882,265 CC, up 2.41% in 24 hours and down 10.35% over seven days as of the 15:29 UTC November 18 read; milestone: live MainNet rewards over the past 24 hours rise to 10.3M CC, up from 9.3M CC at 9:42 AM, with current activity at 3.00 TPS, about 1.6K validators, 13 Super Validators and 4 active proposals (Altcoin Buzz for market data, reporting CoinGecko figures; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 11:42 AM ET)<br/>- **CapConnect+ enters a Canton Super Validator vote with a plan to settle commercial paper and its cash payment together on the network** — CIP-0131, with voting open since November 10, proposes a Super Validator role for CapConnect+ with a maximum of five weight units tied to delivery and adoption, sponsored by Tradeweb and endorsed by MPCH; the first production target is at least $100 million in aggregate commercial-paper issuance with both the asset and the cash settling on Canton through delivery-versus-payment, and further weight is tied to $1 billion, $5 billion and $10 billion in cumulative Canton-settled issuance, while the platform&#x27;s $46.11 billion in issuance facilitated since early 2025 used existing settlement infrastructure and is not Canton volume, and no vote outcome has been established (CantonNews)<br/>- **Tokenomics Committee approves Stable Coin (SBC) as a Featured App, with the decision now going to Super Validators for on-chain approval** — The Global Synchronizer Foundation&#x27;s Tokenomics Committee approved Stable Coin Inc.&#x27;s SBC application for Featured App status, which boosts the rewards an application earns for the activity it drives; the same notice confirms an additional Super Validator weight release for Canton Strategic Holdings under the Digital Asset Treasury programme, and committee approval alone does not grant the status until the on-chain vote passes (CC Space)<br/>- **Bitget paused Canton Coin deposits and withdrawals for wallet maintenance, with no security incident or network outage reported** — A report dated November 17 says Bitget paused CC deposits and withdrawals for wallet maintenance and had not given a reopening time; the notices did not report a security incident or a Canton Network outage, so the pause limits exchange transfers without indicating a protocol problem, and users are advised to verify service status before moving tokens (CoinMarketCap)<br/>- **Canton DeFi locked value eases to $11.33 million as 24-hour DEX volume holds at $17.37 million** — DefiLlama&#x27;s November 18 snapshot puts total value locked at $11.33 million, down 1.47% in 24 hours from $11.55 million recorded earlier today, with DEX volume at $17.37 million in 24 hours and $130.84 million over seven days, perps volume at $236,218, and Temple still largest at $5.99 million ahead of Alpend at $2 million and Cantex at $1.74 million across eight tracked protocols (DefiLlama)<br/><br/>Network: CC $0.0829 | Market cap $3.3B (rank 26) | 24h volume $13.0M | Supply about 40,062,882,265 CC, up 2.41% in 24 hours and down 10.35% over seven days as of the 15:29 UTC November 18 read; milestone: live MainNet rewards over the past 24 hours rise to 10.3M CC, up from 9.3M CC at 9:42 AM, with current activity at 3.00 TPS, about 1.6K validators, 13 Super Validators and 4 active proposals (Altcoin Buzz for market data, reporting CoinGecko figures; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-18T11:42:00-05:00",
+      "date_modified": "2026-11-18T11:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 11:42 AM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 11:42 AM ET)\n- **CapConnect+ enters a Canton Super Validator vote with a plan to settle commercial paper and its cash payment together on the network** — CIP-0131, with voting open since November 10, proposes a Super Validator role for CapConnect+ with a maximum of five weight units tied to delivery and adoption, sponsored by Tradeweb and endorsed by MPCH; the first production target is at least $100 million in aggregate commercial-paper issuance with both the asset and the cash settling on Canton through delivery-versus-payment, and further weight is tied to $1 billion, $5 billion and $10 billion in cumulative Canton-settled issuance, while the platform's $46.11 billion in issuance facilitated since early 2025 used existing settlement infrastructure and is not Canton volume, and no vote outcome has been established (CantonNews)\n- **Tokenomics Committee approves Stable Coin (SBC) as a Featured App, with the decision now going to Super Validators for on-chain approval** — The Global Synchronizer Foundation's Tokenomics Committee approved Stable Coin Inc.'s SBC application for Featured App status, which boosts the rewards an application earns for the activity it drives; the same notice confirms an additional Super Validator weight release for Canton Strategic Holdings under the Digital Asset Treasury programme, and committee approval alone does not grant the status until the on-chain vote passes (CC Space)\n- **Bitget paused Canton Coin deposits and withdrawals for wallet maintenance, with no security incident or network outage reported** — A report dated November 17 says Bitget paused CC deposits and withdrawals for wallet maintenance and had not given a reopening time; the notices did not report a security incident or a Canton Network outage, so the pause limits exchange transfers without indicating a protocol problem, and users are advised to verify service status before moving tokens (CoinMarketCap)\n- **Canton DeFi locked value eases to $11.33 million as 24-hour DEX volume holds at $17.37 million** — DefiLlama's November 18 snapshot puts total value locked at $11.33 million, down 1.47% in 24 hours from $11.55 million recorded earlier today, with DEX volume at $17.37 million in 24 hours and $130.84 million over seven days, perps volume at $236,218, and Temple still largest at $5.99 million ahead of Alpend at $2 million and Cantex at $1.74 million across eight tracked protocols (DefiLlama)\n\nNetwork: CC $0.0829 | Market cap $3.3B (rank 26) | 24h volume $13.0M | Supply about 40,062,882,265 CC, up 2.41% in 24 hours and down 10.35% over seven days as of the 15:29 UTC November 18 read; milestone: live MainNet rewards over the past 24 hours rise to 10.3M CC, up from 9.3M CC at 9:42 AM, with current activity at 3.00 TPS, about 1.6K validators, 13 Super Validators and 4 active proposals (Altcoin Buzz for market data, reporting CoinGecko figures; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T11:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-18_1112-est",
       "slug": "canton-mainnet-total-transactions-pass-606-2-million-as-validators-rise-to-1-572-and-parti",
@@ -4799,38 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Tuesday, November 17, 2026\nDevNet: Daml models introduced by Splice 0.10.0 take effect\nSplice Daml Model Effectivity · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690883723",
-      "slug": "mainnet-breaking-configurations-introduced-by-splice-0-9-x-take-effect",
-      "url": "https://canton.w3ai.io/feed/mainnet-breaking-configurations-introduced-by-splice-0-9-x-take-effect",
-      "title": "MainNet: Breaking configurations introduced by Splice 0.9.x take effect",
-      "content_text": "Canton Calendar — Tuesday, November 17, 2026\nMainNet: Breaking configurations introduced by Splice 0.9.x take effect\nOther Network Configuration Change · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, November 17, 2026<br/>MainNet: Breaking configurations introduced by Splice 0.9.x take effect<br/>Other Network Configuration Change · MainNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, November 17, 2026\nMainNet: Breaking configurations introduced by Splice 0.9.x take effect\nOther Network Configuration Change · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
