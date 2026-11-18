@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-18_1112-est",
+      "slug": "canton-mainnet-total-transactions-pass-606-2-million-as-validators-rise-to-1-572-and-parti",
+      "title": "Canton MainNet total transactions pass 606.2 million as validators rise to 1,572 and parties reach 951,980",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 11:12 AM ET)\n- **Canton MainNet total transactions pass 606.2 million as validators rise to 1,572 and parties reach 951,980** — CCTools' live read at 16:10 UTC on November 18 puts all-time on-chain transactions at 606.20 million, up from 605.7 million recorded earlier today, with 1,572 validators alongside 13 Super Validators, 951,980 total parties and 146 Featured Apps built on Canton; the figures describe cumulative network activity and infrastructure, not trading volume (CCTools)\n- **SEC staff no-action letter views Canton Coin as a digital commodity and will not recommend enforcement over its programmatic issuance under specified conditions** — The Division of Corporation Finance letter dated November 3, covered today, says staff will not recommend enforcement action over Canton Coin's programmatic issuance without securities registration under the specified conditions; the letter reflects only the staff's position on enforcement, not a legal conclusion, and rests on the facts Canton presented, and Canton's own description of the coin as \"not a security\" is a clause the staff reply leaves out (BSC News)\n- **Morgan Stanley is reported among the first banks to use DTCC's tokenization service on Canton** — Coverage today, citing Decrypt, says Morgan Stanley says it is among the first banks to use the service DTCC launched on Canton on October 28; the service tokenizes assets custodied at DTCC, and the report gives no transaction volume or asset amount attributable to Morgan Stanley's use (BSC News)\n- **Canton Coin burned over the last seven days equals 58.6% of issuance, with 109.3 million coins burned against 186.5 million issued** — CCTools' burn-and-issuance record for November 11 to 17, drawing on Loop Data, puts the burn share at 58.6% over seven days and 55.9% over 30 days, with the latest daily burn at 15.6 million CC on November 17 and app rewards at 14.7 million CC that day; issuance is what the rounds schedule, not minted supply, because unclaimed rewards are not minted (CCTools)\n\nNetwork: CC $0.0822 | Market cap $3.29B | 24h volume $12.81M | Supply 40.07B CC, up 2.91% in 24 hours as of the 16:17 UTC November 18 read; milestone: the latest issuance round is #122,273, with the next halving, Epoch 3, at round 262,800 and about 140,527 rounds remaining, when nominal daily issuance halves from 27.4M CC to 13.7M CC (CCTools for market data and the milestone)",
+      "timestamp": "2026-11-18T11:12:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-mainnet-total-transactions-pass-606-2-million-as-validators-rise-to-1-572-and-parti",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-18_1012-est",
       "slug": "openassets-brings-its-markets-in-a-box-tokenization-platform-to-canton-as-a-da-registry-im",
       "title": "OpenAssets brings its markets-in-a-box tokenization platform to Canton as a DA Registry implementation partner",
