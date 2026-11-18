@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-18T18:12:00-05:00",
+  "updated": "2026-11-18T18:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-18_1842-est",
+      "slug": "valour-s-canton-network-etp-is-trading-on-sweden-s-spotlight-stock-market-giving-brokerage",
+      "url": "https://canton.w3ai.io/feed/valour-s-canton-network-etp-is-trading-on-sweden-s-spotlight-stock-market-giving-brokerage",
+      "title": "Valour's Canton Network ETP is trading on Sweden's Spotlight Stock Market, giving brokerage accounts regulated exposure to Canton Coin",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 6:42 PM ET)\n- **Valour's Canton Network ETP is trading on Sweden's Spotlight Stock Market, giving brokerage accounts regulated exposure to Canton Coin** — The Valour Canton Network (CC) SEK exchange-traded product, trading symbol CC SEK and ISIN CH1108682662, began trading on November 5, 2026 as one of eight new SEK-denominated ETPs from DeFi Technologies subsidiary Valour; each product carries a 1.9% management fee and tracks its underlying asset through traditional brokerage infrastructure, and the launch takes Valour's platform past 100 digital asset ETPs (PR Newswire)\n- **Circle holds about 380 million Canton Coin worth about $47.99 million in its disclosed digital asset portfolio** — Circle's latest disclosed financial report shows total digital assets of about $133 million at fair value as of September 30, with the Canton Coin position the largest single holding, ahead of about $45.88 million in HYPE, about $6.39 million in Bitcoin and smaller positions in SUI and Ether; the holdings were not in Circle's previously released third-quarter earnings press release (BlockBeats)\n- **Canton Coin's spot spread across exchanges widened to 5.62%, with no arbitrage route worth taking** — At the 23:44 UTC November 18 read the cheapest liquid spot price was on WEEX at $0.077755 and the dearest on Bitrue at $0.082125 across 12 exchanges, the widest net route was MEXC to OKX at +4.99% after fees and flagged suspect, and the best futures route was WhiteBIT long against Lighter short at 0.22%; the spread is up from 4.83% earlier today (ArbitrageGap)\n\nNetwork: CC $0.08186 | Market cap $3.28B | 24h volume $21.76M | Circulating supply 40.07B CC, down 0.35% in 24 hours and down 10.44% over seven days as of the November 18 read; milestone: MainNet rewards over the last 24 hours stand at 12.2M CC with 2 active proposals and throughput at 2.00 TPS on the live dashboard (CoinCodex for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 6:42 PM ET)<br/>- **Valour&#x27;s Canton Network ETP is trading on Sweden&#x27;s Spotlight Stock Market, giving brokerage accounts regulated exposure to Canton Coin** — The Valour Canton Network (CC) SEK exchange-traded product, trading symbol CC SEK and ISIN CH1108682662, began trading on November 5, 2026 as one of eight new SEK-denominated ETPs from DeFi Technologies subsidiary Valour; each product carries a 1.9% management fee and tracks its underlying asset through traditional brokerage infrastructure, and the launch takes Valour&#x27;s platform past 100 digital asset ETPs (PR Newswire)<br/>- **Circle holds about 380 million Canton Coin worth about $47.99 million in its disclosed digital asset portfolio** — Circle&#x27;s latest disclosed financial report shows total digital assets of about $133 million at fair value as of September 30, with the Canton Coin position the largest single holding, ahead of about $45.88 million in HYPE, about $6.39 million in Bitcoin and smaller positions in SUI and Ether; the holdings were not in Circle&#x27;s previously released third-quarter earnings press release (BlockBeats)<br/>- **Canton Coin&#x27;s spot spread across exchanges widened to 5.62%, with no arbitrage route worth taking** — At the 23:44 UTC November 18 read the cheapest liquid spot price was on WEEX at $0.077755 and the dearest on Bitrue at $0.082125 across 12 exchanges, the widest net route was MEXC to OKX at +4.99% after fees and flagged suspect, and the best futures route was WhiteBIT long against Lighter short at 0.22%; the spread is up from 4.83% earlier today (ArbitrageGap)<br/><br/>Network: CC $0.08186 | Market cap $3.28B | 24h volume $21.76M | Circulating supply 40.07B CC, down 0.35% in 24 hours and down 10.44% over seven days as of the November 18 read; milestone: MainNet rewards over the last 24 hours stand at 12.2M CC with 2 active proposals and throughput at 2.00 TPS on the live dashboard (CoinCodex for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-18T18:42:00-05:00",
+      "date_modified": "2026-11-18T18:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 6:42 PM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 6:42 PM ET)\n- **Valour's Canton Network ETP is trading on Sweden's Spotlight Stock Market, giving brokerage accounts regulated exposure to Canton Coin** — The Valour Canton Network (CC) SEK exchange-traded product, trading symbol CC SEK and ISIN CH1108682662, began trading on November 5, 2026 as one of eight new SEK-denominated ETPs from DeFi Technologies subsidiary Valour; each product carries a 1.9% management fee and tracks its underlying asset through traditional brokerage infrastructure, and the launch takes Valour's platform past 100 digital asset ETPs (PR Newswire)\n- **Circle holds about 380 million Canton Coin worth about $47.99 million in its disclosed digital asset portfolio** — Circle's latest disclosed financial report shows total digital assets of about $133 million at fair value as of September 30, with the Canton Coin position the largest single holding, ahead of about $45.88 million in HYPE, about $6.39 million in Bitcoin and smaller positions in SUI and Ether; the holdings were not in Circle's previously released third-quarter earnings press release (BlockBeats)\n- **Canton Coin's spot spread across exchanges widened to 5.62%, with no arbitrage route worth taking** — At the 23:44 UTC November 18 read the cheapest liquid spot price was on WEEX at $0.077755 and the dearest on Bitrue at $0.082125 across 12 exchanges, the widest net route was MEXC to OKX at +4.99% after fees and flagged suspect, and the best futures route was WhiteBIT long against Lighter short at 0.22%; the spread is up from 4.83% earlier today (ArbitrageGap)\n\nNetwork: CC $0.08186 | Market cap $3.28B | 24h volume $21.76M | Circulating supply 40.07B CC, down 0.35% in 24 hours and down 10.44% over seven days as of the November 18 read; milestone: MainNet rewards over the last 24 hours stand at 12.2M CC with 2 active proposals and throughput at 2.00 TPS on the live dashboard (CoinCodex for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T18:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-18_1812-est",
       "slug": "london-stock-exchange-group-is-approved-as-a-canton-super-validator-under-cip-0124-with-a",
@@ -4799,38 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Tuesday, November 24, 2026\nTestNet: Daml models introduced by Splice 0.10.x take effect\nSplice Daml Model Effectivity · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690975783",
-      "slug": "devnet-breaking-configuration-changes-introduced-by-splice-0-10-x-take-effect",
-      "url": "https://canton.w3ai.io/feed/devnet-breaking-configuration-changes-introduced-by-splice-0-10-x-take-effect",
-      "title": "DevNet: Breaking configuration changes introduced by Splice 0.10.x take effect",
-      "content_text": "Canton Calendar — Tuesday, November 24, 2026\nDevNet: Breaking configuration changes introduced by Splice 0.10.x take effect\nOther Network Configuration Change · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, November 24, 2026<br/>DevNet: Breaking configuration changes introduced by Splice 0.10.x take effect<br/>Other Network Configuration Change · DevNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, November 24, 2026\nDevNet: Breaking configuration changes introduced by Splice 0.10.x take effect\nOther Network Configuration Change · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
