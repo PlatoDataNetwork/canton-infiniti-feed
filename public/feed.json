@@ -29,8 +29,136 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-18T12:42:00-05:00",
+  "updated": "2026-11-18T16:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-18_1612-est",
+      "slug": "blockdaemon-schedules-canton-testnet-and-devnet-upgrades-for-november-19-taking-testnet-to",
+      "url": "https://canton.w3ai.io/feed/blockdaemon-schedules-canton-testnet-and-devnet-upgrades-for-november-19-taking-testnet-to",
+      "title": "Blockdaemon schedules Canton Testnet and Devnet upgrades for November 19, taking Testnet to Splice 0.10.1 and Devnet to 0.10.2",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 4:12 PM ET)\n- **Blockdaemon schedules Canton Testnet and Devnet upgrades for November 19, taking Testnet to Splice 0.10.1 and Devnet to 0.10.2** — Blockdaemon will update all Canton Testnet nodes to Splice version 0.10.1 and all Devnet nodes to version 0.10.2 on November 19 at 14:00 UTC, following the Canton Foundation releases, with planned downtime of up to 15 minutes per node; the work is scheduled maintenance, not an outage response (Pulsapi)\n- **Digital Asset's Proof of Transfer API lets Canton users confirm a transfer without exposing confidential transaction data** — The DA Registry feature shows whether a transfer of a privacy-enabled Canton asset succeeded, failed or is still pending, without revealing the underlying confidential details; Bybit has already integrated it, and Digital Asset is urging other wallets and exchanges to follow (Canton Network Forum)\n- **BitSafe's CHYPE wallet app is set for Featured App status on Canton MainNet** — CHYPE, already cleared by the Tokenomics Committee, is up for an on-chain Super Validator vote that would grant it Featured App status from November 6, increasing the Canton Coin rewards the wallet earns for the activity it drives; committee clearance alone does not grant the status until Super Validators confirm it on-chain (Global Synchronizer Foundation)\n- **Hecto launches $NEOPRIME, billed as Canton's first DeFi-native real-world-asset token** — The token gives exposure to a basket of U.S. pre-IPO defence, robotics and fintech companies, with more themed pre-IPO tokens promised and the team asking other Canton applications for integrations (Canton Network Forum)\n\nNetwork: CC $0.0823 | Market cap $3.3B (rank 25) | 24h volume $12.9M | CC up 2.85% in 24 hours as of the 18:51 UTC November 18 read; milestone: DTCC's tokenization service makes an initial pool of more than $30 trillion of U.S. Treasuries, equities and ETFs addressable on Canton, the largest institutional collateral pool yet on the network (Altcoin Buzz for market data, reporting CoinGecko figures; Canton Network for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 4:12 PM ET)<br/>- **Blockdaemon schedules Canton Testnet and Devnet upgrades for November 19, taking Testnet to Splice 0.10.1 and Devnet to 0.10.2** — Blockdaemon will update all Canton Testnet nodes to Splice version 0.10.1 and all Devnet nodes to version 0.10.2 on November 19 at 14:00 UTC, following the Canton Foundation releases, with planned downtime of up to 15 minutes per node; the work is scheduled maintenance, not an outage response (Pulsapi)<br/>- **Digital Asset&#x27;s Proof of Transfer API lets Canton users confirm a transfer without exposing confidential transaction data** — The DA Registry feature shows whether a transfer of a privacy-enabled Canton asset succeeded, failed or is still pending, without revealing the underlying confidential details; Bybit has already integrated it, and Digital Asset is urging other wallets and exchanges to follow (Canton Network Forum)<br/>- **BitSafe&#x27;s CHYPE wallet app is set for Featured App status on Canton MainNet** — CHYPE, already cleared by the Tokenomics Committee, is up for an on-chain Super Validator vote that would grant it Featured App status from November 6, increasing the Canton Coin rewards the wallet earns for the activity it drives; committee clearance alone does not grant the status until Super Validators confirm it on-chain (Global Synchronizer Foundation)<br/>- **Hecto launches $NEOPRIME, billed as Canton&#x27;s first DeFi-native real-world-asset token** — The token gives exposure to a basket of U.S. pre-IPO defence, robotics and fintech companies, with more themed pre-IPO tokens promised and the team asking other Canton applications for integrations (Canton Network Forum)<br/><br/>Network: CC $0.0823 | Market cap $3.3B (rank 25) | 24h volume $12.9M | CC up 2.85% in 24 hours as of the 18:51 UTC November 18 read; milestone: DTCC&#x27;s tokenization service makes an initial pool of more than $30 trillion of U.S. Treasuries, equities and ETFs addressable on Canton, the largest institutional collateral pool yet on the network (Altcoin Buzz for market data, reporting CoinGecko figures; Canton Network for the milestone)</p>",
+      "date_published": "2026-11-18T16:12:00-05:00",
+      "date_modified": "2026-11-18T16:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 4:12 PM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 4:12 PM ET)\n- **Blockdaemon schedules Canton Testnet and Devnet upgrades for November 19, taking Testnet to Splice 0.10.1 and Devnet to 0.10.2** — Blockdaemon will update all Canton Testnet nodes to Splice version 0.10.1 and all Devnet nodes to version 0.10.2 on November 19 at 14:00 UTC, following the Canton Foundation releases, with planned downtime of up to 15 minutes per node; the work is scheduled maintenance, not an outage response (Pulsapi)\n- **Digital Asset's Proof of Transfer API lets Canton users confirm a transfer without exposing confidential transaction data** — The DA Registry feature shows whether a transfer of a privacy-enabled Canton asset succeeded, failed or is still pending, without revealing the underlying confidential details; Bybit has already integrated it, and Digital Asset is urging other wallets and exchanges to follow (Canton Network Forum)\n- **BitSafe's CHYPE wallet app is set for Featured App status on Canton MainNet** — CHYPE, already cleared by the Tokenomics Committee, is up for an on-chain Super Validator vote that would grant it Featured App status from November 6, increasing the Canton Coin rewards the wallet earns for the activity it drives; committee clearance alone does not grant the status until Super Validators confirm it on-chain (Global Synchronizer Foundation)\n- **Hecto launches $NEOPRIME, billed as Canton's first DeFi-native real-world-asset token** — The token gives exposure to a basket of U.S. pre-IPO defence, robotics and fintech companies, with more themed pre-IPO tokens promised and the team asking other Canton applications for integrations (Canton Network Forum)\n\nNetwork: CC $0.0823 | Market cap $3.3B (rank 25) | 24h volume $12.9M | CC up 2.85% in 24 hours as of the 18:51 UTC November 18 read; milestone: DTCC's tokenization service makes an initial pool of more than $30 trillion of U.S. Treasuries, equities and ETFs addressable on Canton, the largest institutional collateral pool yet on the network (Altcoin Buzz for market data, reporting CoinGecko figures; Canton Network for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T16:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-18_1512-est",
+      "slug": "societe-generale-earns-4-009-129-canton-coin-for-completing-its-first-super-validator-comm",
+      "url": "https://canton.w3ai.io/feed/societe-generale-earns-4-009-129-canton-coin-for-completing-its-first-super-validator-comm",
+      "title": "Societe Generale earns 4,009,129 Canton Coin for completing its first Super Validator commitment milestone",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 3:12 PM ET)\n- **Societe Generale earns 4,009,129 Canton Coin for completing its first Super Validator commitment milestone** — The Tokenomics Committee has confirmed Societe Generale completed its first Super Validator commitment milestone, accepting tokenized assets as collateral, worth 4,009,129.4504 CC; the payout makes the bank's collateral work on Canton a paid, completed commitment rather than a pilot pledge (Global Synchronizer Foundation)\n- **Nexode is reinstated as a Featured App after its pause for review** — The Tokenomics Committee recommended reinstating Nexode's Featured App status after it had been paused for review, restoring the application's eligibility for the enhanced Canton Coin rewards that Featured App status carries (Global Synchronizer Foundation)\n- **Temple and Kora are recognised as delivery-versus-payment venues on Canton** — The Tokenomics Committee approved Temple and Kora for delivery-versus-payment treatment, meaning their atomic multi-asset settlements are recognised as genuine delivery-versus-payment rather than ordinary batching, which earns the assets they settle a better reward treatment (CC Space)\n- **HackCanton Season 3 is in its build phase, with workshops and streams published for builders** — The third season of the HackCanton builder programme is under way, backed by the Canton Foundation and BitSafe alongside sponsors including Hacken, Metatarz and OneSwap, with workshops and streams published to support teams building on the network (Canton Network Forum)\n\nNetwork: CC $0.0824 | Market cap $3.30B (rank 26) | 24h volume $13.06M | Supply 40,073,243,780 CC, up 3.51% in 24 hours and down 12.11% over seven days as of the 20:00 UTC November 18 read; milestone: Zenith has joined DTCC's Digital Assets Solutions Industry Working Group alongside more than 100 firms including BlackRock, JPMorgan, Goldman Sachs, Citi, Nasdaq and NYSE, helping design and test DTCC's tokenization service for U.S. equities, ETFs and Treasuries (CoinMarketHelp for market data; CC Space for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 3:12 PM ET)<br/>- **Societe Generale earns 4,009,129 Canton Coin for completing its first Super Validator commitment milestone** — The Tokenomics Committee has confirmed Societe Generale completed its first Super Validator commitment milestone, accepting tokenized assets as collateral, worth 4,009,129.4504 CC; the payout makes the bank&#x27;s collateral work on Canton a paid, completed commitment rather than a pilot pledge (Global Synchronizer Foundation)<br/>- **Nexode is reinstated as a Featured App after its pause for review** — The Tokenomics Committee recommended reinstating Nexode&#x27;s Featured App status after it had been paused for review, restoring the application&#x27;s eligibility for the enhanced Canton Coin rewards that Featured App status carries (Global Synchronizer Foundation)<br/>- **Temple and Kora are recognised as delivery-versus-payment venues on Canton** — The Tokenomics Committee approved Temple and Kora for delivery-versus-payment treatment, meaning their atomic multi-asset settlements are recognised as genuine delivery-versus-payment rather than ordinary batching, which earns the assets they settle a better reward treatment (CC Space)<br/>- **HackCanton Season 3 is in its build phase, with workshops and streams published for builders** — The third season of the HackCanton builder programme is under way, backed by the Canton Foundation and BitSafe alongside sponsors including Hacken, Metatarz and OneSwap, with workshops and streams published to support teams building on the network (Canton Network Forum)<br/><br/>Network: CC $0.0824 | Market cap $3.30B (rank 26) | 24h volume $13.06M | Supply 40,073,243,780 CC, up 3.51% in 24 hours and down 12.11% over seven days as of the 20:00 UTC November 18 read; milestone: Zenith has joined DTCC&#x27;s Digital Assets Solutions Industry Working Group alongside more than 100 firms including BlackRock, JPMorgan, Goldman Sachs, Citi, Nasdaq and NYSE, helping design and test DTCC&#x27;s tokenization service for U.S. equities, ETFs and Treasuries (CoinMarketHelp for market data; CC Space for the milestone)</p>",
+      "date_published": "2026-11-18T15:12:00-05:00",
+      "date_modified": "2026-11-18T15:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 3:12 PM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 3:12 PM ET)\n- **Societe Generale earns 4,009,129 Canton Coin for completing its first Super Validator commitment milestone** — The Tokenomics Committee has confirmed Societe Generale completed its first Super Validator commitment milestone, accepting tokenized assets as collateral, worth 4,009,129.4504 CC; the payout makes the bank's collateral work on Canton a paid, completed commitment rather than a pilot pledge (Global Synchronizer Foundation)\n- **Nexode is reinstated as a Featured App after its pause for review** — The Tokenomics Committee recommended reinstating Nexode's Featured App status after it had been paused for review, restoring the application's eligibility for the enhanced Canton Coin rewards that Featured App status carries (Global Synchronizer Foundation)\n- **Temple and Kora are recognised as delivery-versus-payment venues on Canton** — The Tokenomics Committee approved Temple and Kora for delivery-versus-payment treatment, meaning their atomic multi-asset settlements are recognised as genuine delivery-versus-payment rather than ordinary batching, which earns the assets they settle a better reward treatment (CC Space)\n- **HackCanton Season 3 is in its build phase, with workshops and streams published for builders** — The third season of the HackCanton builder programme is under way, backed by the Canton Foundation and BitSafe alongside sponsors including Hacken, Metatarz and OneSwap, with workshops and streams published to support teams building on the network (Canton Network Forum)\n\nNetwork: CC $0.0824 | Market cap $3.30B (rank 26) | 24h volume $13.06M | Supply 40,073,243,780 CC, up 3.51% in 24 hours and down 12.11% over seven days as of the 20:00 UTC November 18 read; milestone: Zenith has joined DTCC's Digital Assets Solutions Industry Working Group alongside more than 100 firms including BlackRock, JPMorgan, Goldman Sachs, Citi, Nasdaq and NYSE, helping design and test DTCC's tokenization service for U.S. equities, ETFs and Treasuries (CoinMarketHelp for market data; CC Space for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T15:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-18_1442-est",
+      "slug": "canton-backs-a-four-pillars-research-programme-on-real-world-asset-and-stablecoin-risks-al",
+      "url": "https://canton.w3ai.io/feed/canton-backs-a-four-pillars-research-programme-on-real-world-asset-and-stablecoin-risks-al",
+      "title": "Canton backs a Four Pillars research programme on real-world-asset and stablecoin risks alongside MetaMask and the Solana Foundation",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 2:42 PM ET)\n- **Canton backs a Four Pillars research programme on real-world-asset and stablecoin risks alongside MetaMask and the Solana Foundation** — Canton has joined MetaMask and the Solana Foundation in backing a Four Pillars university research programme in Seoul, with Canton's track studying the risks of issuing large-scale real-world assets and stablecoins on public proof-of-stake chains (Canton Network Forum)\n- **Copper withdraws its Canton apps from the Featured App reward programme while Wormhole's integration milestone is approved** — Copper Technologies is removing its ClearLoop Settlement and wrapped-assets apps from Canton's app reward programme, saying it will keep using them for collateral movement but wants them economically independent, while Wormhole's Canton integration milestone was approved for a weight release (Global Synchronizer Foundation)\n- **Tokenomics Committee pauses Wintip's Featured App status after its on-chain activity is flagged for review** — The Global Synchronizer Foundation's Tokenomics Committee has voted to pause Featured App status for Wintip (Winsnip) on MainNet after on-chain activity was flagged for review by the Accountability Committee; because Featured App status boosts the rewards an application earns, the pause materially changes the app's economics while the review runs (Global Synchronizer Foundation)\n- **Nine in ten investment banks expect onchain repo and collateral mobility to reshape liquidity management within five years** — A Canton Network post citing SODA's tokenization survey reports that 90% of investment banks expect onchain repo and collateral mobility to significantly reshape liquidity management within five years, the institutional use case Canton is positioning its settlement network around (Canton Network)\n\nNetwork: CC $0.0821 | Market cap $3.29B (rank 25) | 24h volume $12.71M | Supply 40,073,243,780 CC, up 2.46% in 24 hours and down 12.03% over seven days as of the 19:07 UTC November 18 read; milestone: Featured App Guidance v2.0b remains in force, holding the per-transaction featured-app reward cap at $0.79 with activity markers required to match burned fees one-for-one (Kriptometre for market data; Canton Network Forum for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 2:42 PM ET)<br/>- **Canton backs a Four Pillars research programme on real-world-asset and stablecoin risks alongside MetaMask and the Solana Foundation** — Canton has joined MetaMask and the Solana Foundation in backing a Four Pillars university research programme in Seoul, with Canton&#x27;s track studying the risks of issuing large-scale real-world assets and stablecoins on public proof-of-stake chains (Canton Network Forum)<br/>- **Copper withdraws its Canton apps from the Featured App reward programme while Wormhole&#x27;s integration milestone is approved** — Copper Technologies is removing its ClearLoop Settlement and wrapped-assets apps from Canton&#x27;s app reward programme, saying it will keep using them for collateral movement but wants them economically independent, while Wormhole&#x27;s Canton integration milestone was approved for a weight release (Global Synchronizer Foundation)<br/>- **Tokenomics Committee pauses Wintip&#x27;s Featured App status after its on-chain activity is flagged for review** — The Global Synchronizer Foundation&#x27;s Tokenomics Committee has voted to pause Featured App status for Wintip (Winsnip) on MainNet after on-chain activity was flagged for review by the Accountability Committee; because Featured App status boosts the rewards an application earns, the pause materially changes the app&#x27;s economics while the review runs (Global Synchronizer Foundation)<br/>- **Nine in ten investment banks expect onchain repo and collateral mobility to reshape liquidity management within five years** — A Canton Network post citing SODA&#x27;s tokenization survey reports that 90% of investment banks expect onchain repo and collateral mobility to significantly reshape liquidity management within five years, the institutional use case Canton is positioning its settlement network around (Canton Network)<br/><br/>Network: CC $0.0821 | Market cap $3.29B (rank 25) | 24h volume $12.71M | Supply 40,073,243,780 CC, up 2.46% in 24 hours and down 12.03% over seven days as of the 19:07 UTC November 18 read; milestone: Featured App Guidance v2.0b remains in force, holding the per-transaction featured-app reward cap at $0.79 with activity markers required to match burned fees one-for-one (Kriptometre for market data; Canton Network Forum for the milestone)</p>",
+      "date_published": "2026-11-18T14:42:00-05:00",
+      "date_modified": "2026-11-18T14:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 2:42 PM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 2:42 PM ET)\n- **Canton backs a Four Pillars research programme on real-world-asset and stablecoin risks alongside MetaMask and the Solana Foundation** — Canton has joined MetaMask and the Solana Foundation in backing a Four Pillars university research programme in Seoul, with Canton's track studying the risks of issuing large-scale real-world assets and stablecoins on public proof-of-stake chains (Canton Network Forum)\n- **Copper withdraws its Canton apps from the Featured App reward programme while Wormhole's integration milestone is approved** — Copper Technologies is removing its ClearLoop Settlement and wrapped-assets apps from Canton's app reward programme, saying it will keep using them for collateral movement but wants them economically independent, while Wormhole's Canton integration milestone was approved for a weight release (Global Synchronizer Foundation)\n- **Tokenomics Committee pauses Wintip's Featured App status after its on-chain activity is flagged for review** — The Global Synchronizer Foundation's Tokenomics Committee has voted to pause Featured App status for Wintip (Winsnip) on MainNet after on-chain activity was flagged for review by the Accountability Committee; because Featured App status boosts the rewards an application earns, the pause materially changes the app's economics while the review runs (Global Synchronizer Foundation)\n- **Nine in ten investment banks expect onchain repo and collateral mobility to reshape liquidity management within five years** — A Canton Network post citing SODA's tokenization survey reports that 90% of investment banks expect onchain repo and collateral mobility to significantly reshape liquidity management within five years, the institutional use case Canton is positioning its settlement network around (Canton Network)\n\nNetwork: CC $0.0821 | Market cap $3.29B (rank 25) | 24h volume $12.71M | Supply 40,073,243,780 CC, up 2.46% in 24 hours and down 12.03% over seven days as of the 19:07 UTC November 18 read; milestone: Featured App Guidance v2.0b remains in force, holding the per-transaction featured-app reward cap at $0.79 with activity markers required to match burned fees one-for-one (Kriptometre for market data; Canton Network Forum for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T14:42:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-18_1312-est",
+      "slug": "bayzen-is-approved-for-featured-app-status-on-canton-mainnet-with-the-decision-now-pending",
+      "url": "https://canton.w3ai.io/feed/bayzen-is-approved-for-featured-app-status-on-canton-mainnet-with-the-decision-now-pending",
+      "title": "Bayzen is approved for Featured App status on Canton MainNet, with the decision now pending an on-chain Super Validator vote",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 1:12 PM ET)\n\n- **Bayzen is approved for Featured App status on Canton MainNet, with the decision now pending an on-chain Super Validator vote** — The Tokenomics Committee approved Bayzen for Featured App status, which lets an application earn boosted Canton Coin rewards for the activity it drives on the network; committee approval alone does not grant the status until Super Validators confirm it on-chain, and approval is not an endorsement by the Canton Foundation (CC Space)\n- **Kaiko deploys the first institutional-grade price oracle on Zenith, Canton's EVM execution layer** — The market-data provider's oracle is live on Zenith testnet now and is due in production at Zenith mainnet launch, giving EVM developers on Canton regulated multi-asset pricing data; trusted pricing is the piece market infrastructures need before accepting tokenized assets as collateral and margin (Canton Network Forum)\n- **Canton Coin spot prices sit 4.83% apart across exchanges, with no route rated worth taking outright** — A live scan at 16:56 UTC on November 18 puts Canton Coin cheapest on WEEX at $0.07844 and dearest on Bitrue at $0.082225 across 13 exchanges with a liquid spot market, narrowed from 5.18% recorded at 12:12 PM; the widest route, buying on WEEX and selling on LBank at 4.10% after fees, is flagged as a suspect pair, and the best futures route is long MEXC perpetuals and short Lighter perpetuals at 0.01% after fees (ArbitrageGap)\n- **Canton Coin perpetual open interest eases to 315 million coins as funding stays near neutral** — Open interest sits at 315 million CC, about $25.96 million, down from 323 million CC and $27.22 million recorded this morning, with average funding across eight exchanges at 0.0012%, suggesting balanced positioning between longs and shorts, and 24-hour turnover at $19.97 million (JustScreener)\n\nNetwork: CC $0.0826 | Market cap $3.31B (rank 26) | 24h volume $13.12M | Supply 40,072,723,113 CC, up 2.70% in 24 hours as of the November 18 read; milestone: only Global Synchronizer traffic burns Canton Coin today, with universal burn for dedicated synchronizers approved as a framework and its first phase estimated for the first quarter of 2027 (Kaavon for market data, reporting CoinGecko figures; Medium for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 1:12 PM ET)<br/><br/>- **Bayzen is approved for Featured App status on Canton MainNet, with the decision now pending an on-chain Super Validator vote** — The Tokenomics Committee approved Bayzen for Featured App status, which lets an application earn boosted Canton Coin rewards for the activity it drives on the network; committee approval alone does not grant the status until Super Validators confirm it on-chain, and approval is not an endorsement by the Canton Foundation (CC Space)<br/>- **Kaiko deploys the first institutional-grade price oracle on Zenith, Canton&#x27;s EVM execution layer** — The market-data provider&#x27;s oracle is live on Zenith testnet now and is due in production at Zenith mainnet launch, giving EVM developers on Canton regulated multi-asset pricing data; trusted pricing is the piece market infrastructures need before accepting tokenized assets as collateral and margin (Canton Network Forum)<br/>- **Canton Coin spot prices sit 4.83% apart across exchanges, with no route rated worth taking outright** — A live scan at 16:56 UTC on November 18 puts Canton Coin cheapest on WEEX at $0.07844 and dearest on Bitrue at $0.082225 across 13 exchanges with a liquid spot market, narrowed from 5.18% recorded at 12:12 PM; the widest route, buying on WEEX and selling on LBank at 4.10% after fees, is flagged as a suspect pair, and the best futures route is long MEXC perpetuals and short Lighter perpetuals at 0.01% after fees (ArbitrageGap)<br/>- **Canton Coin perpetual open interest eases to 315 million coins as funding stays near neutral** — Open interest sits at 315 million CC, about $25.96 million, down from 323 million CC and $27.22 million recorded this morning, with average funding across eight exchanges at 0.0012%, suggesting balanced positioning between longs and shorts, and 24-hour turnover at $19.97 million (JustScreener)<br/><br/>Network: CC $0.0826 | Market cap $3.31B (rank 26) | 24h volume $13.12M | Supply 40,072,723,113 CC, up 2.70% in 24 hours as of the November 18 read; milestone: only Global Synchronizer traffic burns Canton Coin today, with universal burn for dedicated synchronizers approved as a framework and its first phase estimated for the first quarter of 2027 (Kaavon for market data, reporting CoinGecko figures; Medium for the milestone)</p>",
+      "date_published": "2026-11-18T13:12:00-05:00",
+      "date_modified": "2026-11-18T13:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 1:12 PM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 1:12 PM ET)\n\n- **Bayzen is approved for Featured App status on Canton MainNet, with the decision now pending an on-chain Super Validator vote** — The Tokenomics Committee approved Bayzen for Featured App status, which lets an application earn boosted Canton Coin rewards for the activity it drives on the network; committee approval alone does not grant the status until Super Validators confirm it on-chain, and approval is not an endorsement by the Canton Foundation (CC Space)\n- **Kaiko deploys the first institutional-grade price oracle on Zenith, Canton's EVM execution layer** — The market-data provider's oracle is live on Zenith testnet now and is due in production at Zenith mainnet launch, giving EVM developers on Canton regulated multi-asset pricing data; trusted pricing is the piece market infrastructures need before accepting tokenized assets as collateral and margin (Canton Network Forum)\n- **Canton Coin spot prices sit 4.83% apart across exchanges, with no route rated worth taking outright** — A live scan at 16:56 UTC on November 18 puts Canton Coin cheapest on WEEX at $0.07844 and dearest on Bitrue at $0.082225 across 13 exchanges with a liquid spot market, narrowed from 5.18% recorded at 12:12 PM; the widest route, buying on WEEX and selling on LBank at 4.10% after fees, is flagged as a suspect pair, and the best futures route is long MEXC perpetuals and short Lighter perpetuals at 0.01% after fees (ArbitrageGap)\n- **Canton Coin perpetual open interest eases to 315 million coins as funding stays near neutral** — Open interest sits at 315 million CC, about $25.96 million, down from 323 million CC and $27.22 million recorded this morning, with average funding across eight exchanges at 0.0012%, suggesting balanced positioning between longs and shorts, and 24-hour turnover at $19.97 million (JustScreener)\n\nNetwork: CC $0.0826 | Market cap $3.31B (rank 26) | 24h volume $13.12M | Supply 40,072,723,113 CC, up 2.70% in 24 hours as of the November 18 read; milestone: only Global Synchronizer traffic burns Canton Coin today, with universal burn for dedicated synchronizers approved as a framework and its first phase estimated for the first quarter of 2027 (Kaavon for market data, reporting CoinGecko figures; Medium for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T13:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-18_1242-est",
       "slug": "palladium-labs-open-sources-its-chainlink-oracle-kit-for-canton-developers-packaging-the-p",
@@ -4703,134 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Wednesday, November 25, 2026\nTestNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690956723",
-      "slug": "mainnet-upgrades-to-splice-0-10-0",
-      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-0",
-      "title": "MainNet upgrades to Splice 0.10.0",
-      "content_text": "Canton Calendar — Monday, November 16, 2026\nMainNet upgrades to Splice 0.10.0\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, November 16, 2026<br/>MainNet upgrades to Splice 0.10.0<br/>Weekly Upgrades · MainNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, November 16, 2026\nMainNet upgrades to Splice 0.10.0\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690956494",
-      "slug": "testnet-upgrades-to-splice-0-10-1",
-      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-10-1",
-      "title": "TestNet upgrades to Splice 0.10.1",
-      "content_text": "Canton Calendar — Monday, November 16, 2026\nTestNet upgrades to Splice 0.10.1\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, November 16, 2026<br/>TestNet upgrades to Splice 0.10.1<br/>Weekly Upgrades · TestNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, November 16, 2026\nTestNet upgrades to Splice 0.10.1\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690956490",
-      "slug": "devnet-logical-synchronizer-upgrade-0-10-x-required-november-2026",
-      "url": "https://canton.w3ai.io/feed/devnet-logical-synchronizer-upgrade-0-10-x-required-november-2026",
-      "title": "DevNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)",
-      "content_text": "Canton Calendar — Wednesday, November 18, 2026\nDevNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Wednesday, November 18, 2026<br/>DevNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)<br/>Protocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Wednesday, November 18, 2026\nDevNet: Logical Synchronizer Upgrade (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690943575",
-      "slug": "mainnet-topology-freeze-0-10-x-required-december-2026",
-      "url": "https://canton.w3ai.io/feed/mainnet-topology-freeze-0-10-x-required-december-2026",
-      "title": "MainNet: Topology Freeze (0.10.x Required) (December 2026)",
-      "content_text": "Canton Calendar — Friday, December 11, 2026\nMainNet: Topology Freeze (0.10.x Required) (December 2026)\nProtocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Friday, December 11, 2026<br/>MainNet: Topology Freeze (0.10.x Required) (December 2026)<br/>Protocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Friday, December 11, 2026\nMainNet: Topology Freeze (0.10.x Required) (December 2026)\nProtocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
