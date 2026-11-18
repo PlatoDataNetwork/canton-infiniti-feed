@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-18T06:12:00-05:00",
+  "updated": "2026-11-18T07:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-18_0712-est",
+      "slug": "canton-index-milestone-votes-seek-acceptance-for-tools-that-turn-ledger-records-into-data",
+      "url": "https://canton.w3ai.io/feed/canton-index-milestone-votes-seek-acceptance-for-tools-that-turn-ledger-records-into-data",
+      "title": "Canton Index milestone votes seek acceptance for tools that turn ledger records into data applications can query",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 7:12 AM ET)\n- **Canton Index milestone votes seek acceptance for tools that turn ledger records into data applications can query** — Canton Index, a project from The Graph Foundation and InfraDAO, has votes open on two parts of its work: milestone 1, covering tools for defining and testing filters that select the records an application needs, and milestone 2, covering a pipeline that processes new ledger records and keeps an application's stored data up to date; each milestone carries 444,000 CC, for a combined 888,000 CC, the first milestone is returning to review after an earlier vote did not pass, with revised documentation and responses to design feedback in its resubmission, its source code remains private with publication planned by milestone 4, and neither vote had established acceptance or payment at the reporting cutoff, so these are votes on acceptance of submitted work rather than a new award for the whole project (CantonNews)\n- **Canton Coin sits below all eight tracked moving averages with daily momentum in weak territory** — Technical reads dated November 16 to 17 put the daily relative strength index at 34.5, with the 4-hour reading at 38.7 and the weekly at 36.1, all below the neutral 50 line, and price below every tracked average, including the 20-day simple moving average at $0.0914 and the 50-day at $0.1047; support clusters between $0.0750 and $0.0799, with $0.0950 cited as the reclaim level for a recovery, and the daily structure remains a sequence of lower highs that has not resolved, so the readings describe a weak trend rather than a confirmed turn (CoinStats)\n- **Canton exchange-traded product demand stays weak, with the 21Shares fund down about 25% over 30 days** — The 21Shares Canton Network ETF (TCAN) fell about 25% over 30 days as of November 13, while the Bitwise Canton ETP (BWCC) reported total assets under management of $0.24 million and a year-to-date net asset value change of -51.48%; the figures describe product flows and fund demand, not network usage, and sit against a broader market backdrop in extreme fear (CoinStats)\n- **Canton discussion leans bullish in the latest social count even as trading stays cautious** — A Spectre analysis counted 428 X mentions from 225 accounts over seven days, with 77% of posts rated bullish and 15% bearish and no coordinated negative clusters found; commentary centres on institutional infrastructure, while skeptics point to weaker retail visibility, and the count measures discussion tone rather than buying or network activity (CoinStats)\n\nNetwork: CC $0.08441 | Market cap $3.38B | 24h volume $15.29M | CC up 4.62% in 24 hours and down 5.32% over seven days as of the November 18 read; milestone: DTCC's tokenization service has been live on Canton since October 28 under agreements with 20 participants, and Société Générale accepted $10 million in U.S. Treasuries tokenized through the service as collateral on Canton on November 2 (CoinStats for market data and the milestone, reporting Tiger Research for the service details)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 7:12 AM ET)<br/>- **Canton Index milestone votes seek acceptance for tools that turn ledger records into data applications can query** — Canton Index, a project from The Graph Foundation and InfraDAO, has votes open on two parts of its work: milestone 1, covering tools for defining and testing filters that select the records an application needs, and milestone 2, covering a pipeline that processes new ledger records and keeps an application&#x27;s stored data up to date; each milestone carries 444,000 CC, for a combined 888,000 CC, the first milestone is returning to review after an earlier vote did not pass, with revised documentation and responses to design feedback in its resubmission, its source code remains private with publication planned by milestone 4, and neither vote had established acceptance or payment at the reporting cutoff, so these are votes on acceptance of submitted work rather than a new award for the whole project (CantonNews)<br/>- **Canton Coin sits below all eight tracked moving averages with daily momentum in weak territory** — Technical reads dated November 16 to 17 put the daily relative strength index at 34.5, with the 4-hour reading at 38.7 and the weekly at 36.1, all below the neutral 50 line, and price below every tracked average, including the 20-day simple moving average at $0.0914 and the 50-day at $0.1047; support clusters between $0.0750 and $0.0799, with $0.0950 cited as the reclaim level for a recovery, and the daily structure remains a sequence of lower highs that has not resolved, so the readings describe a weak trend rather than a confirmed turn (CoinStats)<br/>- **Canton exchange-traded product demand stays weak, with the 21Shares fund down about 25% over 30 days** — The 21Shares Canton Network ETF (TCAN) fell about 25% over 30 days as of November 13, while the Bitwise Canton ETP (BWCC) reported total assets under management of $0.24 million and a year-to-date net asset value change of -51.48%; the figures describe product flows and fund demand, not network usage, and sit against a broader market backdrop in extreme fear (CoinStats)<br/>- **Canton discussion leans bullish in the latest social count even as trading stays cautious** — A Spectre analysis counted 428 X mentions from 225 accounts over seven days, with 77% of posts rated bullish and 15% bearish and no coordinated negative clusters found; commentary centres on institutional infrastructure, while skeptics point to weaker retail visibility, and the count measures discussion tone rather than buying or network activity (CoinStats)<br/><br/>Network: CC $0.08441 | Market cap $3.38B | 24h volume $15.29M | CC up 4.62% in 24 hours and down 5.32% over seven days as of the November 18 read; milestone: DTCC&#x27;s tokenization service has been live on Canton since October 28 under agreements with 20 participants, and Société Générale accepted $10 million in U.S. Treasuries tokenized through the service as collateral on Canton on November 2 (CoinStats for market data and the milestone, reporting Tiger Research for the service details)</p>",
+      "date_published": "2026-11-18T07:12:00-05:00",
+      "date_modified": "2026-11-18T07:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 7:12 AM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 7:12 AM ET)\n- **Canton Index milestone votes seek acceptance for tools that turn ledger records into data applications can query** — Canton Index, a project from The Graph Foundation and InfraDAO, has votes open on two parts of its work: milestone 1, covering tools for defining and testing filters that select the records an application needs, and milestone 2, covering a pipeline that processes new ledger records and keeps an application's stored data up to date; each milestone carries 444,000 CC, for a combined 888,000 CC, the first milestone is returning to review after an earlier vote did not pass, with revised documentation and responses to design feedback in its resubmission, its source code remains private with publication planned by milestone 4, and neither vote had established acceptance or payment at the reporting cutoff, so these are votes on acceptance of submitted work rather than a new award for the whole project (CantonNews)\n- **Canton Coin sits below all eight tracked moving averages with daily momentum in weak territory** — Technical reads dated November 16 to 17 put the daily relative strength index at 34.5, with the 4-hour reading at 38.7 and the weekly at 36.1, all below the neutral 50 line, and price below every tracked average, including the 20-day simple moving average at $0.0914 and the 50-day at $0.1047; support clusters between $0.0750 and $0.0799, with $0.0950 cited as the reclaim level for a recovery, and the daily structure remains a sequence of lower highs that has not resolved, so the readings describe a weak trend rather than a confirmed turn (CoinStats)\n- **Canton exchange-traded product demand stays weak, with the 21Shares fund down about 25% over 30 days** — The 21Shares Canton Network ETF (TCAN) fell about 25% over 30 days as of November 13, while the Bitwise Canton ETP (BWCC) reported total assets under management of $0.24 million and a year-to-date net asset value change of -51.48%; the figures describe product flows and fund demand, not network usage, and sit against a broader market backdrop in extreme fear (CoinStats)\n- **Canton discussion leans bullish in the latest social count even as trading stays cautious** — A Spectre analysis counted 428 X mentions from 225 accounts over seven days, with 77% of posts rated bullish and 15% bearish and no coordinated negative clusters found; commentary centres on institutional infrastructure, while skeptics point to weaker retail visibility, and the count measures discussion tone rather than buying or network activity (CoinStats)\n\nNetwork: CC $0.08441 | Market cap $3.38B | 24h volume $15.29M | CC up 4.62% in 24 hours and down 5.32% over seven days as of the November 18 read; milestone: DTCC's tokenization service has been live on Canton since October 28 under agreements with 20 participants, and Société Générale accepted $10 million in U.S. Treasuries tokenized through the service as collateral on Canton on November 2 (CoinStats for market data and the milestone, reporting Tiger Research for the service details)",
+      "image_url": null,
+      "published": "2026-11-18T07:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-18_0612-est",
       "slug": "progmat-partners-with-digital-asset-to-tokenize-japanese-government-bonds-on-canton-for-ro",
@@ -4798,38 +4830,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Tuesday, November 17, 2026\nDevNet: Topology Freeze (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690820725",
-      "slug": "mainnet-upgrades-to-splice-0-10-1",
-      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-1",
-      "title": "MainNet upgrades to Splice 0.10.1",
-      "content_text": "Canton Calendar — Monday, November 23, 2026\nMainNet upgrades to Splice 0.10.1\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, November 23, 2026<br/>MainNet upgrades to Splice 0.10.1<br/>Weekly Upgrades · MainNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, November 23, 2026\nMainNet upgrades to Splice 0.10.1\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
