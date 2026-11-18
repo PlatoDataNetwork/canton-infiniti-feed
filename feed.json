@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-18T07:12:00-05:00",
+  "updated": "2026-11-18T08:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-18_0812-est",
+      "slug": "further-asset-management-is-approved-as-a-canton-super-validator-the-first-at-that-tier-wi",
+      "url": "https://canton.w3ai.io/feed/further-asset-management-is-approved-as-a-canton-super-validator-the-first-at-that-tier-wi",
+      "title": "Further Asset Management is approved as a Canton Super Validator, the first at that tier with a dedicated Middle East presence",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 8:12 AM ET)\n- **Further Asset Management is approved as a Canton Super Validator, the first at that tier with a dedicated Middle East presence** — Further announced today that existing Super Validator operators approved it under CIP-0113, giving it a formal governance role in the Global Synchronizer and a Super Validator node linking the UAE ecosystem; the firm says the move takes it from capital provider to active network operator, one of a small number of non-bank institutional validators on Canton, and Digital Asset chief executive Yuval Rooz said Further brings a live portfolio of companies that will generate real transaction volume on the network (Further Asset Management)\n- **Canton's governance locks move from votes to code as CIP-0127 sets out on-chain enforcement of validator and app lock-ups** — The Canton Network Docs describe a governance lock as a Canton Coin holding locked to meet the requirements set by CIP-0105 for Super Validators and CIP-0116 for Featured Apps, with CIP-0127 as the functional specification defining the lock lifecycle and wallet workflows; governance locks are available from Splice 0.10.0 onwards, its first two increments are included in that release, every lock must hold at least 10,000 CC, and until custom controllers arrive all Super Validator rights owners and Featured App providers must use the compatibility mode the proposal defines (Canton Network Docs)\n- **Canton's on-chain governance record stands at 573 executed proposals against 45 rejected, a 93% approval rate** — CCTools' governance data as of 12:10 UTC on November 18 puts the network's cumulative record at 573 executed and 45 rejected proposals, with total Canton Coin supply at 40.07 billion CC derived from the protocol itself; the figures are a cumulative governance snapshot, not a count of votes held today (CCTools)\n- **Canton Coin spot prices sit 6.96% apart across exchanges, with no route rated worth taking outright** — A live scan at 06:25 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.078731 and dearest on XT at $0.08421 across 12 exchanges with a liquid spot market, widened from the 5.57% spread recorded earlier today; the widest route, buying on MEXC and selling on Bitget at 6.75% after fees, is flagged as a suspect pair, and the best futures route is long MEXC perpetuals and short Lighter perpetuals at 0.08% after fees (ArbitrageGap)\n\nNetwork: CC $0.0837 | Market cap $3.35B (rank 25) | 24h volume $15.28M | Supply 40,072,068,785 CC, up 3.75% in 24 hours and down 5.97% over seven days as of the 13:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours reach 8.6M CC, up from 6.4M CC at the 5:12 AM read, with current activity at 2.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (CoinMarketHelp for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 8:12 AM ET)<br/>- **Further Asset Management is approved as a Canton Super Validator, the first at that tier with a dedicated Middle East presence** — Further announced today that existing Super Validator operators approved it under CIP-0113, giving it a formal governance role in the Global Synchronizer and a Super Validator node linking the UAE ecosystem; the firm says the move takes it from capital provider to active network operator, one of a small number of non-bank institutional validators on Canton, and Digital Asset chief executive Yuval Rooz said Further brings a live portfolio of companies that will generate real transaction volume on the network (Further Asset Management)<br/>- **Canton&#x27;s governance locks move from votes to code as CIP-0127 sets out on-chain enforcement of validator and app lock-ups** — The Canton Network Docs describe a governance lock as a Canton Coin holding locked to meet the requirements set by CIP-0105 for Super Validators and CIP-0116 for Featured Apps, with CIP-0127 as the functional specification defining the lock lifecycle and wallet workflows; governance locks are available from Splice 0.10.0 onwards, its first two increments are included in that release, every lock must hold at least 10,000 CC, and until custom controllers arrive all Super Validator rights owners and Featured App providers must use the compatibility mode the proposal defines (Canton Network Docs)<br/>- **Canton&#x27;s on-chain governance record stands at 573 executed proposals against 45 rejected, a 93% approval rate** — CCTools&#x27; governance data as of 12:10 UTC on November 18 puts the network&#x27;s cumulative record at 573 executed and 45 rejected proposals, with total Canton Coin supply at 40.07 billion CC derived from the protocol itself; the figures are a cumulative governance snapshot, not a count of votes held today (CCTools)<br/>- **Canton Coin spot prices sit 6.96% apart across exchanges, with no route rated worth taking outright** — A live scan at 06:25 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.078731 and dearest on XT at $0.08421 across 12 exchanges with a liquid spot market, widened from the 5.57% spread recorded earlier today; the widest route, buying on MEXC and selling on Bitget at 6.75% after fees, is flagged as a suspect pair, and the best futures route is long MEXC perpetuals and short Lighter perpetuals at 0.08% after fees (ArbitrageGap)<br/><br/>Network: CC $0.0837 | Market cap $3.35B (rank 25) | 24h volume $15.28M | Supply 40,072,068,785 CC, up 3.75% in 24 hours and down 5.97% over seven days as of the 13:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours reach 8.6M CC, up from 6.4M CC at the 5:12 AM read, with current activity at 2.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (CoinMarketHelp for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-18T08:12:00-05:00",
+      "date_modified": "2026-11-18T08:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 8:12 AM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 8:12 AM ET)\n- **Further Asset Management is approved as a Canton Super Validator, the first at that tier with a dedicated Middle East presence** — Further announced today that existing Super Validator operators approved it under CIP-0113, giving it a formal governance role in the Global Synchronizer and a Super Validator node linking the UAE ecosystem; the firm says the move takes it from capital provider to active network operator, one of a small number of non-bank institutional validators on Canton, and Digital Asset chief executive Yuval Rooz said Further brings a live portfolio of companies that will generate real transaction volume on the network (Further Asset Management)\n- **Canton's governance locks move from votes to code as CIP-0127 sets out on-chain enforcement of validator and app lock-ups** — The Canton Network Docs describe a governance lock as a Canton Coin holding locked to meet the requirements set by CIP-0105 for Super Validators and CIP-0116 for Featured Apps, with CIP-0127 as the functional specification defining the lock lifecycle and wallet workflows; governance locks are available from Splice 0.10.0 onwards, its first two increments are included in that release, every lock must hold at least 10,000 CC, and until custom controllers arrive all Super Validator rights owners and Featured App providers must use the compatibility mode the proposal defines (Canton Network Docs)\n- **Canton's on-chain governance record stands at 573 executed proposals against 45 rejected, a 93% approval rate** — CCTools' governance data as of 12:10 UTC on November 18 puts the network's cumulative record at 573 executed and 45 rejected proposals, with total Canton Coin supply at 40.07 billion CC derived from the protocol itself; the figures are a cumulative governance snapshot, not a count of votes held today (CCTools)\n- **Canton Coin spot prices sit 6.96% apart across exchanges, with no route rated worth taking outright** — A live scan at 06:25 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.078731 and dearest on XT at $0.08421 across 12 exchanges with a liquid spot market, widened from the 5.57% spread recorded earlier today; the widest route, buying on MEXC and selling on Bitget at 6.75% after fees, is flagged as a suspect pair, and the best futures route is long MEXC perpetuals and short Lighter perpetuals at 0.08% after fees (ArbitrageGap)\n\nNetwork: CC $0.0837 | Market cap $3.35B (rank 25) | 24h volume $15.28M | Supply 40,072,068,785 CC, up 3.75% in 24 hours and down 5.97% over seven days as of the 13:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours reach 8.6M CC, up from 6.4M CC at the 5:12 AM read, with current activity at 2.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (CoinMarketHelp for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T08:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-18_0712-est",
       "slug": "canton-index-milestone-votes-seek-acceptance-for-tools-that-turn-ledger-records-into-data",
@@ -4798,38 +4830,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Saturday, December 12, 2026\nMainNet: Logical Synchronizer Upgrade (0.10.x Required) (December 2026)\nProtocol Upgrades (LSU) · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690828896",
-      "slug": "devnet-topology-freeze-0-10-x-required-november-2026",
-      "url": "https://canton.w3ai.io/feed/devnet-topology-freeze-0-10-x-required-november-2026",
-      "title": "DevNet: Topology Freeze (0.10.x Required) (November 2026)",
-      "content_text": "Canton Calendar — Tuesday, November 17, 2026\nDevNet: Topology Freeze (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, November 17, 2026<br/>DevNet: Topology Freeze (0.10.x Required) (November 2026)<br/>Protocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, November 17, 2026\nDevNet: Topology Freeze (0.10.x Required) (November 2026)\nProtocol Upgrades (LSU) · DevNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
