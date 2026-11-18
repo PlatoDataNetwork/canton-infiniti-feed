@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-18_1642-est",
+      "slug": "cip-0104-stands-approved-in-the-canton-foundation-registry-tying-app-rewards-to-measured-t",
+      "title": "CIP-0104 stands Approved in the Canton Foundation registry, tying app rewards to measured traffic instead of code markers",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 4:42 PM ET)\n- **CIP-0104 stands Approved in the Canton Foundation registry, tying app rewards to measured traffic instead of code markers** — The Tokenomics proposal, approved on October 27, 2026, bases an application's Canton Coin rewards on the actual traffic spent on transactions that change the state it manages, measured directly on the Global Synchronizer from sequencer and mediator data, rather than on FeaturedAppActivityMarker contracts builders had to place in their code; the approved text keeps the featured-app reward cap at 0.79, allowing at most 79 cents minted for every $1 burned, and approval is not implementation — on-chain steps are still required before it reaches Final status (CantonCap)\n- **Canton's governance pipeline stands at 56 Final and 42 Approved proposals, with only four still Proposed** — The Canton Foundation's CIP registry counts 56 proposals Final and in effect, 42 Approved, 8 Active and just 1 Rejected across the full set; the four still at Proposed are CIP-0120 on traffic-based validator rewards, CIP-0108 to add Merkle Science's predictive analytics as a weight-1 Super Validator, CIP-0049 on cold-backup incentives for Super Validators, and one further governance item (Canton Network Docs)\n- **The SEC's examinations arm has put tokenization on its fiscal 2027 priority list for clearing agencies** — The SEC Division of Examinations listed tokenization among its fiscal 2027 examination priorities for clearing agencies and Regulation SCI entities on October 23, putting the regulated clearing infrastructure Canton plugs into — including DTCC's tokenization service — squarely in the examination frame for the coming year (Blockchain Reporter)\n- **Singapore FinTech Festival 2026 is live today with Canton tracked in the day's conference coverage** — CantonNews is tracking the festival, hosted by the Monetary Authority of Singapore and GFTN, as a live conference on November 18, the same day its daily edition leads on Canton developer tooling; the listing is conference coverage, not a Canton product announcement (CantonNews)\n\nNetwork: CC $0.0816 | Market cap $3.30B (rank 26) | 24h volume $13.68M | Circulating supply 40,070,342,939 CC, up 1.12% in 24 hours as of the 21:18 UTC November 18 read; milestone: the live CantonNews dashboard shows active proposals down to 1 with 24-hour network rewards of 13.3M CC and total transactions at 605.7M (COINOTAG for market data; CantonNews for the milestone)",
+      "timestamp": "2026-11-18T16:42:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/cip-0104-stands-approved-in-the-canton-foundation-registry-tying-app-rewards-to-measured-t",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-18_1612-est",
       "slug": "blockdaemon-schedules-canton-testnet-and-devnet-upgrades-for-november-19-taking-testnet-to",
       "title": "Blockdaemon schedules Canton Testnet and Devnet upgrades for November 19, taking Testnet to Splice 0.10.1 and Devnet to 0.10.2",
