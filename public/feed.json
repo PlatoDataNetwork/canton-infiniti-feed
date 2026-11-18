@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-18T16:42:00-05:00",
+  "updated": "2026-11-18T17:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-18_1712-est",
+      "slug": "broadridge-s-repo-product-built-on-canton-moves-300-billion-to-400-billion-of-value-daily",
+      "url": "https://canton.w3ai.io/feed/broadridge-s-repo-product-built-on-canton-moves-300-billion-to-400-billion-of-value-daily",
+      "title": "Broadridge's repo product built on Canton moves $300 billion to $400 billion of value daily, Yuval Rooz tells a KBW audience",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 5:12 PM ET)\n- **Broadridge's repo product built on Canton moves $300 billion to $400 billion of value daily, Yuval Rooz tells a KBW audience** — Discussing the roughly $15 trillion notional a day repo market, Digital Asset chief executive Yuval Rooz said Broadridge, whose clients include some of the biggest banks in the world, built its repo product on Canton and now moves $300 billion to $400 billion of value daily through it; the remarks were made at KBW and reported in conversation with Bitcoin News, putting a current daily figure on the largest known production repo workload on the network (CantonNews)\n- **OnePump is now live on Canton, paying memecoin creators monthly rewards only after their tokens stay active** — The launchpad built by the OneSwap team and approved by the Canton Foundation is built around Canton's Featured Asset model: creators of tokens that reach 1 million CC in trading volume and more than 1,000 holders can earn monthly rewards from the network rather than from the launchpad; tokens graduate to a OneSwap pool at 250,000 CC with liquidity locked, and JOSE, one of the first tokens to graduate, reached 8.4 million CC in volume and 615 holders in its first four days (BSCN)\n- **Canton's governance guide sets out a CIP process with more than 117 proposals approved and no single-entity veto** — Every protocol, tokenomics and governance change goes through the Canton Improvement Proposal process: anyone can author a proposal, Standards Track items require three months of discussion, a formal vote needs sponsorship from two Super Validators, all 55 Super Validators vote over 10 days, approval requires a two-thirds supermajority, and a proposal reaches Final status only after two-thirds have implemented it on-chain through DevNet, TestNet and MainNet (CantonNews)\n- **Silvana's private orderbook on Canton keeps orders off public view and assets in the user's wallet until DvP settlement** — Silvana Book, already live on Canton, matches orders privately before final delivery-versus-payment settlement on the network, so assets are not placed into escrow during matching and only move when the trade completes; its V2 release adds a redesigned Trading Terminal, support for Lattice Wallet, private RFQ trading, grid strategies and agent tools that act only within user-set permissions and signing controls (Canton Army)\n\nNetwork: CC $0.0819 | Market cap $3.28B (rank 26) | 24h volume $12.99M | Circulating supply 40,076,902,992 CC, up 0.30% in 24 hours and down 12.3% over seven days as of the 21:36 UTC November 18 read; milestone: total MainNet parties have risen to 952,242 and total transactions to 606.37 million, with 147 Featured Apps built on Canton as of the 22:10 UTC November 18 read (Kaavon, reporting CoinGecko figures, for market data; CCTools for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 5:12 PM ET)<br/>- **Broadridge&#x27;s repo product built on Canton moves $300 billion to $400 billion of value daily, Yuval Rooz tells a KBW audience** — Discussing the roughly $15 trillion notional a day repo market, Digital Asset chief executive Yuval Rooz said Broadridge, whose clients include some of the biggest banks in the world, built its repo product on Canton and now moves $300 billion to $400 billion of value daily through it; the remarks were made at KBW and reported in conversation with Bitcoin News, putting a current daily figure on the largest known production repo workload on the network (CantonNews)<br/>- **OnePump is now live on Canton, paying memecoin creators monthly rewards only after their tokens stay active** — The launchpad built by the OneSwap team and approved by the Canton Foundation is built around Canton&#x27;s Featured Asset model: creators of tokens that reach 1 million CC in trading volume and more than 1,000 holders can earn monthly rewards from the network rather than from the launchpad; tokens graduate to a OneSwap pool at 250,000 CC with liquidity locked, and JOSE, one of the first tokens to graduate, reached 8.4 million CC in volume and 615 holders in its first four days (BSCN)<br/>- **Canton&#x27;s governance guide sets out a CIP process with more than 117 proposals approved and no single-entity veto** — Every protocol, tokenomics and governance change goes through the Canton Improvement Proposal process: anyone can author a proposal, Standards Track items require three months of discussion, a formal vote needs sponsorship from two Super Validators, all 55 Super Validators vote over 10 days, approval requires a two-thirds supermajority, and a proposal reaches Final status only after two-thirds have implemented it on-chain through DevNet, TestNet and MainNet (CantonNews)<br/>- **Silvana&#x27;s private orderbook on Canton keeps orders off public view and assets in the user&#x27;s wallet until DvP settlement** — Silvana Book, already live on Canton, matches orders privately before final delivery-versus-payment settlement on the network, so assets are not placed into escrow during matching and only move when the trade completes; its V2 release adds a redesigned Trading Terminal, support for Lattice Wallet, private RFQ trading, grid strategies and agent tools that act only within user-set permissions and signing controls (Canton Army)<br/><br/>Network: CC $0.0819 | Market cap $3.28B (rank 26) | 24h volume $12.99M | Circulating supply 40,076,902,992 CC, up 0.30% in 24 hours and down 12.3% over seven days as of the 21:36 UTC November 18 read; milestone: total MainNet parties have risen to 952,242 and total transactions to 606.37 million, with 147 Featured Apps built on Canton as of the 22:10 UTC November 18 read (Kaavon, reporting CoinGecko figures, for market data; CCTools for the milestone)</p>",
+      "date_published": "2026-11-18T17:12:00-05:00",
+      "date_modified": "2026-11-18T17:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 5:12 PM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 5:12 PM ET)\n- **Broadridge's repo product built on Canton moves $300 billion to $400 billion of value daily, Yuval Rooz tells a KBW audience** — Discussing the roughly $15 trillion notional a day repo market, Digital Asset chief executive Yuval Rooz said Broadridge, whose clients include some of the biggest banks in the world, built its repo product on Canton and now moves $300 billion to $400 billion of value daily through it; the remarks were made at KBW and reported in conversation with Bitcoin News, putting a current daily figure on the largest known production repo workload on the network (CantonNews)\n- **OnePump is now live on Canton, paying memecoin creators monthly rewards only after their tokens stay active** — The launchpad built by the OneSwap team and approved by the Canton Foundation is built around Canton's Featured Asset model: creators of tokens that reach 1 million CC in trading volume and more than 1,000 holders can earn monthly rewards from the network rather than from the launchpad; tokens graduate to a OneSwap pool at 250,000 CC with liquidity locked, and JOSE, one of the first tokens to graduate, reached 8.4 million CC in volume and 615 holders in its first four days (BSCN)\n- **Canton's governance guide sets out a CIP process with more than 117 proposals approved and no single-entity veto** — Every protocol, tokenomics and governance change goes through the Canton Improvement Proposal process: anyone can author a proposal, Standards Track items require three months of discussion, a formal vote needs sponsorship from two Super Validators, all 55 Super Validators vote over 10 days, approval requires a two-thirds supermajority, and a proposal reaches Final status only after two-thirds have implemented it on-chain through DevNet, TestNet and MainNet (CantonNews)\n- **Silvana's private orderbook on Canton keeps orders off public view and assets in the user's wallet until DvP settlement** — Silvana Book, already live on Canton, matches orders privately before final delivery-versus-payment settlement on the network, so assets are not placed into escrow during matching and only move when the trade completes; its V2 release adds a redesigned Trading Terminal, support for Lattice Wallet, private RFQ trading, grid strategies and agent tools that act only within user-set permissions and signing controls (Canton Army)\n\nNetwork: CC $0.0819 | Market cap $3.28B (rank 26) | 24h volume $12.99M | Circulating supply 40,076,902,992 CC, up 0.30% in 24 hours and down 12.3% over seven days as of the 21:36 UTC November 18 read; milestone: total MainNet parties have risen to 952,242 and total transactions to 606.37 million, with 147 Featured Apps built on Canton as of the 22:10 UTC November 18 read (Kaavon, reporting CoinGecko figures, for market data; CCTools for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T17:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-18_1642-est",
       "slug": "cip-0104-stands-approved-in-the-canton-foundation-registry-tying-app-rewards-to-measured-t",
@@ -4799,38 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, November 23, 2026\nDevNet upgrades to Splice 0.10.3\nWeekly Upgrades · DevNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690957648",
-      "slug": "testnet-upgrades-to-splice-0-10-3",
-      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-10-3",
-      "title": "TestNet upgrades to Splice 0.10.3",
-      "content_text": "Canton Calendar — Monday, November 30, 2026\nTestNet upgrades to Splice 0.10.3\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, November 30, 2026<br/>TestNet upgrades to Splice 0.10.3<br/>Weekly Upgrades · TestNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, November 30, 2026\nTestNet upgrades to Splice 0.10.3\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
