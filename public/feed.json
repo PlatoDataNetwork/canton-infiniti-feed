@@ -29,8 +29,72 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-19T13:42:00-05:00",
+  "updated": "2026-11-19T15:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-19_1512-est",
+      "slug": "predge-seeks-a-champion-for-conditional-x402-payments-on-canton-released-only-by-a-signed",
+      "url": "https://canton.w3ai.io/feed/predge-seeks-a-champion-for-conditional-x402-payments-on-canton-released-only-by-a-signed",
+      "title": "Predge seeks a champion for conditional x402 payments on Canton, released only by a signed delivery verdict",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 3:12 PM ET)\n\n- **Predge seeks a champion for conditional x402 payments on Canton, released only by a signed delivery verdict** — x402 payments on Canton are final at the moment of the call today, with no way back short of a manual refund if the paid job is not delivered; Predge's draft proposal would lock the amount in a Daml escrow contract instead, with a verifier checking delivery against criteria agreed up front and issuing an ed25519-signed verdict that anyone can verify offline, recorded on the ledger to release the funds or refund the payer, and the payer able to reclaim on their own if no verdict arrives in time; the same escrow-plus-verdict design has been live on Arc mainnet since September 2026 and on 16 EVM mainnets, settling a GPU rental per verified day on November 12 where the A100 days were paid and a day the host swapped in an A40 was refunded by the contract, and the draft plan runs about four months at about 600,000 Canton Coin over three milestones, seeking a Tech & Ops Committee champion under RFP 13 and not yet funded (Canton Network Forum)\n- **A Daml bytes and cryptography library seeks 300,000 Canton Coin to give developers the byte operations Daml lacks natively** — The Apache-2.0 library plus DPM component, proposed under RFP 16 with RFP 19 elements, asks for 300,000 Canton Coin over nine weeks in three milestones of 100,000 each and has been open for review since October 23 with status Needs Champion; Daml has no byte array type, so bytes from other systems use hex-encoded text and every team writes the remaining operations itself, and the scope covers byte operations, documented cryptography wrappers, RLP encoding and decoding, and binary Merkle and Ethereum Patricia trie proof verification, with the proof of concept's RLP encoder passing all 28 official ethereum/tests vectors, its signature verification passing 8 of 8 Wycheproof assertions and its keccak256 output matching Foundry's cast byte for byte, and the repository stays private until Milestone 1 publishes it (Canton Network Forum)\n- **Tradecraft's locked value eases to $1.41 million as the Canton AMM's slide from its October peak continues** — DefiLlama's daily snapshots put the automated market maker and liquidity layer at $1.41 million on November 19, down from $1.44 million on November 18 and above the $1.39 million low on November 15, against an all-time high of $1.74 million on October 31; users swap Canton-native and bridged assets on Tradecraft and provide liquidity to earn trading fees, with 100% of its tracked locked value on Canton (DefiLlama)\n- **A new guide sets out how Canton governs itself through the CIP process, with sponsorship and a two-thirds vote before any change takes effect** — Anyone can author a Canton Improvement Proposal, and the discussion period runs three months for Standards Track proposals and one month each for Governance and Tokenomics proposals; moving to a vote requires sponsorship from two Super Validators, which signals the proposal is worth voting on rather than endorsing it, the Super Validator voting window lasts 10 days with approval requiring a two-thirds supermajority and no single entity holding veto power, and a proposal reaches Final status only after two-thirds of Super Validators have implemented the change on-chain, moving through DevNet and TestNet before MainNet (CantonNews)\n\nNetwork: CC $0.0811 | Market cap $3.25B (rank 26) | 24h volume $7.51M | Circulating supply 40,086,553,331 CC, down 0.62% in 24 hours and down 8.24% over seven days with a 24-hour range of $0.081 to $0.0836 at the 20:15 UTC November 19 read; milestone: 24-hour network rewards stand at 12.5 million CC in the live MainNet read, up from 12.2 million recorded earlier today, with 2 active proposals and 13 Super Validators (Criptano, reporting CoinGecko, for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 3:12 PM ET)<br/><br/>- **Predge seeks a champion for conditional x402 payments on Canton, released only by a signed delivery verdict** — x402 payments on Canton are final at the moment of the call today, with no way back short of a manual refund if the paid job is not delivered; Predge&#x27;s draft proposal would lock the amount in a Daml escrow contract instead, with a verifier checking delivery against criteria agreed up front and issuing an ed25519-signed verdict that anyone can verify offline, recorded on the ledger to release the funds or refund the payer, and the payer able to reclaim on their own if no verdict arrives in time; the same escrow-plus-verdict design has been live on Arc mainnet since September 2026 and on 16 EVM mainnets, settling a GPU rental per verified day on November 12 where the A100 days were paid and a day the host swapped in an A40 was refunded by the contract, and the draft plan runs about four months at about 600,000 Canton Coin over three milestones, seeking a Tech &amp; Ops Committee champion under RFP 13 and not yet funded (Canton Network Forum)<br/>- **A Daml bytes and cryptography library seeks 300,000 Canton Coin to give developers the byte operations Daml lacks natively** — The Apache-2.0 library plus DPM component, proposed under RFP 16 with RFP 19 elements, asks for 300,000 Canton Coin over nine weeks in three milestones of 100,000 each and has been open for review since October 23 with status Needs Champion; Daml has no byte array type, so bytes from other systems use hex-encoded text and every team writes the remaining operations itself, and the scope covers byte operations, documented cryptography wrappers, RLP encoding and decoding, and binary Merkle and Ethereum Patricia trie proof verification, with the proof of concept&#x27;s RLP encoder passing all 28 official ethereum/tests vectors, its signature verification passing 8 of 8 Wycheproof assertions and its keccak256 output matching Foundry&#x27;s cast byte for byte, and the repository stays private until Milestone 1 publishes it (Canton Network Forum)<br/>- **Tradecraft&#x27;s locked value eases to $1.41 million as the Canton AMM&#x27;s slide from its October peak continues** — DefiLlama&#x27;s daily snapshots put the automated market maker and liquidity layer at $1.41 million on November 19, down from $1.44 million on November 18 and above the $1.39 million low on November 15, against an all-time high of $1.74 million on October 31; users swap Canton-native and bridged assets on Tradecraft and provide liquidity to earn trading fees, with 100% of its tracked locked value on Canton (DefiLlama)<br/>- **A new guide sets out how Canton governs itself through the CIP process, with sponsorship and a two-thirds vote before any change takes effect** — Anyone can author a Canton Improvement Proposal, and the discussion period runs three months for Standards Track proposals and one month each for Governance and Tokenomics proposals; moving to a vote requires sponsorship from two Super Validators, which signals the proposal is worth voting on rather than endorsing it, the Super Validator voting window lasts 10 days with approval requiring a two-thirds supermajority and no single entity holding veto power, and a proposal reaches Final status only after two-thirds of Super Validators have implemented the change on-chain, moving through DevNet and TestNet before MainNet (CantonNews)<br/><br/>Network: CC $0.0811 | Market cap $3.25B (rank 26) | 24h volume $7.51M | Circulating supply 40,086,553,331 CC, down 0.62% in 24 hours and down 8.24% over seven days with a 24-hour range of $0.081 to $0.0836 at the 20:15 UTC November 19 read; milestone: 24-hour network rewards stand at 12.5 million CC in the live MainNet read, up from 12.2 million recorded earlier today, with 2 active proposals and 13 Super Validators (Criptano, reporting CoinGecko, for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-19T15:12:00-05:00",
+      "date_modified": "2026-11-19T15:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 3:12 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 3:12 PM ET)\n\n- **Predge seeks a champion for conditional x402 payments on Canton, released only by a signed delivery verdict** — x402 payments on Canton are final at the moment of the call today, with no way back short of a manual refund if the paid job is not delivered; Predge's draft proposal would lock the amount in a Daml escrow contract instead, with a verifier checking delivery against criteria agreed up front and issuing an ed25519-signed verdict that anyone can verify offline, recorded on the ledger to release the funds or refund the payer, and the payer able to reclaim on their own if no verdict arrives in time; the same escrow-plus-verdict design has been live on Arc mainnet since September 2026 and on 16 EVM mainnets, settling a GPU rental per verified day on November 12 where the A100 days were paid and a day the host swapped in an A40 was refunded by the contract, and the draft plan runs about four months at about 600,000 Canton Coin over three milestones, seeking a Tech & Ops Committee champion under RFP 13 and not yet funded (Canton Network Forum)\n- **A Daml bytes and cryptography library seeks 300,000 Canton Coin to give developers the byte operations Daml lacks natively** — The Apache-2.0 library plus DPM component, proposed under RFP 16 with RFP 19 elements, asks for 300,000 Canton Coin over nine weeks in three milestones of 100,000 each and has been open for review since October 23 with status Needs Champion; Daml has no byte array type, so bytes from other systems use hex-encoded text and every team writes the remaining operations itself, and the scope covers byte operations, documented cryptography wrappers, RLP encoding and decoding, and binary Merkle and Ethereum Patricia trie proof verification, with the proof of concept's RLP encoder passing all 28 official ethereum/tests vectors, its signature verification passing 8 of 8 Wycheproof assertions and its keccak256 output matching Foundry's cast byte for byte, and the repository stays private until Milestone 1 publishes it (Canton Network Forum)\n- **Tradecraft's locked value eases to $1.41 million as the Canton AMM's slide from its October peak continues** — DefiLlama's daily snapshots put the automated market maker and liquidity layer at $1.41 million on November 19, down from $1.44 million on November 18 and above the $1.39 million low on November 15, against an all-time high of $1.74 million on October 31; users swap Canton-native and bridged assets on Tradecraft and provide liquidity to earn trading fees, with 100% of its tracked locked value on Canton (DefiLlama)\n- **A new guide sets out how Canton governs itself through the CIP process, with sponsorship and a two-thirds vote before any change takes effect** — Anyone can author a Canton Improvement Proposal, and the discussion period runs three months for Standards Track proposals and one month each for Governance and Tokenomics proposals; moving to a vote requires sponsorship from two Super Validators, which signals the proposal is worth voting on rather than endorsing it, the Super Validator voting window lasts 10 days with approval requiring a two-thirds supermajority and no single entity holding veto power, and a proposal reaches Final status only after two-thirds of Super Validators have implemented the change on-chain, moving through DevNet and TestNet before MainNet (CantonNews)\n\nNetwork: CC $0.0811 | Market cap $3.25B (rank 26) | 24h volume $7.51M | Circulating supply 40,086,553,331 CC, down 0.62% in 24 hours and down 8.24% over seven days with a 24-hour range of $0.081 to $0.0836 at the 20:15 UTC November 19 read; milestone: 24-hour network rewards stand at 12.5 million CC in the live MainNet read, up from 12.2 million recorded earlier today, with 2 active proposals and 13 Super Validators (Criptano, reporting CoinGecko, for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T15:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-19_1442-est",
+      "slug": "cobuilders-proposes-a-sandbox-testing-library-so-javascript-and-typescript-teams-stop-rebu",
+      "url": "https://canton.w3ai.io/feed/cobuilders-proposes-a-sandbox-testing-library-so-javascript-and-typescript-teams-stop-rebu",
+      "title": "CoBuilders proposes a sandbox testing library so JavaScript and TypeScript teams stop rebuilding their own Canton test harnesses",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 2:42 PM ET)\n\n- **CoBuilders proposes a sandbox testing library so JavaScript and TypeScript teams stop rebuilding their own Canton test harnesses** — STL, proposed under RFP 18, is an open-source npm package that starts and stops the Canton Sandbox, creates fresh parties and users for each test, and already runs unchanged OpenZeppelin contracts against a real Sandbox in public CI in its beta; the grant would add authenticated submission and queries, control of ledger time through static time, party and contract lookup helpers, compatibility tests, three migration pull requests for independent projects and a Node.js testing tutorial, with a request for 400,000 Canton Coin over eight weeks of development and twelve months of maintenance, of which 69,000 coins are paid only when an independent project adopts STL in its own CI, and the proposal is seeking feedback and a champion (Canton Network Forum)\n- **A native IBC v2 proposal would connect Canton directly to Cosmos chains without a custom bridge for each chain** — The BeencoLabs proposal would write IBC v2 core and ICS-20 transfers in Daml, so any Cosmos chain on a recent ibc-go could send assets to Canton through its existing transfer module and received assets would land as CIP-56 holdings that work in existing Canton wallets and applications; the gateway would run as a decentralised party with a confirmation threshold so no single operator can move funds, the first scope is one working connection between Canton DevNet or TestNet and one Cosmos testnet covering transfers in, transfers out and timeout refunds with an open-source relayer path and documentation, and the proposal is seeking a Tech & Ops Committee champion (Canton Network Forum)\n- **Canton DeFi locked value eases to $11.2 million as 24-hour DEX volume rises to $16.85 million** — DefiLlama's November 19 evening read puts total value locked at $11.2 million, down 2.76% over 24 hours from the $11.32 million snapshot recorded this morning, while 24-hour DEX volume rose to $16.85 million from $16.41 million in that morning read, across the eight protocols DefiLlama tracks on Canton (DefiLlama)\n- **Grofty Labs' Canton wallet is among only three active campaigns on CCTools, with 200 onboarding codes released each day** — Grofty is a production-ready, fully non-custodial browser-extension wallet for Canton covering Party ID management, Canton Coin and USDCx assets, a cross-chain bridge and in-wallet swaps; its onboarding codes drop at 200 per day at 00:00 UTC, one per account for Level 10 and above users, with 74,289 joined to date, and CCTools lists 27 campaigns in total with only three currently active (CCTools)\n\nNetwork: CC $0.0813 | Market cap $3.26B (rank 26) | 24h volume $7.8M | Circulating supply 40.09B CC, down 0.48% in 24 hours and down 7.27% over seven days with a 24-hour range of $0.0810 to $0.0836 at the latest read; milestone: the live MainNet read shows throughput at 6.00 transactions per second with 24-hour rewards at 12.2 million CC, 2 active proposals, total transactions at 606.4 million and total parties at 952.3K (Blockdeck for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 2:42 PM ET)<br/><br/>- **CoBuilders proposes a sandbox testing library so JavaScript and TypeScript teams stop rebuilding their own Canton test harnesses** — STL, proposed under RFP 18, is an open-source npm package that starts and stops the Canton Sandbox, creates fresh parties and users for each test, and already runs unchanged OpenZeppelin contracts against a real Sandbox in public CI in its beta; the grant would add authenticated submission and queries, control of ledger time through static time, party and contract lookup helpers, compatibility tests, three migration pull requests for independent projects and a Node.js testing tutorial, with a request for 400,000 Canton Coin over eight weeks of development and twelve months of maintenance, of which 69,000 coins are paid only when an independent project adopts STL in its own CI, and the proposal is seeking feedback and a champion (Canton Network Forum)<br/>- **A native IBC v2 proposal would connect Canton directly to Cosmos chains without a custom bridge for each chain** — The BeencoLabs proposal would write IBC v2 core and ICS-20 transfers in Daml, so any Cosmos chain on a recent ibc-go could send assets to Canton through its existing transfer module and received assets would land as CIP-56 holdings that work in existing Canton wallets and applications; the gateway would run as a decentralised party with a confirmation threshold so no single operator can move funds, the first scope is one working connection between Canton DevNet or TestNet and one Cosmos testnet covering transfers in, transfers out and timeout refunds with an open-source relayer path and documentation, and the proposal is seeking a Tech &amp; Ops Committee champion (Canton Network Forum)<br/>- **Canton DeFi locked value eases to $11.2 million as 24-hour DEX volume rises to $16.85 million** — DefiLlama&#x27;s November 19 evening read puts total value locked at $11.2 million, down 2.76% over 24 hours from the $11.32 million snapshot recorded this morning, while 24-hour DEX volume rose to $16.85 million from $16.41 million in that morning read, across the eight protocols DefiLlama tracks on Canton (DefiLlama)<br/>- **Grofty Labs&#x27; Canton wallet is among only three active campaigns on CCTools, with 200 onboarding codes released each day** — Grofty is a production-ready, fully non-custodial browser-extension wallet for Canton covering Party ID management, Canton Coin and USDCx assets, a cross-chain bridge and in-wallet swaps; its onboarding codes drop at 200 per day at 00:00 UTC, one per account for Level 10 and above users, with 74,289 joined to date, and CCTools lists 27 campaigns in total with only three currently active (CCTools)<br/><br/>Network: CC $0.0813 | Market cap $3.26B (rank 26) | 24h volume $7.8M | Circulating supply 40.09B CC, down 0.48% in 24 hours and down 7.27% over seven days with a 24-hour range of $0.0810 to $0.0836 at the latest read; milestone: the live MainNet read shows throughput at 6.00 transactions per second with 24-hour rewards at 12.2 million CC, 2 active proposals, total transactions at 606.4 million and total parties at 952.3K (Blockdeck for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-19T14:42:00-05:00",
+      "date_modified": "2026-11-19T14:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 2:42 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 2:42 PM ET)\n\n- **CoBuilders proposes a sandbox testing library so JavaScript and TypeScript teams stop rebuilding their own Canton test harnesses** — STL, proposed under RFP 18, is an open-source npm package that starts and stops the Canton Sandbox, creates fresh parties and users for each test, and already runs unchanged OpenZeppelin contracts against a real Sandbox in public CI in its beta; the grant would add authenticated submission and queries, control of ledger time through static time, party and contract lookup helpers, compatibility tests, three migration pull requests for independent projects and a Node.js testing tutorial, with a request for 400,000 Canton Coin over eight weeks of development and twelve months of maintenance, of which 69,000 coins are paid only when an independent project adopts STL in its own CI, and the proposal is seeking feedback and a champion (Canton Network Forum)\n- **A native IBC v2 proposal would connect Canton directly to Cosmos chains without a custom bridge for each chain** — The BeencoLabs proposal would write IBC v2 core and ICS-20 transfers in Daml, so any Cosmos chain on a recent ibc-go could send assets to Canton through its existing transfer module and received assets would land as CIP-56 holdings that work in existing Canton wallets and applications; the gateway would run as a decentralised party with a confirmation threshold so no single operator can move funds, the first scope is one working connection between Canton DevNet or TestNet and one Cosmos testnet covering transfers in, transfers out and timeout refunds with an open-source relayer path and documentation, and the proposal is seeking a Tech & Ops Committee champion (Canton Network Forum)\n- **Canton DeFi locked value eases to $11.2 million as 24-hour DEX volume rises to $16.85 million** — DefiLlama's November 19 evening read puts total value locked at $11.2 million, down 2.76% over 24 hours from the $11.32 million snapshot recorded this morning, while 24-hour DEX volume rose to $16.85 million from $16.41 million in that morning read, across the eight protocols DefiLlama tracks on Canton (DefiLlama)\n- **Grofty Labs' Canton wallet is among only three active campaigns on CCTools, with 200 onboarding codes released each day** — Grofty is a production-ready, fully non-custodial browser-extension wallet for Canton covering Party ID management, Canton Coin and USDCx assets, a cross-chain bridge and in-wallet swaps; its onboarding codes drop at 200 per day at 00:00 UTC, one per account for Level 10 and above users, with 74,289 joined to date, and CCTools lists 27 campaigns in total with only three currently active (CCTools)\n\nNetwork: CC $0.0813 | Market cap $3.26B (rank 26) | 24h volume $7.8M | Circulating supply 40.09B CC, down 0.48% in 24 hours and down 7.27% over seven days with a 24-hour range of $0.0810 to $0.0836 at the latest read; milestone: the live MainNet read shows throughput at 6.00 transactions per second with 24-hour rewards at 12.2 million CC, 2 active proposals, total transactions at 606.4 million and total parties at 952.3K (Blockdeck for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T14:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-19_1342-est",
       "slug": "digital-asset-introduces-covalidation-services-so-canton-parties-can-spread-transaction-co",
@@ -4767,70 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, January 11, 2027\nTestNet upgrades to Splice 0.11.0\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981586967",
-      "slug": "mainnet-upgrades-to-splice-0-11-2",
-      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-11-2",
-      "title": "MainNet upgrades to Splice 0.11.2",
-      "content_text": "Canton Calendar — Monday, February 1, 2027\nMainNet upgrades to Splice 0.11.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, February 1, 2027<br/>MainNet upgrades to Splice 0.11.2<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, February 1, 2027\nMainNet upgrades to Splice 0.11.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981586372",
-      "slug": "devnet-topology-freeze-0-11-required-january-2027",
-      "url": "https://canton.w3ai.io/feed/devnet-topology-freeze-0-11-required-january-2027",
-      "title": "DevNet Topology Freeze (0.11 Required) (January 2027)",
-      "content_text": "Canton Calendar — Tuesday, January 19, 2027\nDevNet Topology Freeze (0.11 Required) (January 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, January 19, 2027<br/>DevNet Topology Freeze (0.11 Required) (January 2027)<br/>Protocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, January 19, 2027\nDevNet Topology Freeze (0.11 Required) (January 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
