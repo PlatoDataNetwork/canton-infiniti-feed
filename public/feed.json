@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-19T12:42:00-05:00",
+  "updated": "2026-11-19T13:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-19_1342-est",
+      "slug": "digital-asset-introduces-covalidation-services-so-canton-parties-can-spread-transaction-co",
+      "url": "https://canton.w3ai.io/feed/digital-asset-introduces-covalidation-services-so-canton-parties-can-spread-transaction-co",
+      "title": "Digital Asset introduces covalidation services so Canton parties can spread transaction confirmation across independent operators",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 1:42 PM ET)\n\n- **Digital Asset introduces covalidation services so Canton parties can spread transaction confirmation across independent operators** — The November 19 introduction lets a party be multi-hosted so several nodes share confirmation duties, including threshold settings such as two approvals from three covalidators before a transaction confirms, with no single node able to confirm alone and services able to continue if one node becomes unavailable; 5N Loop, T-RIZE and Bron are already using multi-hosted infrastructure, 5N Loop became the first Canton wallet where every new participant is multi-party hosted using Digital Asset and MPCH as independent operators, and Digital Asset, MPCH and Kiln are among the early covalidation service providers, building on underlying capabilities delivered in May 2026 (Crypto Economy)\n- **Obsidian Systems prepares an access rulebook and read-only checker for Canton validator logins under RFP 25** — The proposal would build an open Apache-2.0 standard covering how identity-provider logins and Canton users and rights are set up, a read-only checker that reads a validator's users, rights and identity provider and reports each broken rule with how to fix it without changing anything, a mapping from each rule to audit requirements such as SOC 2, ISO 27001 and DORA, and tested setup recipes, with part of the grant paid only when operators outside Obsidian run the checker on their own TestNet or MainNet validators; it is seeking a Tech & Ops Committee champion and technical reviewer and is distinct from the same firm's RFP 26 clear-signing proposal (Canton Network Forum)\n- **Ditto seeks guidance on bringing working yield vaults to Canton, starting from a private DevNet prototype** — Ditto, which operates a Canton MainNet validator, says it has built a private prototype for Canton DevNet using Canton Token Standard interfaces, with application accounting and processing queues currently maintained off-ledger, and is asking which vault interfaces, packages and versions are ready to use today, which priority protocol integrations or operational workflows sit outside existing vault proposals, and whether a maintainer or integration partner would review a small scope before it defines a Development Fund proposal (Canton Network Forum)\n- **Canton's represented tokenized assets on RWA.xyz rise to $370.5 billion in the November 12 read, all of it in recordkeeping form** — The updated figure, up from the $320.7 billion snapshot served on November 18, puts Canton at 88.6% of the $418.2 billion in represented value RWA.xyz tracks across networks, while the same read shows $0 in distributed tokens held in investor wallets, 0 holders and $0 of transfers in the last 30 days, so the ranking reflects ledger recordkeeping rather than distributed onchain holdings (Daniil Kozin, reporting RWA.xyz)\n\nNetwork: CC $0.0826 | Market cap $3.31B (rank 25) | 24h volume $8.39M | Circulating supply 40,085,984,762 CC, up 0.21% in 24 hours and down 7.39% over seven days with a 24-hour range of $0.0811 to $0.0836 at the 18:45 UTC November 19 read; milestone: Digital Asset's covalidation announcement puts Canton at more than 750 validators (Criptano, reporting CoinGecko figures, for market data; Crypto Economy, reporting Digital Asset, for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 1:42 PM ET)<br/><br/>- **Digital Asset introduces covalidation services so Canton parties can spread transaction confirmation across independent operators** — The November 19 introduction lets a party be multi-hosted so several nodes share confirmation duties, including threshold settings such as two approvals from three covalidators before a transaction confirms, with no single node able to confirm alone and services able to continue if one node becomes unavailable; 5N Loop, T-RIZE and Bron are already using multi-hosted infrastructure, 5N Loop became the first Canton wallet where every new participant is multi-party hosted using Digital Asset and MPCH as independent operators, and Digital Asset, MPCH and Kiln are among the early covalidation service providers, building on underlying capabilities delivered in May 2026 (Crypto Economy)<br/>- **Obsidian Systems prepares an access rulebook and read-only checker for Canton validator logins under RFP 25** — The proposal would build an open Apache-2.0 standard covering how identity-provider logins and Canton users and rights are set up, a read-only checker that reads a validator&#x27;s users, rights and identity provider and reports each broken rule with how to fix it without changing anything, a mapping from each rule to audit requirements such as SOC 2, ISO 27001 and DORA, and tested setup recipes, with part of the grant paid only when operators outside Obsidian run the checker on their own TestNet or MainNet validators; it is seeking a Tech &amp; Ops Committee champion and technical reviewer and is distinct from the same firm&#x27;s RFP 26 clear-signing proposal (Canton Network Forum)<br/>- **Ditto seeks guidance on bringing working yield vaults to Canton, starting from a private DevNet prototype** — Ditto, which operates a Canton MainNet validator, says it has built a private prototype for Canton DevNet using Canton Token Standard interfaces, with application accounting and processing queues currently maintained off-ledger, and is asking which vault interfaces, packages and versions are ready to use today, which priority protocol integrations or operational workflows sit outside existing vault proposals, and whether a maintainer or integration partner would review a small scope before it defines a Development Fund proposal (Canton Network Forum)<br/>- **Canton&#x27;s represented tokenized assets on RWA.xyz rise to $370.5 billion in the November 12 read, all of it in recordkeeping form** — The updated figure, up from the $320.7 billion snapshot served on November 18, puts Canton at 88.6% of the $418.2 billion in represented value RWA.xyz tracks across networks, while the same read shows $0 in distributed tokens held in investor wallets, 0 holders and $0 of transfers in the last 30 days, so the ranking reflects ledger recordkeeping rather than distributed onchain holdings (Daniil Kozin, reporting RWA.xyz)<br/><br/>Network: CC $0.0826 | Market cap $3.31B (rank 25) | 24h volume $8.39M | Circulating supply 40,085,984,762 CC, up 0.21% in 24 hours and down 7.39% over seven days with a 24-hour range of $0.0811 to $0.0836 at the 18:45 UTC November 19 read; milestone: Digital Asset&#x27;s covalidation announcement puts Canton at more than 750 validators (Criptano, reporting CoinGecko figures, for market data; Crypto Economy, reporting Digital Asset, for the milestone)</p>",
+      "date_published": "2026-11-19T13:42:00-05:00",
+      "date_modified": "2026-11-19T13:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 1:42 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 1:42 PM ET)\n\n- **Digital Asset introduces covalidation services so Canton parties can spread transaction confirmation across independent operators** — The November 19 introduction lets a party be multi-hosted so several nodes share confirmation duties, including threshold settings such as two approvals from three covalidators before a transaction confirms, with no single node able to confirm alone and services able to continue if one node becomes unavailable; 5N Loop, T-RIZE and Bron are already using multi-hosted infrastructure, 5N Loop became the first Canton wallet where every new participant is multi-party hosted using Digital Asset and MPCH as independent operators, and Digital Asset, MPCH and Kiln are among the early covalidation service providers, building on underlying capabilities delivered in May 2026 (Crypto Economy)\n- **Obsidian Systems prepares an access rulebook and read-only checker for Canton validator logins under RFP 25** — The proposal would build an open Apache-2.0 standard covering how identity-provider logins and Canton users and rights are set up, a read-only checker that reads a validator's users, rights and identity provider and reports each broken rule with how to fix it without changing anything, a mapping from each rule to audit requirements such as SOC 2, ISO 27001 and DORA, and tested setup recipes, with part of the grant paid only when operators outside Obsidian run the checker on their own TestNet or MainNet validators; it is seeking a Tech & Ops Committee champion and technical reviewer and is distinct from the same firm's RFP 26 clear-signing proposal (Canton Network Forum)\n- **Ditto seeks guidance on bringing working yield vaults to Canton, starting from a private DevNet prototype** — Ditto, which operates a Canton MainNet validator, says it has built a private prototype for Canton DevNet using Canton Token Standard interfaces, with application accounting and processing queues currently maintained off-ledger, and is asking which vault interfaces, packages and versions are ready to use today, which priority protocol integrations or operational workflows sit outside existing vault proposals, and whether a maintainer or integration partner would review a small scope before it defines a Development Fund proposal (Canton Network Forum)\n- **Canton's represented tokenized assets on RWA.xyz rise to $370.5 billion in the November 12 read, all of it in recordkeeping form** — The updated figure, up from the $320.7 billion snapshot served on November 18, puts Canton at 88.6% of the $418.2 billion in represented value RWA.xyz tracks across networks, while the same read shows $0 in distributed tokens held in investor wallets, 0 holders and $0 of transfers in the last 30 days, so the ranking reflects ledger recordkeeping rather than distributed onchain holdings (Daniil Kozin, reporting RWA.xyz)\n\nNetwork: CC $0.0826 | Market cap $3.31B (rank 25) | 24h volume $8.39M | Circulating supply 40,085,984,762 CC, up 0.21% in 24 hours and down 7.39% over seven days with a 24-hour range of $0.0811 to $0.0836 at the 18:45 UTC November 19 read; milestone: Digital Asset's covalidation announcement puts Canton at more than 750 validators (Criptano, reporting CoinGecko figures, for market data; Crypto Economy, reporting Digital Asset, for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T13:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-19_1242-est",
       "slug": "obsidian-systems-prepares-a-clear-signing-proposal-so-canton-wallets-can-show-users-what-t",
@@ -4799,38 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Tuesday, January 19, 2027\nDevNet Topology Freeze (0.11 Required) (January 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981586333",
-      "slug": "devnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
-      "url": "https://canton.w3ai.io/feed/devnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
-      "title": "DevNet New Daml models introduced by Splice 0.11.x take effect",
-      "content_text": "Canton Calendar — Monday, January 18, 2027\nDevNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, January 18, 2027<br/>DevNet New Daml models introduced by Splice 0.11.x take effect<br/>Splice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, January 18, 2027\nDevNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
