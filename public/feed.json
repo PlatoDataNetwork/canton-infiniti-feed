@@ -29,8 +29,72 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-19T11:12:00-05:00",
+  "updated": "2026-11-19T12:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-19_1242-est",
+      "slug": "obsidian-systems-prepares-a-clear-signing-proposal-so-canton-wallets-can-show-users-what-t",
+      "url": "https://canton.w3ai.io/feed/obsidian-systems-prepares-a-clear-signing-proposal-so-canton-wallets-can-show-users-what-t",
+      "title": "Obsidian Systems prepares a clear-signing proposal so Canton wallets can show users what they are actually approving",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 12:42 PM ET)\n\n- **Obsidian Systems prepares a clear-signing proposal so Canton wallets can show users what they are actually approving** — Most Canton wallets today decode only a handful of transaction types, mostly transfers, and show little more than a fingerprint for other applications, leaving the wallet screen as the last chance to catch a compromised transaction; the proposal under RFP 26 would deliver an open format for signed, human-readable transaction descriptions, a library wallets and custody systems can use to verify and display them, and a readable fallback marked unverified for applications without a published description, all under Apache-2.0 and building on an approved developer-keys grant, and it is seeking a Tech & Ops Committee champion and technical reviewer while noting related transaction-visualisation work already underway at Digital Asset and Blockdaemon (Canton Network Forum)\n- **Canborsa adds copper and natural gas perpetual markets with leverage up to 20 times** — The new COPPER and NATGAS markets let traders take long and short positions on price movements without owning the physical commodities, adding commodity exposure to the venue's perpetuals range; the contracts are derivatives, so they provide price exposure rather than ownership (CantonNews)\n- **OnePump lowers its stated trading charges, with the first trade each day free** — Under the November 18 fee announcement, trades of 900 Canton Coin or more carry no network fee and other trades cost 1 Canton Coin, with the larger-trade exemption referring specifically to the network fee rather than every possible trading cost (CantonNews)\n- **A canton-upgrade proposal requests 220,000 Canton Coin for tools to move live Daml packages from one version to the next** — The Development Fund submission proposes eight commands — validate, rehearse, vet-status, pin, status, migrate, unvet and gate — covering checks of the live participant, counterparty vetting, package pinning, contract counts, migration, safe unvetting and continuous integration, delivered in three milestones over about a month and verified on LocalNet, DevNet, TestNet and MainNet; the proposal still needs a champion and is not a funded or released toolkit (GitHub)\n\nNetwork: CC $0.0824 | Market cap $3.30B (rank 25) | 24h volume $8.31M | Circulating supply 40,085,984,762 CC, up 0.18% in 24 hours and down 7.79% over seven days with a 24-hour range of $0.0811 to $0.0836 at the 17:45 UTC November 19 read; milestone: 24-hour network rewards stand at 11.1M CC on the live MainNet dashboard, with throughput at 1.00 TPS, about 1.6K validators and 13 Super Validators (Criptano, reporting CoinGecko figures, for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 12:42 PM ET)<br/><br/>- **Obsidian Systems prepares a clear-signing proposal so Canton wallets can show users what they are actually approving** — Most Canton wallets today decode only a handful of transaction types, mostly transfers, and show little more than a fingerprint for other applications, leaving the wallet screen as the last chance to catch a compromised transaction; the proposal under RFP 26 would deliver an open format for signed, human-readable transaction descriptions, a library wallets and custody systems can use to verify and display them, and a readable fallback marked unverified for applications without a published description, all under Apache-2.0 and building on an approved developer-keys grant, and it is seeking a Tech &amp; Ops Committee champion and technical reviewer while noting related transaction-visualisation work already underway at Digital Asset and Blockdaemon (Canton Network Forum)<br/>- **Canborsa adds copper and natural gas perpetual markets with leverage up to 20 times** — The new COPPER and NATGAS markets let traders take long and short positions on price movements without owning the physical commodities, adding commodity exposure to the venue&#x27;s perpetuals range; the contracts are derivatives, so they provide price exposure rather than ownership (CantonNews)<br/>- **OnePump lowers its stated trading charges, with the first trade each day free** — Under the November 18 fee announcement, trades of 900 Canton Coin or more carry no network fee and other trades cost 1 Canton Coin, with the larger-trade exemption referring specifically to the network fee rather than every possible trading cost (CantonNews)<br/>- **A canton-upgrade proposal requests 220,000 Canton Coin for tools to move live Daml packages from one version to the next** — The Development Fund submission proposes eight commands — validate, rehearse, vet-status, pin, status, migrate, unvet and gate — covering checks of the live participant, counterparty vetting, package pinning, contract counts, migration, safe unvetting and continuous integration, delivered in three milestones over about a month and verified on LocalNet, DevNet, TestNet and MainNet; the proposal still needs a champion and is not a funded or released toolkit (GitHub)<br/><br/>Network: CC $0.0824 | Market cap $3.30B (rank 25) | 24h volume $8.31M | Circulating supply 40,085,984,762 CC, up 0.18% in 24 hours and down 7.79% over seven days with a 24-hour range of $0.0811 to $0.0836 at the 17:45 UTC November 19 read; milestone: 24-hour network rewards stand at 11.1M CC on the live MainNet dashboard, with throughput at 1.00 TPS, about 1.6K validators and 13 Super Validators (Criptano, reporting CoinGecko figures, for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-19T12:42:00-05:00",
+      "date_modified": "2026-11-19T12:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 12:42 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 12:42 PM ET)\n\n- **Obsidian Systems prepares a clear-signing proposal so Canton wallets can show users what they are actually approving** — Most Canton wallets today decode only a handful of transaction types, mostly transfers, and show little more than a fingerprint for other applications, leaving the wallet screen as the last chance to catch a compromised transaction; the proposal under RFP 26 would deliver an open format for signed, human-readable transaction descriptions, a library wallets and custody systems can use to verify and display them, and a readable fallback marked unverified for applications without a published description, all under Apache-2.0 and building on an approved developer-keys grant, and it is seeking a Tech & Ops Committee champion and technical reviewer while noting related transaction-visualisation work already underway at Digital Asset and Blockdaemon (Canton Network Forum)\n- **Canborsa adds copper and natural gas perpetual markets with leverage up to 20 times** — The new COPPER and NATGAS markets let traders take long and short positions on price movements without owning the physical commodities, adding commodity exposure to the venue's perpetuals range; the contracts are derivatives, so they provide price exposure rather than ownership (CantonNews)\n- **OnePump lowers its stated trading charges, with the first trade each day free** — Under the November 18 fee announcement, trades of 900 Canton Coin or more carry no network fee and other trades cost 1 Canton Coin, with the larger-trade exemption referring specifically to the network fee rather than every possible trading cost (CantonNews)\n- **A canton-upgrade proposal requests 220,000 Canton Coin for tools to move live Daml packages from one version to the next** — The Development Fund submission proposes eight commands — validate, rehearse, vet-status, pin, status, migrate, unvet and gate — covering checks of the live participant, counterparty vetting, package pinning, contract counts, migration, safe unvetting and continuous integration, delivered in three milestones over about a month and verified on LocalNet, DevNet, TestNet and MainNet; the proposal still needs a champion and is not a funded or released toolkit (GitHub)\n\nNetwork: CC $0.0824 | Market cap $3.30B (rank 25) | 24h volume $8.31M | Circulating supply 40,085,984,762 CC, up 0.18% in 24 hours and down 7.79% over seven days with a 24-hour range of $0.0811 to $0.0836 at the 17:45 UTC November 19 read; milestone: 24-hour network rewards stand at 11.1M CC on the live MainNet dashboard, with throughput at 1.00 TPS, about 1.6K validators and 13 Super Validators (Criptano, reporting CoinGecko figures, for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T12:42:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-19_1212-est",
+      "slug": "canton-s-improvement-proposal-registry-now-tallies-103-proposals-with-56-in-final-effect-a",
+      "url": "https://canton.w3ai.io/feed/canton-s-improvement-proposal-registry-now-tallies-103-proposals-with-56-in-final-effect-a",
+      "title": "Canton's improvement-proposal registry now tallies 103 proposals, with 56 in Final effect and 42 Approved",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 12:12 PM ET)\n\n- **Canton's improvement-proposal registry now tallies 103 proposals, with 56 in Final effect and 42 Approved** — The Canton Network Docs registry counts 56 Canton Improvement Proposals as Final, meaning approved and adopted on-chain by a two-thirds majority of Super Validator node operators, alongside 42 Approved, 4 still Proposed and 1 Rejected; proposals are discussed on the cip-discuss list, voted on by the Super Validator operators and announced once approved, with the canonical text held in the Canton Foundation's CIP repository (Canton Network Docs)\n- **DTCC's tokenization service can natively connect with more than 150 production applications across a network of more than 830 firms** — The Canton Network's \"One Giant Leap\" account of the October 28 launch says the service's initial pool covers more than $30 trillion in high-quality liquid assets across U.S. Treasuries, equities and ETFs, and that tokenized Treasuries can be pledged and accepted as collateral to meet intraday obligations inside that connected application network (Canton Network)\n- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 5.20% apart across liquid exchanges** — The 17:17 UTC November 19 scan finds Canton Coin cheapest on WEEX at $0.07724 and dearest on Bitrue at $0.081255 across 11 exchanges with a liquid spot market, with only caveat-flagged pairs in profit after taker fees and the best futures route, long WhiteBIT perpetuals against short Hyperliquid perpetuals, at 0.19% after fees (ArbitrageGap)\n- **Joining Canton MainNet as a validator requires committee approval, an approved address and a sponsor's onboarding secret** — A new Canton-versus-XRP comparison sets out the admission path: a prospective validator needs approval from the network's tokenomics committee, an approved IP address and an onboarding secret issued by the Super Validator sponsoring it, a members-club model the comparison contrasts with open public networks (Phemex)\n\nNetwork: CC $0.0819 | Market cap $3.28B (rank 25) | 24h volume $8.45M | Circulating supply 40,085,390,057 CC, down 0.31% in 24 hours and 7.06% over seven days with a 24-hour range of $0.0811 to $0.0839 at the 16:07 UTC November 19 read; milestone: four CIPs sit in Proposed status awaiting Super Validator votes, including CIP-0120 on traffic-based validator rewards and CIP-0108 to add Merkle Science's predictive analytics as a weight-1 Super Validator (Kriptometre, reporting CoinGecko data, for market data; Canton Network Docs for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 12:12 PM ET)<br/><br/>- **Canton&#x27;s improvement-proposal registry now tallies 103 proposals, with 56 in Final effect and 42 Approved** — The Canton Network Docs registry counts 56 Canton Improvement Proposals as Final, meaning approved and adopted on-chain by a two-thirds majority of Super Validator node operators, alongside 42 Approved, 4 still Proposed and 1 Rejected; proposals are discussed on the cip-discuss list, voted on by the Super Validator operators and announced once approved, with the canonical text held in the Canton Foundation&#x27;s CIP repository (Canton Network Docs)<br/>- **DTCC&#x27;s tokenization service can natively connect with more than 150 production applications across a network of more than 830 firms** — The Canton Network&#x27;s &quot;One Giant Leap&quot; account of the October 28 launch says the service&#x27;s initial pool covers more than $30 trillion in high-quality liquid assets across U.S. Treasuries, equities and ETFs, and that tokenized Treasuries can be pledged and accepted as collateral to meet intraday obligations inside that connected application network (Canton Network)<br/>- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 5.20% apart across liquid exchanges** — The 17:17 UTC November 19 scan finds Canton Coin cheapest on WEEX at $0.07724 and dearest on Bitrue at $0.081255 across 11 exchanges with a liquid spot market, with only caveat-flagged pairs in profit after taker fees and the best futures route, long WhiteBIT perpetuals against short Hyperliquid perpetuals, at 0.19% after fees (ArbitrageGap)<br/>- **Joining Canton MainNet as a validator requires committee approval, an approved address and a sponsor&#x27;s onboarding secret** — A new Canton-versus-XRP comparison sets out the admission path: a prospective validator needs approval from the network&#x27;s tokenomics committee, an approved IP address and an onboarding secret issued by the Super Validator sponsoring it, a members-club model the comparison contrasts with open public networks (Phemex)<br/><br/>Network: CC $0.0819 | Market cap $3.28B (rank 25) | 24h volume $8.45M | Circulating supply 40,085,390,057 CC, down 0.31% in 24 hours and 7.06% over seven days with a 24-hour range of $0.0811 to $0.0839 at the 16:07 UTC November 19 read; milestone: four CIPs sit in Proposed status awaiting Super Validator votes, including CIP-0120 on traffic-based validator rewards and CIP-0108 to add Merkle Science&#x27;s predictive analytics as a weight-1 Super Validator (Kriptometre, reporting CoinGecko data, for market data; Canton Network Docs for the milestone)</p>",
+      "date_published": "2026-11-19T12:12:00-05:00",
+      "date_modified": "2026-11-19T12:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 12:12 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 12:12 PM ET)\n\n- **Canton's improvement-proposal registry now tallies 103 proposals, with 56 in Final effect and 42 Approved** — The Canton Network Docs registry counts 56 Canton Improvement Proposals as Final, meaning approved and adopted on-chain by a two-thirds majority of Super Validator node operators, alongside 42 Approved, 4 still Proposed and 1 Rejected; proposals are discussed on the cip-discuss list, voted on by the Super Validator operators and announced once approved, with the canonical text held in the Canton Foundation's CIP repository (Canton Network Docs)\n- **DTCC's tokenization service can natively connect with more than 150 production applications across a network of more than 830 firms** — The Canton Network's \"One Giant Leap\" account of the October 28 launch says the service's initial pool covers more than $30 trillion in high-quality liquid assets across U.S. Treasuries, equities and ETFs, and that tokenized Treasuries can be pledged and accepted as collateral to meet intraday obligations inside that connected application network (Canton Network)\n- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 5.20% apart across liquid exchanges** — The 17:17 UTC November 19 scan finds Canton Coin cheapest on WEEX at $0.07724 and dearest on Bitrue at $0.081255 across 11 exchanges with a liquid spot market, with only caveat-flagged pairs in profit after taker fees and the best futures route, long WhiteBIT perpetuals against short Hyperliquid perpetuals, at 0.19% after fees (ArbitrageGap)\n- **Joining Canton MainNet as a validator requires committee approval, an approved address and a sponsor's onboarding secret** — A new Canton-versus-XRP comparison sets out the admission path: a prospective validator needs approval from the network's tokenomics committee, an approved IP address and an onboarding secret issued by the Super Validator sponsoring it, a members-club model the comparison contrasts with open public networks (Phemex)\n\nNetwork: CC $0.0819 | Market cap $3.28B (rank 25) | 24h volume $8.45M | Circulating supply 40,085,390,057 CC, down 0.31% in 24 hours and 7.06% over seven days with a 24-hour range of $0.0811 to $0.0839 at the 16:07 UTC November 19 read; milestone: four CIPs sit in Proposed status awaiting Super Validator votes, including CIP-0120 on traffic-based validator rewards and CIP-0108 to add Merkle Science's predictive analytics as a weight-1 Super Validator (Kriptometre, reporting CoinGecko data, for market data; Canton Network Docs for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T12:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-19_1112-est",
       "slug": "krasilnikoff-credit-collateral-adds-a-fifth-canton-benchmark-a-burn-mint-ratio-in-methodol",
@@ -4767,70 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, January 18, 2027\nDevNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981586311",
-      "slug": "mainnet-breaking-config-changes-0-11-required",
-      "url": "https://canton.w3ai.io/feed/mainnet-breaking-config-changes-0-11-required",
-      "title": "MainNet Breaking Config Changes (0.11 Required)",
-      "content_text": "Canton Calendar — Tuesday, February 9, 2027\nMainNet Breaking Config Changes (0.11 Required)\nOther Network Configuration Change · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, February 9, 2027<br/>MainNet Breaking Config Changes (0.11 Required)<br/>Other Network Configuration Change · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, February 9, 2027\nMainNet Breaking Config Changes (0.11 Required)\nOther Network Configuration Change · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981586273",
-      "slug": "devnet-upgrades-to-splice-0-11-2",
-      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-11-2",
-      "title": "DevNet upgrades to Splice 0.11.2",
-      "content_text": "Canton Calendar — Monday, January 18, 2027\nDevNet upgrades to Splice 0.11.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, January 18, 2027<br/>DevNet upgrades to Splice 0.11.2<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, January 18, 2027\nDevNet upgrades to Splice 0.11.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
