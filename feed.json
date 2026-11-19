@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-19T04:12:00-05:00",
+  "updated": "2026-11-19T05:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-19_0512-est",
+      "slug": "canton-sets-dated-mainnet-steps-for-traffic-based-app-rewards-with-a-dry-run-starting-dece",
+      "url": "https://canton.w3ai.io/feed/canton-sets-dated-mainnet-steps-for-traffic-based-app-rewards-with-a-dry-run-starting-dece",
+      "title": "Canton sets dated MainNet steps for traffic-based app rewards, with a dry run starting December 8 and full effect targeted for early February",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 5:12 AM ET)\n\n- **Canton sets dated MainNet steps for traffic-based app rewards, with a dry run starting December 8 and full effect targeted for early February** — A November 18 status post sets out the rollout for the amended CIP-0104: Super Validators raise an on-chain proposal on December 1, the vote takes effect and a MainNet dry run begins on December 8, the accountability committee and app providers study the dry-run data through January, and a go-live vote follows in late January or early February, with traffic-based rewards taking full effect in early February if approved; until then the interim marker rules stay in force, including the $0.79 reward cap for every $1.00 of traffic burned, markers set 1:1 with the burn they correspond to and submitted within two reward rounds, and a pause without warning for any app whose ratio exceeds 103% (Canton Network Forum)\n- **Canton's live MainNet read shows 1.00 transactions per second and 6.4 million Canton Coin in rewards over 24 hours** — The live dashboard read on November 19 puts 24-hour network rewards at 6.4 million CC, up from the 5.7 million CC live read recorded on November 18, with current activity at 1.00 TPS at the time of the read (CantonNews)\n- **Bybit is Canton Coin's largest spot venue at 23.58% of volume, with the Canton-native Temple exchange second at 15.22%** — The latest venue table puts Bybit's CC/USDT pair first at $2.39 million in 24 hours, Temple Digital Group's CC/USDCx pair second at $1.54 million and CoinW third at $1.16 million, and records no Canton Coin liquidations across its 1-hour, 4-hour, 12-hour or 24-hour windows (AMBCrypto)\n- **Canton Coin's seven-day trading volume totals $93.94 million as the price eases 7.91% over the week** — The same read puts the price down 19.76% over 30 days and 57.21% below the $0.194152 all-time high set on February 2, 2026 (AMBCrypto)\n\nNetwork: CC $0.083076 | Market cap $3.33B (rank 25) | 24h volume $10.12M | Circulating supply 40,084,061,192 CC, down 1.64% in 24 hours at the November 19 read; milestone: circulating supply has risen from 40,077,505,741 CC recorded earlier on November 19, reflecting continued minting rounds under the network's burn-and-mint model (AMBCrypto)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 5:12 AM ET)<br/><br/>- **Canton sets dated MainNet steps for traffic-based app rewards, with a dry run starting December 8 and full effect targeted for early February** — A November 18 status post sets out the rollout for the amended CIP-0104: Super Validators raise an on-chain proposal on December 1, the vote takes effect and a MainNet dry run begins on December 8, the accountability committee and app providers study the dry-run data through January, and a go-live vote follows in late January or early February, with traffic-based rewards taking full effect in early February if approved; until then the interim marker rules stay in force, including the $0.79 reward cap for every $1.00 of traffic burned, markers set 1:1 with the burn they correspond to and submitted within two reward rounds, and a pause without warning for any app whose ratio exceeds 103% (Canton Network Forum)<br/>- **Canton&#x27;s live MainNet read shows 1.00 transactions per second and 6.4 million Canton Coin in rewards over 24 hours** — The live dashboard read on November 19 puts 24-hour network rewards at 6.4 million CC, up from the 5.7 million CC live read recorded on November 18, with current activity at 1.00 TPS at the time of the read (CantonNews)<br/>- **Bybit is Canton Coin&#x27;s largest spot venue at 23.58% of volume, with the Canton-native Temple exchange second at 15.22%** — The latest venue table puts Bybit&#x27;s CC/USDT pair first at $2.39 million in 24 hours, Temple Digital Group&#x27;s CC/USDCx pair second at $1.54 million and CoinW third at $1.16 million, and records no Canton Coin liquidations across its 1-hour, 4-hour, 12-hour or 24-hour windows (AMBCrypto)<br/>- **Canton Coin&#x27;s seven-day trading volume totals $93.94 million as the price eases 7.91% over the week** — The same read puts the price down 19.76% over 30 days and 57.21% below the $0.194152 all-time high set on February 2, 2026 (AMBCrypto)<br/><br/>Network: CC $0.083076 | Market cap $3.33B (rank 25) | 24h volume $10.12M | Circulating supply 40,084,061,192 CC, down 1.64% in 24 hours at the November 19 read; milestone: circulating supply has risen from 40,077,505,741 CC recorded earlier on November 19, reflecting continued minting rounds under the network&#x27;s burn-and-mint model (AMBCrypto)</p>",
+      "date_published": "2026-11-19T05:12:00-05:00",
+      "date_modified": "2026-11-19T05:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 5:12 AM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 5:12 AM ET)\n\n- **Canton sets dated MainNet steps for traffic-based app rewards, with a dry run starting December 8 and full effect targeted for early February** — A November 18 status post sets out the rollout for the amended CIP-0104: Super Validators raise an on-chain proposal on December 1, the vote takes effect and a MainNet dry run begins on December 8, the accountability committee and app providers study the dry-run data through January, and a go-live vote follows in late January or early February, with traffic-based rewards taking full effect in early February if approved; until then the interim marker rules stay in force, including the $0.79 reward cap for every $1.00 of traffic burned, markers set 1:1 with the burn they correspond to and submitted within two reward rounds, and a pause without warning for any app whose ratio exceeds 103% (Canton Network Forum)\n- **Canton's live MainNet read shows 1.00 transactions per second and 6.4 million Canton Coin in rewards over 24 hours** — The live dashboard read on November 19 puts 24-hour network rewards at 6.4 million CC, up from the 5.7 million CC live read recorded on November 18, with current activity at 1.00 TPS at the time of the read (CantonNews)\n- **Bybit is Canton Coin's largest spot venue at 23.58% of volume, with the Canton-native Temple exchange second at 15.22%** — The latest venue table puts Bybit's CC/USDT pair first at $2.39 million in 24 hours, Temple Digital Group's CC/USDCx pair second at $1.54 million and CoinW third at $1.16 million, and records no Canton Coin liquidations across its 1-hour, 4-hour, 12-hour or 24-hour windows (AMBCrypto)\n- **Canton Coin's seven-day trading volume totals $93.94 million as the price eases 7.91% over the week** — The same read puts the price down 19.76% over 30 days and 57.21% below the $0.194152 all-time high set on February 2, 2026 (AMBCrypto)\n\nNetwork: CC $0.083076 | Market cap $3.33B (rank 25) | 24h volume $10.12M | Circulating supply 40,084,061,192 CC, down 1.64% in 24 hours at the November 19 read; milestone: circulating supply has risen from 40,077,505,741 CC recorded earlier on November 19, reflecting continued minting rounds under the network's burn-and-mint model (AMBCrypto)",
+      "image_url": null,
+      "published": "2026-11-19T05:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-19_0412-est",
       "slug": "a-new-canton-coin-explainer-sets-out-the-whitepaper-minting-path-100-billion-coins-over-te",
@@ -4799,38 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, January 18, 2027\nMainNet upgrades to Splice 0.11.0\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981582870",
-      "slug": "mainnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
-      "url": "https://canton.w3ai.io/feed/mainnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
-      "title": "MainNet New Daml models introduced by Splice 0.11.x take effect",
-      "content_text": "Canton Calendar — Monday, February 1, 2027\nMainNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, February 1, 2027<br/>MainNet New Daml models introduced by Splice 0.11.x take effect<br/>Splice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, February 1, 2027\nMainNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
