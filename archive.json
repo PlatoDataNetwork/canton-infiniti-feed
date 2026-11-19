@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-19_0942-est",
+      "slug": "vertexpoint-s-mobile-signing-tools-enter-a-21-day-development-fund-vote-seeking-1-25-milli",
+      "title": "VertexPoint's mobile signing tools enter a 21-day Development Fund vote, seeking 1.25 million Canton Coin plus a security review",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 9:42 AM ET)\n\n- **VertexPoint's mobile signing tools enter a 21-day Development Fund vote, seeking 1.25 million Canton Coin plus a security review** — The vote covers a mobile signer that would keep signing keys on the user's phone and native Swift and Kotlin software kits for app developers, with the request set at 1.25 million CC plus up to 130,000 CC for a security review, or 1.38 million CC at the cap; voting is open, and this step approves neither the grant nor any launched product (CCTools)\n- **ABS seeks 450,000 Canton Coin for dar-vet, a tool that flags who gains or loses permissions when a Daml application is upgraded** — Alternative Bold Solutions' proposal runs over four months and would compare versions of a Daml application package, highlighting changes to who can perform actions; the team says its prototype has already been run on 101 Splice releases, and the request remains submitted and seeking a champion rather than funded (CCTools)\n- **The Hub warns that the HUBI token is unaffiliated and that it has issued no token of its own** — The Hub says it has no connection to HUBI, a token using its mascot's name on OneSwap and OnePump, and that a familiar name or mascot does not establish an official relationship; the notice concerns an unaffiliated token, not a reported breach of the platform (CantonNews)\n- **Canton applications recorded $6,659 in fees and $5,665 in revenue over the latest 24 hours, alongside $1.73 million in token incentives** — The November 19 protocol read also puts Cantex as the only tracked protocol gaining total value locked over 24 hours, up 2.50% to $1.78 million, while Temple remains the largest tracked protocol at $5.95 million (DefiLlama)\n\nNetwork: CC $0.0835 | Market cap $3.35B (rank 25) | 24h volume $8.98M | Circulating supply 40,085,390,057 CC, up 0.50% in 24 hours and down 6.66% over seven days at the 14:30 UTC November 19 read; milestone: four tracked Canton spot venues — Temple, Cantex, Rocky and Tradecraft — recorded $137.6 million in volume across November 9–15, with Temple accounting for 91.4% of the total (Criptano, reporting CoinGecko figures, for market data; Canton Venues, via CCTools, for the milestone)",
+      "timestamp": "2026-11-19T09:42:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/vertexpoint-s-mobile-signing-tools-enter-a-21-day-development-fund-vote-seeking-1-25-milli",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-19_0842-est",
       "slug": "supanova-introduces-v2-with-mobile-trading-and-canton-coin-funding-routes",
       "title": "Supanova introduces V2 with mobile trading and Canton Coin funding routes",
