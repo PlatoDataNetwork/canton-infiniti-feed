@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-18T18:42:00-05:00",
+  "updated": "2026-11-18T19:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-18_1912-est",
+      "slug": "draft-cip-0128-would-let-validators-join-canton-without-whitelisting-gated-by-a-traffic-pu",
+      "url": "https://canton.w3ai.io/feed/draft-cip-0128-would-let-validators-join-canton-without-whitelisting-gated-by-a-traffic-pu",
+      "title": "Draft CIP-0128 would let validators join Canton without whitelisting, gated by a traffic purchase",
+      "content_text": "Canton Signal Feed (Nov 18, 2026 · 7:12 PM ET)\n- **Draft CIP-0128 would let validators join Canton without whitelisting, gated by a traffic purchase** — The draft proposal, \"Remove IP Whitelists from the Global Synchronizer,\" created on October 5, 2026 and still in Draft status and not approved, would replace the Canton Foundation-run IP allowlists and onboarding secrets for the Scan and sequencer APIs with automatic access once a minimum amount of traffic has been bought in Canton Coin — a starting threshold of 10MB, about $600 at the current MainNet rate, with the amount set by an on-ledger governance vote; Super Validators would grant permission once a BFT quorum is reached and could suspend or revoke access through a new ValidatorBlocklist contract, and the draft lists audits and hardening of the APIs, consistent rate limiting and a DevNet testing period as prerequisites before TestNet and MainNet (CantonCap)\n- **Nasdaq and Send are awarded new MainNet validator node allocations on Canton** — The Canton Foundation Tokenomics Working Group has granted new MainNet validator node allocations, including one to Nasdaq, Inc. and three to Send; allocations are issued in line with current network capacity and health assessments, and show continued institutional uptake of running Canton infrastructure (Global Synchronizer Foundation via CC Space)\n- **Paxos is approved to join Canton as a Super Validator, tied to stablecoin treasury workflows** — Paxos, the regulated stablecoin issuer behind USDP and other major stablecoins, has been approved to join the Canton Network as a Super Validator, tying its participation to bringing stablecoin treasury-management workflows onto Canton (Global Synchronizer Foundation via CC Space)\n- **Ankr proposes to join Canton as a Super Validator with a milestone-based weight of up to 6** — A draft CIP from the node infrastructure provider would earn weight in four stages, from running nodes to an \"Ankr Forge\" rewards campaign and white-label RPC support; the proposal has not been voted on (CantonCap)\n\nNetwork: CC $0.081931 | Market cap $3.28B (rank 28) | 24h volume $12.83M | Price down 0.07% in 24 hours as of the November 19, 2026 read; milestone: Canton has no upcoming cliff unlock scheduled, with 52.81% of projected supply still locked and about 48,981,723,284 CC unlocked, 47.19% of projected 2035 supply, under linear vesting (MarketCapOf, reporting CoinGecko figures, for market data; Tokenomist for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 7:12 PM ET)<br/>- **Draft CIP-0128 would let validators join Canton without whitelisting, gated by a traffic purchase** — The draft proposal, &quot;Remove IP Whitelists from the Global Synchronizer,&quot; created on October 5, 2026 and still in Draft status and not approved, would replace the Canton Foundation-run IP allowlists and onboarding secrets for the Scan and sequencer APIs with automatic access once a minimum amount of traffic has been bought in Canton Coin — a starting threshold of 10MB, about $600 at the current MainNet rate, with the amount set by an on-ledger governance vote; Super Validators would grant permission once a BFT quorum is reached and could suspend or revoke access through a new ValidatorBlocklist contract, and the draft lists audits and hardening of the APIs, consistent rate limiting and a DevNet testing period as prerequisites before TestNet and MainNet (CantonCap)<br/>- **Nasdaq and Send are awarded new MainNet validator node allocations on Canton** — The Canton Foundation Tokenomics Working Group has granted new MainNet validator node allocations, including one to Nasdaq, Inc. and three to Send; allocations are issued in line with current network capacity and health assessments, and show continued institutional uptake of running Canton infrastructure (Global Synchronizer Foundation via CC Space)<br/>- **Paxos is approved to join Canton as a Super Validator, tied to stablecoin treasury workflows** — Paxos, the regulated stablecoin issuer behind USDP and other major stablecoins, has been approved to join the Canton Network as a Super Validator, tying its participation to bringing stablecoin treasury-management workflows onto Canton (Global Synchronizer Foundation via CC Space)<br/>- **Ankr proposes to join Canton as a Super Validator with a milestone-based weight of up to 6** — A draft CIP from the node infrastructure provider would earn weight in four stages, from running nodes to an &quot;Ankr Forge&quot; rewards campaign and white-label RPC support; the proposal has not been voted on (CantonCap)<br/><br/>Network: CC $0.081931 | Market cap $3.28B (rank 28) | 24h volume $12.83M | Price down 0.07% in 24 hours as of the November 19, 2026 read; milestone: Canton has no upcoming cliff unlock scheduled, with 52.81% of projected supply still locked and about 48,981,723,284 CC unlocked, 47.19% of projected 2035 supply, under linear vesting (MarketCapOf, reporting CoinGecko figures, for market data; Tokenomist for the milestone)</p>",
+      "date_published": "2026-11-18T19:12:00-05:00",
+      "date_modified": "2026-11-18T19:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 18, 2026 · 7:12 PM ET",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 7:12 PM ET)\n- **Draft CIP-0128 would let validators join Canton without whitelisting, gated by a traffic purchase** — The draft proposal, \"Remove IP Whitelists from the Global Synchronizer,\" created on October 5, 2026 and still in Draft status and not approved, would replace the Canton Foundation-run IP allowlists and onboarding secrets for the Scan and sequencer APIs with automatic access once a minimum amount of traffic has been bought in Canton Coin — a starting threshold of 10MB, about $600 at the current MainNet rate, with the amount set by an on-ledger governance vote; Super Validators would grant permission once a BFT quorum is reached and could suspend or revoke access through a new ValidatorBlocklist contract, and the draft lists audits and hardening of the APIs, consistent rate limiting and a DevNet testing period as prerequisites before TestNet and MainNet (CantonCap)\n- **Nasdaq and Send are awarded new MainNet validator node allocations on Canton** — The Canton Foundation Tokenomics Working Group has granted new MainNet validator node allocations, including one to Nasdaq, Inc. and three to Send; allocations are issued in line with current network capacity and health assessments, and show continued institutional uptake of running Canton infrastructure (Global Synchronizer Foundation via CC Space)\n- **Paxos is approved to join Canton as a Super Validator, tied to stablecoin treasury workflows** — Paxos, the regulated stablecoin issuer behind USDP and other major stablecoins, has been approved to join the Canton Network as a Super Validator, tying its participation to bringing stablecoin treasury-management workflows onto Canton (Global Synchronizer Foundation via CC Space)\n- **Ankr proposes to join Canton as a Super Validator with a milestone-based weight of up to 6** — A draft CIP from the node infrastructure provider would earn weight in four stages, from running nodes to an \"Ankr Forge\" rewards campaign and white-label RPC support; the proposal has not been voted on (CantonCap)\n\nNetwork: CC $0.081931 | Market cap $3.28B (rank 28) | 24h volume $12.83M | Price down 0.07% in 24 hours as of the November 19, 2026 read; milestone: Canton has no upcoming cliff unlock scheduled, with 52.81% of projected supply still locked and about 48,981,723,284 CC unlocked, 47.19% of projected 2035 supply, under linear vesting (MarketCapOf, reporting CoinGecko figures, for market data; Tokenomist for the milestone)",
+      "image_url": null,
+      "published": "2026-11-18T19:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-18_1842-est",
       "slug": "valour-s-canton-network-etp-is-trading-on-sweden-s-spotlight-stock-market-giving-brokerage",
@@ -4799,38 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Tuesday, December 8, 2026\nMainNet: Breaking configuration changes introduced by Splice 0.10.x take effect\nOther Network Configuration Change · MainNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12690976140",
-      "slug": "testnet-daml-models-introduced-by-splice-0-10-x-take-effect",
-      "url": "https://canton.w3ai.io/feed/testnet-daml-models-introduced-by-splice-0-10-x-take-effect",
-      "title": "TestNet: Daml models introduced by Splice 0.10.x take effect",
-      "content_text": "Canton Calendar — Tuesday, November 24, 2026\nTestNet: Daml models introduced by Splice 0.10.x take effect\nSplice Daml Model Effectivity · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, November 24, 2026<br/>TestNet: Daml models introduced by Splice 0.10.x take effect<br/>Splice Daml Model Effectivity · TestNet · Confirmed · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, November 24, 2026\nTestNet: Daml models introduced by Splice 0.10.x take effect\nSplice Daml Model Effectivity · TestNet · Confirmed · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
