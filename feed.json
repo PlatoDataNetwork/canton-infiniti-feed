@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-19T09:42:00-05:00",
+  "updated": "2026-11-19T11:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-19_1112-est",
+      "slug": "krasilnikoff-credit-collateral-adds-a-fifth-canton-benchmark-a-burn-mint-ratio-in-methodol",
+      "url": "https://canton.w3ai.io/feed/krasilnikoff-credit-collateral-adds-a-fifth-canton-benchmark-a-burn-mint-ratio-in-methodol",
+      "title": "Krasilnikoff Credit & Collateral adds a fifth Canton benchmark, a Burn/Mint Ratio, in methodology version 0.14",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 11:12 AM ET)\n\n- **Krasilnikoff Credit & Collateral adds a fifth Canton benchmark, a Burn/Mint Ratio, in methodology version 0.14** — The new measurement, effective for the November 13 sheet, compares traffic-related Canton Coin burns with estimated gross issuance over a defined period, joining benchmarks for liquidation capacity, the dollar borrowing rate, the Canton Coin borrow rate and reward coverage; it requires at least 27 valid days in a 30-day window, so its first full 30-day value is still being built and is expected on the November 28 sheet, and its traffic-burn figures come from Canton Scan snapshots while gross mint is inferred from supply changes plus measured burns rather than counted directly (CantonNews)\n- **Canton's data-access layer now runs well beyond the ledger itself, with Noves supporting more than 100 participants and CC View logging about 6.05 million requests** — Noves' self-hosted Data App, which lets organisations read only the information their own authorised participants can see, reports support for more than 100 validators, applications and strategic partners, while CC View, PixelPlex's Canton explorer and indexing service covering transfers, parties, prices, rewards and governance, reports about 6.05 million total API requests at a 0.02% historical error rate; both figures are provider-reported rather than independently audited (CantonNews)\n- **Bit Dynamics' Canton DevKit campaign offers a 5,000 Canton Coin draw through November 24 for running a complete local network** — The DevKit runs a full local Canton network on a developer's own machine — two validator nodes and a Super Validator, each with its own party, managed from one command-line tool or a local web interface — covering DAR uploads, contract inspection, token flows and portable network snapshots; entering requires the campaign's social tasks, a qualifying DevKit run, which means minting a token on the local network and posting it, triples a participant's entries, and 3,436 participants had joined at the latest read, with the 5,000 CC valued at about $410.40 (CCTools)\n- **Canton's Foundation board counts 22 members co-chaired by DTCC and Euroclear, while only 13 Super Validator node operators hold governance votes** — Research drawing on the network's governance record puts the Canton Foundation, a Delaware non-profit that facilitates network governance, under co-chairs from DTCC and Euroclear with a 22-member board including Broadridge, BNY, HSBC, Tradeweb and Digital Asset as of September 30, 2026; the same record counts about 60 Super Validators at that date but only 13 Super Validator node operators, and only the operators vote on network changes, one vote each (Medium)\n\nNetwork: CC $0.0822 | Market cap $3.30B (rank 25) | 24h volume $8.46M | Circulating supply 40.09B CC, down 0.26% in 24 hours and 6.71% over seven days with a 24-hour range of $0.0805 to $0.0867 at the 16:00 UTC November 19 read; milestone: circulating supply has risen to 40.09 billion CC from 40,085,390,057 CC recorded earlier on November 19, reflecting continued minting rounds under the network's burn-and-mint model (BlocFolio)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 11:12 AM ET)<br/><br/>- **Krasilnikoff Credit &amp; Collateral adds a fifth Canton benchmark, a Burn/Mint Ratio, in methodology version 0.14** — The new measurement, effective for the November 13 sheet, compares traffic-related Canton Coin burns with estimated gross issuance over a defined period, joining benchmarks for liquidation capacity, the dollar borrowing rate, the Canton Coin borrow rate and reward coverage; it requires at least 27 valid days in a 30-day window, so its first full 30-day value is still being built and is expected on the November 28 sheet, and its traffic-burn figures come from Canton Scan snapshots while gross mint is inferred from supply changes plus measured burns rather than counted directly (CantonNews)<br/>- **Canton&#x27;s data-access layer now runs well beyond the ledger itself, with Noves supporting more than 100 participants and CC View logging about 6.05 million requests** — Noves&#x27; self-hosted Data App, which lets organisations read only the information their own authorised participants can see, reports support for more than 100 validators, applications and strategic partners, while CC View, PixelPlex&#x27;s Canton explorer and indexing service covering transfers, parties, prices, rewards and governance, reports about 6.05 million total API requests at a 0.02% historical error rate; both figures are provider-reported rather than independently audited (CantonNews)<br/>- **Bit Dynamics&#x27; Canton DevKit campaign offers a 5,000 Canton Coin draw through November 24 for running a complete local network** — The DevKit runs a full local Canton network on a developer&#x27;s own machine — two validator nodes and a Super Validator, each with its own party, managed from one command-line tool or a local web interface — covering DAR uploads, contract inspection, token flows and portable network snapshots; entering requires the campaign&#x27;s social tasks, a qualifying DevKit run, which means minting a token on the local network and posting it, triples a participant&#x27;s entries, and 3,436 participants had joined at the latest read, with the 5,000 CC valued at about $410.40 (CCTools)<br/>- **Canton&#x27;s Foundation board counts 22 members co-chaired by DTCC and Euroclear, while only 13 Super Validator node operators hold governance votes** — Research drawing on the network&#x27;s governance record puts the Canton Foundation, a Delaware non-profit that facilitates network governance, under co-chairs from DTCC and Euroclear with a 22-member board including Broadridge, BNY, HSBC, Tradeweb and Digital Asset as of September 30, 2026; the same record counts about 60 Super Validators at that date but only 13 Super Validator node operators, and only the operators vote on network changes, one vote each (Medium)<br/><br/>Network: CC $0.0822 | Market cap $3.30B (rank 25) | 24h volume $8.46M | Circulating supply 40.09B CC, down 0.26% in 24 hours and 6.71% over seven days with a 24-hour range of $0.0805 to $0.0867 at the 16:00 UTC November 19 read; milestone: circulating supply has risen to 40.09 billion CC from 40,085,390,057 CC recorded earlier on November 19, reflecting continued minting rounds under the network&#x27;s burn-and-mint model (BlocFolio)</p>",
+      "date_published": "2026-11-19T11:12:00-05:00",
+      "date_modified": "2026-11-19T11:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 11:12 AM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 11:12 AM ET)\n\n- **Krasilnikoff Credit & Collateral adds a fifth Canton benchmark, a Burn/Mint Ratio, in methodology version 0.14** — The new measurement, effective for the November 13 sheet, compares traffic-related Canton Coin burns with estimated gross issuance over a defined period, joining benchmarks for liquidation capacity, the dollar borrowing rate, the Canton Coin borrow rate and reward coverage; it requires at least 27 valid days in a 30-day window, so its first full 30-day value is still being built and is expected on the November 28 sheet, and its traffic-burn figures come from Canton Scan snapshots while gross mint is inferred from supply changes plus measured burns rather than counted directly (CantonNews)\n- **Canton's data-access layer now runs well beyond the ledger itself, with Noves supporting more than 100 participants and CC View logging about 6.05 million requests** — Noves' self-hosted Data App, which lets organisations read only the information their own authorised participants can see, reports support for more than 100 validators, applications and strategic partners, while CC View, PixelPlex's Canton explorer and indexing service covering transfers, parties, prices, rewards and governance, reports about 6.05 million total API requests at a 0.02% historical error rate; both figures are provider-reported rather than independently audited (CantonNews)\n- **Bit Dynamics' Canton DevKit campaign offers a 5,000 Canton Coin draw through November 24 for running a complete local network** — The DevKit runs a full local Canton network on a developer's own machine — two validator nodes and a Super Validator, each with its own party, managed from one command-line tool or a local web interface — covering DAR uploads, contract inspection, token flows and portable network snapshots; entering requires the campaign's social tasks, a qualifying DevKit run, which means minting a token on the local network and posting it, triples a participant's entries, and 3,436 participants had joined at the latest read, with the 5,000 CC valued at about $410.40 (CCTools)\n- **Canton's Foundation board counts 22 members co-chaired by DTCC and Euroclear, while only 13 Super Validator node operators hold governance votes** — Research drawing on the network's governance record puts the Canton Foundation, a Delaware non-profit that facilitates network governance, under co-chairs from DTCC and Euroclear with a 22-member board including Broadridge, BNY, HSBC, Tradeweb and Digital Asset as of September 30, 2026; the same record counts about 60 Super Validators at that date but only 13 Super Validator node operators, and only the operators vote on network changes, one vote each (Medium)\n\nNetwork: CC $0.0822 | Market cap $3.30B (rank 25) | 24h volume $8.46M | Circulating supply 40.09B CC, down 0.26% in 24 hours and 6.71% over seven days with a 24-hour range of $0.0805 to $0.0867 at the 16:00 UTC November 19 read; milestone: circulating supply has risen to 40.09 billion CC from 40,085,390,057 CC recorded earlier on November 19, reflecting continued minting rounds under the network's burn-and-mint model (BlocFolio)",
+      "image_url": null,
+      "published": "2026-11-19T11:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-19_0942-est",
       "slug": "vertexpoint-s-mobile-signing-tools-enter-a-21-day-development-fund-vote-seeking-1-25-milli",
@@ -4799,38 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, January 18, 2027\nDevNet upgrades to Splice 0.11.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981586149",
-      "slug": "testnet-upgrades-to-splice-0-11-2",
-      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-11-2",
-      "title": "TestNet upgrades to Splice 0.11.2",
-      "content_text": "Canton Calendar — Monday, January 25, 2027\nTestNet upgrades to Splice 0.11.2\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, January 25, 2027<br/>TestNet upgrades to Splice 0.11.2<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, January 25, 2027\nTestNet upgrades to Splice 0.11.2\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
