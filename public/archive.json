@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-18_2012-est",
+      "slug": "canton-dev-fund-votes-are-failing-from-absent-voters-not-rejections-a-community-analysis-f",
+      "title": "Canton Dev Fund votes are failing from absent voters, not rejections, a community analysis finds",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 8:12 PM ET)\n\n- **Canton Dev Fund votes are failing from absent voters, not rejections, a community analysis finds** — The analysis of the Dev Fund repository finds seven funding votes failed with almost no votes against: they simply expired after 21 days because the 51%-of-eligible-voters threshold was never met, and four were reopened within days; it also warns that repository labels undercount failures because reopening a vote resets them (CC Space)\n- **Canton Coin perpetual open interest eases to 314 million CC as shorts keep paying longs** — Open interest stands at 314 million CC, about $25.55 million, down from 323 million CC and $27.22 million recorded earlier today, with 24-hour turnover at $20.73 million and an average funding rate of -0.0083% across eight exchanges, meaning shorts are paying longs in a sign of bearish positioning (JustScreener)\n- **Under CIP-0096, Canton earning now runs through apps and traffic, not validator liveness** — Validator liveness rewards were set to zero on April 30, 2026 under CIP-0096; applications now earn about 62% of the reward pool, Super Validators about 20% on a share decreasing until mid-2029, and regular users earn through app rewards and activity incentives funded by traffic purchases, which burn Canton Coin (Canton Wiki)\n- **No Canton Coin arbitrage route is worth taking at the latest read, with only suspect pairs in profit after fees** — At the 01:02 UTC November 19 read the widest spot gap was buy on MEXC, sell on LBank at +5.27% after fees and flagged suspect, spot prices ran 5.63% apart across 13 liquid exchanges from MEXC at $0.077962 to Bitrue at $0.082355, and the best futures route was WhiteBIT long against Hyperliquid short at 0.23% (ArbitrageGap)\n\nNetwork: CC $0.0816 | Market cap $3.27B (rank 25) | 24h volume $12.73M | Circulating supply 40,076,902,992 CC, up 0.73% in 24 hours as of the 00:00 UTC November 19 read; milestone: Canton Coin is now tracked across 26 exchanges, with 16 spot and 19 futures venues covered in the live scanner (CoinMarketHelp for market data; ArbitrageGap for the milestone)",
+      "timestamp": "2026-11-18T20:12:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-dev-fund-votes-are-failing-from-absent-voters-not-rejections-a-community-analysis-f",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-18_1942-est",
       "slug": "canton-issues-java4shell-mitigation-guidance-for-node-operators-recommending-they-disable",
       "title": "Canton issues Java4Shell mitigation guidance for node operators, recommending they disable Java's Base64 intrinsic",
