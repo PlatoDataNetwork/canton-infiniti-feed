@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-19T02:42:00-05:00",
+  "updated": "2026-11-19T03:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-19_0312-est",
+      "slug": "capconnect-is-approved-as-a-canton-super-validator-with-a-maximum-reward-weight-of-5",
+      "url": "https://canton.w3ai.io/feed/capconnect-is-approved-as-a-canton-super-validator-with-a-maximum-reward-weight-of-5",
+      "title": "CapConnect+ is approved as a Canton Super Validator with a maximum reward weight of 5",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 3:12 AM ET)\n\n- **CapConnect+ is approved as a Canton Super Validator with a maximum reward weight of 5** — Super Validator operators have approved CapConnect+ as a new Super Validator on the network, adding another operator to the group that runs and governs the Global Synchronizer; the approval gives the firm a maximum earnable reward weight of 5, and it resolves the vote that had been open since November 10 (CC Space)\n- **Broadridge's Distributed Ledger Repo platform processed $7.6 trillion of repo in October, averaging $345 billion a day** — The November 6 announcement puts the month's volume at $7.6 trillion, and Broadridge's annual report links its Distributed Ledger Repo investment to Canton's interoperability structure, though the October release itself does not mention Canton and no filing states which synchronizer the repo traffic uses (Medium)\n- **DTCC's tokenization totals will reach the public only through private quarterly reports to the SEC, with the first due around mid-January 2027** — Under the December 2025 no-action letter, DTC sends SEC staff a quarterly report covering the total value tokenized and outstanding for the fourth quarter of 2026, and those reports are not published; the $30 trillion figure is the market value of eligible securities, not an amount already converted, and Canton's privacy means its token supply cannot be measured on-chain the way public-chain products are (RWAWeekly)\n- **Canton's all-time transaction count reaches 606.66 million as parties pass 953,000** — The November 19 read puts total transactions at 606.66 million, up from 606.4 million recorded on November 18, with total parties at 953,065, validators at 1,572 across 13 Super Validators and 147 Featured Apps built on the network (CCTools)\n\nNetwork: CC $0.081971 | Market cap $3.3B (rank 25) | 24h volume $12.6M | Circulating supply 40,077,505,741 CC, down 0.1% in 24 hours with a 24-hour range of $0.081078 to $0.085597 as of November 19; milestone: Canton governance now counts 632 proposals with a 93% approval rate — 576 executed and 45 rejected, with 1 still in progress (Crypheat for market data; CCTools for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 3:12 AM ET)<br/><br/>- **CapConnect+ is approved as a Canton Super Validator with a maximum reward weight of 5** — Super Validator operators have approved CapConnect+ as a new Super Validator on the network, adding another operator to the group that runs and governs the Global Synchronizer; the approval gives the firm a maximum earnable reward weight of 5, and it resolves the vote that had been open since November 10 (CC Space)<br/>- **Broadridge&#x27;s Distributed Ledger Repo platform processed $7.6 trillion of repo in October, averaging $345 billion a day** — The November 6 announcement puts the month&#x27;s volume at $7.6 trillion, and Broadridge&#x27;s annual report links its Distributed Ledger Repo investment to Canton&#x27;s interoperability structure, though the October release itself does not mention Canton and no filing states which synchronizer the repo traffic uses (Medium)<br/>- **DTCC&#x27;s tokenization totals will reach the public only through private quarterly reports to the SEC, with the first due around mid-January 2027** — Under the December 2025 no-action letter, DTC sends SEC staff a quarterly report covering the total value tokenized and outstanding for the fourth quarter of 2026, and those reports are not published; the $30 trillion figure is the market value of eligible securities, not an amount already converted, and Canton&#x27;s privacy means its token supply cannot be measured on-chain the way public-chain products are (RWAWeekly)<br/>- **Canton&#x27;s all-time transaction count reaches 606.66 million as parties pass 953,000** — The November 19 read puts total transactions at 606.66 million, up from 606.4 million recorded on November 18, with total parties at 953,065, validators at 1,572 across 13 Super Validators and 147 Featured Apps built on the network (CCTools)<br/><br/>Network: CC $0.081971 | Market cap $3.3B (rank 25) | 24h volume $12.6M | Circulating supply 40,077,505,741 CC, down 0.1% in 24 hours with a 24-hour range of $0.081078 to $0.085597 as of November 19; milestone: Canton governance now counts 632 proposals with a 93% approval rate — 576 executed and 45 rejected, with 1 still in progress (Crypheat for market data; CCTools for the milestone)</p>",
+      "date_published": "2026-11-19T03:12:00-05:00",
+      "date_modified": "2026-11-19T03:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 3:12 AM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 3:12 AM ET)\n\n- **CapConnect+ is approved as a Canton Super Validator with a maximum reward weight of 5** — Super Validator operators have approved CapConnect+ as a new Super Validator on the network, adding another operator to the group that runs and governs the Global Synchronizer; the approval gives the firm a maximum earnable reward weight of 5, and it resolves the vote that had been open since November 10 (CC Space)\n- **Broadridge's Distributed Ledger Repo platform processed $7.6 trillion of repo in October, averaging $345 billion a day** — The November 6 announcement puts the month's volume at $7.6 trillion, and Broadridge's annual report links its Distributed Ledger Repo investment to Canton's interoperability structure, though the October release itself does not mention Canton and no filing states which synchronizer the repo traffic uses (Medium)\n- **DTCC's tokenization totals will reach the public only through private quarterly reports to the SEC, with the first due around mid-January 2027** — Under the December 2025 no-action letter, DTC sends SEC staff a quarterly report covering the total value tokenized and outstanding for the fourth quarter of 2026, and those reports are not published; the $30 trillion figure is the market value of eligible securities, not an amount already converted, and Canton's privacy means its token supply cannot be measured on-chain the way public-chain products are (RWAWeekly)\n- **Canton's all-time transaction count reaches 606.66 million as parties pass 953,000** — The November 19 read puts total transactions at 606.66 million, up from 606.4 million recorded on November 18, with total parties at 953,065, validators at 1,572 across 13 Super Validators and 147 Featured Apps built on the network (CCTools)\n\nNetwork: CC $0.081971 | Market cap $3.3B (rank 25) | 24h volume $12.6M | Circulating supply 40,077,505,741 CC, down 0.1% in 24 hours with a 24-hour range of $0.081078 to $0.085597 as of November 19; milestone: Canton governance now counts 632 proposals with a 93% approval rate — 576 executed and 45 rejected, with 1 still in progress (Crypheat for market data; CCTools for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T03:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-19_0242-est",
       "slug": "talos-marex-and-broadridge-are-building-a-single-workflow-for-trading-prime-brokerage-and",
@@ -4799,38 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, February 8, 2027\nMainNet upgrades to Splice 0.11.3\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981582805",
-      "slug": "devnet-lsu-0-11-required-january-2026",
-      "url": "https://canton.w3ai.io/feed/devnet-lsu-0-11-required-january-2026",
-      "title": "DevNet LSU (0.11 Required) (January 2026)",
-      "content_text": "Canton Calendar — Wednesday, January 20, 2027\nDevNet LSU (0.11 Required) (January 2026)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Wednesday, January 20, 2027<br/>DevNet LSU (0.11 Required) (January 2026)<br/>Protocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Wednesday, January 20, 2027\nDevNet LSU (0.11 Required) (January 2026)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
