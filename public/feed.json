@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-19T07:12:00-05:00",
+  "updated": "2026-11-19T07:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-19_0742-est",
+      "slug": "the-sec-staff-no-action-relief-for-canton-coin-covers-only-the-programmatic-minting-descri",
+      "url": "https://canton.w3ai.io/feed/the-sec-staff-no-action-relief-for-canton-coin-covers-only-the-programmatic-minting-descri",
+      "title": "The SEC staff no-action relief for Canton Coin covers only the programmatic minting described in Digital Asset's request, not trading or other Canton products",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 7:42 AM ET)\n\n- **The SEC staff no-action relief for Canton Coin covers only the programmatic minting described in Digital Asset's request, not trading or other Canton products** — In its November 3 response to an October 30 request, staff in the Division of Corporation Finance said Canton Coin fits the description of a digital commodity under the agency's March interpretation and that staff would not recommend enforcement over the specified minting by Super Validators, Validators and application providers without registration under Section 5 of the Securities Act or Section 12(g) of the Exchange Act; the position does not bind the Commission, is not a court ruling, does not approve secondary-market trading, every distribution method or every token or product on Canton, and could change if the facts change (Bitcoin Foundation)\n- **DTCC's November 12 roadmap adds Solana to its tokenization service in the second half of 2027, leaving Canton as an initial operating network** — The service launched on October 28 on Canton and DTCC's private Besu network, creating tokenized representations of eligible securities held in custody at DTC for conversion between traditional and tokenized forms, with 20 DTC participants signed at launch including Bank of America, Citi, J.P. Morgan, Morgan Stanley, State Street and UBS; the planned Solana connection is a later expansion for the same conversion and token lifecycle functions, not a replacement for the networks already live (ad-hoc-news)\n- **Canton issues Java4Shell mitigation guidance for node operators, recommending an interim Java flag while patched builds are checked** — The November 18 advisory recommends running the Java runtime with -XX:-UseBASE64Intrinsics until appropriate patches are deployed, after verification found no adverse performance impact on Canton; the underlying issue, CVE-2026-114938 with a severity score of 8.1, can under particular hardware and application conditions cause memory corruption, disruption or remote code execution, and operators are told to check their Java distribution and related components such as Keycloak as separate checks, with vendor fixes listed from November 17 and no Canton network breach reported (CantonNews)\n- **Palladium Labs open-sources a Chainlink oracle kit for Canton developers, with the price path already used by Alpend on MainNet** — Version 1.0.0 of canton-oracle-kit, released November 18 under the Apache 2.0 licence, brings together Daml contracts and tools to verify signed Chainlink Data Streams price reports, check freshness and ordering, and hold a price move above a configured threshold in a pending state until a later submission corroborates it; the kit currently supports V3 crypto reports and requires Data Streams access and a Chainlink-issued verifier configuration (CantonNews)\n\nNetwork: CC $0.0830 | Market cap $3.33B (rank 25) | 24h volume $12.96M | Circulating supply 40B CC, down 0.01% in 24 hours with a 24-hour range of $0.0808 to $0.0836 and perpetual open interest of $26.25M at the November 19 read; milestone: live MainNet rewards over 24 hours now stand at 8.1M CC, up from the 6.4M CC live read recorded earlier on November 19, with 13 Super Validators and 1 active proposal (JustScreener for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 7:42 AM ET)<br/><br/>- **The SEC staff no-action relief for Canton Coin covers only the programmatic minting described in Digital Asset&#x27;s request, not trading or other Canton products** — In its November 3 response to an October 30 request, staff in the Division of Corporation Finance said Canton Coin fits the description of a digital commodity under the agency&#x27;s March interpretation and that staff would not recommend enforcement over the specified minting by Super Validators, Validators and application providers without registration under Section 5 of the Securities Act or Section 12(g) of the Exchange Act; the position does not bind the Commission, is not a court ruling, does not approve secondary-market trading, every distribution method or every token or product on Canton, and could change if the facts change (Bitcoin Foundation)<br/>- **DTCC&#x27;s November 12 roadmap adds Solana to its tokenization service in the second half of 2027, leaving Canton as an initial operating network** — The service launched on October 28 on Canton and DTCC&#x27;s private Besu network, creating tokenized representations of eligible securities held in custody at DTC for conversion between traditional and tokenized forms, with 20 DTC participants signed at launch including Bank of America, Citi, J.P. Morgan, Morgan Stanley, State Street and UBS; the planned Solana connection is a later expansion for the same conversion and token lifecycle functions, not a replacement for the networks already live (ad-hoc-news)<br/>- **Canton issues Java4Shell mitigation guidance for node operators, recommending an interim Java flag while patched builds are checked** — The November 18 advisory recommends running the Java runtime with -XX:-UseBASE64Intrinsics until appropriate patches are deployed, after verification found no adverse performance impact on Canton; the underlying issue, CVE-2026-114938 with a severity score of 8.1, can under particular hardware and application conditions cause memory corruption, disruption or remote code execution, and operators are told to check their Java distribution and related components such as Keycloak as separate checks, with vendor fixes listed from November 17 and no Canton network breach reported (CantonNews)<br/>- **Palladium Labs open-sources a Chainlink oracle kit for Canton developers, with the price path already used by Alpend on MainNet** — Version 1.0.0 of canton-oracle-kit, released November 18 under the Apache 2.0 licence, brings together Daml contracts and tools to verify signed Chainlink Data Streams price reports, check freshness and ordering, and hold a price move above a configured threshold in a pending state until a later submission corroborates it; the kit currently supports V3 crypto reports and requires Data Streams access and a Chainlink-issued verifier configuration (CantonNews)<br/><br/>Network: CC $0.0830 | Market cap $3.33B (rank 25) | 24h volume $12.96M | Circulating supply 40B CC, down 0.01% in 24 hours with a 24-hour range of $0.0808 to $0.0836 and perpetual open interest of $26.25M at the November 19 read; milestone: live MainNet rewards over 24 hours now stand at 8.1M CC, up from the 6.4M CC live read recorded earlier on November 19, with 13 Super Validators and 1 active proposal (JustScreener for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-19T07:42:00-05:00",
+      "date_modified": "2026-11-19T07:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 7:42 AM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 7:42 AM ET)\n\n- **The SEC staff no-action relief for Canton Coin covers only the programmatic minting described in Digital Asset's request, not trading or other Canton products** — In its November 3 response to an October 30 request, staff in the Division of Corporation Finance said Canton Coin fits the description of a digital commodity under the agency's March interpretation and that staff would not recommend enforcement over the specified minting by Super Validators, Validators and application providers without registration under Section 5 of the Securities Act or Section 12(g) of the Exchange Act; the position does not bind the Commission, is not a court ruling, does not approve secondary-market trading, every distribution method or every token or product on Canton, and could change if the facts change (Bitcoin Foundation)\n- **DTCC's November 12 roadmap adds Solana to its tokenization service in the second half of 2027, leaving Canton as an initial operating network** — The service launched on October 28 on Canton and DTCC's private Besu network, creating tokenized representations of eligible securities held in custody at DTC for conversion between traditional and tokenized forms, with 20 DTC participants signed at launch including Bank of America, Citi, J.P. Morgan, Morgan Stanley, State Street and UBS; the planned Solana connection is a later expansion for the same conversion and token lifecycle functions, not a replacement for the networks already live (ad-hoc-news)\n- **Canton issues Java4Shell mitigation guidance for node operators, recommending an interim Java flag while patched builds are checked** — The November 18 advisory recommends running the Java runtime with -XX:-UseBASE64Intrinsics until appropriate patches are deployed, after verification found no adverse performance impact on Canton; the underlying issue, CVE-2026-114938 with a severity score of 8.1, can under particular hardware and application conditions cause memory corruption, disruption or remote code execution, and operators are told to check their Java distribution and related components such as Keycloak as separate checks, with vendor fixes listed from November 17 and no Canton network breach reported (CantonNews)\n- **Palladium Labs open-sources a Chainlink oracle kit for Canton developers, with the price path already used by Alpend on MainNet** — Version 1.0.0 of canton-oracle-kit, released November 18 under the Apache 2.0 licence, brings together Daml contracts and tools to verify signed Chainlink Data Streams price reports, check freshness and ordering, and hold a price move above a configured threshold in a pending state until a later submission corroborates it; the kit currently supports V3 crypto reports and requires Data Streams access and a Chainlink-issued verifier configuration (CantonNews)\n\nNetwork: CC $0.0830 | Market cap $3.33B (rank 25) | 24h volume $12.96M | Circulating supply 40B CC, down 0.01% in 24 hours with a 24-hour range of $0.0808 to $0.0836 and perpetual open interest of $26.25M at the November 19 read; milestone: live MainNet rewards over 24 hours now stand at 8.1M CC, up from the 6.4M CC live read recorded earlier on November 19, with 13 Super Validators and 1 active proposal (JustScreener for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T07:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-19_0712-est",
       "slug": "nomura-nri-and-boostry-set-out-a-joint-plan-to-connect-financial-firms-to-on-chain-markets",
@@ -4799,38 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Tuesday, January 26, 2027\nTestNet Topology Freeze (0.11 Required) (January 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981583203",
-      "slug": "testnet-breaking-config-changes-0-11-required",
-      "url": "https://canton.w3ai.io/feed/testnet-breaking-config-changes-0-11-required",
-      "title": "TestNet Breaking Config Changes (0.11 Required)",
-      "content_text": "Canton Calendar — Tuesday, February 2, 2027\nTestNet Breaking Config Changes (0.11 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, February 2, 2027<br/>TestNet Breaking Config Changes (0.11 Required)<br/>Other Network Configuration Change · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, February 2, 2027\nTestNet Breaking Config Changes (0.11 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
