@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-18_2042-est",
+      "slug": "dfns-adds-canton-token-standard-v2-allocations-support-letting-institutions-lock-the-canto",
+      "title": "DFNS adds Canton Token Standard V2 allocations support, letting institutions lock the Canton leg of a trade until settlement",
+      "body": "Canton Signal Feed (Nov 18, 2026 · 8:42 PM ET)\n\n- **DFNS adds Canton Token Standard V2 allocations support, letting institutions lock the Canton leg of a trade until settlement** — DFNS announced allocations support for CIP-112, the V2 evolution of the Canton Network Token Standard, adding committed allocations that lock the Canton leg of a trade until an agreed settlement deadline so the other leg can be coordinated with certainty, alongside pre-approvals so incoming deliveries settle without manual acceptance and delivery-versus-payment allocations that settle securities and cash together; DFNS is also an official signing provider for CIP-103 compliant applications through the Canton Wallet Gateway and operates validators on MainNet, TestNet and DevNet (DFNS)\n- **Uber's Canton treasury pilot shows a non-financial company settling tokenized cash against a tokenized fund, including over a weekend** — In the October 30 pilot led by HSBC with Franklin Templeton, Tradeweb and Fireblocks, Uber used HSBC Tokenized Deposits to buy Franklin Templeton tokenized money market fund shares on Tradeweb through delivery-versus-payment transactions on Canton via Fireblocks, then liquidated part of the holding over a weekend while continuing to earn yield throughout the investment lifecycle, capturing about a day and a half of yield that traditional market hours would have left unavailable (Canton Network)\n- **New Canton research finds network voting concentrated in 13 Super Validator node operators despite about 60 Super Validators** — The analysis, shared for consideration under the Canton Foundation's Community Research Grants programme with data as of September 30, 2026, finds that only the 13 Super Validator node operators vote on network changes, by two-thirds majority, with Digital Asset operating two of the 13 nodes, and puts the Canton Foundation's published Super Validator weight at 404.45 units in total (Medium)\n\nNetwork: CC $0.082583 | Market cap $3.31B | 24h volume $13.13M | Circulating supply 40,072,723,000 CC, up 2.53% in 24 hours at the latest read; milestone: more than 150 applications are live or emerging on Canton and Digital Asset works with more than 700 ecosystem participants (3Commas, reporting CoinGecko figures, for market data; DFNS for the milestone)",
+      "timestamp": "2026-11-18T20:42:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/dfns-adds-canton-token-standard-v2-allocations-support-letting-institutions-lock-the-canto",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-18_2012-est",
       "slug": "canton-dev-fund-votes-are-failing-from-absent-voters-not-rejections-a-community-analysis-f",
       "title": "Canton Dev Fund votes are failing from absent voters, not rejections, a community analysis finds",
