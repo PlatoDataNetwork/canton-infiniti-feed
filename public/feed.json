@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-19T01:42:00-05:00",
+  "updated": "2026-11-19T02:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-19_0242-est",
+      "slug": "talos-marex-and-broadridge-are-building-a-single-workflow-for-trading-prime-brokerage-and",
+      "url": "https://canton.w3ai.io/feed/talos-marex-and-broadridge-are-building-a-single-workflow-for-trading-prime-brokerage-and",
+      "title": "Talos, Marex and Broadridge are building a single workflow for trading, prime brokerage and atomic settlement on Canton",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 2:42 AM ET)\n\n- **Talos, Marex and Broadridge are building a single workflow for trading, prime brokerage and atomic settlement on Canton** — The three firms are combining their platforms into one workflow so institutions can finance tokenized Treasuries and move collateral after hours, a concrete step toward onchain capital markets on the network rather than separate trading, financing and settlement systems; the work builds on the DTCC-tokenized securities now available on Canton (CantonNews)\n- **Canton settled 4,869,283 transactions last week, averaging nearly 700,000 a day** — November 11 was the busiest day in the week at 752,000 transactions, and each transaction settled atomically, with each party seeing only the parts of it they were entitled to see (CantonNews)\n- **PartyLayer passes 200,000 cumulative downloads as its Canton developer toolkit expands** — The open-source wallet-integration toolkit from Cayvox Labs also reports nearly 100,000 unique visitors and more than 2 million web requests over the past 30 days; current releases are SDK 0.22.1, React 3.4.0 and React Native 2.0.0, and its November 15 corrective release passed 2,277 workspace tests and 210 browser interface tests across Chromium, Firefox and WebKit (CCTools)\n- **Canton's nominal daily reward split sends 58.9% of new issuance to application builders** — The current distribution allocates 16.1 million Canton Coin a day to app builders, 5.2 million to Super Validators at 19%, 4.7 million to validators at 17.1% and 1.4 million to the Development Fund at 5%, tying the largest share of rewards to the applications that generate network activity (CCTools)\n\nNetwork: CC $0.0831 | Market cap $3.33B | 24h volume $12.00M | Circulating supply 40.08B CC, down 1.80% in 24 hours at the 07:52 UTC November 19 read; milestone: Canton Coin burned equalled 58.9% of issuance over the last seven days — 110.0 million CC burned against 186.6 million CC of issuance from November 12 to 18 — with 448.0 million CC burned over the last 30 days (CCTools)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 2:42 AM ET)<br/><br/>- **Talos, Marex and Broadridge are building a single workflow for trading, prime brokerage and atomic settlement on Canton** — The three firms are combining their platforms into one workflow so institutions can finance tokenized Treasuries and move collateral after hours, a concrete step toward onchain capital markets on the network rather than separate trading, financing and settlement systems; the work builds on the DTCC-tokenized securities now available on Canton (CantonNews)<br/>- **Canton settled 4,869,283 transactions last week, averaging nearly 700,000 a day** — November 11 was the busiest day in the week at 752,000 transactions, and each transaction settled atomically, with each party seeing only the parts of it they were entitled to see (CantonNews)<br/>- **PartyLayer passes 200,000 cumulative downloads as its Canton developer toolkit expands** — The open-source wallet-integration toolkit from Cayvox Labs also reports nearly 100,000 unique visitors and more than 2 million web requests over the past 30 days; current releases are SDK 0.22.1, React 3.4.0 and React Native 2.0.0, and its November 15 corrective release passed 2,277 workspace tests and 210 browser interface tests across Chromium, Firefox and WebKit (CCTools)<br/>- **Canton&#x27;s nominal daily reward split sends 58.9% of new issuance to application builders** — The current distribution allocates 16.1 million Canton Coin a day to app builders, 5.2 million to Super Validators at 19%, 4.7 million to validators at 17.1% and 1.4 million to the Development Fund at 5%, tying the largest share of rewards to the applications that generate network activity (CCTools)<br/><br/>Network: CC $0.0831 | Market cap $3.33B | 24h volume $12.00M | Circulating supply 40.08B CC, down 1.80% in 24 hours at the 07:52 UTC November 19 read; milestone: Canton Coin burned equalled 58.9% of issuance over the last seven days — 110.0 million CC burned against 186.6 million CC of issuance from November 12 to 18 — with 448.0 million CC burned over the last 30 days (CCTools)</p>",
+      "date_published": "2026-11-19T02:42:00-05:00",
+      "date_modified": "2026-11-19T02:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 2:42 AM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 2:42 AM ET)\n\n- **Talos, Marex and Broadridge are building a single workflow for trading, prime brokerage and atomic settlement on Canton** — The three firms are combining their platforms into one workflow so institutions can finance tokenized Treasuries and move collateral after hours, a concrete step toward onchain capital markets on the network rather than separate trading, financing and settlement systems; the work builds on the DTCC-tokenized securities now available on Canton (CantonNews)\n- **Canton settled 4,869,283 transactions last week, averaging nearly 700,000 a day** — November 11 was the busiest day in the week at 752,000 transactions, and each transaction settled atomically, with each party seeing only the parts of it they were entitled to see (CantonNews)\n- **PartyLayer passes 200,000 cumulative downloads as its Canton developer toolkit expands** — The open-source wallet-integration toolkit from Cayvox Labs also reports nearly 100,000 unique visitors and more than 2 million web requests over the past 30 days; current releases are SDK 0.22.1, React 3.4.0 and React Native 2.0.0, and its November 15 corrective release passed 2,277 workspace tests and 210 browser interface tests across Chromium, Firefox and WebKit (CCTools)\n- **Canton's nominal daily reward split sends 58.9% of new issuance to application builders** — The current distribution allocates 16.1 million Canton Coin a day to app builders, 5.2 million to Super Validators at 19%, 4.7 million to validators at 17.1% and 1.4 million to the Development Fund at 5%, tying the largest share of rewards to the applications that generate network activity (CCTools)\n\nNetwork: CC $0.0831 | Market cap $3.33B | 24h volume $12.00M | Circulating supply 40.08B CC, down 1.80% in 24 hours at the 07:52 UTC November 19 read; milestone: Canton Coin burned equalled 58.9% of issuance over the last seven days — 110.0 million CC burned against 186.6 million CC of issuance from November 12 to 18 — with 448.0 million CC burned over the last 30 days (CCTools)",
+      "image_url": null,
+      "published": "2026-11-19T02:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-19_0142-est",
       "slug": "the-imf-s-october-stability-report-puts-intraday-repo-and-legal-certainty-at-the-centre-of",
@@ -4799,38 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Wednesday, January 20, 2027\nDevNet LSU (0.11 Required) (January 2026)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981582760",
-      "slug": "testnet-upgrades-to-splice-0-11-3",
-      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-11-3",
-      "title": "TestNet upgrades to Splice 0.11.3",
-      "content_text": "Canton Calendar — Monday, February 1, 2027\nTestNet upgrades to Splice 0.11.3\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, February 1, 2027<br/>TestNet upgrades to Splice 0.11.3<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, February 1, 2027\nTestNet upgrades to Splice 0.11.3\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
