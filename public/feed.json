@@ -29,8 +29,72 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-19T15:12:00-05:00",
+  "updated": "2026-11-19T16:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-19_1642-est",
+      "slug": "canborsa-opens-its-road-to-1-million-creator-campaign-with-a-prize-pool-that-grows-to-10-0",
+      "url": "https://canton.w3ai.io/feed/canborsa-opens-its-road-to-1-million-creator-campaign-with-a-prize-pool-that-grows-to-10-0",
+      "title": "Canborsa opens its Road to 1 Million creator campaign, with a prize pool that grows to $10,000 at one million verified views",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 4:42 PM ET)\n\n- **Canborsa opens its Road to 1 Million creator campaign, with a prize pool that grows to $10,000 at one million verified views** — The campaign runs from November 16 to December 16, with two leagues carrying 32 paid places alongside weekly draws and a $500 creative award; the maximum pool is conditional on verified community views reaching the milestones, and the public rules include league-entry score and average-view thresholds, content review, one submission per UTC day and up to 15 works for the campaign (CCTools)\n- **Canton's package manager reaches version 1.1.0, letting projects depend on prebuilt DARs straight from Git instead of keeping local copies** — With dpm 1.1.0 a project can reference a DAR where it lives in a public repository, and on install dpm downloads and caches the file and rewrites the branch or tag to the exact commit so everyone builds against the same DAR, while build and test work as before; the feature was built by Moonsong Labs with support from the Canton Development Fund and reviewed and released by the Digital Asset dpm team (Canton Network Forum)\n- **Developers flag that Daml cannot yet verify Ed25519 signatures on the ledger, leaving some Canton security features waiting** — A November 16 forum discussion confirms that DA.Crypto.Text verifies only the secp256k1 family on-ledger, with no Ed25519 support, even though Canton supports Ed25519 at the protocol level and most external parties are onboarded with it; the poster says features and security enhancements are pending on this, a respondent confirmed the reading and noted two practical traps in the secp256k1 path, and no roadmap date was given (Canton Network Forum)\n- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 5.98% apart across liquid exchanges** — The 21:54 UTC November 19 scan puts Canton Coin cheapest on WEEX at $0.075385 and dearest on LBank at $0.079895 across 11 liquid exchanges, with the widest route, buying on MEXC and selling on LBank at 5.47% after fees, flagged as a suspect pair, and the best futures route long WhiteBIT and short Lighter at 0.32% after fees; the spread has widened from 5.20% recorded earlier today (ArbitrageGap)\n\nNetwork: CC $0.0797 | Market cap $3.20B (rank 25) | 24h volume $7.49M | Circulating supply 40,086,553,331 CC, down 2.44% in 24 hours and down 9.43% over seven days with a 24-hour range of $0.0804 to $0.0836 at the 21:45 UTC November 19 read; milestone: 24-hour network rewards stand at 13.7M CC on the live dashboard, up from 13.3M CC recorded earlier today, with 13 Super Validators, 2 active proposals and total transactions at 606.4M (Criptano, reporting CoinGecko figures, for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 4:42 PM ET)<br/><br/>- **Canborsa opens its Road to 1 Million creator campaign, with a prize pool that grows to $10,000 at one million verified views** — The campaign runs from November 16 to December 16, with two leagues carrying 32 paid places alongside weekly draws and a $500 creative award; the maximum pool is conditional on verified community views reaching the milestones, and the public rules include league-entry score and average-view thresholds, content review, one submission per UTC day and up to 15 works for the campaign (CCTools)<br/>- **Canton&#x27;s package manager reaches version 1.1.0, letting projects depend on prebuilt DARs straight from Git instead of keeping local copies** — With dpm 1.1.0 a project can reference a DAR where it lives in a public repository, and on install dpm downloads and caches the file and rewrites the branch or tag to the exact commit so everyone builds against the same DAR, while build and test work as before; the feature was built by Moonsong Labs with support from the Canton Development Fund and reviewed and released by the Digital Asset dpm team (Canton Network Forum)<br/>- **Developers flag that Daml cannot yet verify Ed25519 signatures on the ledger, leaving some Canton security features waiting** — A November 16 forum discussion confirms that DA.Crypto.Text verifies only the secp256k1 family on-ledger, with no Ed25519 support, even though Canton supports Ed25519 at the protocol level and most external parties are onboarded with it; the poster says features and security enhancements are pending on this, a respondent confirmed the reading and noted two practical traps in the secp256k1 path, and no roadmap date was given (Canton Network Forum)<br/>- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 5.98% apart across liquid exchanges** — The 21:54 UTC November 19 scan puts Canton Coin cheapest on WEEX at $0.075385 and dearest on LBank at $0.079895 across 11 liquid exchanges, with the widest route, buying on MEXC and selling on LBank at 5.47% after fees, flagged as a suspect pair, and the best futures route long WhiteBIT and short Lighter at 0.32% after fees; the spread has widened from 5.20% recorded earlier today (ArbitrageGap)<br/><br/>Network: CC $0.0797 | Market cap $3.20B (rank 25) | 24h volume $7.49M | Circulating supply 40,086,553,331 CC, down 2.44% in 24 hours and down 9.43% over seven days with a 24-hour range of $0.0804 to $0.0836 at the 21:45 UTC November 19 read; milestone: 24-hour network rewards stand at 13.7M CC on the live dashboard, up from 13.3M CC recorded earlier today, with 13 Super Validators, 2 active proposals and total transactions at 606.4M (Criptano, reporting CoinGecko figures, for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-19T16:42:00-05:00",
+      "date_modified": "2026-11-19T16:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 4:42 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 4:42 PM ET)\n\n- **Canborsa opens its Road to 1 Million creator campaign, with a prize pool that grows to $10,000 at one million verified views** — The campaign runs from November 16 to December 16, with two leagues carrying 32 paid places alongside weekly draws and a $500 creative award; the maximum pool is conditional on verified community views reaching the milestones, and the public rules include league-entry score and average-view thresholds, content review, one submission per UTC day and up to 15 works for the campaign (CCTools)\n- **Canton's package manager reaches version 1.1.0, letting projects depend on prebuilt DARs straight from Git instead of keeping local copies** — With dpm 1.1.0 a project can reference a DAR where it lives in a public repository, and on install dpm downloads and caches the file and rewrites the branch or tag to the exact commit so everyone builds against the same DAR, while build and test work as before; the feature was built by Moonsong Labs with support from the Canton Development Fund and reviewed and released by the Digital Asset dpm team (Canton Network Forum)\n- **Developers flag that Daml cannot yet verify Ed25519 signatures on the ledger, leaving some Canton security features waiting** — A November 16 forum discussion confirms that DA.Crypto.Text verifies only the secp256k1 family on-ledger, with no Ed25519 support, even though Canton supports Ed25519 at the protocol level and most external parties are onboarded with it; the poster says features and security enhancements are pending on this, a respondent confirmed the reading and noted two practical traps in the secp256k1 path, and no roadmap date was given (Canton Network Forum)\n- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 5.98% apart across liquid exchanges** — The 21:54 UTC November 19 scan puts Canton Coin cheapest on WEEX at $0.075385 and dearest on LBank at $0.079895 across 11 liquid exchanges, with the widest route, buying on MEXC and selling on LBank at 5.47% after fees, flagged as a suspect pair, and the best futures route long WhiteBIT and short Lighter at 0.32% after fees; the spread has widened from 5.20% recorded earlier today (ArbitrageGap)\n\nNetwork: CC $0.0797 | Market cap $3.20B (rank 25) | 24h volume $7.49M | Circulating supply 40,086,553,331 CC, down 2.44% in 24 hours and down 9.43% over seven days with a 24-hour range of $0.0804 to $0.0836 at the 21:45 UTC November 19 read; milestone: 24-hour network rewards stand at 13.7M CC on the live dashboard, up from 13.3M CC recorded earlier today, with 13 Super Validators, 2 active proposals and total transactions at 606.4M (Criptano, reporting CoinGecko figures, for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T16:42:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-19_1542-est",
+      "slug": "dtcc-will-add-stellar-in-the-first-half-of-2027-and-circle-s-arc-and-solana-in-the-second",
+      "url": "https://canton.w3ai.io/feed/dtcc-will-add-stellar-in-the-first-half-of-2027-and-circle-s-arc-and-solana-in-the-second",
+      "title": "DTCC will add Stellar in the first half of 2027 and Circle's Arc and Solana in the second half to its tokenization service, keeping Canton as its core near term",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 3:42 PM ET)\n\n- **DTCC will add Stellar in the first half of 2027 and Circle's Arc and Solana in the second half to its tokenization service, keeping Canton as its core near term** — Canton was the first network DTCC partnered with on tokenization, in December 2025, and its Tokenization Service launched in October 2026 on Canton and DTCC's private Besu network under agreements with 20 participants, letting them turn entitlements to stocks, ETFs and Treasuries held at DTC into tokens carrying the same legal rights and transferable 24 hours a day between registered wallets; the multi-chain additions are still at the planning stage, so Canton is expected to serve as the core of the service's ecosystem in the near term (Tiger Research)\n- **Obsidian Systems prepares a machine-checked semantics of Daml-LF 2 so Canton analysis tools can be tested against one public model** — The proposal under RFP 22, on Daml security standards, would build an executable semantics of Daml-LF 2.x and the Canton ledger model in Agda in a public Apache-2.0 repository over 12 months, delivering a core semantics that agrees with the Daml engine on the Daml Script tests of 20 real packages and rejects seeded authorisation defects, plus proofs on Splice code covering authorisation, Canton Coin issuance, the CIP-0098 reward cap and the CIP-0105 lock schedule, with part of the grant paid only on outside adoption; it is seeking a Tech & Ops Committee champion and a technical reviewer (Canton Network Forum)\n- **BlockBot seeks a wallet review for a WhatsApp-based AI wallet interface for Canton under RFP 14** — The Development Fund proposal, filed as pull request 1056 under RFP 14 on wallet and dApp integration tooling, presents BlockBot as a WhatsApp-based AI wallet interface designed to make Canton interactions more accessible while providing reusable wallet and dApp integration tooling, and asks the Wallet Apps and dApp Integration group for a technical review of its wallet architecture, signing flow, security model and alignment with ecosystem priorities, and for a champion (Canton Network Forum)\n- **About 79% of updates recorded on Canton in a 24-hour period in November were private, as the network keeps most activity visible only to its parties** — The figure reflects Canton's sub-transaction privacy model, in which each participant's node receives only the parts of a transaction it is involved in while the Global Synchronizer orders encrypted messages and confirms transactions without seeing their contents, a design intended to let institutions issue, trade and settle tokenized assets together without showing positions, client data or collateral flows to competitors (Decrypt)\n\nNetwork: CC $0.0812 | Market cap $3.26B (rank 26) | 24h volume $7.59M | Circulating supply 40,086,553,331 CC, down 0.53% in 24 hours and down 8.24% over seven days with a 24-hour range of $0.081 to $0.0836 at the 20:07 UTC November 19 read; milestone: 24-hour network rewards stand at 12.9M CC on the live dashboard, up from 12.5M CC in the 3:12 PM edition, with 13 Super Validators and 2 active proposals (Kriptometre, reporting CoinGecko, for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 3:42 PM ET)<br/><br/>- **DTCC will add Stellar in the first half of 2027 and Circle&#x27;s Arc and Solana in the second half to its tokenization service, keeping Canton as its core near term** — Canton was the first network DTCC partnered with on tokenization, in December 2025, and its Tokenization Service launched in October 2026 on Canton and DTCC&#x27;s private Besu network under agreements with 20 participants, letting them turn entitlements to stocks, ETFs and Treasuries held at DTC into tokens carrying the same legal rights and transferable 24 hours a day between registered wallets; the multi-chain additions are still at the planning stage, so Canton is expected to serve as the core of the service&#x27;s ecosystem in the near term (Tiger Research)<br/>- **Obsidian Systems prepares a machine-checked semantics of Daml-LF 2 so Canton analysis tools can be tested against one public model** — The proposal under RFP 22, on Daml security standards, would build an executable semantics of Daml-LF 2.x and the Canton ledger model in Agda in a public Apache-2.0 repository over 12 months, delivering a core semantics that agrees with the Daml engine on the Daml Script tests of 20 real packages and rejects seeded authorisation defects, plus proofs on Splice code covering authorisation, Canton Coin issuance, the CIP-0098 reward cap and the CIP-0105 lock schedule, with part of the grant paid only on outside adoption; it is seeking a Tech &amp; Ops Committee champion and a technical reviewer (Canton Network Forum)<br/>- **BlockBot seeks a wallet review for a WhatsApp-based AI wallet interface for Canton under RFP 14** — The Development Fund proposal, filed as pull request 1056 under RFP 14 on wallet and dApp integration tooling, presents BlockBot as a WhatsApp-based AI wallet interface designed to make Canton interactions more accessible while providing reusable wallet and dApp integration tooling, and asks the Wallet Apps and dApp Integration group for a technical review of its wallet architecture, signing flow, security model and alignment with ecosystem priorities, and for a champion (Canton Network Forum)<br/>- **About 79% of updates recorded on Canton in a 24-hour period in November were private, as the network keeps most activity visible only to its parties** — The figure reflects Canton&#x27;s sub-transaction privacy model, in which each participant&#x27;s node receives only the parts of a transaction it is involved in while the Global Synchronizer orders encrypted messages and confirms transactions without seeing their contents, a design intended to let institutions issue, trade and settle tokenized assets together without showing positions, client data or collateral flows to competitors (Decrypt)<br/><br/>Network: CC $0.0812 | Market cap $3.26B (rank 26) | 24h volume $7.59M | Circulating supply 40,086,553,331 CC, down 0.53% in 24 hours and down 8.24% over seven days with a 24-hour range of $0.081 to $0.0836 at the 20:07 UTC November 19 read; milestone: 24-hour network rewards stand at 12.9M CC on the live dashboard, up from 12.5M CC in the 3:12 PM edition, with 13 Super Validators and 2 active proposals (Kriptometre, reporting CoinGecko, for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-19T15:42:00-05:00",
+      "date_modified": "2026-11-19T15:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 3:42 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 3:42 PM ET)\n\n- **DTCC will add Stellar in the first half of 2027 and Circle's Arc and Solana in the second half to its tokenization service, keeping Canton as its core near term** — Canton was the first network DTCC partnered with on tokenization, in December 2025, and its Tokenization Service launched in October 2026 on Canton and DTCC's private Besu network under agreements with 20 participants, letting them turn entitlements to stocks, ETFs and Treasuries held at DTC into tokens carrying the same legal rights and transferable 24 hours a day between registered wallets; the multi-chain additions are still at the planning stage, so Canton is expected to serve as the core of the service's ecosystem in the near term (Tiger Research)\n- **Obsidian Systems prepares a machine-checked semantics of Daml-LF 2 so Canton analysis tools can be tested against one public model** — The proposal under RFP 22, on Daml security standards, would build an executable semantics of Daml-LF 2.x and the Canton ledger model in Agda in a public Apache-2.0 repository over 12 months, delivering a core semantics that agrees with the Daml engine on the Daml Script tests of 20 real packages and rejects seeded authorisation defects, plus proofs on Splice code covering authorisation, Canton Coin issuance, the CIP-0098 reward cap and the CIP-0105 lock schedule, with part of the grant paid only on outside adoption; it is seeking a Tech & Ops Committee champion and a technical reviewer (Canton Network Forum)\n- **BlockBot seeks a wallet review for a WhatsApp-based AI wallet interface for Canton under RFP 14** — The Development Fund proposal, filed as pull request 1056 under RFP 14 on wallet and dApp integration tooling, presents BlockBot as a WhatsApp-based AI wallet interface designed to make Canton interactions more accessible while providing reusable wallet and dApp integration tooling, and asks the Wallet Apps and dApp Integration group for a technical review of its wallet architecture, signing flow, security model and alignment with ecosystem priorities, and for a champion (Canton Network Forum)\n- **About 79% of updates recorded on Canton in a 24-hour period in November were private, as the network keeps most activity visible only to its parties** — The figure reflects Canton's sub-transaction privacy model, in which each participant's node receives only the parts of a transaction it is involved in while the Global Synchronizer orders encrypted messages and confirms transactions without seeing their contents, a design intended to let institutions issue, trade and settle tokenized assets together without showing positions, client data or collateral flows to competitors (Decrypt)\n\nNetwork: CC $0.0812 | Market cap $3.26B (rank 26) | 24h volume $7.59M | Circulating supply 40,086,553,331 CC, down 0.53% in 24 hours and down 8.24% over seven days with a 24-hour range of $0.081 to $0.0836 at the 20:07 UTC November 19 read; milestone: 24-hour network rewards stand at 12.9M CC on the live dashboard, up from 12.5M CC in the 3:12 PM edition, with 13 Super Validators and 2 active proposals (Kriptometre, reporting CoinGecko, for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T15:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-19_1512-est",
       "slug": "predge-seeks-a-champion-for-conditional-x402-payments-on-canton-released-only-by-a-signed",
@@ -4767,70 +4831,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Friday, February 5, 2027\nMainNet Topology Freeze (0.11)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981598558",
-      "slug": "testnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
-      "url": "https://canton.w3ai.io/feed/testnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
-      "title": "TestNet New Daml models introduced by Splice 0.11.x take effect",
-      "content_text": "Canton Calendar — Monday, January 25, 2027\nTestNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, January 25, 2027<br/>TestNet New Daml models introduced by Splice 0.11.x take effect<br/>Splice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, January 25, 2027\nTestNet New Daml models introduced by Splice 0.11.x take effect\nSplice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981590116",
-      "slug": "testnet-upgrades-to-splice-0-11-0",
-      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-11-0",
-      "title": "TestNet upgrades to Splice 0.11.0",
-      "content_text": "Canton Calendar — Monday, January 11, 2027\nTestNet upgrades to Splice 0.11.0\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, January 11, 2027<br/>TestNet upgrades to Splice 0.11.0<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, January 11, 2027\nTestNet upgrades to Splice 0.11.0\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
