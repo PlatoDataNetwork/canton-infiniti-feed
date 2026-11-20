@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-20T17:42:00-05:00",
+  "updated": "2026-11-20T18:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-20_1812-est",
+      "slug": "binance-canton-coin-accounts-lean-long-at-66-0-near-the-top-of-their-30-day-range-while-li",
+      "url": "https://canton.w3ai.io/feed/binance-canton-coin-accounts-lean-long-at-66-0-near-the-top-of-their-30-day-range-while-li",
+      "title": "Binance Canton Coin accounts lean long at 66.0%, near the top of their 30-day range, while liquidations stay at zero",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 6:12 PM ET)\n\n- **Binance Canton Coin accounts lean long at 66.0%, near the top of their 30-day range, while liquidations stay at zero** — Binance's CCUSDT global accounts show 66.0% long against 34.0% short, a long-to-short ratio of 1.94 near the top of its 30-day range, yet recorded liquidations across Binance, Bybit and OKX were zero in the last 24 hours and the largest single liquidation event over 30 days was $149.09K on November 14, pointing to an orderly unwinding of positions rather than forced selling (CoinStats)\n- **Canton DEX volume rises to $18.87 million over 24 hours as DeFi locked value eases to $10.68 million** — The latest chain read puts DEX volume at $18.87 million over 24 hours, up from $18.62 million in the earlier read today, with perpetuals volume at $230,272 and total value locked at $10.68 million, down 6.32% in 24 hours across eight tracked protocols, with Temple still largest at $5.76 million (DefiLlama)\n- **Reports say Bitget and Upbit paused Canton Coin deposits and withdrawals for wallet maintenance, with no network issue confirmed** — The reports, carried in today's market review, describe exchange-side wallet maintenance suspensions that may have reduced liquidity; they have not been confirmed as a Canton Network issue, and no incident on the network itself has been established (CoinStats)\n- **Live MainNet rewards reach 14.5 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live dashboard read puts rewards at 14.5 million Canton Coin over 24 hours, up from 14.1 million recorded in the late-afternoon read today; the figure is the dashboard's rolling 24-hour reward total, not a new issuance schedule (CantonNews)\n\nNetwork: Canton Coin (CC) trades at $0.0750, with a market cap of $3.01 billion and 24-hour trading volume of $8.55 million, down 6.40% in 24 hours and down 12.53% over seven days, with circulating supply of 40.09 billion CC at the November 20 read (23:35 UTC); as a network milestone, live throughput on Canton MainNet stands at 1.00 transactions per second on the CantonNews live dashboard, alongside 13 Super Validators securing the Global Synchronizer (The Block for market data; CantonNews for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 6:12 PM ET)<br/><br/>- **Binance Canton Coin accounts lean long at 66.0%, near the top of their 30-day range, while liquidations stay at zero** — Binance&#x27;s CCUSDT global accounts show 66.0% long against 34.0% short, a long-to-short ratio of 1.94 near the top of its 30-day range, yet recorded liquidations across Binance, Bybit and OKX were zero in the last 24 hours and the largest single liquidation event over 30 days was $149.09K on November 14, pointing to an orderly unwinding of positions rather than forced selling (CoinStats)<br/>- **Canton DEX volume rises to $18.87 million over 24 hours as DeFi locked value eases to $10.68 million** — The latest chain read puts DEX volume at $18.87 million over 24 hours, up from $18.62 million in the earlier read today, with perpetuals volume at $230,272 and total value locked at $10.68 million, down 6.32% in 24 hours across eight tracked protocols, with Temple still largest at $5.76 million (DefiLlama)<br/>- **Reports say Bitget and Upbit paused Canton Coin deposits and withdrawals for wallet maintenance, with no network issue confirmed** — The reports, carried in today&#x27;s market review, describe exchange-side wallet maintenance suspensions that may have reduced liquidity; they have not been confirmed as a Canton Network issue, and no incident on the network itself has been established (CoinStats)<br/>- **Live MainNet rewards reach 14.5 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live dashboard read puts rewards at 14.5 million Canton Coin over 24 hours, up from 14.1 million recorded in the late-afternoon read today; the figure is the dashboard&#x27;s rolling 24-hour reward total, not a new issuance schedule (CantonNews)<br/><br/>Network: Canton Coin (CC) trades at $0.0750, with a market cap of $3.01 billion and 24-hour trading volume of $8.55 million, down 6.40% in 24 hours and down 12.53% over seven days, with circulating supply of 40.09 billion CC at the November 20 read (23:35 UTC); as a network milestone, live throughput on Canton MainNet stands at 1.00 transactions per second on the CantonNews live dashboard, alongside 13 Super Validators securing the Global Synchronizer (The Block for market data; CantonNews for the milestone).</p>",
+      "date_published": "2026-11-20T18:12:00-05:00",
+      "date_modified": "2026-11-20T18:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 6:12 PM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 6:12 PM ET)\n\n- **Binance Canton Coin accounts lean long at 66.0%, near the top of their 30-day range, while liquidations stay at zero** — Binance's CCUSDT global accounts show 66.0% long against 34.0% short, a long-to-short ratio of 1.94 near the top of its 30-day range, yet recorded liquidations across Binance, Bybit and OKX were zero in the last 24 hours and the largest single liquidation event over 30 days was $149.09K on November 14, pointing to an orderly unwinding of positions rather than forced selling (CoinStats)\n- **Canton DEX volume rises to $18.87 million over 24 hours as DeFi locked value eases to $10.68 million** — The latest chain read puts DEX volume at $18.87 million over 24 hours, up from $18.62 million in the earlier read today, with perpetuals volume at $230,272 and total value locked at $10.68 million, down 6.32% in 24 hours across eight tracked protocols, with Temple still largest at $5.76 million (DefiLlama)\n- **Reports say Bitget and Upbit paused Canton Coin deposits and withdrawals for wallet maintenance, with no network issue confirmed** — The reports, carried in today's market review, describe exchange-side wallet maintenance suspensions that may have reduced liquidity; they have not been confirmed as a Canton Network issue, and no incident on the network itself has been established (CoinStats)\n- **Live MainNet rewards reach 14.5 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live dashboard read puts rewards at 14.5 million Canton Coin over 24 hours, up from 14.1 million recorded in the late-afternoon read today; the figure is the dashboard's rolling 24-hour reward total, not a new issuance schedule (CantonNews)\n\nNetwork: Canton Coin (CC) trades at $0.0750, with a market cap of $3.01 billion and 24-hour trading volume of $8.55 million, down 6.40% in 24 hours and down 12.53% over seven days, with circulating supply of 40.09 billion CC at the November 20 read (23:35 UTC); as a network milestone, live throughput on Canton MainNet stands at 1.00 transactions per second on the CantonNews live dashboard, alongside 13 Super Validators securing the Global Synchronizer (The Block for market data; CantonNews for the milestone).",
+      "image_url": null,
+      "published": "2026-11-20T18:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-20_1742-est",
       "slug": "cip-0131-would-add-capconnect-as-a-canton-super-validator-with-tradeweb-as-sponsor",
@@ -4801,38 +4833,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, March 15, 2027\nDevNet upgrades to Splice 0.13.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-13546375944",
-      "slug": "testnet-upgrades-to-splice-0-13-1",
-      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-13-1",
-      "title": "TestNet upgrades to Splice 0.13.1",
-      "content_text": "Canton Calendar — Monday, March 15, 2027\nTestNet upgrades to Splice 0.13.1\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, March 15, 2027<br/>TestNet upgrades to Splice 0.13.1<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, March 15, 2027\nTestNet upgrades to Splice 0.13.1\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
