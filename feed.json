@@ -29,8 +29,72 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-20T12:42:00-05:00",
+  "updated": "2026-11-20T13:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-20_1342-est",
+      "slug": "splice-s-canton-compatibility-changes-make-selected-interfaces-accessible-and-turn-off-sta",
+      "url": "https://canton.w3ai.io/feed/splice-s-canton-compatibility-changes-make-selected-interfaces-accessible-and-turn-off-sta",
+      "title": "Splice's Canton compatibility changes make selected interfaces accessible and turn off startup configuration logging by default",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 1:42 PM ET)\n\n- **Splice's Canton compatibility changes make selected interfaces accessible and turn off startup configuration logging by default** — The latest dated codebase update in CoinMarketCap's November 20 roundup, dated October 23, tracks Splice's local adaptations to its copied Canton code: selected interfaces are made accessible to Splice, startup configuration logging is disabled by default because it could expose secrets, test retries and polling are improved, and build updates adjust dependency handling and caching; the update records integration and developer-workflow adjustments rather than a new network release, and it specifies no required node upgrade or breaking network change (CoinMarketCap)\n- **Zenith's atomic composability lets Canton-native workflows invoke Solidity contracts in a single transaction** — A November 18 CantonNews wire item sets out how, through external_call, supported Canton-native workflows can invoke Solidity smart contracts on Zenith EVM with both sides coordinated as part of one atomic transaction, creating a path for institutional assets to interact with established DeFi mechanisms such as collateralised lending and swaps without those protocols being rebuilt in Daml; Zenith's Head of Ecosystem explains the approach in a new episode of Tokenization Talks (CantonNews)\n- **The 21Shares Canton Network ETF trades at $12.6299 on November 20, down 7.02% in the session** — Finnhub's November 20 read puts the Nasdaq-listed TCAN fund at $12.6299 as of 1:32 PM ET, down $0.9536 from its previous close of $13.5835, after opening at $13.27 and trading between $13.2999 and $11.89, with returns of -16.03% over five sessions and -34.93% over one month; the figures describe the listed fund's market price, not network usage (Finnhub)\n- **Canton Coin's multi-timeframe technical read aligns bearish across all four monitored frames in the November 20 snapshot** — TradeAnalyzer's 16:06 UTC November 20 snapshot shows a SHORT reading on the 15-minute, 1-hour, 4-hour and daily frames, with RSI at 23.3, 25.5, 29.6 and 29.9 respectively, 1-hour ADX at 33.0 and evidence agreement at 95 out of 100; price holds below the EMA50 on key frames, and a sustained reclaim of the 4-hour EMA50 near $0.0836 would weaken the bearish case, while the depressed hourly RSI is flagged as extension risk rather than an automatic reversal (TradeAnalyzer)\n\nNetwork: Canton Coin (CC) trades at $0.0749, with a market cap of $3.00 billion (rank 25) and 24-hour trading volume of $9.0 million, down 9.08% in 24 hours and down 13.58% over seven days, with a range of $0.0746 to $0.0822 and circulating supply of 40.09 billion CC at the 19:08 UTC November 20 read; as a network milestone, Canton accounts for 0.15% of the total crypto market value of $2.01 trillion at that read (Blockdeck for market data and the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 1:42 PM ET)<br/><br/>- **Splice&#x27;s Canton compatibility changes make selected interfaces accessible and turn off startup configuration logging by default** — The latest dated codebase update in CoinMarketCap&#x27;s November 20 roundup, dated October 23, tracks Splice&#x27;s local adaptations to its copied Canton code: selected interfaces are made accessible to Splice, startup configuration logging is disabled by default because it could expose secrets, test retries and polling are improved, and build updates adjust dependency handling and caching; the update records integration and developer-workflow adjustments rather than a new network release, and it specifies no required node upgrade or breaking network change (CoinMarketCap)<br/>- **Zenith&#x27;s atomic composability lets Canton-native workflows invoke Solidity contracts in a single transaction** — A November 18 CantonNews wire item sets out how, through external_call, supported Canton-native workflows can invoke Solidity smart contracts on Zenith EVM with both sides coordinated as part of one atomic transaction, creating a path for institutional assets to interact with established DeFi mechanisms such as collateralised lending and swaps without those protocols being rebuilt in Daml; Zenith&#x27;s Head of Ecosystem explains the approach in a new episode of Tokenization Talks (CantonNews)<br/>- **The 21Shares Canton Network ETF trades at $12.6299 on November 20, down 7.02% in the session** — Finnhub&#x27;s November 20 read puts the Nasdaq-listed TCAN fund at $12.6299 as of 1:32 PM ET, down $0.9536 from its previous close of $13.5835, after opening at $13.27 and trading between $13.2999 and $11.89, with returns of -16.03% over five sessions and -34.93% over one month; the figures describe the listed fund&#x27;s market price, not network usage (Finnhub)<br/>- **Canton Coin&#x27;s multi-timeframe technical read aligns bearish across all four monitored frames in the November 20 snapshot** — TradeAnalyzer&#x27;s 16:06 UTC November 20 snapshot shows a SHORT reading on the 15-minute, 1-hour, 4-hour and daily frames, with RSI at 23.3, 25.5, 29.6 and 29.9 respectively, 1-hour ADX at 33.0 and evidence agreement at 95 out of 100; price holds below the EMA50 on key frames, and a sustained reclaim of the 4-hour EMA50 near $0.0836 would weaken the bearish case, while the depressed hourly RSI is flagged as extension risk rather than an automatic reversal (TradeAnalyzer)<br/><br/>Network: Canton Coin (CC) trades at $0.0749, with a market cap of $3.00 billion (rank 25) and 24-hour trading volume of $9.0 million, down 9.08% in 24 hours and down 13.58% over seven days, with a range of $0.0746 to $0.0822 and circulating supply of 40.09 billion CC at the 19:08 UTC November 20 read; as a network milestone, Canton accounts for 0.15% of the total crypto market value of $2.01 trillion at that read (Blockdeck for market data and the milestone).</p>",
+      "date_published": "2026-11-20T13:42:00-05:00",
+      "date_modified": "2026-11-20T13:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 1:42 PM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 1:42 PM ET)\n\n- **Splice's Canton compatibility changes make selected interfaces accessible and turn off startup configuration logging by default** — The latest dated codebase update in CoinMarketCap's November 20 roundup, dated October 23, tracks Splice's local adaptations to its copied Canton code: selected interfaces are made accessible to Splice, startup configuration logging is disabled by default because it could expose secrets, test retries and polling are improved, and build updates adjust dependency handling and caching; the update records integration and developer-workflow adjustments rather than a new network release, and it specifies no required node upgrade or breaking network change (CoinMarketCap)\n- **Zenith's atomic composability lets Canton-native workflows invoke Solidity contracts in a single transaction** — A November 18 CantonNews wire item sets out how, through external_call, supported Canton-native workflows can invoke Solidity smart contracts on Zenith EVM with both sides coordinated as part of one atomic transaction, creating a path for institutional assets to interact with established DeFi mechanisms such as collateralised lending and swaps without those protocols being rebuilt in Daml; Zenith's Head of Ecosystem explains the approach in a new episode of Tokenization Talks (CantonNews)\n- **The 21Shares Canton Network ETF trades at $12.6299 on November 20, down 7.02% in the session** — Finnhub's November 20 read puts the Nasdaq-listed TCAN fund at $12.6299 as of 1:32 PM ET, down $0.9536 from its previous close of $13.5835, after opening at $13.27 and trading between $13.2999 and $11.89, with returns of -16.03% over five sessions and -34.93% over one month; the figures describe the listed fund's market price, not network usage (Finnhub)\n- **Canton Coin's multi-timeframe technical read aligns bearish across all four monitored frames in the November 20 snapshot** — TradeAnalyzer's 16:06 UTC November 20 snapshot shows a SHORT reading on the 15-minute, 1-hour, 4-hour and daily frames, with RSI at 23.3, 25.5, 29.6 and 29.9 respectively, 1-hour ADX at 33.0 and evidence agreement at 95 out of 100; price holds below the EMA50 on key frames, and a sustained reclaim of the 4-hour EMA50 near $0.0836 would weaken the bearish case, while the depressed hourly RSI is flagged as extension risk rather than an automatic reversal (TradeAnalyzer)\n\nNetwork: Canton Coin (CC) trades at $0.0749, with a market cap of $3.00 billion (rank 25) and 24-hour trading volume of $9.0 million, down 9.08% in 24 hours and down 13.58% over seven days, with a range of $0.0746 to $0.0822 and circulating supply of 40.09 billion CC at the 19:08 UTC November 20 read; as a network milestone, Canton accounts for 0.15% of the total crypto market value of $2.01 trillion at that read (Blockdeck for market data and the milestone).",
+      "image_url": null,
+      "published": "2026-11-20T13:42:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-20_1312-est",
+      "slug": "rome-retires-ostia-s-earlier-bridge-account-route-on-canton-devnet-with-support-to-arrive",
+      "url": "https://canton.w3ai.io/feed/rome-retires-ostia-s-earlier-bridge-account-route-on-canton-devnet-with-support-to-arrive",
+      "title": "Rome retires Ostia's earlier bridge-account route on Canton DevNet, with support to arrive wallet by wallet",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 1:12 PM ET)\n\n- **Rome retires Ostia's earlier bridge-account route on Canton DevNet, with support to arrive wallet by wallet** — Rome's status page says the earlier bridge-account route has been retired and support through existing Canton wallets is coming wallet by wallet; Ostia remains a DevNet service in that status record, so the change affects a test-environment access route rather than a MainNet bridge (CCTools)\n- **JOSE seeks Featured Asset designation through Sats Terminal's OneSwap Launchpad on Canton** — A Featured Asset designation request was submitted through the launchpad; it is a request only and has not been granted, so JOSE's status remains that of a graduated launchpad token awaiting a designation decision (CCTools)\n- **Live MainNet rewards reach 11.1 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live read is up from the 10.8 million CC recorded at midday today, continuing the day's rise in the 24-hour reward total on the dashboard; the figure is the dashboard's measured reward total, not a price or issuance forecast (CantonNews)\n- **Canton Coin futures liquidations rise to $19,080 as funding stays negative in the latest derivatives read** — The read puts liquidations at $19,080 over 24 hours, almost all in long positions, up from $13,970 recorded earlier today, with futures open interest at $33.09 million, an OI-weighted funding rate of -0.0097% and futures volume of $15.43 million against $5.29 million in spot volume (CoinGlass)\n\nNetwork: Canton Coin (CC) trades at $0.07493, with a market cap of $3.00 billion (rank 31) and 24-hour trading volume of $8.18 million, down 8.36% in 24 hours, with circulating supply of 40,092,479,067 CC at the November 20 read; as a network milestone, Canton's tracked fundraising totals $415 million across its recorded rounds (The Block for market data; DefiLlama for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 1:12 PM ET)<br/><br/>- **Rome retires Ostia&#x27;s earlier bridge-account route on Canton DevNet, with support to arrive wallet by wallet** — Rome&#x27;s status page says the earlier bridge-account route has been retired and support through existing Canton wallets is coming wallet by wallet; Ostia remains a DevNet service in that status record, so the change affects a test-environment access route rather than a MainNet bridge (CCTools)<br/>- **JOSE seeks Featured Asset designation through Sats Terminal&#x27;s OneSwap Launchpad on Canton** — A Featured Asset designation request was submitted through the launchpad; it is a request only and has not been granted, so JOSE&#x27;s status remains that of a graduated launchpad token awaiting a designation decision (CCTools)<br/>- **Live MainNet rewards reach 11.1 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live read is up from the 10.8 million CC recorded at midday today, continuing the day&#x27;s rise in the 24-hour reward total on the dashboard; the figure is the dashboard&#x27;s measured reward total, not a price or issuance forecast (CantonNews)<br/>- **Canton Coin futures liquidations rise to $19,080 as funding stays negative in the latest derivatives read** — The read puts liquidations at $19,080 over 24 hours, almost all in long positions, up from $13,970 recorded earlier today, with futures open interest at $33.09 million, an OI-weighted funding rate of -0.0097% and futures volume of $15.43 million against $5.29 million in spot volume (CoinGlass)<br/><br/>Network: Canton Coin (CC) trades at $0.07493, with a market cap of $3.00 billion (rank 31) and 24-hour trading volume of $8.18 million, down 8.36% in 24 hours, with circulating supply of 40,092,479,067 CC at the November 20 read; as a network milestone, Canton&#x27;s tracked fundraising totals $415 million across its recorded rounds (The Block for market data; DefiLlama for the milestone).</p>",
+      "date_published": "2026-11-20T13:12:00-05:00",
+      "date_modified": "2026-11-20T13:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 1:12 PM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 1:12 PM ET)\n\n- **Rome retires Ostia's earlier bridge-account route on Canton DevNet, with support to arrive wallet by wallet** — Rome's status page says the earlier bridge-account route has been retired and support through existing Canton wallets is coming wallet by wallet; Ostia remains a DevNet service in that status record, so the change affects a test-environment access route rather than a MainNet bridge (CCTools)\n- **JOSE seeks Featured Asset designation through Sats Terminal's OneSwap Launchpad on Canton** — A Featured Asset designation request was submitted through the launchpad; it is a request only and has not been granted, so JOSE's status remains that of a graduated launchpad token awaiting a designation decision (CCTools)\n- **Live MainNet rewards reach 11.1 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live read is up from the 10.8 million CC recorded at midday today, continuing the day's rise in the 24-hour reward total on the dashboard; the figure is the dashboard's measured reward total, not a price or issuance forecast (CantonNews)\n- **Canton Coin futures liquidations rise to $19,080 as funding stays negative in the latest derivatives read** — The read puts liquidations at $19,080 over 24 hours, almost all in long positions, up from $13,970 recorded earlier today, with futures open interest at $33.09 million, an OI-weighted funding rate of -0.0097% and futures volume of $15.43 million against $5.29 million in spot volume (CoinGlass)\n\nNetwork: Canton Coin (CC) trades at $0.07493, with a market cap of $3.00 billion (rank 31) and 24-hour trading volume of $8.18 million, down 8.36% in 24 hours, with circulating supply of 40,092,479,067 CC at the November 20 read; as a network milestone, Canton's tracked fundraising totals $415 million across its recorded rounds (The Block for market data; DefiLlama for the milestone).",
+      "image_url": null,
+      "published": "2026-11-20T13:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-20_1242-est",
       "slug": "dla-piper-joins-the-canton-foundation-as-an-associate-member-to-work-on-collateral-and-leg",
@@ -4769,70 +4833,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Saturday, March 6, 2027\nMainNet LSU (0.12 Required) (March 2027)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981643108",
-      "slug": "mainnet-upgrades-to-splice-0-12-2",
-      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-12-2",
-      "title": "MainNet upgrades to Splice 0.12.2",
-      "content_text": "Canton Calendar — Monday, March 1, 2027\nMainNet upgrades to Splice 0.12.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, March 1, 2027<br/>MainNet upgrades to Splice 0.12.2<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, March 1, 2027\nMainNet upgrades to Splice 0.12.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981643035",
-      "slug": "testnet-topology-freeze-0-12-required-february-2027",
-      "url": "https://canton.w3ai.io/feed/testnet-topology-freeze-0-12-required-february-2027",
-      "title": "TestNet Topology Freeze (0.12 Required) (February 2027)",
-      "content_text": "Canton Calendar — Tuesday, February 23, 2027\nTestNet Topology Freeze (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, February 23, 2027<br/>TestNet Topology Freeze (0.12 Required) (February 2027)<br/>Protocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, February 23, 2027\nTestNet Topology Freeze (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
