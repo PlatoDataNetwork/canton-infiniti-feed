@@ -29,8 +29,361 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-19T18:42:00-05:00",
+  "updated": "2026-11-20T04:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-20_0442-est",
+      "slug": "mystic-finance-proposes-a-shared-vault-standard-for-canton-with-up-to-2-million-canton-coi",
+      "url": "https://canton.w3ai.io/feed/mystic-finance-proposes-a-shared-vault-standard-for-canton-with-up-to-2-million-canton-coi",
+      "title": "Mystic Finance proposes a shared vault standard for Canton, with up to 2 million Canton Coin tied to development and verified adoption",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 4:42 AM ET)\n\n- **Mystic Finance proposes a shared vault standard for Canton, with up to 2 million Canton Coin tied to development and verified adoption** — The proposal, part of the Development Fund's October 16 voting batch of thirteen, would give compatible products common ways to handle deposits, ownership shares and withdrawals, reducing the separate integration work needed each time a wallet supports another vault; the request totals up to 2 million CC, split between 1 million for development and up to 1 million paid only on verified adoption by other teams, Cashen endorsed the effort on October 16 and intends to use the standard, and the funding vote does not itself approve a future Canton Improvement Proposal (CantonNews)\n- **Kiwoom, CSDBR and Ironlight feature in a Canton validator application batch of seven, now in an objection period ending November 25** — The November 18 notice lists seven submissions that will be treated as implicitly approved if no concerns are raised; Kiwoom Securities wants a dedicated validator operated through a node-service provider to evaluate tokenization and institutional workflows, Brazil's CSDBR plans a Canton proof of concept to present to the Brazilian Securities and Exchange Commission with any implementation subject to regulatory approval, and Ironlight Technologies would control its own settlement infrastructure while developing an open-source identity-verification standard; the applications do not establish running nodes, Super Validator appointments or completed launches (CantonNews)\n- **Canton Coin's November 20 unlock totals 21,421,761 Canton Coin, about 0.05% of circulating supply** — The dated unlock, valued at about $1.7 million at the price when read and rated low impact, continues the pattern of small daily releases rather than a single cliff event, following 21,191,792 CC on November 19 (World-Crypt)\n- **Cantex is Canton's top decentralised-exchange gainer over seven days, with volume up 19.87% to $10.72 million as Temple eases 11.56%** — The November 20 rankings put total DEX volume at $18.11 million in 24 hours and $603.34 million over 30 days, with Temple still the largest venue at $16.77 million in 24 hours despite its seven-day decline to $116.02 million and Cantex at $1.34 million in 24 hours (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.07995, with a market cap of $3.20 billion and 24-hour trading volume of $7.89 million, down 5.14% in 24 hours at the November 20 read; as a network milestone, total transactions on Canton reach 607.1 million, with total parties at 953.9K, about 1.6K validators and 13 Super Validators on the live dashboard (OKX for market data; CantonNews for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 4:42 AM ET)<br/><br/>- **Mystic Finance proposes a shared vault standard for Canton, with up to 2 million Canton Coin tied to development and verified adoption** — The proposal, part of the Development Fund&#x27;s October 16 voting batch of thirteen, would give compatible products common ways to handle deposits, ownership shares and withdrawals, reducing the separate integration work needed each time a wallet supports another vault; the request totals up to 2 million CC, split between 1 million for development and up to 1 million paid only on verified adoption by other teams, Cashen endorsed the effort on October 16 and intends to use the standard, and the funding vote does not itself approve a future Canton Improvement Proposal (CantonNews)<br/>- **Kiwoom, CSDBR and Ironlight feature in a Canton validator application batch of seven, now in an objection period ending November 25** — The November 18 notice lists seven submissions that will be treated as implicitly approved if no concerns are raised; Kiwoom Securities wants a dedicated validator operated through a node-service provider to evaluate tokenization and institutional workflows, Brazil&#x27;s CSDBR plans a Canton proof of concept to present to the Brazilian Securities and Exchange Commission with any implementation subject to regulatory approval, and Ironlight Technologies would control its own settlement infrastructure while developing an open-source identity-verification standard; the applications do not establish running nodes, Super Validator appointments or completed launches (CantonNews)<br/>- **Canton Coin&#x27;s November 20 unlock totals 21,421,761 Canton Coin, about 0.05% of circulating supply** — The dated unlock, valued at about $1.7 million at the price when read and rated low impact, continues the pattern of small daily releases rather than a single cliff event, following 21,191,792 CC on November 19 (World-Crypt)<br/>- **Cantex is Canton&#x27;s top decentralised-exchange gainer over seven days, with volume up 19.87% to $10.72 million as Temple eases 11.56%** — The November 20 rankings put total DEX volume at $18.11 million in 24 hours and $603.34 million over 30 days, with Temple still the largest venue at $16.77 million in 24 hours despite its seven-day decline to $116.02 million and Cantex at $1.34 million in 24 hours (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.07995, with a market cap of $3.20 billion and 24-hour trading volume of $7.89 million, down 5.14% in 24 hours at the November 20 read; as a network milestone, total transactions on Canton reach 607.1 million, with total parties at 953.9K, about 1.6K validators and 13 Super Validators on the live dashboard (OKX for market data; CantonNews for the milestone).</p>",
+      "date_published": "2026-11-20T04:42:00-05:00",
+      "date_modified": "2026-11-20T04:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 4:42 AM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 4:42 AM ET)\n\n- **Mystic Finance proposes a shared vault standard for Canton, with up to 2 million Canton Coin tied to development and verified adoption** — The proposal, part of the Development Fund's October 16 voting batch of thirteen, would give compatible products common ways to handle deposits, ownership shares and withdrawals, reducing the separate integration work needed each time a wallet supports another vault; the request totals up to 2 million CC, split between 1 million for development and up to 1 million paid only on verified adoption by other teams, Cashen endorsed the effort on October 16 and intends to use the standard, and the funding vote does not itself approve a future Canton Improvement Proposal (CantonNews)\n- **Kiwoom, CSDBR and Ironlight feature in a Canton validator application batch of seven, now in an objection period ending November 25** — The November 18 notice lists seven submissions that will be treated as implicitly approved if no concerns are raised; Kiwoom Securities wants a dedicated validator operated through a node-service provider to evaluate tokenization and institutional workflows, Brazil's CSDBR plans a Canton proof of concept to present to the Brazilian Securities and Exchange Commission with any implementation subject to regulatory approval, and Ironlight Technologies would control its own settlement infrastructure while developing an open-source identity-verification standard; the applications do not establish running nodes, Super Validator appointments or completed launches (CantonNews)\n- **Canton Coin's November 20 unlock totals 21,421,761 Canton Coin, about 0.05% of circulating supply** — The dated unlock, valued at about $1.7 million at the price when read and rated low impact, continues the pattern of small daily releases rather than a single cliff event, following 21,191,792 CC on November 19 (World-Crypt)\n- **Cantex is Canton's top decentralised-exchange gainer over seven days, with volume up 19.87% to $10.72 million as Temple eases 11.56%** — The November 20 rankings put total DEX volume at $18.11 million in 24 hours and $603.34 million over 30 days, with Temple still the largest venue at $16.77 million in 24 hours despite its seven-day decline to $116.02 million and Cantex at $1.34 million in 24 hours (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.07995, with a market cap of $3.20 billion and 24-hour trading volume of $7.89 million, down 5.14% in 24 hours at the November 20 read; as a network milestone, total transactions on Canton reach 607.1 million, with total parties at 953.9K, about 1.6K validators and 13 Super Validators on the live dashboard (OKX for market data; CantonNews for the milestone).",
+      "image_url": null,
+      "published": "2026-11-20T04:42:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-20_0412-est",
+      "slug": "canton-network-fees-in-the-30-days-through-november-17-were-more-than-twice-those-on-ether",
+      "url": "https://canton.w3ai.io/feed/canton-network-fees-in-the-30-days-through-november-17-were-more-than-twice-those-on-ether",
+      "title": "Canton network fees in the 30 days through November 17 were more than twice those on Ethereum, settled by burning Canton Coin",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 4:12 AM ET)\n\n- **Canton network fees in the 30 days through November 17 were more than twice those on Ethereum, settled by burning Canton Coin** — The figure comes from the network's official account as summarised in the November 20 market review; fees on Canton are settled by burning CC, so the comparison is presented as a measure of paid network use over that 30-day window rather than as a price or revenue claim, and analysts remain divided on whether burns and token unlocks will net out to demand for CC (CoinStats)\n- **Concordia submits its next auction milestone for review, with sealed-bid, Dutch and multi-unit formats using Token Standard V2 allocations** — The submission includes public code, examples and tests for the expanded auction tools; it is an applicant's delivery submission for committee review, not yet evidence of acceptance or payment (CCTools)\n- **Supanova reports 30 million Canton Coin in volume and more than 36,000 trades in its November 15 update** — The launchpad's latest update rises from the 20 million CC it reported on November 6; the update does not specify the measurement period, so the figure is not presented as 24-hour volume, and the trade count is not a count of unique users (CCTools)\n- **Canton Coin's November 20 technical levels put first support at $0.0799 and first resistance at $0.0844** — The read puts the daily relative strength index at 34.5 and the weekly at 36.1, with price below all eight moving averages measured, second support at $0.0748 and the recovery band at $0.0868 to $0.0890; the levels are a market snapshot, not a forecast (CoinStats)\n\nNetwork: Canton Coin (CC) trades at $0.08041, with a market cap of $3.2 billion (rank 25) and 24-hour trading volume of $7.6 million, down 1.9% in 24 hours and down 9.7% over seven days, with a range of $0.079585 to $0.083607 and circulating supply of 40,087,101,760 CC at the November 20 read; as a network milestone, total value locked on the Canton chain stands at $11.1 million, with recent chain fees running at about $7,036 per day (Crypheat, reporting CoinGecko figures, for market data and the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 4:12 AM ET)<br/><br/>- **Canton network fees in the 30 days through November 17 were more than twice those on Ethereum, settled by burning Canton Coin** — The figure comes from the network&#x27;s official account as summarised in the November 20 market review; fees on Canton are settled by burning CC, so the comparison is presented as a measure of paid network use over that 30-day window rather than as a price or revenue claim, and analysts remain divided on whether burns and token unlocks will net out to demand for CC (CoinStats)<br/>- **Concordia submits its next auction milestone for review, with sealed-bid, Dutch and multi-unit formats using Token Standard V2 allocations** — The submission includes public code, examples and tests for the expanded auction tools; it is an applicant&#x27;s delivery submission for committee review, not yet evidence of acceptance or payment (CCTools)<br/>- **Supanova reports 30 million Canton Coin in volume and more than 36,000 trades in its November 15 update** — The launchpad&#x27;s latest update rises from the 20 million CC it reported on November 6; the update does not specify the measurement period, so the figure is not presented as 24-hour volume, and the trade count is not a count of unique users (CCTools)<br/>- **Canton Coin&#x27;s November 20 technical levels put first support at $0.0799 and first resistance at $0.0844** — The read puts the daily relative strength index at 34.5 and the weekly at 36.1, with price below all eight moving averages measured, second support at $0.0748 and the recovery band at $0.0868 to $0.0890; the levels are a market snapshot, not a forecast (CoinStats)<br/><br/>Network: Canton Coin (CC) trades at $0.08041, with a market cap of $3.2 billion (rank 25) and 24-hour trading volume of $7.6 million, down 1.9% in 24 hours and down 9.7% over seven days, with a range of $0.079585 to $0.083607 and circulating supply of 40,087,101,760 CC at the November 20 read; as a network milestone, total value locked on the Canton chain stands at $11.1 million, with recent chain fees running at about $7,036 per day (Crypheat, reporting CoinGecko figures, for market data and the milestone).</p>",
+      "date_published": "2026-11-20T04:12:00-05:00",
+      "date_modified": "2026-11-20T04:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 4:12 AM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 4:12 AM ET)\n\n- **Canton network fees in the 30 days through November 17 were more than twice those on Ethereum, settled by burning Canton Coin** — The figure comes from the network's official account as summarised in the November 20 market review; fees on Canton are settled by burning CC, so the comparison is presented as a measure of paid network use over that 30-day window rather than as a price or revenue claim, and analysts remain divided on whether burns and token unlocks will net out to demand for CC (CoinStats)\n- **Concordia submits its next auction milestone for review, with sealed-bid, Dutch and multi-unit formats using Token Standard V2 allocations** — The submission includes public code, examples and tests for the expanded auction tools; it is an applicant's delivery submission for committee review, not yet evidence of acceptance or payment (CCTools)\n- **Supanova reports 30 million Canton Coin in volume and more than 36,000 trades in its November 15 update** — The launchpad's latest update rises from the 20 million CC it reported on November 6; the update does not specify the measurement period, so the figure is not presented as 24-hour volume, and the trade count is not a count of unique users (CCTools)\n- **Canton Coin's November 20 technical levels put first support at $0.0799 and first resistance at $0.0844** — The read puts the daily relative strength index at 34.5 and the weekly at 36.1, with price below all eight moving averages measured, second support at $0.0748 and the recovery band at $0.0868 to $0.0890; the levels are a market snapshot, not a forecast (CoinStats)\n\nNetwork: Canton Coin (CC) trades at $0.08041, with a market cap of $3.2 billion (rank 25) and 24-hour trading volume of $7.6 million, down 1.9% in 24 hours and down 9.7% over seven days, with a range of $0.079585 to $0.083607 and circulating supply of 40,087,101,760 CC at the November 20 read; as a network milestone, total value locked on the Canton chain stands at $11.1 million, with recent chain fees running at about $7,036 per day (Crypheat, reporting CoinGecko figures, for market data and the milestone).",
+      "image_url": null,
+      "published": "2026-11-20T04:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-20_0342-est",
+      "slug": "canton-foundation-adds-14-parties-including-kpmg-and-visa-in-its-latest-published-membersh",
+      "url": "https://canton.w3ai.io/feed/canton-foundation-adds-14-parties-including-kpmg-and-visa-in-its-latest-published-membersh",
+      "title": "Canton Foundation adds 14 parties, including KPMG and Visa, in its latest published membership notice",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 3:42 AM ET)\n\n- **Canton Foundation adds 14 parties, including KPMG and Visa, in its latest published membership notice** — The notice, filed on August 4 under the National Cooperative Research and Production Act and published on November 10, adds KRO Brokers, BPX Markets, Tokenovate, Zeppelin Group, KPMG, Hecto Finance, Texture Capital, Titan Labs, Edge & Node Ventures, Halborn, 21M Labs, the International Securities Lending Association, Visa and Transcend Street Solutions as parties to the Canton Foundation venture, extending the Act's limit on antitrust recovery to actual damages; membership remains open and the filing records no other change to the venture's planned activity (PolicyRisk)\n- **Tokenized Treasuries hold $10.47 billion across 29 products in the November 20 board refresh, as DTCC's service runs on Canton** — The board read at 03:18 UTC on November 20 puts Treasury and government-securities products at $10.47 billion, 50.9% of its $20.59 billion total, led by Ondo's USDY at $2.10 billion, Circle's USYC at $2.01 billion and BlackRock's BUIDL at $1.57 billion; DTCC's Tokenization Service, live since October 28 on Canton and DTCC's private Besu network, has 20 signed participants including Bank of America, Citi, Fidelity, J.P. Morgan, Morgan Stanley, State Street and UBS, while the roughly $30 trillion figure cited for the service is the market value of eligible securities, not an amount already converted (RWAWeekly)\n- **Canton Coin's technical read stays bearish into November 20, with first support at $0.0783 and first resistance at $0.0824** — The daily read at 08:51 UTC on November 20 shows a strong bearish bias across its indicator groups, with the 14-period relative strength index at 34.9, futures open interest at $15.54 million and average funding at negative 0.0088%, a derivatives posture that points to short positioning rather than leveraged long buildup at current levels (Coinotag)\n- **Morgan Stanley says it has converted U.S. equities and Treasuries to tokenized form through DTCC's service** — The firm's November 3 post places it among the first banks to convert securities through the service; it discloses no amounts, specific securities, network or transaction date, and DTCC's own tokenization totals are reported to SEC staff privately each quarter rather than published, with the first report, covering the fourth quarter of 2026, due around mid-January 2027 (RWAWeekly)\n\nNetwork: Canton Coin (CC) trades at $0.0802, with a market cap of $3.23 billion (rank 25) and 24-hour trading volume of $8.39 million, down 3.04% in 24 hours and down 9.71% over seven days, with a range of $0.0786 to $0.0838 and circulating supply of 40,089,228,416 CC at the 08:52 UTC November 20 read; as a network milestone, DTCC's Tokenization Service covers 34 eligible securities at launch on Canton and its Besu network, drawn from Russell 1000 equities, major-index ETFs and U.S. Treasuries (Coinotag for market data; RWAWeekly for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 3:42 AM ET)<br/><br/>- **Canton Foundation adds 14 parties, including KPMG and Visa, in its latest published membership notice** — The notice, filed on August 4 under the National Cooperative Research and Production Act and published on November 10, adds KRO Brokers, BPX Markets, Tokenovate, Zeppelin Group, KPMG, Hecto Finance, Texture Capital, Titan Labs, Edge &amp; Node Ventures, Halborn, 21M Labs, the International Securities Lending Association, Visa and Transcend Street Solutions as parties to the Canton Foundation venture, extending the Act&#x27;s limit on antitrust recovery to actual damages; membership remains open and the filing records no other change to the venture&#x27;s planned activity (PolicyRisk)<br/>- **Tokenized Treasuries hold $10.47 billion across 29 products in the November 20 board refresh, as DTCC&#x27;s service runs on Canton** — The board read at 03:18 UTC on November 20 puts Treasury and government-securities products at $10.47 billion, 50.9% of its $20.59 billion total, led by Ondo&#x27;s USDY at $2.10 billion, Circle&#x27;s USYC at $2.01 billion and BlackRock&#x27;s BUIDL at $1.57 billion; DTCC&#x27;s Tokenization Service, live since October 28 on Canton and DTCC&#x27;s private Besu network, has 20 signed participants including Bank of America, Citi, Fidelity, J.P. Morgan, Morgan Stanley, State Street and UBS, while the roughly $30 trillion figure cited for the service is the market value of eligible securities, not an amount already converted (RWAWeekly)<br/>- **Canton Coin&#x27;s technical read stays bearish into November 20, with first support at $0.0783 and first resistance at $0.0824** — The daily read at 08:51 UTC on November 20 shows a strong bearish bias across its indicator groups, with the 14-period relative strength index at 34.9, futures open interest at $15.54 million and average funding at negative 0.0088%, a derivatives posture that points to short positioning rather than leveraged long buildup at current levels (Coinotag)<br/>- **Morgan Stanley says it has converted U.S. equities and Treasuries to tokenized form through DTCC&#x27;s service** — The firm&#x27;s November 3 post places it among the first banks to convert securities through the service; it discloses no amounts, specific securities, network or transaction date, and DTCC&#x27;s own tokenization totals are reported to SEC staff privately each quarter rather than published, with the first report, covering the fourth quarter of 2026, due around mid-January 2027 (RWAWeekly)<br/><br/>Network: Canton Coin (CC) trades at $0.0802, with a market cap of $3.23 billion (rank 25) and 24-hour trading volume of $8.39 million, down 3.04% in 24 hours and down 9.71% over seven days, with a range of $0.0786 to $0.0838 and circulating supply of 40,089,228,416 CC at the 08:52 UTC November 20 read; as a network milestone, DTCC&#x27;s Tokenization Service covers 34 eligible securities at launch on Canton and its Besu network, drawn from Russell 1000 equities, major-index ETFs and U.S. Treasuries (Coinotag for market data; RWAWeekly for the milestone).</p>",
+      "date_published": "2026-11-20T03:42:00-05:00",
+      "date_modified": "2026-11-20T03:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 3:42 AM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 3:42 AM ET)\n\n- **Canton Foundation adds 14 parties, including KPMG and Visa, in its latest published membership notice** — The notice, filed on August 4 under the National Cooperative Research and Production Act and published on November 10, adds KRO Brokers, BPX Markets, Tokenovate, Zeppelin Group, KPMG, Hecto Finance, Texture Capital, Titan Labs, Edge & Node Ventures, Halborn, 21M Labs, the International Securities Lending Association, Visa and Transcend Street Solutions as parties to the Canton Foundation venture, extending the Act's limit on antitrust recovery to actual damages; membership remains open and the filing records no other change to the venture's planned activity (PolicyRisk)\n- **Tokenized Treasuries hold $10.47 billion across 29 products in the November 20 board refresh, as DTCC's service runs on Canton** — The board read at 03:18 UTC on November 20 puts Treasury and government-securities products at $10.47 billion, 50.9% of its $20.59 billion total, led by Ondo's USDY at $2.10 billion, Circle's USYC at $2.01 billion and BlackRock's BUIDL at $1.57 billion; DTCC's Tokenization Service, live since October 28 on Canton and DTCC's private Besu network, has 20 signed participants including Bank of America, Citi, Fidelity, J.P. Morgan, Morgan Stanley, State Street and UBS, while the roughly $30 trillion figure cited for the service is the market value of eligible securities, not an amount already converted (RWAWeekly)\n- **Canton Coin's technical read stays bearish into November 20, with first support at $0.0783 and first resistance at $0.0824** — The daily read at 08:51 UTC on November 20 shows a strong bearish bias across its indicator groups, with the 14-period relative strength index at 34.9, futures open interest at $15.54 million and average funding at negative 0.0088%, a derivatives posture that points to short positioning rather than leveraged long buildup at current levels (Coinotag)\n- **Morgan Stanley says it has converted U.S. equities and Treasuries to tokenized form through DTCC's service** — The firm's November 3 post places it among the first banks to convert securities through the service; it discloses no amounts, specific securities, network or transaction date, and DTCC's own tokenization totals are reported to SEC staff privately each quarter rather than published, with the first report, covering the fourth quarter of 2026, due around mid-January 2027 (RWAWeekly)\n\nNetwork: Canton Coin (CC) trades at $0.0802, with a market cap of $3.23 billion (rank 25) and 24-hour trading volume of $8.39 million, down 3.04% in 24 hours and down 9.71% over seven days, with a range of $0.0786 to $0.0838 and circulating supply of 40,089,228,416 CC at the 08:52 UTC November 20 read; as a network milestone, DTCC's Tokenization Service covers 34 eligible securities at launch on Canton and its Besu network, drawn from Russell 1000 equities, major-index ETFs and U.S. Treasuries (Coinotag for market data; RWAWeekly for the milestone).",
+      "image_url": null,
+      "published": "2026-11-20T03:42:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-20_0212-est",
+      "slug": "fairmint-backs-the-sec-s-transfer-agent-modernization-asking-that-onchain-shareholder-regi",
+      "url": "https://canton.w3ai.io/feed/fairmint-backs-the-sec-s-transfer-agent-modernization-asking-that-onchain-shareholder-regi",
+      "title": "Fairmint backs the SEC's transfer-agent modernization, asking that onchain shareholder registers be judged by the same tests as conventional ones",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 2:12 AM ET)\n\n- **Fairmint backs the SEC's transfer-agent modernization, asking that onchain shareholder registers be judged by the same tests as conventional ones** — In a comment letter submitted November 3 on the SEC's proposed transfer-agent rules (Release No. 34-106246, File No. S7-2026-30) and promoted in a November 18 release, Fairmint asks the Commission to confirm that a qualifying onchain record can itself be the master shareholder file, that a token represents a share only when recorded on the issuer's authority, and that holding a private key does not by itself confer authority to transfer; its registered subsidiary Fairmint TA LLC serves as onchain transfer agent for Canton Strategic Holdings' tokenized common stock, and the letter sets out proposed changes only, not adopted rules (Quantisnow)\n- **FTP submits evidence for its third x402 milestone, with 350,000 Canton Coin payable only if the milestone is accepted** — The submission reports at least 1.85 GB of MainNet traffic over June 15 to September 14; the reporting period is historical, and the submission itself does not establish acceptance or payment of the 350,000 CC milestone (CCTools)\n- **DamlForge publishes version 0.0.16 and a revised milestone report, with 655 passing tests and review still open** — The update reports fixes made following champion review, and a subsequent committee reply says the language team is still reviewing, so this is a submission update rather than milestone acceptance (CCTools)\n- **Doppler Finance's real-world-asset roadmap puts a Canton move and instant redemption in early 2027, after a December Flare expansion** — The thesis published on Thursday sets out the sequence for the vault protocol, which started with XRP yield vaults and is widening toward tokenized gold, equities, commodities and fixed-income assets; Doppler has not published how the Canton integration or the instant redemption feature will work, so timing beyond early 2027 remains open (Cryptonews)\n\nNetwork: Canton Coin (CC) trades at $0.0797, with a market cap of $3.2 billion (rank 25) and 24-hour trading volume of $7.5 million, down 3.67% in 24 hours and down 7.36% over seven days at the 06:23 UTC November 20 read; as a network milestone, the validator pipeline advanced this week as Kora's approval notice moved its Canton validator application forward, a step separate from node allocation and operation (Altcoin Buzz, reporting CoinGecko figures, for market data; CCTools for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 2:12 AM ET)<br/><br/>- **Fairmint backs the SEC&#x27;s transfer-agent modernization, asking that onchain shareholder registers be judged by the same tests as conventional ones** — In a comment letter submitted November 3 on the SEC&#x27;s proposed transfer-agent rules (Release No. 34-106246, File No. S7-2026-30) and promoted in a November 18 release, Fairmint asks the Commission to confirm that a qualifying onchain record can itself be the master shareholder file, that a token represents a share only when recorded on the issuer&#x27;s authority, and that holding a private key does not by itself confer authority to transfer; its registered subsidiary Fairmint TA LLC serves as onchain transfer agent for Canton Strategic Holdings&#x27; tokenized common stock, and the letter sets out proposed changes only, not adopted rules (Quantisnow)<br/>- **FTP submits evidence for its third x402 milestone, with 350,000 Canton Coin payable only if the milestone is accepted** — The submission reports at least 1.85 GB of MainNet traffic over June 15 to September 14; the reporting period is historical, and the submission itself does not establish acceptance or payment of the 350,000 CC milestone (CCTools)<br/>- **DamlForge publishes version 0.0.16 and a revised milestone report, with 655 passing tests and review still open** — The update reports fixes made following champion review, and a subsequent committee reply says the language team is still reviewing, so this is a submission update rather than milestone acceptance (CCTools)<br/>- **Doppler Finance&#x27;s real-world-asset roadmap puts a Canton move and instant redemption in early 2027, after a December Flare expansion** — The thesis published on Thursday sets out the sequence for the vault protocol, which started with XRP yield vaults and is widening toward tokenized gold, equities, commodities and fixed-income assets; Doppler has not published how the Canton integration or the instant redemption feature will work, so timing beyond early 2027 remains open (Cryptonews)<br/><br/>Network: Canton Coin (CC) trades at $0.0797, with a market cap of $3.2 billion (rank 25) and 24-hour trading volume of $7.5 million, down 3.67% in 24 hours and down 7.36% over seven days at the 06:23 UTC November 20 read; as a network milestone, the validator pipeline advanced this week as Kora&#x27;s approval notice moved its Canton validator application forward, a step separate from node allocation and operation (Altcoin Buzz, reporting CoinGecko figures, for market data; CCTools for the milestone).</p>",
+      "date_published": "2026-11-20T02:12:00-05:00",
+      "date_modified": "2026-11-20T02:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 2:12 AM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 2:12 AM ET)\n\n- **Fairmint backs the SEC's transfer-agent modernization, asking that onchain shareholder registers be judged by the same tests as conventional ones** — In a comment letter submitted November 3 on the SEC's proposed transfer-agent rules (Release No. 34-106246, File No. S7-2026-30) and promoted in a November 18 release, Fairmint asks the Commission to confirm that a qualifying onchain record can itself be the master shareholder file, that a token represents a share only when recorded on the issuer's authority, and that holding a private key does not by itself confer authority to transfer; its registered subsidiary Fairmint TA LLC serves as onchain transfer agent for Canton Strategic Holdings' tokenized common stock, and the letter sets out proposed changes only, not adopted rules (Quantisnow)\n- **FTP submits evidence for its third x402 milestone, with 350,000 Canton Coin payable only if the milestone is accepted** — The submission reports at least 1.85 GB of MainNet traffic over June 15 to September 14; the reporting period is historical, and the submission itself does not establish acceptance or payment of the 350,000 CC milestone (CCTools)\n- **DamlForge publishes version 0.0.16 and a revised milestone report, with 655 passing tests and review still open** — The update reports fixes made following champion review, and a subsequent committee reply says the language team is still reviewing, so this is a submission update rather than milestone acceptance (CCTools)\n- **Doppler Finance's real-world-asset roadmap puts a Canton move and instant redemption in early 2027, after a December Flare expansion** — The thesis published on Thursday sets out the sequence for the vault protocol, which started with XRP yield vaults and is widening toward tokenized gold, equities, commodities and fixed-income assets; Doppler has not published how the Canton integration or the instant redemption feature will work, so timing beyond early 2027 remains open (Cryptonews)\n\nNetwork: Canton Coin (CC) trades at $0.0797, with a market cap of $3.2 billion (rank 25) and 24-hour trading volume of $7.5 million, down 3.67% in 24 hours and down 7.36% over seven days at the 06:23 UTC November 20 read; as a network milestone, the validator pipeline advanced this week as Kora's approval notice moved its Canton validator application forward, a step separate from node allocation and operation (Altcoin Buzz, reporting CoinGecko figures, for market data; CCTools for the milestone).",
+      "image_url": null,
+      "published": "2026-11-20T02:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-20_0112-est",
+      "slug": "tradecraft-s-locked-value-falls-to-1-35-million-a-new-all-time-low-for-the-canton-liquidit",
+      "url": "https://canton.w3ai.io/feed/tradecraft-s-locked-value-falls-to-1-35-million-a-new-all-time-low-for-the-canton-liquidit",
+      "title": "Tradecraft's locked value falls to $1.35 million, a new all-time low for the Canton liquidity layer",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 1:12 AM ET)\n\n- **Tradecraft's locked value falls to $1.35 million, a new all-time low for the Canton liquidity layer** — DefiLlama's live read puts the automated market maker at $1.35 million, with its November 20 daily snapshot at $1.37 million marked as its all-time low, down from $1.41 million on November 19 and from its $1.74 million all-time high on October 31; users swap Canton-native and bridged assets on Tradecraft and provide liquidity to earn trading fees, with all of its tracked value on Canton (DefiLlama)\n- **Canton DeFi locked value eases to $10.95 million as 24-hour DEX volume rises to $17.85 million** — The latest chain read puts total value locked down 3.99% in 24 hours, with DEX volume at $126.74 million over seven days, perpetuals volume at $238,377 in 24 hours, app fees at $7,241 and app revenue at $6,268, across eight tracked protocols with Temple still largest at $5.88 million ahead of Alpend at $1.79 million and Cantex at $1.73 million (DefiLlama)\n- **Canton Coin sits about 1.2% below Litecoin in market value as its turnover stays well below the top-100 norm** — With a market capitalisation of $3.18 billion against Litecoin at $3.21 billion directly above it, Canton would need to grow about 1.2% to pass it, while $7.9 million in 24-hour volume equals 0.25% of its market cap against a typical 2.86% turnover for the top 100 coins (Blockdeck)\n- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 7.69% apart across liquid exchanges** — The November 20 scan at 05:33 UTC puts Canton Coin cheapest on MEXC at $0.073791 and dearest on Gate at $0.079465 across 11 exchanges with a liquid spot market, with only caveated pairs in profit after taker fees and the best futures route, long on WhiteBIT perpetuals against short on Bybit perpetuals, at 0.20% after fees (ArbitrageGap)\n\nNetwork: Canton Coin (CC) trades at $0.0792, with a market cap of $3.18 billion (rank 25) and 24-hour trading volume of $7.9 million, down 4.85% in 24 hours and down 8.33% over seven days, with a range of $0.0787 to $0.0836 and circulating supply of 40.09 billion CC at the November 20 read; as a network milestone, Canton DEX volume totals $126.74 million over the past seven days across eight tracked protocols (Blockdeck for market data; DefiLlama for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 1:12 AM ET)<br/><br/>- **Tradecraft&#x27;s locked value falls to $1.35 million, a new all-time low for the Canton liquidity layer** — DefiLlama&#x27;s live read puts the automated market maker at $1.35 million, with its November 20 daily snapshot at $1.37 million marked as its all-time low, down from $1.41 million on November 19 and from its $1.74 million all-time high on October 31; users swap Canton-native and bridged assets on Tradecraft and provide liquidity to earn trading fees, with all of its tracked value on Canton (DefiLlama)<br/>- **Canton DeFi locked value eases to $10.95 million as 24-hour DEX volume rises to $17.85 million** — The latest chain read puts total value locked down 3.99% in 24 hours, with DEX volume at $126.74 million over seven days, perpetuals volume at $238,377 in 24 hours, app fees at $7,241 and app revenue at $6,268, across eight tracked protocols with Temple still largest at $5.88 million ahead of Alpend at $1.79 million and Cantex at $1.73 million (DefiLlama)<br/>- **Canton Coin sits about 1.2% below Litecoin in market value as its turnover stays well below the top-100 norm** — With a market capitalisation of $3.18 billion against Litecoin at $3.21 billion directly above it, Canton would need to grow about 1.2% to pass it, while $7.9 million in 24-hour volume equals 0.25% of its market cap against a typical 2.86% turnover for the top 100 coins (Blockdeck)<br/>- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 7.69% apart across liquid exchanges** — The November 20 scan at 05:33 UTC puts Canton Coin cheapest on MEXC at $0.073791 and dearest on Gate at $0.079465 across 11 exchanges with a liquid spot market, with only caveated pairs in profit after taker fees and the best futures route, long on WhiteBIT perpetuals against short on Bybit perpetuals, at 0.20% after fees (ArbitrageGap)<br/><br/>Network: Canton Coin (CC) trades at $0.0792, with a market cap of $3.18 billion (rank 25) and 24-hour trading volume of $7.9 million, down 4.85% in 24 hours and down 8.33% over seven days, with a range of $0.0787 to $0.0836 and circulating supply of 40.09 billion CC at the November 20 read; as a network milestone, Canton DEX volume totals $126.74 million over the past seven days across eight tracked protocols (Blockdeck for market data; DefiLlama for the milestone).</p>",
+      "date_published": "2026-11-20T01:12:00-05:00",
+      "date_modified": "2026-11-20T01:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 1:12 AM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 1:12 AM ET)\n\n- **Tradecraft's locked value falls to $1.35 million, a new all-time low for the Canton liquidity layer** — DefiLlama's live read puts the automated market maker at $1.35 million, with its November 20 daily snapshot at $1.37 million marked as its all-time low, down from $1.41 million on November 19 and from its $1.74 million all-time high on October 31; users swap Canton-native and bridged assets on Tradecraft and provide liquidity to earn trading fees, with all of its tracked value on Canton (DefiLlama)\n- **Canton DeFi locked value eases to $10.95 million as 24-hour DEX volume rises to $17.85 million** — The latest chain read puts total value locked down 3.99% in 24 hours, with DEX volume at $126.74 million over seven days, perpetuals volume at $238,377 in 24 hours, app fees at $7,241 and app revenue at $6,268, across eight tracked protocols with Temple still largest at $5.88 million ahead of Alpend at $1.79 million and Cantex at $1.73 million (DefiLlama)\n- **Canton Coin sits about 1.2% below Litecoin in market value as its turnover stays well below the top-100 norm** — With a market capitalisation of $3.18 billion against Litecoin at $3.21 billion directly above it, Canton would need to grow about 1.2% to pass it, while $7.9 million in 24-hour volume equals 0.25% of its market cap against a typical 2.86% turnover for the top 100 coins (Blockdeck)\n- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 7.69% apart across liquid exchanges** — The November 20 scan at 05:33 UTC puts Canton Coin cheapest on MEXC at $0.073791 and dearest on Gate at $0.079465 across 11 exchanges with a liquid spot market, with only caveated pairs in profit after taker fees and the best futures route, long on WhiteBIT perpetuals against short on Bybit perpetuals, at 0.20% after fees (ArbitrageGap)\n\nNetwork: Canton Coin (CC) trades at $0.0792, with a market cap of $3.18 billion (rank 25) and 24-hour trading volume of $7.9 million, down 4.85% in 24 hours and down 8.33% over seven days, with a range of $0.0787 to $0.0836 and circulating supply of 40.09 billion CC at the November 20 read; as a network milestone, Canton DEX volume totals $126.74 million over the past seven days across eight tracked protocols (Blockdeck for market data; DefiLlama for the milestone).",
+      "image_url": null,
+      "published": "2026-11-20T01:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-20_0012-est",
+      "slug": "cauri-starts-a-six-week-community-challenge-on-canton-with-10-000-canton-coin-in-season-01",
+      "url": "https://canton.w3ai.io/feed/cauri-starts-a-six-week-community-challenge-on-canton-with-10-000-canton-coin-in-season-01",
+      "title": "Cauri starts a six-week community challenge on Canton, with 10,000 Canton Coin in Season 01 rewards",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 12:12 AM ET)\n\n- **Cauri starts a six-week community challenge on Canton, with 10,000 Canton Coin in Season 01 rewards** — Season 01 advertises 10,000 CC in total: 6,000 CC across weekly challenges and 4,000 CC in season awards, with Week 1, Roll Call, offering five awards of 200 CC each; the launch post directs participants to Discord for entry instructions and submission details, so the advertised rewards depend on completing the stated tasks rather than holding an asset (CCTools)\n- **Canborsa adds Solana and Tron as funding routes for moving funds in and out** — Canborsa says Solana and Tron are now integrated for funding, expanding the ways users can move funds in and out of the venue; its public wallet guide still lists the six older supported networks and has not yet supplied the new asset, fee or limit details, and the announcement concerns funding access rather than a claim that Canborsa's trading assets are deployed natively on both chains (CCTools)\n- **Temple's locked value eases to $5.92 million in the November 20 snapshot as its 24-hour DEX volume holds at $16.43 million** — DefiLlama's daily snapshot puts Temple at $5.92 million on November 20, down from $6.05 million on November 19 and below its $7.45 million all-time high on November 3, with DEX volume at $16.43 million in 24 hours and $116.02 million over seven days (DefiLlama)\n- **Canton Coin open interest falls to $34.75 million as derivatives positioning contracts without a liquidation cascade** — The November 20 read puts open interest at $34.75 million, down 3.88% in the period and down 21.50% over 30 days to near its 30-day low of $32.79 million, with funding close to neutral at 0.0002% per eight hours; the pattern reflects longs closing positions rather than forced selling (CoinStats)\n\nNetwork: Canton Coin (CC) trades at $0.079, with a market cap of $3.17 billion (rank 25) and 24-hour trading volume of $7.88 million, down 5.05% in 24 hours and down 8.33% over seven days, with a range of $0.0787 to $0.0836 and circulating supply of 40,089,819,700 CC at the 05:07 UTC November 20 read; as a network milestone, Temple's cumulative fees reach $564,671, with $563.95 million in DEX volume over the past 30 days on Canton (Kriptometre, reporting CoinGecko figures, for market data; DefiLlama for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 12:12 AM ET)<br/><br/>- **Cauri starts a six-week community challenge on Canton, with 10,000 Canton Coin in Season 01 rewards** — Season 01 advertises 10,000 CC in total: 6,000 CC across weekly challenges and 4,000 CC in season awards, with Week 1, Roll Call, offering five awards of 200 CC each; the launch post directs participants to Discord for entry instructions and submission details, so the advertised rewards depend on completing the stated tasks rather than holding an asset (CCTools)<br/>- **Canborsa adds Solana and Tron as funding routes for moving funds in and out** — Canborsa says Solana and Tron are now integrated for funding, expanding the ways users can move funds in and out of the venue; its public wallet guide still lists the six older supported networks and has not yet supplied the new asset, fee or limit details, and the announcement concerns funding access rather than a claim that Canborsa&#x27;s trading assets are deployed natively on both chains (CCTools)<br/>- **Temple&#x27;s locked value eases to $5.92 million in the November 20 snapshot as its 24-hour DEX volume holds at $16.43 million** — DefiLlama&#x27;s daily snapshot puts Temple at $5.92 million on November 20, down from $6.05 million on November 19 and below its $7.45 million all-time high on November 3, with DEX volume at $16.43 million in 24 hours and $116.02 million over seven days (DefiLlama)<br/>- **Canton Coin open interest falls to $34.75 million as derivatives positioning contracts without a liquidation cascade** — The November 20 read puts open interest at $34.75 million, down 3.88% in the period and down 21.50% over 30 days to near its 30-day low of $32.79 million, with funding close to neutral at 0.0002% per eight hours; the pattern reflects longs closing positions rather than forced selling (CoinStats)<br/><br/>Network: Canton Coin (CC) trades at $0.079, with a market cap of $3.17 billion (rank 25) and 24-hour trading volume of $7.88 million, down 5.05% in 24 hours and down 8.33% over seven days, with a range of $0.0787 to $0.0836 and circulating supply of 40,089,819,700 CC at the 05:07 UTC November 20 read; as a network milestone, Temple&#x27;s cumulative fees reach $564,671, with $563.95 million in DEX volume over the past 30 days on Canton (Kriptometre, reporting CoinGecko figures, for market data; DefiLlama for the milestone).</p>",
+      "date_published": "2026-11-20T00:12:00-05:00",
+      "date_modified": "2026-11-20T00:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 12:12 AM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 12:12 AM ET)\n\n- **Cauri starts a six-week community challenge on Canton, with 10,000 Canton Coin in Season 01 rewards** — Season 01 advertises 10,000 CC in total: 6,000 CC across weekly challenges and 4,000 CC in season awards, with Week 1, Roll Call, offering five awards of 200 CC each; the launch post directs participants to Discord for entry instructions and submission details, so the advertised rewards depend on completing the stated tasks rather than holding an asset (CCTools)\n- **Canborsa adds Solana and Tron as funding routes for moving funds in and out** — Canborsa says Solana and Tron are now integrated for funding, expanding the ways users can move funds in and out of the venue; its public wallet guide still lists the six older supported networks and has not yet supplied the new asset, fee or limit details, and the announcement concerns funding access rather than a claim that Canborsa's trading assets are deployed natively on both chains (CCTools)\n- **Temple's locked value eases to $5.92 million in the November 20 snapshot as its 24-hour DEX volume holds at $16.43 million** — DefiLlama's daily snapshot puts Temple at $5.92 million on November 20, down from $6.05 million on November 19 and below its $7.45 million all-time high on November 3, with DEX volume at $16.43 million in 24 hours and $116.02 million over seven days (DefiLlama)\n- **Canton Coin open interest falls to $34.75 million as derivatives positioning contracts without a liquidation cascade** — The November 20 read puts open interest at $34.75 million, down 3.88% in the period and down 21.50% over 30 days to near its 30-day low of $32.79 million, with funding close to neutral at 0.0002% per eight hours; the pattern reflects longs closing positions rather than forced selling (CoinStats)\n\nNetwork: Canton Coin (CC) trades at $0.079, with a market cap of $3.17 billion (rank 25) and 24-hour trading volume of $7.88 million, down 5.05% in 24 hours and down 8.33% over seven days, with a range of $0.0787 to $0.0836 and circulating supply of 40,089,819,700 CC at the 05:07 UTC November 20 read; as a network milestone, Temple's cumulative fees reach $564,671, with $563.95 million in DEX volume over the past 30 days on Canton (Kriptometre, reporting CoinGecko figures, for market data; DefiLlama for the milestone).",
+      "image_url": null,
+      "published": "2026-11-20T00:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-19_2312-est",
+      "slug": "further-asset-management-signs-a-memorandum-to-join-canton-s-validator-network-and-explore",
+      "url": "https://canton.w3ai.io/feed/further-asset-management-signs-a-memorandum-to-join-canton-s-validator-network-and-explore",
+      "title": "Further Asset Management signs a memorandum to join Canton's validator network and explore a Super Validator in the UAE",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 11:12 PM ET)\n\n- **Further Asset Management signs a memorandum to join Canton's validator network and explore a Super Validator in the UAE** — Under the agreement announced in Abu Dhabi, Further will join the Canton Validator Network and explore establishing a Canton Super Validator in the UAE, aiming to position Abu Dhabi as a regional hub for production-grade tokenization, collateral mobility and on-chain market infrastructure; several Further portfolio companies already build on or support Canton applications across custody, tokenization, payments and trading venues, and Further says it will mobilise that ecosystem to accelerate institutional adoption in the Middle East (Further Asset Management)\n- **OpenAssets partners with Digital Asset to offer institutional tokenization services on Canton through DA Registry** — OpenAssets will serve as an implementation partner for Digital Asset's tokenization engine, DA Registry, combining tokenized asset issuance, settlement, compliance, asset management and distribution; institutions can configure allowlists and blocklists and transfer-approval functions linked to external know-your-customer and anti-money-laundering monitoring, with assets able to take part in atomic settlement, collateral management and cross-application lending on Canton (TradingView News)\n- **Tharimmune takes a Super Validator role on Canton as part of a Canton Coin treasury strategy** — The Nasdaq-listed company says its role as a Super Validator aims to bolster transaction security and strengthen a digital-asset strategy, established in November 2025, focused on acquiring Canton Coin and earning validator rewards; it also plans to invest in applications on Canton to accelerate institutional use and market adoption (CoinLive)\n- **Canton DeFi locked value stands at $11.03 million in the November 20 read as 24-hour DEX volume holds at $17.48 million** — The snapshot puts total value locked at $11.03 million, down 2.65% in 24 hours, with decentralised exchange volume at $17.48 million in 24 hours and $126.35 million over seven days, and perpetuals volume at $236,392 in 24 hours (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0796, with a market cap of $3.19 billion (rank 25) and 24-hour trading volume of $7.93 million, down 3.7% in 24 hours; as a network milestone, Canton supports more than 750 validators, the base that new validator entrants such as Further are joining (Coinbird, reporting CoinGecko data, for market data; KuCoin for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 11:12 PM ET)<br/><br/>- **Further Asset Management signs a memorandum to join Canton&#x27;s validator network and explore a Super Validator in the UAE** — Under the agreement announced in Abu Dhabi, Further will join the Canton Validator Network and explore establishing a Canton Super Validator in the UAE, aiming to position Abu Dhabi as a regional hub for production-grade tokenization, collateral mobility and on-chain market infrastructure; several Further portfolio companies already build on or support Canton applications across custody, tokenization, payments and trading venues, and Further says it will mobilise that ecosystem to accelerate institutional adoption in the Middle East (Further Asset Management)<br/>- **OpenAssets partners with Digital Asset to offer institutional tokenization services on Canton through DA Registry** — OpenAssets will serve as an implementation partner for Digital Asset&#x27;s tokenization engine, DA Registry, combining tokenized asset issuance, settlement, compliance, asset management and distribution; institutions can configure allowlists and blocklists and transfer-approval functions linked to external know-your-customer and anti-money-laundering monitoring, with assets able to take part in atomic settlement, collateral management and cross-application lending on Canton (TradingView News)<br/>- **Tharimmune takes a Super Validator role on Canton as part of a Canton Coin treasury strategy** — The Nasdaq-listed company says its role as a Super Validator aims to bolster transaction security and strengthen a digital-asset strategy, established in November 2025, focused on acquiring Canton Coin and earning validator rewards; it also plans to invest in applications on Canton to accelerate institutional use and market adoption (CoinLive)<br/>- **Canton DeFi locked value stands at $11.03 million in the November 20 read as 24-hour DEX volume holds at $17.48 million** — The snapshot puts total value locked at $11.03 million, down 2.65% in 24 hours, with decentralised exchange volume at $17.48 million in 24 hours and $126.35 million over seven days, and perpetuals volume at $236,392 in 24 hours (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0796, with a market cap of $3.19 billion (rank 25) and 24-hour trading volume of $7.93 million, down 3.7% in 24 hours; as a network milestone, Canton supports more than 750 validators, the base that new validator entrants such as Further are joining (Coinbird, reporting CoinGecko data, for market data; KuCoin for the milestone).</p>",
+      "date_published": "2026-11-19T23:12:00-05:00",
+      "date_modified": "2026-11-19T23:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 11:12 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 11:12 PM ET)\n\n- **Further Asset Management signs a memorandum to join Canton's validator network and explore a Super Validator in the UAE** — Under the agreement announced in Abu Dhabi, Further will join the Canton Validator Network and explore establishing a Canton Super Validator in the UAE, aiming to position Abu Dhabi as a regional hub for production-grade tokenization, collateral mobility and on-chain market infrastructure; several Further portfolio companies already build on or support Canton applications across custody, tokenization, payments and trading venues, and Further says it will mobilise that ecosystem to accelerate institutional adoption in the Middle East (Further Asset Management)\n- **OpenAssets partners with Digital Asset to offer institutional tokenization services on Canton through DA Registry** — OpenAssets will serve as an implementation partner for Digital Asset's tokenization engine, DA Registry, combining tokenized asset issuance, settlement, compliance, asset management and distribution; institutions can configure allowlists and blocklists and transfer-approval functions linked to external know-your-customer and anti-money-laundering monitoring, with assets able to take part in atomic settlement, collateral management and cross-application lending on Canton (TradingView News)\n- **Tharimmune takes a Super Validator role on Canton as part of a Canton Coin treasury strategy** — The Nasdaq-listed company says its role as a Super Validator aims to bolster transaction security and strengthen a digital-asset strategy, established in November 2025, focused on acquiring Canton Coin and earning validator rewards; it also plans to invest in applications on Canton to accelerate institutional use and market adoption (CoinLive)\n- **Canton DeFi locked value stands at $11.03 million in the November 20 read as 24-hour DEX volume holds at $17.48 million** — The snapshot puts total value locked at $11.03 million, down 2.65% in 24 hours, with decentralised exchange volume at $17.48 million in 24 hours and $126.35 million over seven days, and perpetuals volume at $236,392 in 24 hours (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0796, with a market cap of $3.19 billion (rank 25) and 24-hour trading volume of $7.93 million, down 3.7% in 24 hours; as a network milestone, Canton supports more than 750 validators, the base that new validator entrants such as Further are joining (Coinbird, reporting CoinGecko data, for market data; KuCoin for the milestone).",
+      "image_url": null,
+      "published": "2026-11-19T23:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-19_2212-est",
+      "slug": "woof-seeks-1-248-700-canton-coin-for-a-compliance-middleware-sdk-that-lets-zenith-evm-cont",
+      "url": "https://canton.w3ai.io/feed/woof-seeks-1-248-700-canton-coin-for-a-compliance-middleware-sdk-that-lets-zenith-evm-cont",
+      "title": "Woof seeks 1,248,700 Canton Coin for a compliance middleware SDK that lets Zenith EVM contracts act on issuer decisions recorded on Canton",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 10:12 PM ET)\n- **Woof seeks 1,248,700 Canton Coin for a compliance middleware SDK that lets Zenith EVM contracts act on issuer decisions recorded on Canton** — Proposal #621, from the builders of DeFi infrastructure for Compound, would deliver an open-source SDK in which an operator-run service reads an issuer's or operator's decision through the Ledger API, checks the address-to-party binding and signs a short-lived, single-use permit for one specific EVM action, with the contract checking the permit's binding, expiry and revocation path; external adoption accounts for 40% of the request, with 249,740 Canton Coin payable per independent organisation, up to two, once it integrates the SDK in a test environment and publishes its evidence, and the proposal is not yet funded and still seeks a Tech & Ops Committee champion and review from the Regulatory Compliance SIG (Canton Network Forum)\n- **Wrapped Canton Coin holds $165,269 in locked value as EA Finance's 1:1 bridge for Canton Coin onto EVM chains** — DefiLlama describes wCC, developed by EA Finance, as a 1:1 wrapped representation of Canton Coin on EVM chains starting with BSC, built as an interoperability layer to expand access, composability and capital flow into the Canton ecosystem; its daily locked value stood at $167,611 on November 19, down 20.9% over the past 30 days from $206,678 on October 21, and it ranks 83rd among tracked bridge protocols (DefiLlama)\n- **Canton DeFi locked value stands at $10.98 million in the November 20 read as 24-hour DEX volume rises to $17.75 million** — DefiLlama's latest chain read puts total value locked down 3.66% in 24 hours, with DEX volume at $126.64 million over seven days, perps volume at $237,122 in 24 hours, app fees at $7,205 and app revenue at $6,232 over the same period, and $1.72 million in token incentives, across eight tracked protocols with Temple still largest at $5.88 million (DefiLlama)\n- **Canton Coin's community sentiment sits at 52% bullish in the latest CoinGecko poll as its heat score stays at zero** — Crypheat's November 20 read rates Canton Coin's heat score at 0, labelled COLD and down one point from yesterday, with the price down 9.7% over seven days and 24.2% over 30 days and turnover described as slow, with 24-hour volume equal to 0.2% of market cap (Crypheat)\n\nNetwork: Canton Coin (CC) trades at $0.0798, with a market cap of $3.20B (rank 25) and 24h volume of $7.49M, down 3.08% in 24 hours with circulating supply of 40,087,101,760 CC at the 00:49 UTC November 20 read; milestone: chain fees run at about $7,036 per day in the latest daily snapshot, a figure the source describes as a proxy for real usage of the chain (Kaavon, reporting CoinGecko figures, for market data; Crypheat for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 10:12 PM ET)<br/>- **Woof seeks 1,248,700 Canton Coin for a compliance middleware SDK that lets Zenith EVM contracts act on issuer decisions recorded on Canton** — Proposal #621, from the builders of DeFi infrastructure for Compound, would deliver an open-source SDK in which an operator-run service reads an issuer&#x27;s or operator&#x27;s decision through the Ledger API, checks the address-to-party binding and signs a short-lived, single-use permit for one specific EVM action, with the contract checking the permit&#x27;s binding, expiry and revocation path; external adoption accounts for 40% of the request, with 249,740 Canton Coin payable per independent organisation, up to two, once it integrates the SDK in a test environment and publishes its evidence, and the proposal is not yet funded and still seeks a Tech &amp; Ops Committee champion and review from the Regulatory Compliance SIG (Canton Network Forum)<br/>- **Wrapped Canton Coin holds $165,269 in locked value as EA Finance&#x27;s 1:1 bridge for Canton Coin onto EVM chains** — DefiLlama describes wCC, developed by EA Finance, as a 1:1 wrapped representation of Canton Coin on EVM chains starting with BSC, built as an interoperability layer to expand access, composability and capital flow into the Canton ecosystem; its daily locked value stood at $167,611 on November 19, down 20.9% over the past 30 days from $206,678 on October 21, and it ranks 83rd among tracked bridge protocols (DefiLlama)<br/>- **Canton DeFi locked value stands at $10.98 million in the November 20 read as 24-hour DEX volume rises to $17.75 million** — DefiLlama&#x27;s latest chain read puts total value locked down 3.66% in 24 hours, with DEX volume at $126.64 million over seven days, perps volume at $237,122 in 24 hours, app fees at $7,205 and app revenue at $6,232 over the same period, and $1.72 million in token incentives, across eight tracked protocols with Temple still largest at $5.88 million (DefiLlama)<br/>- **Canton Coin&#x27;s community sentiment sits at 52% bullish in the latest CoinGecko poll as its heat score stays at zero** — Crypheat&#x27;s November 20 read rates Canton Coin&#x27;s heat score at 0, labelled COLD and down one point from yesterday, with the price down 9.7% over seven days and 24.2% over 30 days and turnover described as slow, with 24-hour volume equal to 0.2% of market cap (Crypheat)<br/><br/>Network: Canton Coin (CC) trades at $0.0798, with a market cap of $3.20B (rank 25) and 24h volume of $7.49M, down 3.08% in 24 hours with circulating supply of 40,087,101,760 CC at the 00:49 UTC November 20 read; milestone: chain fees run at about $7,036 per day in the latest daily snapshot, a figure the source describes as a proxy for real usage of the chain (Kaavon, reporting CoinGecko figures, for market data; Crypheat for the milestone)</p>",
+      "date_published": "2026-11-19T22:12:00-05:00",
+      "date_modified": "2026-11-19T22:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "621",
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 10:12 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 10:12 PM ET)\n- **Woof seeks 1,248,700 Canton Coin for a compliance middleware SDK that lets Zenith EVM contracts act on issuer decisions recorded on Canton** — Proposal #621, from the builders of DeFi infrastructure for Compound, would deliver an open-source SDK in which an operator-run service reads an issuer's or operator's decision through the Ledger API, checks the address-to-party binding and signs a short-lived, single-use permit for one specific EVM action, with the contract checking the permit's binding, expiry and revocation path; external adoption accounts for 40% of the request, with 249,740 Canton Coin payable per independent organisation, up to two, once it integrates the SDK in a test environment and publishes its evidence, and the proposal is not yet funded and still seeks a Tech & Ops Committee champion and review from the Regulatory Compliance SIG (Canton Network Forum)\n- **Wrapped Canton Coin holds $165,269 in locked value as EA Finance's 1:1 bridge for Canton Coin onto EVM chains** — DefiLlama describes wCC, developed by EA Finance, as a 1:1 wrapped representation of Canton Coin on EVM chains starting with BSC, built as an interoperability layer to expand access, composability and capital flow into the Canton ecosystem; its daily locked value stood at $167,611 on November 19, down 20.9% over the past 30 days from $206,678 on October 21, and it ranks 83rd among tracked bridge protocols (DefiLlama)\n- **Canton DeFi locked value stands at $10.98 million in the November 20 read as 24-hour DEX volume rises to $17.75 million** — DefiLlama's latest chain read puts total value locked down 3.66% in 24 hours, with DEX volume at $126.64 million over seven days, perps volume at $237,122 in 24 hours, app fees at $7,205 and app revenue at $6,232 over the same period, and $1.72 million in token incentives, across eight tracked protocols with Temple still largest at $5.88 million (DefiLlama)\n- **Canton Coin's community sentiment sits at 52% bullish in the latest CoinGecko poll as its heat score stays at zero** — Crypheat's November 20 read rates Canton Coin's heat score at 0, labelled COLD and down one point from yesterday, with the price down 9.7% over seven days and 24.2% over 30 days and turnover described as slow, with 24-hour volume equal to 0.2% of market cap (Crypheat)\n\nNetwork: Canton Coin (CC) trades at $0.0798, with a market cap of $3.20B (rank 25) and 24h volume of $7.49M, down 3.08% in 24 hours with circulating supply of 40,087,101,760 CC at the 00:49 UTC November 20 read; milestone: chain fees run at about $7,036 per day in the latest daily snapshot, a figure the source describes as a proxy for real usage of the chain (Kaavon, reporting CoinGecko figures, for market data; Crypheat for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T22:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-19_2112-est",
+      "slug": "canborsa-moves-its-ai-assistant-into-execution-letting-users-open-and-close-leveraged-posi",
+      "url": "https://canton.w3ai.io/feed/canborsa-moves-its-ai-assistant-into-execution-letting-users-open-and-close-leveraged-posi",
+      "title": "Canborsa moves its AI assistant into execution, letting users open and close leveraged positions by instruction",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 9:12 PM ET)\n\n- **Canborsa moves its AI assistant into execution, letting users open and close leveraged positions by instruction** — The November 17 update says the assistant can now open and close leveraged positions, set take-profit and stop-loss orders, swap assets and deposit into Earn, with voice instructions supported and every trade shown to the user for review before execution; that is a step beyond the October version, which answered market and portfolio questions while order placement was still planned, and AI assistance does not remove the need to check the asset, size and terms presented for approval (CCTools)\n- **Obsidian's Keys milestone passes its acceptance vote with 60% in favour and none against** — The recorded November 17 result clears the 51% threshold for the first milestone of the package-distribution work, which maintains a repository connecting software publishers and auditors with their signing keys and the rules for approving changes to those identities; the vote advances the project from submission to milestone acceptance, and a later request for payment details is a follow-up step rather than proof the milestone has been paid (CCTools)\n- **CantonGrid presents an open-source Rust indexer for Canton and seeks a champion, contributors and Development Fund support** — Built by a Rust engineer while developing a Daml prediction-market application, the framework is at working alpha stage with authorised PQS integration, PostgreSQL persistence, contract lifecycle tracking and party-aware REST and GraphQL access, demonstrated in two end-to-end LocalNet runs indexing a contract from draft to resolved; production hardening, DevNet validation, large-scale backfills and real-time streaming remain planned work under RFP 20, and no funding has been approved (Canton Network Forum)\n- **Canton bridge volume totals $7.7 million over 30 days, with just $99,821 in the last seven days and none in the last 24 hours** — DefiLlama's November 19 bridge read lists Chainlink as the sole tracked bridge protocol for the chain, and the seven-day figure is down sharply from the $399,220 recorded on November 14, with the 30-day total easing from $11.68 million in that earlier read; the zero is the tracker's reported figure for the window, not a confirmed halt to cross-chain activity (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0790, with a market cap of $3.2B (rank 25) and 24h volume of $7.6M, down 3.68% in 24 hours at the 02:11 UTC November 20 read; milestone: the latest runtime configuration lists the next logical synchronizer upgrade on DevNet, Canton's developer test environment, targeting protocol version 37, with its topology-freeze time recorded as November 17 at 14:00 UTC — a DevNet setting that does not establish a MainNet upgrade (AltcoinBuzz, reporting CoinGecko figures, for market data; CCTools for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 9:12 PM ET)<br/><br/>- **Canborsa moves its AI assistant into execution, letting users open and close leveraged positions by instruction** — The November 17 update says the assistant can now open and close leveraged positions, set take-profit and stop-loss orders, swap assets and deposit into Earn, with voice instructions supported and every trade shown to the user for review before execution; that is a step beyond the October version, which answered market and portfolio questions while order placement was still planned, and AI assistance does not remove the need to check the asset, size and terms presented for approval (CCTools)<br/>- **Obsidian&#x27;s Keys milestone passes its acceptance vote with 60% in favour and none against** — The recorded November 17 result clears the 51% threshold for the first milestone of the package-distribution work, which maintains a repository connecting software publishers and auditors with their signing keys and the rules for approving changes to those identities; the vote advances the project from submission to milestone acceptance, and a later request for payment details is a follow-up step rather than proof the milestone has been paid (CCTools)<br/>- **CantonGrid presents an open-source Rust indexer for Canton and seeks a champion, contributors and Development Fund support** — Built by a Rust engineer while developing a Daml prediction-market application, the framework is at working alpha stage with authorised PQS integration, PostgreSQL persistence, contract lifecycle tracking and party-aware REST and GraphQL access, demonstrated in two end-to-end LocalNet runs indexing a contract from draft to resolved; production hardening, DevNet validation, large-scale backfills and real-time streaming remain planned work under RFP 20, and no funding has been approved (Canton Network Forum)<br/>- **Canton bridge volume totals $7.7 million over 30 days, with just $99,821 in the last seven days and none in the last 24 hours** — DefiLlama&#x27;s November 19 bridge read lists Chainlink as the sole tracked bridge protocol for the chain, and the seven-day figure is down sharply from the $399,220 recorded on November 14, with the 30-day total easing from $11.68 million in that earlier read; the zero is the tracker&#x27;s reported figure for the window, not a confirmed halt to cross-chain activity (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0790, with a market cap of $3.2B (rank 25) and 24h volume of $7.6M, down 3.68% in 24 hours at the 02:11 UTC November 20 read; milestone: the latest runtime configuration lists the next logical synchronizer upgrade on DevNet, Canton&#x27;s developer test environment, targeting protocol version 37, with its topology-freeze time recorded as November 17 at 14:00 UTC — a DevNet setting that does not establish a MainNet upgrade (AltcoinBuzz, reporting CoinGecko figures, for market data; CCTools for the milestone)</p>",
+      "date_published": "2026-11-19T21:12:00-05:00",
+      "date_modified": "2026-11-19T21:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 9:12 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 9:12 PM ET)\n\n- **Canborsa moves its AI assistant into execution, letting users open and close leveraged positions by instruction** — The November 17 update says the assistant can now open and close leveraged positions, set take-profit and stop-loss orders, swap assets and deposit into Earn, with voice instructions supported and every trade shown to the user for review before execution; that is a step beyond the October version, which answered market and portfolio questions while order placement was still planned, and AI assistance does not remove the need to check the asset, size and terms presented for approval (CCTools)\n- **Obsidian's Keys milestone passes its acceptance vote with 60% in favour and none against** — The recorded November 17 result clears the 51% threshold for the first milestone of the package-distribution work, which maintains a repository connecting software publishers and auditors with their signing keys and the rules for approving changes to those identities; the vote advances the project from submission to milestone acceptance, and a later request for payment details is a follow-up step rather than proof the milestone has been paid (CCTools)\n- **CantonGrid presents an open-source Rust indexer for Canton and seeks a champion, contributors and Development Fund support** — Built by a Rust engineer while developing a Daml prediction-market application, the framework is at working alpha stage with authorised PQS integration, PostgreSQL persistence, contract lifecycle tracking and party-aware REST and GraphQL access, demonstrated in two end-to-end LocalNet runs indexing a contract from draft to resolved; production hardening, DevNet validation, large-scale backfills and real-time streaming remain planned work under RFP 20, and no funding has been approved (Canton Network Forum)\n- **Canton bridge volume totals $7.7 million over 30 days, with just $99,821 in the last seven days and none in the last 24 hours** — DefiLlama's November 19 bridge read lists Chainlink as the sole tracked bridge protocol for the chain, and the seven-day figure is down sharply from the $399,220 recorded on November 14, with the 30-day total easing from $11.68 million in that earlier read; the zero is the tracker's reported figure for the window, not a confirmed halt to cross-chain activity (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0790, with a market cap of $3.2B (rank 25) and 24h volume of $7.6M, down 3.68% in 24 hours at the 02:11 UTC November 20 read; milestone: the latest runtime configuration lists the next logical synchronizer upgrade on DevNet, Canton's developer test environment, targeting protocol version 37, with its topology-freeze time recorded as November 17 at 14:00 UTC — a DevNet setting that does not establish a MainNet upgrade (AltcoinBuzz, reporting CoinGecko figures, for market data; CCTools for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T21:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-19_2012-est",
+      "slug": "canton-s-protocol-development-fund-counts-42-approved-projects-and-290-million-canton-coin",
+      "url": "https://canton.w3ai.io/feed/canton-s-protocol-development-fund-counts-42-approved-projects-and-290-million-canton-coin",
+      "title": "Canton's Protocol Development Fund counts 42 approved projects and 290 million Canton Coin in commitments in its first report",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 8:12 PM ET)\n- **Canton's Protocol Development Fund counts 42 approved projects and 290 million Canton Coin in commitments in its first report** — The Canton Foundation's first report on the fund puts total commitments at 290.0 million CC across work on protocol performance, developer tooling, security reviews and open infrastructure, and launches Development Fund 2.0, which targets 80% of the budget at roadmap requests for proposals under the 2026–2028 technical vision while preserving up to 20% for individual initiatives; the updated template requires each applicant to define the problem, evidence the need, name a community champion and tie payments to milestones (Canton Foundation)\n- **CCTools' next grant takes the Canton toolkit on-chain, turning project discovery into verifiable activity** — CCTools, the community toolkit that maps Canton projects and aggregates the market data several Canton protocols feed to DefiLlama, says its next Development Fund grant moves it from making the network legible to making it actionable from one place, adding on-chain activity and a grounded assistant alongside its existing portfolio tracking across Canton, EVM and Solana wallets, its anti-sybil Human Score and its learn-to-earn paths; the on-chain phase is listed as building now, not yet live (CCTools)\n- **Canton Coin futures volume runs at about two and a half times spot, with almost no forced selling in the latest day** — The latest derivatives read puts 24-hour futures volume at $12.37 million against $4.68 million in spot, while tracked liquidations totalled just $197.66, all of it longs, and the open-interest-weighted funding rate sits at -0.0077%, meaning shorts are paying longs; the pattern points to positioning staying orderly rather than leverage being flushed out (CoinGlass)\n\nNetwork: Canton Coin (CC) trades at $0.08001, with a market cap of about $3.21B (rank 22) and 24h volume of $7.91M, down 2.06% in 24 hours with a range of $0.07946 to $0.0836 and circulating supply of about 40.09B CC at the 01:33 UTC November 20 read; milestone: the Protocol Development Fund has paid or minted 62.2 million CC to date against accepted milestones and approved recurring work, with the full 290.0 million CC commitment released only as work is accepted (CoinGlass for market data; Coinotag for the volume read; Canton Foundation for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 8:12 PM ET)<br/>- **Canton&#x27;s Protocol Development Fund counts 42 approved projects and 290 million Canton Coin in commitments in its first report** — The Canton Foundation&#x27;s first report on the fund puts total commitments at 290.0 million CC across work on protocol performance, developer tooling, security reviews and open infrastructure, and launches Development Fund 2.0, which targets 80% of the budget at roadmap requests for proposals under the 2026–2028 technical vision while preserving up to 20% for individual initiatives; the updated template requires each applicant to define the problem, evidence the need, name a community champion and tie payments to milestones (Canton Foundation)<br/>- **CCTools&#x27; next grant takes the Canton toolkit on-chain, turning project discovery into verifiable activity** — CCTools, the community toolkit that maps Canton projects and aggregates the market data several Canton protocols feed to DefiLlama, says its next Development Fund grant moves it from making the network legible to making it actionable from one place, adding on-chain activity and a grounded assistant alongside its existing portfolio tracking across Canton, EVM and Solana wallets, its anti-sybil Human Score and its learn-to-earn paths; the on-chain phase is listed as building now, not yet live (CCTools)<br/>- **Canton Coin futures volume runs at about two and a half times spot, with almost no forced selling in the latest day** — The latest derivatives read puts 24-hour futures volume at $12.37 million against $4.68 million in spot, while tracked liquidations totalled just $197.66, all of it longs, and the open-interest-weighted funding rate sits at -0.0077%, meaning shorts are paying longs; the pattern points to positioning staying orderly rather than leverage being flushed out (CoinGlass)<br/><br/>Network: Canton Coin (CC) trades at $0.08001, with a market cap of about $3.21B (rank 22) and 24h volume of $7.91M, down 2.06% in 24 hours with a range of $0.07946 to $0.0836 and circulating supply of about 40.09B CC at the 01:33 UTC November 20 read; milestone: the Protocol Development Fund has paid or minted 62.2 million CC to date against accepted milestones and approved recurring work, with the full 290.0 million CC commitment released only as work is accepted (CoinGlass for market data; Coinotag for the volume read; Canton Foundation for the milestone)</p>",
+      "date_published": "2026-11-19T20:12:00-05:00",
+      "date_modified": "2026-11-19T20:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 8:12 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 8:12 PM ET)\n- **Canton's Protocol Development Fund counts 42 approved projects and 290 million Canton Coin in commitments in its first report** — The Canton Foundation's first report on the fund puts total commitments at 290.0 million CC across work on protocol performance, developer tooling, security reviews and open infrastructure, and launches Development Fund 2.0, which targets 80% of the budget at roadmap requests for proposals under the 2026–2028 technical vision while preserving up to 20% for individual initiatives; the updated template requires each applicant to define the problem, evidence the need, name a community champion and tie payments to milestones (Canton Foundation)\n- **CCTools' next grant takes the Canton toolkit on-chain, turning project discovery into verifiable activity** — CCTools, the community toolkit that maps Canton projects and aggregates the market data several Canton protocols feed to DefiLlama, says its next Development Fund grant moves it from making the network legible to making it actionable from one place, adding on-chain activity and a grounded assistant alongside its existing portfolio tracking across Canton, EVM and Solana wallets, its anti-sybil Human Score and its learn-to-earn paths; the on-chain phase is listed as building now, not yet live (CCTools)\n- **Canton Coin futures volume runs at about two and a half times spot, with almost no forced selling in the latest day** — The latest derivatives read puts 24-hour futures volume at $12.37 million against $4.68 million in spot, while tracked liquidations totalled just $197.66, all of it longs, and the open-interest-weighted funding rate sits at -0.0077%, meaning shorts are paying longs; the pattern points to positioning staying orderly rather than leverage being flushed out (CoinGlass)\n\nNetwork: Canton Coin (CC) trades at $0.08001, with a market cap of about $3.21B (rank 22) and 24h volume of $7.91M, down 2.06% in 24 hours with a range of $0.07946 to $0.0836 and circulating supply of about 40.09B CC at the 01:33 UTC November 20 read; milestone: the Protocol Development Fund has paid or minted 62.2 million CC to date against accepted milestones and approved recurring work, with the full 290.0 million CC commitment released only as work is accepted (CoinGlass for market data; Coinotag for the volume read; Canton Foundation for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T20:12:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-19_1912-est",
+      "slug": "standard-chartered-says-japan-s-government-bond-tokenization-could-support-its-2-trillion",
+      "url": "https://canton.w3ai.io/feed/standard-chartered-says-japan-s-government-bond-tokenization-could-support-its-2-trillion",
+      "title": "Standard Chartered says Japan's government-bond tokenization could support its $2 trillion tokenized-asset forecast for the end of 2028",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 7:12 PM ET)\n\n- **Standard Chartered says Japan's government-bond tokenization could support its $2 trillion tokenized-asset forecast for the end of 2028** — The bank places the tokenized real-world-asset market at about $2 trillion by the end of 2028 against roughly $45 billion today, an expansion of more than 44 times, an outlook it also maintained in its May 2026 investor presentation with tokenized money market funds and listed equities as major contributors; it sees longer-dated Japanese government bonds on blockchain infrastructure as a category that could reduce transaction costs, enable round-the-clock trading and broaden investor access, while noting adoption still depends on institutional participation, secondary-market liquidity, legal certainty and integration with existing settlement systems (Tron Weekly)\n- **Saxon tests an offline-root setup for its self-hosted Canton validator key drivers, with the node never holding the root key** — In the November 13 update, the root key was generated and used only in a separate offline process, signing a delegation to an intermediate key held in Scaleway Key Manager, and the participant registered pre-created keys, joined a synchronizer and hosted a party without the node ever holding the root; a second KMS intermediate plus revocation of the first, both signed offline, kept the party's ID while the revoked key could no longer authorise anything, though disabling the keys in the KMS stopped the node only after about three minutes because session signing keys keep it signing for their lifetime (Canton Network Forum)\n- **Canton decentralised-exchange volume totals $610.77 million over 30 days, with Temple still the largest venue** — DefiLlama's November 19 rankings put Temple at $15.71 million in 24-hour DEX volume and Cantex at $1.41 million, with Cantex volume up 11.62% over seven days while Temple eases 9.52% over the same period (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0804, with a market cap of $3.22B (rank 25) and 24h volume of $7.56M, down 2.27% in 24 hours with a range of $0.0796 to $0.0836 and circulating supply of 40,087,101,760 CC at the 00:15 UTC November 20 read; milestone: the network record counts 146 featured app rights and 1,563 validator licenses, with 13 Super Validators operating under a 9-of-13 voting threshold (Criptano, reporting CoinGecko figures, for market data; CCTools for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 7:12 PM ET)<br/><br/>- **Standard Chartered says Japan&#x27;s government-bond tokenization could support its $2 trillion tokenized-asset forecast for the end of 2028** — The bank places the tokenized real-world-asset market at about $2 trillion by the end of 2028 against roughly $45 billion today, an expansion of more than 44 times, an outlook it also maintained in its May 2026 investor presentation with tokenized money market funds and listed equities as major contributors; it sees longer-dated Japanese government bonds on blockchain infrastructure as a category that could reduce transaction costs, enable round-the-clock trading and broaden investor access, while noting adoption still depends on institutional participation, secondary-market liquidity, legal certainty and integration with existing settlement systems (Tron Weekly)<br/>- **Saxon tests an offline-root setup for its self-hosted Canton validator key drivers, with the node never holding the root key** — In the November 13 update, the root key was generated and used only in a separate offline process, signing a delegation to an intermediate key held in Scaleway Key Manager, and the participant registered pre-created keys, joined a synchronizer and hosted a party without the node ever holding the root; a second KMS intermediate plus revocation of the first, both signed offline, kept the party&#x27;s ID while the revoked key could no longer authorise anything, though disabling the keys in the KMS stopped the node only after about three minutes because session signing keys keep it signing for their lifetime (Canton Network Forum)<br/>- **Canton decentralised-exchange volume totals $610.77 million over 30 days, with Temple still the largest venue** — DefiLlama&#x27;s November 19 rankings put Temple at $15.71 million in 24-hour DEX volume and Cantex at $1.41 million, with Cantex volume up 11.62% over seven days while Temple eases 9.52% over the same period (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0804, with a market cap of $3.22B (rank 25) and 24h volume of $7.56M, down 2.27% in 24 hours with a range of $0.0796 to $0.0836 and circulating supply of 40,087,101,760 CC at the 00:15 UTC November 20 read; milestone: the network record counts 146 featured app rights and 1,563 validator licenses, with 13 Super Validators operating under a 9-of-13 voting threshold (Criptano, reporting CoinGecko figures, for market data; CCTools for the milestone)</p>",
+      "date_published": "2026-11-19T19:12:00-05:00",
+      "date_modified": "2026-11-19T19:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 7:12 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 7:12 PM ET)\n\n- **Standard Chartered says Japan's government-bond tokenization could support its $2 trillion tokenized-asset forecast for the end of 2028** — The bank places the tokenized real-world-asset market at about $2 trillion by the end of 2028 against roughly $45 billion today, an expansion of more than 44 times, an outlook it also maintained in its May 2026 investor presentation with tokenized money market funds and listed equities as major contributors; it sees longer-dated Japanese government bonds on blockchain infrastructure as a category that could reduce transaction costs, enable round-the-clock trading and broaden investor access, while noting adoption still depends on institutional participation, secondary-market liquidity, legal certainty and integration with existing settlement systems (Tron Weekly)\n- **Saxon tests an offline-root setup for its self-hosted Canton validator key drivers, with the node never holding the root key** — In the November 13 update, the root key was generated and used only in a separate offline process, signing a delegation to an intermediate key held in Scaleway Key Manager, and the participant registered pre-created keys, joined a synchronizer and hosted a party without the node ever holding the root; a second KMS intermediate plus revocation of the first, both signed offline, kept the party's ID while the revoked key could no longer authorise anything, though disabling the keys in the KMS stopped the node only after about three minutes because session signing keys keep it signing for their lifetime (Canton Network Forum)\n- **Canton decentralised-exchange volume totals $610.77 million over 30 days, with Temple still the largest venue** — DefiLlama's November 19 rankings put Temple at $15.71 million in 24-hour DEX volume and Cantex at $1.41 million, with Cantex volume up 11.62% over seven days while Temple eases 9.52% over the same period (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0804, with a market cap of $3.22B (rank 25) and 24h volume of $7.56M, down 2.27% in 24 hours with a range of $0.0796 to $0.0836 and circulating supply of 40,087,101,760 CC at the 00:15 UTC November 20 read; milestone: the network record counts 146 featured app rights and 1,563 validator licenses, with 13 Super Validators operating under a 9-of-13 voting threshold (Criptano, reporting CoinGecko figures, for market data; CCTools for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T19:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-19_1842-est",
       "slug": "canton-risk-engine-seeks-1-560-870-canton-coin-to-bring-governed-risk-parameters-to-canton",
@@ -4480,358 +4833,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Tuesday, February 16, 2027\nDevNet Topology Freeze (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981634568",
-      "slug": "mainnet-topology-freeze-0-12",
-      "url": "https://canton.w3ai.io/feed/mainnet-topology-freeze-0-12",
-      "title": "MainNet Topology Freeze (0.12)",
-      "content_text": "Canton Calendar — Friday, March 5, 2027\nMainNet Topology Freeze (0.12)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Friday, March 5, 2027<br/>MainNet Topology Freeze (0.12)<br/>Protocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Friday, March 5, 2027\nMainNet Topology Freeze (0.12)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981634561",
-      "slug": "testnet-upgrades-to-splice-0-12-2",
-      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-12-2",
-      "title": "TestNet upgrades to Splice 0.12.2",
-      "content_text": "Canton Calendar — Monday, February 22, 2027\nTestNet upgrades to Splice 0.12.2\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, February 22, 2027<br/>TestNet upgrades to Splice 0.12.2<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, February 22, 2027\nTestNet upgrades to Splice 0.12.2\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981634513",
-      "slug": "devnet-lsu-0-12-required-february-2027",
-      "url": "https://canton.w3ai.io/feed/devnet-lsu-0-12-required-february-2027",
-      "title": "DevNet LSU (0.12 Required) (February 2027)",
-      "content_text": "Canton Calendar — Wednesday, February 17, 2027\nDevNet LSU (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Wednesday, February 17, 2027<br/>DevNet LSU (0.12 Required) (February 2027)<br/>Protocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Wednesday, February 17, 2027\nDevNet LSU (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981634511",
-      "slug": "devnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
-      "url": "https://canton.w3ai.io/feed/devnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
-      "title": "DevNet New Daml models introduced by Splice 0.12.x take effect",
-      "content_text": "Canton Calendar — Monday, February 15, 2027\nDevNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, February 15, 2027<br/>DevNet New Daml models introduced by Splice 0.12.x take effect<br/>Splice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, February 15, 2027\nDevNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981630900",
-      "slug": "mainnet-upgrades-to-splice-0-12-3",
-      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-12-3",
-      "title": "MainNet upgrades to Splice 0.12.3",
-      "content_text": "Canton Calendar — Monday, March 8, 2027\nMainNet upgrades to Splice 0.12.3\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, March 8, 2027<br/>MainNet upgrades to Splice 0.12.3<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, March 8, 2027\nMainNet upgrades to Splice 0.12.3\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981630895",
-      "slug": "testnet-upgrades-to-splice-0-12-3",
-      "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-12-3",
-      "title": "TestNet upgrades to Splice 0.12.3",
-      "content_text": "Canton Calendar — Monday, March 1, 2027\nTestNet upgrades to Splice 0.12.3\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, March 1, 2027<br/>TestNet upgrades to Splice 0.12.3<br/>Weekly Upgrades · TestNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, March 1, 2027\nTestNet upgrades to Splice 0.12.3\nWeekly Upgrades · TestNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981630642",
-      "slug": "testnet-lsu-0-12-required-february-2027",
-      "url": "https://canton.w3ai.io/feed/testnet-lsu-0-12-required-february-2027",
-      "title": "TestNet LSU (0.12 Required) (February 2027)",
-      "content_text": "Canton Calendar — Wednesday, February 24, 2027\nTestNet LSU (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Wednesday, February 24, 2027<br/>TestNet LSU (0.12 Required) (February 2027)<br/>Protocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Wednesday, February 24, 2027\nTestNet LSU (0.12 Required) (February 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981630638",
-      "slug": "devnet-upgrades-to-splice-0-12-3",
-      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-12-3",
-      "title": "DevNet upgrades to Splice 0.12.3",
-      "content_text": "Canton Calendar — Monday, February 22, 2027\nDevNet upgrades to Splice 0.12.3\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, February 22, 2027<br/>DevNet upgrades to Splice 0.12.3<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, February 22, 2027\nDevNet upgrades to Splice 0.12.3\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981629573",
-      "slug": "testnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
-      "url": "https://canton.w3ai.io/feed/testnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
-      "title": "TestNet New Daml models introduced by Splice 0.12.x take effect",
-      "content_text": "Canton Calendar — Monday, February 22, 2027\nTestNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, February 22, 2027<br/>TestNet New Daml models introduced by Splice 0.12.x take effect<br/>Splice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, February 22, 2027\nTestNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981629558",
-      "slug": "mainnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
-      "url": "https://canton.w3ai.io/feed/mainnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
-      "title": "MainNet New Daml models introduced by Splice 0.12.x take effect",
-      "content_text": "Canton Calendar — Monday, March 1, 2027\nMainNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, March 1, 2027<br/>MainNet New Daml models introduced by Splice 0.12.x take effect<br/>Splice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, March 1, 2027\nMainNet New Daml models introduced by Splice 0.12.x take effect\nSplice Daml Model Effectivity · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981629556",
-      "slug": "testnet-breaking-config-changes-0-12-required",
-      "url": "https://canton.w3ai.io/feed/testnet-breaking-config-changes-0-12-required",
-      "title": "TestNet Breaking Config Changes (0.12 Required)",
-      "content_text": "Canton Calendar — Tuesday, March 2, 2027\nTestNet Breaking Config Changes (0.12 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, March 2, 2027<br/>TestNet Breaking Config Changes (0.12 Required)<br/>Other Network Configuration Change · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, March 2, 2027\nTestNet Breaking Config Changes (0.12 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
