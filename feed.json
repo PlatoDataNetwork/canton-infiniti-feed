@@ -29,8 +29,73 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-19T16:42:00-05:00",
+  "updated": "2026-11-19T18:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-19_1842-est",
+      "slug": "canton-risk-engine-seeks-1-560-870-canton-coin-to-bring-governed-risk-parameters-to-canton",
+      "url": "https://canton.w3ai.io/feed/canton-risk-engine-seeks-1-560-870-canton-coin-to-bring-governed-risk-parameters-to-canton",
+      "title": "Canton Risk Engine seeks 1,560,870 Canton Coin to bring governed risk parameters to Canton lending and vaults",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 6:42 PM ET)\n\n- **Canton Risk Engine seeks 1,560,870 Canton Coin to bring governed risk parameters to Canton lending and vaults** — Proposal #665 from Woof, builders of DeFi infrastructure for Compound, would deliver an on-chain risk-parameter Registry in Solidity where risk-reducing changes apply after approval and loosening changes wait a full timelock, an ERC-4626 vault and lending market integrated with the Registry on Zenith testnet plus a Daml governance example, and an open simulator and self-hostable dashboard; Milestone 3 is 40% of the request (624,348 CC) and pays only on committee acceptance plus a publicly confirmed integration by an external Canton DeFi team, and the proposal is not yet funded and still seeks a Tech & Ops champion (Canton Network Forum)\n- **A Delegated Automation proposal would make Canton delegation a scoped, revocable grant enforced on the ledger** — The reusable Daml standard would let a user authorise another party, such as an automation operator, to execute one specific action on their behalf, with each grant bounded by max executions, expiry and cooldown plus app-defined rules enforced on-ledger so a faulty or compromised runner cannot exceed what was granted, alongside a UI dashboard to view and revoke grants; it is seeking a champion (Canton Network Forum)\n- **Dedaub seeks a champion for DamlSec, a tool to check compiled Daml packages for security problems before deployment** — The revised proposal under RFP 22 remains a proposal with no new approval established; Dedaub says the original request was closed during the Development Fund transition (CCTools)\n- **Canton DeFi locked value eases to $10.99 million as 24-hour DEX volume rises to $17.12 million** — DefiLlama's latest November 19 read puts TVL down 4.62% in 24 hours from $11.2 million recorded earlier today, with perps volume at $238,246 in 24 hours, Temple still largest at $5.89 million ahead of Alpend at $1.83 million and Cantex at $1.75 million across 8 tracked protocols (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0801, with a market cap of $3.21B (rank 25) and 24h volume of $7.54M, down 2.08% in 24 hours with circulating supply of 40,087,101,760 CC at the 11:36 PM UTC November 19 read; milestone: 24h network rewards reached 15.0M CC, up from 14.4M CC in the 5:42 PM edition, with live throughput at 7.00 transactions per second, total transactions at 606.4M and total burned at 6.12B CC (Kaavon, reporting CoinGecko figures, for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 6:42 PM ET)<br/><br/>- **Canton Risk Engine seeks 1,560,870 Canton Coin to bring governed risk parameters to Canton lending and vaults** — Proposal #665 from Woof, builders of DeFi infrastructure for Compound, would deliver an on-chain risk-parameter Registry in Solidity where risk-reducing changes apply after approval and loosening changes wait a full timelock, an ERC-4626 vault and lending market integrated with the Registry on Zenith testnet plus a Daml governance example, and an open simulator and self-hostable dashboard; Milestone 3 is 40% of the request (624,348 CC) and pays only on committee acceptance plus a publicly confirmed integration by an external Canton DeFi team, and the proposal is not yet funded and still seeks a Tech &amp; Ops champion (Canton Network Forum)<br/>- **A Delegated Automation proposal would make Canton delegation a scoped, revocable grant enforced on the ledger** — The reusable Daml standard would let a user authorise another party, such as an automation operator, to execute one specific action on their behalf, with each grant bounded by max executions, expiry and cooldown plus app-defined rules enforced on-ledger so a faulty or compromised runner cannot exceed what was granted, alongside a UI dashboard to view and revoke grants; it is seeking a champion (Canton Network Forum)<br/>- **Dedaub seeks a champion for DamlSec, a tool to check compiled Daml packages for security problems before deployment** — The revised proposal under RFP 22 remains a proposal with no new approval established; Dedaub says the original request was closed during the Development Fund transition (CCTools)<br/>- **Canton DeFi locked value eases to $10.99 million as 24-hour DEX volume rises to $17.12 million** — DefiLlama&#x27;s latest November 19 read puts TVL down 4.62% in 24 hours from $11.2 million recorded earlier today, with perps volume at $238,246 in 24 hours, Temple still largest at $5.89 million ahead of Alpend at $1.83 million and Cantex at $1.75 million across 8 tracked protocols (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0801, with a market cap of $3.21B (rank 25) and 24h volume of $7.54M, down 2.08% in 24 hours with circulating supply of 40,087,101,760 CC at the 11:36 PM UTC November 19 read; milestone: 24h network rewards reached 15.0M CC, up from 14.4M CC in the 5:42 PM edition, with live throughput at 7.00 transactions per second, total transactions at 606.4M and total burned at 6.12B CC (Kaavon, reporting CoinGecko figures, for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-19T18:42:00-05:00",
+      "date_modified": "2026-11-19T18:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "665",
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 6:42 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 6:42 PM ET)\n\n- **Canton Risk Engine seeks 1,560,870 Canton Coin to bring governed risk parameters to Canton lending and vaults** — Proposal #665 from Woof, builders of DeFi infrastructure for Compound, would deliver an on-chain risk-parameter Registry in Solidity where risk-reducing changes apply after approval and loosening changes wait a full timelock, an ERC-4626 vault and lending market integrated with the Registry on Zenith testnet plus a Daml governance example, and an open simulator and self-hostable dashboard; Milestone 3 is 40% of the request (624,348 CC) and pays only on committee acceptance plus a publicly confirmed integration by an external Canton DeFi team, and the proposal is not yet funded and still seeks a Tech & Ops champion (Canton Network Forum)\n- **A Delegated Automation proposal would make Canton delegation a scoped, revocable grant enforced on the ledger** — The reusable Daml standard would let a user authorise another party, such as an automation operator, to execute one specific action on their behalf, with each grant bounded by max executions, expiry and cooldown plus app-defined rules enforced on-ledger so a faulty or compromised runner cannot exceed what was granted, alongside a UI dashboard to view and revoke grants; it is seeking a champion (Canton Network Forum)\n- **Dedaub seeks a champion for DamlSec, a tool to check compiled Daml packages for security problems before deployment** — The revised proposal under RFP 22 remains a proposal with no new approval established; Dedaub says the original request was closed during the Development Fund transition (CCTools)\n- **Canton DeFi locked value eases to $10.99 million as 24-hour DEX volume rises to $17.12 million** — DefiLlama's latest November 19 read puts TVL down 4.62% in 24 hours from $11.2 million recorded earlier today, with perps volume at $238,246 in 24 hours, Temple still largest at $5.89 million ahead of Alpend at $1.83 million and Cantex at $1.75 million across 8 tracked protocols (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0801, with a market cap of $3.21B (rank 25) and 24h volume of $7.54M, down 2.08% in 24 hours with circulating supply of 40,087,101,760 CC at the 11:36 PM UTC November 19 read; milestone: 24h network rewards reached 15.0M CC, up from 14.4M CC in the 5:42 PM edition, with live throughput at 7.00 transactions per second, total transactions at 606.4M and total burned at 6.12B CC (Kaavon, reporting CoinGecko figures, for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T18:42:00-05:00",
+      "kind": "briefing"
+    },
+    {
+      "id": "canton-2026-11-19_1742-est",
+      "slug": "r-tli-splits-a-canton-validator-s-keys-across-a-threshold-cluster-so-no-single-machine-eve",
+      "url": "https://canton.w3ai.io/feed/r-tli-splits-a-canton-validator-s-keys-across-a-threshold-cluster-so-no-single-machine-eve",
+      "title": "Rütli splits a Canton validator's keys across a threshold cluster so no single machine ever holds the whole key",
+      "content_text": "Canton Signal Feed (Nov 19, 2026 · 5:42 PM ET)\n\n- **Rütli splits a Canton validator's keys across a threshold cluster so no single machine ever holds the whole key** — Stakecraft's open-source, self-hosted KMS (Apache-2.0) holds namespace and signing keys as FROST-Ed25519 shares across a t-of-n cosigner cluster, plugs into an unmodified participant through the KMS Driver SPI, and lets an existing validator migrate in without changing its namespace or party IDs; a Splice 0.9.0 / Canton 3.6.1 DevNet validator has run on it since October 7, the internal review is done, and the RFP 26 proposal would fund a Cure53 audit with a public report, a TestNet run of at least four weeks and a 1.0 release — it is not externally audited yet and Stakecraft warns against putting production authority keys behind it until that audit is done (Canton Network Forum)\n- **OpenZeppelin's Canton library and four application designs pass Development Fund review** — The open-source Daml contracts library, released under MIT and implementing Token Standard V2 (CIP-0112), is available now and was tested together on LocalNet; the four reviewed designs — a private exchange with atomic settlement, a lending market, cross-chain stablecoin payments and confidential sealed-bid auctions — were reviewed and approved by Digital Asset but still need implementation, and security audits are planned for the next phase rather than completed (CCTools)\n- **Canton Flash Liquidity seeks a champion for an uncollateralised borrow-and-repay primitive that settles in one atomic transaction** — The RFP 13 proposal would let a borrower draw funds with no collateral, put them to work and repay principal plus fee in a single borrower-submitted transaction on Token Standard V2 (CIP-0112) rails; if repayment falls short the whole transaction is rejected and the pool is untouched (Canton Network Forum)\n- **QUADRILLIONS runs a $3,000 community campaign on Canton through November 28, with 6,447 joined so far** — The meme coin launched on Supanova, completed its bonding curve there and now trades in a liquidity pool; the campaign pays the 30 best posts $50 each in QUADRILLIONS and draws 60 further $25 winners among everyone else who completes every task (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.0804, with a market cap of $3.22B (rank 25) and 24h volume of $7.6M, down 1.29% in 24 hours with a range of $0.0796 to $0.0836 and circulating supply of 40.09B CC; milestone: 24h network rewards reached 14.4M CC, up from 13.7M CC earlier today, with validators at 1.6K and live throughput at 2.00 transactions per second (Blockdeck for market data; CantonNews for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 19, 2026 · 5:42 PM ET)<br/><br/>- **Rütli splits a Canton validator&#x27;s keys across a threshold cluster so no single machine ever holds the whole key** — Stakecraft&#x27;s open-source, self-hosted KMS (Apache-2.0) holds namespace and signing keys as FROST-Ed25519 shares across a t-of-n cosigner cluster, plugs into an unmodified participant through the KMS Driver SPI, and lets an existing validator migrate in without changing its namespace or party IDs; a Splice 0.9.0 / Canton 3.6.1 DevNet validator has run on it since October 7, the internal review is done, and the RFP 26 proposal would fund a Cure53 audit with a public report, a TestNet run of at least four weeks and a 1.0 release — it is not externally audited yet and Stakecraft warns against putting production authority keys behind it until that audit is done (Canton Network Forum)<br/>- **OpenZeppelin&#x27;s Canton library and four application designs pass Development Fund review** — The open-source Daml contracts library, released under MIT and implementing Token Standard V2 (CIP-0112), is available now and was tested together on LocalNet; the four reviewed designs — a private exchange with atomic settlement, a lending market, cross-chain stablecoin payments and confidential sealed-bid auctions — were reviewed and approved by Digital Asset but still need implementation, and security audits are planned for the next phase rather than completed (CCTools)<br/>- **Canton Flash Liquidity seeks a champion for an uncollateralised borrow-and-repay primitive that settles in one atomic transaction** — The RFP 13 proposal would let a borrower draw funds with no collateral, put them to work and repay principal plus fee in a single borrower-submitted transaction on Token Standard V2 (CIP-0112) rails; if repayment falls short the whole transaction is rejected and the pool is untouched (Canton Network Forum)<br/>- **QUADRILLIONS runs a $3,000 community campaign on Canton through November 28, with 6,447 joined so far** — The meme coin launched on Supanova, completed its bonding curve there and now trades in a liquidity pool; the campaign pays the 30 best posts $50 each in QUADRILLIONS and draws 60 further $25 winners among everyone else who completes every task (CCTools)<br/><br/>Network: Canton Coin (CC) trades at $0.0804, with a market cap of $3.22B (rank 25) and 24h volume of $7.6M, down 1.29% in 24 hours with a range of $0.0796 to $0.0836 and circulating supply of 40.09B CC; milestone: 24h network rewards reached 14.4M CC, up from 13.7M CC earlier today, with validators at 1.6K and live throughput at 2.00 transactions per second (Blockdeck for market data; CantonNews for the milestone)</p>",
+      "date_published": "2026-11-19T17:42:00-05:00",
+      "date_modified": "2026-11-19T17:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 19, 2026 · 5:42 PM ET",
+      "body": "Canton Signal Feed (Nov 19, 2026 · 5:42 PM ET)\n\n- **Rütli splits a Canton validator's keys across a threshold cluster so no single machine ever holds the whole key** — Stakecraft's open-source, self-hosted KMS (Apache-2.0) holds namespace and signing keys as FROST-Ed25519 shares across a t-of-n cosigner cluster, plugs into an unmodified participant through the KMS Driver SPI, and lets an existing validator migrate in without changing its namespace or party IDs; a Splice 0.9.0 / Canton 3.6.1 DevNet validator has run on it since October 7, the internal review is done, and the RFP 26 proposal would fund a Cure53 audit with a public report, a TestNet run of at least four weeks and a 1.0 release — it is not externally audited yet and Stakecraft warns against putting production authority keys behind it until that audit is done (Canton Network Forum)\n- **OpenZeppelin's Canton library and four application designs pass Development Fund review** — The open-source Daml contracts library, released under MIT and implementing Token Standard V2 (CIP-0112), is available now and was tested together on LocalNet; the four reviewed designs — a private exchange with atomic settlement, a lending market, cross-chain stablecoin payments and confidential sealed-bid auctions — were reviewed and approved by Digital Asset but still need implementation, and security audits are planned for the next phase rather than completed (CCTools)\n- **Canton Flash Liquidity seeks a champion for an uncollateralised borrow-and-repay primitive that settles in one atomic transaction** — The RFP 13 proposal would let a borrower draw funds with no collateral, put them to work and repay principal plus fee in a single borrower-submitted transaction on Token Standard V2 (CIP-0112) rails; if repayment falls short the whole transaction is rejected and the pool is untouched (Canton Network Forum)\n- **QUADRILLIONS runs a $3,000 community campaign on Canton through November 28, with 6,447 joined so far** — The meme coin launched on Supanova, completed its bonding curve there and now trades in a liquidity pool; the campaign pays the 30 best posts $50 each in QUADRILLIONS and draws 60 further $25 winners among everyone else who completes every task (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.0804, with a market cap of $3.22B (rank 25) and 24h volume of $7.6M, down 1.29% in 24 hours with a range of $0.0796 to $0.0836 and circulating supply of 40.09B CC; milestone: 24h network rewards reached 14.4M CC, up from 13.7M CC earlier today, with validators at 1.6K and live throughput at 2.00 transactions per second (Blockdeck for market data; CantonNews for the milestone)",
+      "image_url": null,
+      "published": "2026-11-19T17:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-19_1642-est",
       "slug": "canborsa-opens-its-road-to-1-million-creator-campaign-with-a-prize-pool-that-grows-to-10-0",
@@ -4767,70 +4832,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Tuesday, March 2, 2027\nTestNet Breaking Config Changes (0.12 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981625557",
-      "slug": "devnet-upgrades-to-splice-0-12-0",
-      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-12-0",
-      "title": "DevNet upgrades to Splice 0.12.0",
-      "content_text": "Canton Calendar — Monday, February 1, 2027\nDevNet upgrades to Splice 0.12.0\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, February 1, 2027<br/>DevNet upgrades to Splice 0.12.0<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, February 1, 2027\nDevNet upgrades to Splice 0.12.0\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981598580",
-      "slug": "mainnet-topology-freeze-0-11",
-      "url": "https://canton.w3ai.io/feed/mainnet-topology-freeze-0-11",
-      "title": "MainNet Topology Freeze (0.11)",
-      "content_text": "Canton Calendar — Friday, February 5, 2027\nMainNet Topology Freeze (0.11)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Friday, February 5, 2027<br/>MainNet Topology Freeze (0.11)<br/>Protocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Friday, February 5, 2027\nMainNet Topology Freeze (0.11)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
