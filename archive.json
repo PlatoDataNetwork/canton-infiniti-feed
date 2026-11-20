@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-20_1612-est",
+      "slug": "canton-venues-mcp-server-offers-12-read-only-tools-for-live-canton-dex-data-with-no-key-re",
+      "title": "Canton Venues MCP server offers 12 read-only tools for live Canton DEX data, with no key required",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 4:12 PM ET)\n\n- **Canton Venues MCP server offers 12 read-only tools for live Canton DEX data, with no key required** — The server, first seen on November 2 and listed on the Official MCP Registry, exposes live Canton decentralised-exchange data to agent tools: token lists with price, liquidity and volume, a market overview with Canton Coin's own volume on each venue, best-execution quotes across AMM pools and order books, exit-cost ladders for selling into dollars, pool data for Cantex, Tradecraft, OneSwap and Pool Party, perpetuals data for Rocky, Ekiden and Canborsa, premium and spread checks, and alerts for peg breaks and large hourly moves; every listed tool is read-only and nothing is executed (InvokeRank)\n- **Live MainNet rewards reach 13.2 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live dashboard read puts rewards at 13.2 million Canton Coin over 24 hours, up from 11.1 million recorded in the early-afternoon read today; the figure is the dashboard's rolling 24-hour reward total, not a new issuance schedule (CantonNews)\n- **Canton Coin futures liquidations rise to $30,480 in the latest aggregator read, almost all of them longs** — The latest read puts 24-hour liquidations at $30,480, with $30,300 in longs and $172.52 in shorts, up from $29,180 in the earlier read today; futures open interest stands at $32.66 million with an open-interest-weighted funding rate of -0.0122% per four hours, indicating shorts are paying longs (Coinfuty)\n- **Cantex records 114,154 swaps over 24 hours as Canton's largest AMM by volume in the latest venue read** — The November 20 venue read at 21:15 UTC puts Cantex spot volume at $1.3 million over 24 hours, a 7.0% share of tracked spot volume, with $2 million of liquidity across 27 Canton Coin pools and 24 tokens holding $1,000 or more of liquidity; its largest pool is CC/USDC.B at $487,000 (Canton Venues)\n\nNetwork: Canton Coin (CC) trades at $0.07481, with a market cap of $3.00 billion and 24-hour trading volume of $15.97 million, down 8.61% in 24 hours, with circulating supply of 40.09 billion CC at the November 20 read; as a network milestone, Canton counts 11 active governance proposals on the CantonNews live dashboard (Crypto.com for market data; CantonNews for the milestone).",
+      "timestamp": "2026-11-20T16:12:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-venues-mcp-server-offers-12-read-only-tools-for-live-canton-dex-data-with-no-key-re",
+      "image": null
+    },
+    {
       "id": "canton-2026-11-20_1542-est",
       "slug": "canton-coin-perpetual-open-interest-stands-at-23-77-million-in-the-latest-screener-read-wi",
       "title": "Canton Coin perpetual open interest stands at $23.77 million in the latest screener read, with shorts paying longs",
