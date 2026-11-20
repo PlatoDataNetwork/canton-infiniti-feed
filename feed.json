@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-20T13:42:00-05:00",
+  "updated": "2026-11-20T14:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-20_1412-est",
+      "slug": "redstone-joins-the-dtc-digital-assets-solutions-industry-working-group",
+      "url": "https://canton.w3ai.io/feed/redstone-joins-the-dtc-digital-assets-solutions-industry-working-group",
+      "title": "RedStone joins the DTC Digital Assets Solutions Industry Working Group",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 2:12 PM ET)\n\n- **RedStone joins the DTC Digital Assets Solutions Industry Working Group** — The oracle provider has joined the industry discussion forum convened around DTC's digital-assets work; participation in the working group is a forum role and does not establish a new production deployment on Canton or a DTCC endorsement of RedStone's products (CCTools)\n- **Canton Coin futures liquidations rise to $29,180 as open interest eases to $32.90 million** — The latest derivatives read puts 24-hour liquidations at $29,180, with $29,000 in longs accounting for 99 percent, up from $19,080 in the earlier read today; futures open interest stands at $32.90 million with an OI-weighted funding rate of -0.0150 percent, futures volume of $15.87 million against spot volume of $5.43 million (CoinGlass)\n- **Canton 3.7.4 improves Ledger API indexer initialisation and pruning, with a database migration at startup** — The November 18 release fixes database connection, peer-to-peer connection and synchronizer-upgrade issues and identifies API-breaking changes, so participant operators should review their upgrade requirements before applying it; the release notes set out the changes rather than confirming every deployment has been updated (CCTools)\n- **Canton DeFi locked value eases to $10.68 million as 24-hour DEX volume rises to $18.57 million** — The latest chain read puts total value locked at $10.68 million, down 6.32 percent in 24 hours and down from $10.83 million in the earlier read today, across eight tracked protocols, with Temple the largest at $5.71 million, followed by Alpend at $1.8 million and Cantex at $1.66 million; seven-day DEX volume totals $126.74 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.07415, with a market cap of $2.97 billion (rank 31) and 24-hour trading volume of $8.91 million, down 8.97% in 24 hours, with circulating supply of 40,092,479,067 CC; milestone: Canton perps volume stands at $235,998 over 24 hours, with $1.69 million over seven days across the tracked venues (The Block for market data; DefiLlama for the milestone)",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 2:12 PM ET)<br/><br/>- **RedStone joins the DTC Digital Assets Solutions Industry Working Group** — The oracle provider has joined the industry discussion forum convened around DTC&#x27;s digital-assets work; participation in the working group is a forum role and does not establish a new production deployment on Canton or a DTCC endorsement of RedStone&#x27;s products (CCTools)<br/>- **Canton Coin futures liquidations rise to $29,180 as open interest eases to $32.90 million** — The latest derivatives read puts 24-hour liquidations at $29,180, with $29,000 in longs accounting for 99 percent, up from $19,080 in the earlier read today; futures open interest stands at $32.90 million with an OI-weighted funding rate of -0.0150 percent, futures volume of $15.87 million against spot volume of $5.43 million (CoinGlass)<br/>- **Canton 3.7.4 improves Ledger API indexer initialisation and pruning, with a database migration at startup** — The November 18 release fixes database connection, peer-to-peer connection and synchronizer-upgrade issues and identifies API-breaking changes, so participant operators should review their upgrade requirements before applying it; the release notes set out the changes rather than confirming every deployment has been updated (CCTools)<br/>- **Canton DeFi locked value eases to $10.68 million as 24-hour DEX volume rises to $18.57 million** — The latest chain read puts total value locked at $10.68 million, down 6.32 percent in 24 hours and down from $10.83 million in the earlier read today, across eight tracked protocols, with Temple the largest at $5.71 million, followed by Alpend at $1.8 million and Cantex at $1.66 million; seven-day DEX volume totals $126.74 million (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.07415, with a market cap of $2.97 billion (rank 31) and 24-hour trading volume of $8.91 million, down 8.97% in 24 hours, with circulating supply of 40,092,479,067 CC; milestone: Canton perps volume stands at $235,998 over 24 hours, with $1.69 million over seven days across the tracked venues (The Block for market data; DefiLlama for the milestone)</p>",
+      "date_published": "2026-11-20T14:12:00-05:00",
+      "date_modified": "2026-11-20T14:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 2:12 PM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 2:12 PM ET)\n\n- **RedStone joins the DTC Digital Assets Solutions Industry Working Group** — The oracle provider has joined the industry discussion forum convened around DTC's digital-assets work; participation in the working group is a forum role and does not establish a new production deployment on Canton or a DTCC endorsement of RedStone's products (CCTools)\n- **Canton Coin futures liquidations rise to $29,180 as open interest eases to $32.90 million** — The latest derivatives read puts 24-hour liquidations at $29,180, with $29,000 in longs accounting for 99 percent, up from $19,080 in the earlier read today; futures open interest stands at $32.90 million with an OI-weighted funding rate of -0.0150 percent, futures volume of $15.87 million against spot volume of $5.43 million (CoinGlass)\n- **Canton 3.7.4 improves Ledger API indexer initialisation and pruning, with a database migration at startup** — The November 18 release fixes database connection, peer-to-peer connection and synchronizer-upgrade issues and identifies API-breaking changes, so participant operators should review their upgrade requirements before applying it; the release notes set out the changes rather than confirming every deployment has been updated (CCTools)\n- **Canton DeFi locked value eases to $10.68 million as 24-hour DEX volume rises to $18.57 million** — The latest chain read puts total value locked at $10.68 million, down 6.32 percent in 24 hours and down from $10.83 million in the earlier read today, across eight tracked protocols, with Temple the largest at $5.71 million, followed by Alpend at $1.8 million and Cantex at $1.66 million; seven-day DEX volume totals $126.74 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.07415, with a market cap of $2.97 billion (rank 31) and 24-hour trading volume of $8.91 million, down 8.97% in 24 hours, with circulating supply of 40,092,479,067 CC; milestone: Canton perps volume stands at $235,998 over 24 hours, with $1.69 million over seven days across the tracked venues (The Block for market data; DefiLlama for the milestone)",
+      "image_url": null,
+      "published": "2026-11-20T14:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-20_1342-est",
       "slug": "splice-s-canton-compatibility-changes-make-selected-interfaces-accessible-and-turn-off-sta",
@@ -4801,38 +4833,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, December 7, 2026\nTestNet upgrades to Splice 0.10.4\nWeekly Upgrades · TestNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-12981644484",
-      "slug": "mainnet-lsu-0-12-required-march-2027",
-      "url": "https://canton.w3ai.io/feed/mainnet-lsu-0-12-required-march-2027",
-      "title": "MainNet LSU (0.12 Required) (March 2027)",
-      "content_text": "Canton Calendar — Saturday, March 6, 2027\nMainNet LSU (0.12 Required) (March 2027)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Saturday, March 6, 2027<br/>MainNet LSU (0.12 Required) (March 2027)<br/>Protocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Saturday, March 6, 2027\nMainNet LSU (0.12 Required) (March 2027)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
