@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-20T15:42:00-05:00",
+  "updated": "2026-11-20T16:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-20_1612-est",
+      "slug": "canton-venues-mcp-server-offers-12-read-only-tools-for-live-canton-dex-data-with-no-key-re",
+      "url": "https://canton.w3ai.io/feed/canton-venues-mcp-server-offers-12-read-only-tools-for-live-canton-dex-data-with-no-key-re",
+      "title": "Canton Venues MCP server offers 12 read-only tools for live Canton DEX data, with no key required",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 4:12 PM ET)\n\n- **Canton Venues MCP server offers 12 read-only tools for live Canton DEX data, with no key required** — The server, first seen on November 2 and listed on the Official MCP Registry, exposes live Canton decentralised-exchange data to agent tools: token lists with price, liquidity and volume, a market overview with Canton Coin's own volume on each venue, best-execution quotes across AMM pools and order books, exit-cost ladders for selling into dollars, pool data for Cantex, Tradecraft, OneSwap and Pool Party, perpetuals data for Rocky, Ekiden and Canborsa, premium and spread checks, and alerts for peg breaks and large hourly moves; every listed tool is read-only and nothing is executed (InvokeRank)\n- **Live MainNet rewards reach 13.2 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live dashboard read puts rewards at 13.2 million Canton Coin over 24 hours, up from 11.1 million recorded in the early-afternoon read today; the figure is the dashboard's rolling 24-hour reward total, not a new issuance schedule (CantonNews)\n- **Canton Coin futures liquidations rise to $30,480 in the latest aggregator read, almost all of them longs** — The latest read puts 24-hour liquidations at $30,480, with $30,300 in longs and $172.52 in shorts, up from $29,180 in the earlier read today; futures open interest stands at $32.66 million with an open-interest-weighted funding rate of -0.0122% per four hours, indicating shorts are paying longs (Coinfuty)\n- **Cantex records 114,154 swaps over 24 hours as Canton's largest AMM by volume in the latest venue read** — The November 20 venue read at 21:15 UTC puts Cantex spot volume at $1.3 million over 24 hours, a 7.0% share of tracked spot volume, with $2 million of liquidity across 27 Canton Coin pools and 24 tokens holding $1,000 or more of liquidity; its largest pool is CC/USDC.B at $487,000 (Canton Venues)\n\nNetwork: Canton Coin (CC) trades at $0.07481, with a market cap of $3.00 billion and 24-hour trading volume of $15.97 million, down 8.61% in 24 hours, with circulating supply of 40.09 billion CC at the November 20 read; as a network milestone, Canton counts 11 active governance proposals on the CantonNews live dashboard (Crypto.com for market data; CantonNews for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 4:12 PM ET)<br/><br/>- **Canton Venues MCP server offers 12 read-only tools for live Canton DEX data, with no key required** — The server, first seen on November 2 and listed on the Official MCP Registry, exposes live Canton decentralised-exchange data to agent tools: token lists with price, liquidity and volume, a market overview with Canton Coin&#x27;s own volume on each venue, best-execution quotes across AMM pools and order books, exit-cost ladders for selling into dollars, pool data for Cantex, Tradecraft, OneSwap and Pool Party, perpetuals data for Rocky, Ekiden and Canborsa, premium and spread checks, and alerts for peg breaks and large hourly moves; every listed tool is read-only and nothing is executed (InvokeRank)<br/>- **Live MainNet rewards reach 13.2 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live dashboard read puts rewards at 13.2 million Canton Coin over 24 hours, up from 11.1 million recorded in the early-afternoon read today; the figure is the dashboard&#x27;s rolling 24-hour reward total, not a new issuance schedule (CantonNews)<br/>- **Canton Coin futures liquidations rise to $30,480 in the latest aggregator read, almost all of them longs** — The latest read puts 24-hour liquidations at $30,480, with $30,300 in longs and $172.52 in shorts, up from $29,180 in the earlier read today; futures open interest stands at $32.66 million with an open-interest-weighted funding rate of -0.0122% per four hours, indicating shorts are paying longs (Coinfuty)<br/>- **Cantex records 114,154 swaps over 24 hours as Canton&#x27;s largest AMM by volume in the latest venue read** — The November 20 venue read at 21:15 UTC puts Cantex spot volume at $1.3 million over 24 hours, a 7.0% share of tracked spot volume, with $2 million of liquidity across 27 Canton Coin pools and 24 tokens holding $1,000 or more of liquidity; its largest pool is CC/USDC.B at $487,000 (Canton Venues)<br/><br/>Network: Canton Coin (CC) trades at $0.07481, with a market cap of $3.00 billion and 24-hour trading volume of $15.97 million, down 8.61% in 24 hours, with circulating supply of 40.09 billion CC at the November 20 read; as a network milestone, Canton counts 11 active governance proposals on the CantonNews live dashboard (Crypto.com for market data; CantonNews for the milestone).</p>",
+      "date_published": "2026-11-20T16:12:00-05:00",
+      "date_modified": "2026-11-20T16:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 4:12 PM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 4:12 PM ET)\n\n- **Canton Venues MCP server offers 12 read-only tools for live Canton DEX data, with no key required** — The server, first seen on November 2 and listed on the Official MCP Registry, exposes live Canton decentralised-exchange data to agent tools: token lists with price, liquidity and volume, a market overview with Canton Coin's own volume on each venue, best-execution quotes across AMM pools and order books, exit-cost ladders for selling into dollars, pool data for Cantex, Tradecraft, OneSwap and Pool Party, perpetuals data for Rocky, Ekiden and Canborsa, premium and spread checks, and alerts for peg breaks and large hourly moves; every listed tool is read-only and nothing is executed (InvokeRank)\n- **Live MainNet rewards reach 13.2 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live dashboard read puts rewards at 13.2 million Canton Coin over 24 hours, up from 11.1 million recorded in the early-afternoon read today; the figure is the dashboard's rolling 24-hour reward total, not a new issuance schedule (CantonNews)\n- **Canton Coin futures liquidations rise to $30,480 in the latest aggregator read, almost all of them longs** — The latest read puts 24-hour liquidations at $30,480, with $30,300 in longs and $172.52 in shorts, up from $29,180 in the earlier read today; futures open interest stands at $32.66 million with an open-interest-weighted funding rate of -0.0122% per four hours, indicating shorts are paying longs (Coinfuty)\n- **Cantex records 114,154 swaps over 24 hours as Canton's largest AMM by volume in the latest venue read** — The November 20 venue read at 21:15 UTC puts Cantex spot volume at $1.3 million over 24 hours, a 7.0% share of tracked spot volume, with $2 million of liquidity across 27 Canton Coin pools and 24 tokens holding $1,000 or more of liquidity; its largest pool is CC/USDC.B at $487,000 (Canton Venues)\n\nNetwork: Canton Coin (CC) trades at $0.07481, with a market cap of $3.00 billion and 24-hour trading volume of $15.97 million, down 8.61% in 24 hours, with circulating supply of 40.09 billion CC at the November 20 read; as a network milestone, Canton counts 11 active governance proposals on the CantonNews live dashboard (Crypto.com for market data; CantonNews for the milestone).",
+      "image_url": null,
+      "published": "2026-11-20T16:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-20_1542-est",
       "slug": "canton-coin-perpetual-open-interest-stands-at-23-77-million-in-the-latest-screener-read-wi",
@@ -4801,38 +4833,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, March 15, 2027\nDevNet New Daml models introduced by Splice 0.13.x take effect\nSplice Daml Model Effectivity · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-13018682963",
-      "slug": "mainnet-upgrades-to-splice-0-10-3",
-      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-3",
-      "title": "MainNet upgrades to Splice 0.10.3",
-      "content_text": "Canton Calendar — Monday, December 7, 2026\nMainNet upgrades to Splice 0.10.3\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, December 7, 2026<br/>MainNet upgrades to Splice 0.10.3<br/>Weekly Upgrades · MainNet · Confirmed<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, December 7, 2026\nMainNet upgrades to Splice 0.10.3\nWeekly Upgrades · MainNet · Confirmed\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
