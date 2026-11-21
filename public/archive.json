@@ -1,6 +1,49 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-21_1106-est",
+      "slug": "canton-coin-futures-liquidations-ease-to-38-620-almost-all-of-them-longs-as-open-interest",
+      "title": "Canton Coin futures liquidations ease to $38,620, almost all of them longs, as open interest holds at $33.59 million",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 11:06 AM ET)\n\n- **Canton Coin futures liquidations ease to $38,620, almost all of them longs, as open interest holds at $33.59 million** — CoinGlass's November 21 read puts 24-hour liquidations at $38,620, with $38,600 in longs and $17.95 in shorts, down from $42,640 recorded in the 1012 edition, with futures open interest at $33.59 million, futures volume at $16.25 million against spot volume at $6.23 million and an open-interest-weighted funding rate of 0.0054%, up from 0.0018% in the 1012 edition (CoinGlass)\n- **Live MainNet throughput reads 5.00 transactions per second as 24-hour rewards climb to 10.1 million Canton Coin** — The live network stand on November 21 puts current throughput at 5.00 transactions per second, up from 1.00 in the 1012 edition's read, alongside 13 Super Validators, 11 active proposals and 24-hour rewards of 10.1 million Canton Coin, up from 9.9 million in the 1012 edition; the throughput and rewards figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n- **An eight-exchange Canton Coin screen puts perpetual open interest at $24.23 million with average funding at negative 0.0056%** — JustScreener's November 21 screen, covering eight exchanges, puts perpetual open interest at 318 million CC, or $24.23 million, with Binance holding 41.3% of it, average funding at negative 0.0056% with shorts paying longs, and 24-hour turnover at $16.76 million; the eight-exchange set is narrower than the wider CoinGlass aggregate, so the totals are not comparable (JustScreener)\n\nNetwork: Canton Coin (CC) trades at $0.07653, with a market cap of about $3.07 billion (rank 22) and 24-hour spot volume of $6.23 million against futures volume of $16.25 million, up 1.18% in 24 hours, with circulating supply of about 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions stand at 607.8 million on the live network stand (CoinGlass for market data; CantonNews for the milestone).\n\nOriginal sources:\nCoinGlass: https://www.coinglass.com/currencies/CC\nCantonNews: https://cantonnews.org/today\nJustScreener: https://justscreener.com/en/market/CC",
+      "timestamp": "2026-11-21T11:06:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-futures-liquidations-ease-to-38-620-almost-all-of-them-longs-as-open-interest",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "JustScreener",
+          "url": "https://justscreener.com/en/market/CC"
+        }
+      ],
+      "external_url": "https://www.coinglass.com/currencies/CC",
+      "source_url": "https://www.coinglass.com/currencies/CC",
+      "original_url": "https://www.coinglass.com/currencies/CC",
+      "source": "CoinGlass",
+      "publisher": "CoinGlass",
+      "links": [
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "JustScreener",
+          "url": "https://justscreener.com/en/market/CC"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-21_1042-est",
       "slug": "canton-coin-s-daily-technical-read-turns-less-bearish-with-one-bullish-indicator-group-and",
       "title": "Canton Coin's daily technical read turns less bearish, with one bullish indicator group and the relative strength index back at 33.0",
