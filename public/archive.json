@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-21_1551-est",
+      "slug": "cip-0129-read-from-the-builder-s-side-production-traffic-on-every-mainnet-synchronizer-wil",
+      "title": "CIP-0129, read from the builder's side: production traffic on every MainNet synchronizer will burn Canton Coin",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 3:51 PM ET)\n\n- **CIP-0129, read from the builder's side: production traffic on every MainNet synchronizer will burn Canton Coin** — A builder walkthrough published November 21 sets out the tentative 2027 rollout, under which production traffic on every MainNet synchronizer burns Canton Coin and any team will be able to launch its own synchronizer without negotiating terms, with guidance on how to plan an application around it (CantonNews)\n- **Canton Coin futures liquidations ease to $21,580, all of them longs, as the open-interest-weighted funding rate deepens to negative 0.0128%** — CoinGlass's November 21 read puts 24-hour liquidations at $21,580, with $21,560 in longs and $17.95 in shorts, down from $23,360 recorded in the 3:21 PM edition, with futures open interest at $33.45 million, futures volume at $13.35 million against spot volume at $4.89 million and an open-interest-weighted funding rate of negative 0.0128%, about negative 14.1% annualised, with shorts paying longs (CoinGlass)\n- **Temple's locked value climbs 4.27% in 24 hours to $5.92 million as Canton DeFi locked value reads $11.04 million** — DefiLlama's November 21 chain read puts total value locked at $11.04 million, up 0.14% in 24 hours, with DEX volume at $18.44 million over 24 hours and perpetuals volume at $219,251, across eight tracked protocols with Temple largest at $5.92 million, ahead of Alpend at $1.84 million and Cantex at $1.70 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0762, with a market cap of $3.06 billion and 24-hour trading volume of $7.54 million, up 4.06% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, 16.0 million CC were burned in the 24-hour window to 21:00 UTC, against 15.1 million CC in app rewards over the same window (CCTools for market data and the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCCTools: https://cctools.network/network",
+      "timestamp": "2026-11-21T15:51:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/cip-0129-read-from-the-builder-s-side-production-traffic-on-every-mainnet-synchronizer-wil",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "external_url": "https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn",
+      "source_url": "https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn",
+      "original_url": "https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn",
+      "source": "CantonNews",
+      "publisher": "CantonNews",
+      "links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-21_1536-est",
       "slug": "canton-coin-s-fully-diluted-valuation-reads-7-62-billion-two-and-a-half-times-its-market-c",
       "title": "Canton Coin's fully diluted valuation reads $7.62 billion, two and a half times its market cap, with 60% of supply not yet minted",
