@@ -29,8 +29,79 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-21T15:36:00-05:00",
+  "updated": "2026-11-21T15:51:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-21_1551-est",
+      "slug": "cip-0129-read-from-the-builder-s-side-production-traffic-on-every-mainnet-synchronizer-wil",
+      "url": "https://canton.w3ai.io/feed/cip-0129-read-from-the-builder-s-side-production-traffic-on-every-mainnet-synchronizer-wil",
+      "title": "CIP-0129, read from the builder's side: production traffic on every MainNet synchronizer will burn Canton Coin",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 3:51 PM ET)\n\n- **CIP-0129, read from the builder's side: production traffic on every MainNet synchronizer will burn Canton Coin** — A builder walkthrough published November 21 sets out the tentative 2027 rollout, under which production traffic on every MainNet synchronizer burns Canton Coin and any team will be able to launch its own synchronizer without negotiating terms, with guidance on how to plan an application around it (CantonNews)\n- **Canton Coin futures liquidations ease to $21,580, all of them longs, as the open-interest-weighted funding rate deepens to negative 0.0128%** — CoinGlass's November 21 read puts 24-hour liquidations at $21,580, with $21,560 in longs and $17.95 in shorts, down from $23,360 recorded in the 3:21 PM edition, with futures open interest at $33.45 million, futures volume at $13.35 million against spot volume at $4.89 million and an open-interest-weighted funding rate of negative 0.0128%, about negative 14.1% annualised, with shorts paying longs (CoinGlass)\n- **Temple's locked value climbs 4.27% in 24 hours to $5.92 million as Canton DeFi locked value reads $11.04 million** — DefiLlama's November 21 chain read puts total value locked at $11.04 million, up 0.14% in 24 hours, with DEX volume at $18.44 million over 24 hours and perpetuals volume at $219,251, across eight tracked protocols with Temple largest at $5.92 million, ahead of Alpend at $1.84 million and Cantex at $1.70 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0762, with a market cap of $3.06 billion and 24-hour trading volume of $7.54 million, up 4.06% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, 16.0 million CC were burned in the 24-hour window to 21:00 UTC, against 15.1 million CC in app rewards over the same window (CCTools for market data and the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCCTools: https://cctools.network/network",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 3:51 PM ET)<br/><br/>- **CIP-0129, read from the builder&#x27;s side: production traffic on every MainNet synchronizer will burn Canton Coin** — A builder walkthrough published November 21 sets out the tentative 2027 rollout, under which production traffic on every MainNet synchronizer burns Canton Coin and any team will be able to launch its own synchronizer without negotiating terms, with guidance on how to plan an application around it (CantonNews)<br/>- **Canton Coin futures liquidations ease to $21,580, all of them longs, as the open-interest-weighted funding rate deepens to negative 0.0128%** — CoinGlass&#x27;s November 21 read puts 24-hour liquidations at $21,580, with $21,560 in longs and $17.95 in shorts, down from $23,360 recorded in the 3:21 PM edition, with futures open interest at $33.45 million, futures volume at $13.35 million against spot volume at $4.89 million and an open-interest-weighted funding rate of negative 0.0128%, about negative 14.1% annualised, with shorts paying longs (CoinGlass)<br/>- **Temple&#x27;s locked value climbs 4.27% in 24 hours to $5.92 million as Canton DeFi locked value reads $11.04 million** — DefiLlama&#x27;s November 21 chain read puts total value locked at $11.04 million, up 0.14% in 24 hours, with DEX volume at $18.44 million over 24 hours and perpetuals volume at $219,251, across eight tracked protocols with Temple largest at $5.92 million, ahead of Alpend at $1.84 million and Cantex at $1.70 million (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0762, with a market cap of $3.06 billion and 24-hour trading volume of $7.54 million, up 4.06% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, 16.0 million CC were burned in the 24-hour window to 21:00 UTC, against 15.1 million CC in app rewards over the same window (CCTools for market data and the milestone).<br/><br/>Original sources:<br/>CantonNews: https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn<br/>CoinGlass: https://www.coinglass.com/currencies/CC<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true<br/>CCTools: https://cctools.network/network</p>",
+      "date_published": "2026-11-21T15:51:00-05:00",
+      "date_modified": "2026-11-21T15:51:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn",
+      "source_url": "https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn",
+      "original_url": "https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn",
+      "source": "CantonNews",
+      "publisher": "CantonNews",
+      "links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "timestamp": "Nov 21, 2026 · 3:51 PM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 3:51 PM ET)\n\n- **CIP-0129, read from the builder's side: production traffic on every MainNet synchronizer will burn Canton Coin** — A builder walkthrough published November 21 sets out the tentative 2027 rollout, under which production traffic on every MainNet synchronizer burns Canton Coin and any team will be able to launch its own synchronizer without negotiating terms, with guidance on how to plan an application around it (CantonNews)\n- **Canton Coin futures liquidations ease to $21,580, all of them longs, as the open-interest-weighted funding rate deepens to negative 0.0128%** — CoinGlass's November 21 read puts 24-hour liquidations at $21,580, with $21,560 in longs and $17.95 in shorts, down from $23,360 recorded in the 3:21 PM edition, with futures open interest at $33.45 million, futures volume at $13.35 million against spot volume at $4.89 million and an open-interest-weighted funding rate of negative 0.0128%, about negative 14.1% annualised, with shorts paying longs (CoinGlass)\n- **Temple's locked value climbs 4.27% in 24 hours to $5.92 million as Canton DeFi locked value reads $11.04 million** — DefiLlama's November 21 chain read puts total value locked at $11.04 million, up 0.14% in 24 hours, with DEX volume at $18.44 million over 24 hours and perpetuals volume at $219,251, across eight tracked protocols with Temple largest at $5.92 million, ahead of Alpend at $1.84 million and Cantex at $1.70 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0762, with a market cap of $3.06 billion and 24-hour trading volume of $7.54 million, up 4.06% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, 16.0 million CC were burned in the 24-hour window to 21:00 UTC, against 15.1 million CC in app rewards over the same window (CCTools for market data and the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCCTools: https://cctools.network/network",
+      "image_url": null,
+      "published": "2026-11-21T15:51:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/wire/cip-0129-read-from-the-builders-side-2026-11-21-kqtqmn"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-21_1536-est",
       "slug": "canton-coin-s-fully-diluted-valuation-reads-7-62-billion-two-and-a-half-times-its-market-c",
@@ -6057,43 +6128,6 @@
       "body": "Canton Signal Feed (Nov 14, 2026 · 1:42 PM ET)\n- **Canton chain fees run at about $7,675 a day, a steady usage baseline even as market sentiment stays cold** — Crypheat's November 14 read puts daily chain fees at about $7,675, which it treats as a proxy for real demand for block space on Canton, while its composite heat score for Canton Coin sits at 5, labelled COLD, with the price down 26.0% over the past 30 days; the fee pace points to continuing network use underneath the weak price action, and the heat score is a composite sentiment gauge, not a network fundamental (Crypheat)\n- **Canton Coin spot prices narrow to 8.06% apart across exchanges, with still no arbitrage route worth taking** — ArbitrageGap's live scan at 6:43 PM UTC on November 14 puts the cheapest spot price on WEEX at $0.074775 and the dearest on Kraken at $0.080805 across 12 liquid spot exchanges, a spread narrowed from 9.06% earlier today, with no route rated worth taking after fees and the best futures route, long WhiteBIT and short Hyperliquid, at 0.71% after taker fees and flagged risky (ArbitrageGap)\n- **Canton perpetuals volume holds near a quarter-million dollars as spot DEX volume carries the chain's trading** — DefiLlama's November 14 chain read puts perpetuals volume at $250,741 over 24 hours and $1.93 million over seven days, down 73.39% on the week, against spot DEX volume of $20.56 million in 24 hours and $139.07 million over seven days, up 4.77%, with DEX-versus-CEX dominance at just 0.07% (DefiLlama)\n- **Canton Coin sits inside a defined buy zone on the daily chart, with trend still sideways** — Flicker's November 14 daily analysis, written at 4:45 PM UTC, places the price inside buy zone B1 at $0.07691 to $0.08339, scores the trend sideways at 13 of 100 with a risk score of 72 of 100, and puts the nearest support at $0.05862, 27.4% below, and the nearest resistance at $0.08680, 7.4% above; the read is a Hold with four of six factors agreeing, and is analysis, not advice (Flicker)\n\nNetwork: CC $0.0806 | Market cap $3.23B (rank 26) | 24h volume $11.87M | Supply 40.05B CC; milestone: the MainNet upgrade to Splice 0.10.0 is listed for November 16, with about 1.6K validators and 13 Super Validators on the network (BlocFolio for market data; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-14T13:42:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-14_1312-est",
-      "slug": "certik-ranks-canton-first-among-compared-blockchains-for-third-quarter-fees-at-more-than-1",
-      "url": "https://canton.w3ai.io/feed/certik-ranks-canton-first-among-compared-blockchains-for-third-quarter-fees-at-more-than-1",
-      "title": "CertiK ranks Canton first among compared blockchains for third-quarter fees, at more than $155 million",
-      "content_text": "Canton Signal Feed (Nov 14, 2026 · 1:12 PM ET)\n- **CertiK ranks Canton first among compared blockchains for third-quarter fees, at more than $155 million** — CertiK's Skynet monitoring platform recorded more than $155 million in Canton fees between July and September, the highest in its comparison, with a median daily pace of $1.71 million pointing to a high baseline rather than a few peaks; the figure measures Canton Coin burned for network services, because fees are priced in dollars per megabyte of Global Synchronizer traffic, and should not be read as revenue, while CertiK did not disclose which blockchains were in its comparison or publish issuance data alongside it (ETHNews)\n- **Canton Coin futures open interest eases to $35.82 million as liquidations reach $220,140, almost entirely longs** — Aggregated open interest fell 7.32% in 24 hours to $35.82 million, with futures volume at $19.65 million and tracked liquidations at $220,140, of which $220,000 were long positions and only $138 were shorts; positioning still leans short with an aggregate long-to-short ratio of 0.675, and Bybit holds the largest book at $11.68 million, about a third of the total, ahead of Binance at $10.49 million (Coinfuty)\n- **Current Canton traffic burns already offset 69% of new issuance, Alea Research modelling finds, up from 11% a year ago** — The modelling puts the offset at 69% of new token issuance, up from 11% a year earlier, with September's newly minted Canton Coin going 73% to top-performing applications and 14% to Super Validators, and a theoretical break-even price of $0.0752 calculated against the 648.5 million CC minted in September; adding about one-third more traffic burn to current levels would reach full balance in the model, which is a simulation, not a network result (TechFlow)\n- **Splice release notes list 0.10.2 upgrading Canton to 3.7.3, after 0.10.1 moved to Canton 3.7.2** — The current Splice release line in the Canton documentation shows 0.10.2 upgrading the underlying Canton release to 3.7.3 and 0.10.1 upgrading it to 3.7.2 with a base-image update, while 0.10.0 notes that Canton release 3.7 adds support for protocol version 37 and requires a Logical Synchronizer Upgrade to adopt it (Canton Network Docs)\n\nNetwork: CC $0.0808 | Market cap $3.24B (rank 26) | 24h volume $12.12M | Supply 40.05B CC; milestone: the MainNet upgrade to Splice 0.10.0 is listed for November 16, with about 1.6K validators and 13 Super Validators on the live MainNet counter (Kaavon for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 14, 2026 · 1:12 PM ET)<br/>- **CertiK ranks Canton first among compared blockchains for third-quarter fees, at more than $155 million** — CertiK&#x27;s Skynet monitoring platform recorded more than $155 million in Canton fees between July and September, the highest in its comparison, with a median daily pace of $1.71 million pointing to a high baseline rather than a few peaks; the figure measures Canton Coin burned for network services, because fees are priced in dollars per megabyte of Global Synchronizer traffic, and should not be read as revenue, while CertiK did not disclose which blockchains were in its comparison or publish issuance data alongside it (ETHNews)<br/>- **Canton Coin futures open interest eases to $35.82 million as liquidations reach $220,140, almost entirely longs** — Aggregated open interest fell 7.32% in 24 hours to $35.82 million, with futures volume at $19.65 million and tracked liquidations at $220,140, of which $220,000 were long positions and only $138 were shorts; positioning still leans short with an aggregate long-to-short ratio of 0.675, and Bybit holds the largest book at $11.68 million, about a third of the total, ahead of Binance at $10.49 million (Coinfuty)<br/>- **Current Canton traffic burns already offset 69% of new issuance, Alea Research modelling finds, up from 11% a year ago** — The modelling puts the offset at 69% of new token issuance, up from 11% a year earlier, with September&#x27;s newly minted Canton Coin going 73% to top-performing applications and 14% to Super Validators, and a theoretical break-even price of $0.0752 calculated against the 648.5 million CC minted in September; adding about one-third more traffic burn to current levels would reach full balance in the model, which is a simulation, not a network result (TechFlow)<br/>- **Splice release notes list 0.10.2 upgrading Canton to 3.7.3, after 0.10.1 moved to Canton 3.7.2** — The current Splice release line in the Canton documentation shows 0.10.2 upgrading the underlying Canton release to 3.7.3 and 0.10.1 upgrading it to 3.7.2 with a base-image update, while 0.10.0 notes that Canton release 3.7 adds support for protocol version 37 and requires a Logical Synchronizer Upgrade to adopt it (Canton Network Docs)<br/><br/>Network: CC $0.0808 | Market cap $3.24B (rank 26) | 24h volume $12.12M | Supply 40.05B CC; milestone: the MainNet upgrade to Splice 0.10.0 is listed for November 16, with about 1.6K validators and 13 Super Validators on the live MainNet counter (Kaavon for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-14T13:12:00-05:00",
-      "date_modified": "2026-11-14T13:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 1:12 PM ET",
-      "body": "Canton Signal Feed (Nov 14, 2026 · 1:12 PM ET)\n- **CertiK ranks Canton first among compared blockchains for third-quarter fees, at more than $155 million** — CertiK's Skynet monitoring platform recorded more than $155 million in Canton fees between July and September, the highest in its comparison, with a median daily pace of $1.71 million pointing to a high baseline rather than a few peaks; the figure measures Canton Coin burned for network services, because fees are priced in dollars per megabyte of Global Synchronizer traffic, and should not be read as revenue, while CertiK did not disclose which blockchains were in its comparison or publish issuance data alongside it (ETHNews)\n- **Canton Coin futures open interest eases to $35.82 million as liquidations reach $220,140, almost entirely longs** — Aggregated open interest fell 7.32% in 24 hours to $35.82 million, with futures volume at $19.65 million and tracked liquidations at $220,140, of which $220,000 were long positions and only $138 were shorts; positioning still leans short with an aggregate long-to-short ratio of 0.675, and Bybit holds the largest book at $11.68 million, about a third of the total, ahead of Binance at $10.49 million (Coinfuty)\n- **Current Canton traffic burns already offset 69% of new issuance, Alea Research modelling finds, up from 11% a year ago** — The modelling puts the offset at 69% of new token issuance, up from 11% a year earlier, with September's newly minted Canton Coin going 73% to top-performing applications and 14% to Super Validators, and a theoretical break-even price of $0.0752 calculated against the 648.5 million CC minted in September; adding about one-third more traffic burn to current levels would reach full balance in the model, which is a simulation, not a network result (TechFlow)\n- **Splice release notes list 0.10.2 upgrading Canton to 3.7.3, after 0.10.1 moved to Canton 3.7.2** — The current Splice release line in the Canton documentation shows 0.10.2 upgrading the underlying Canton release to 3.7.3 and 0.10.1 upgrading it to 3.7.2 with a base-image update, while 0.10.0 notes that Canton release 3.7 adds support for protocol version 37 and requires a Logical Synchronizer Upgrade to adopt it (Canton Network Docs)\n\nNetwork: CC $0.0808 | Market cap $3.24B (rank 26) | 24h volume $12.12M | Supply 40.05B CC; milestone: the MainNet upgrade to Splice 0.10.0 is listed for November 16, with about 1.6K validators and 13 Super Validators on the live MainNet counter (Kaavon for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-14T13:12:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
