@@ -29,8 +29,62 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-21T08:12:00-05:00",
+  "updated": "2026-11-21T08:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-21_0842-est",
+      "slug": "tradecraft-s-daily-locked-value-prints-an-all-time-low-of-1-36-million-on-november-21-with",
+      "url": "https://canton.w3ai.io/feed/tradecraft-s-daily-locked-value-prints-an-all-time-low-of-1-36-million-on-november-21-with",
+      "title": "Tradecraft's daily locked value prints an all-time low of $1.36 million on November 21, with the live read at $1.33 million",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 8:42 AM ET)\n\n- **Tradecraft's daily locked value prints an all-time low of $1.36 million on November 21, with the live read at $1.33 million** — DefiLlama's protocol history for the Canton AMM and liquidity layer puts its November 21 daily snapshot at $1.36 million, the lowest in its recorded history since October 28 and down from a high of $1.74 million on October 31, with the live read at $1.33 million; the figure is the tracker's measured value for this one venue, not total Canton network activity (DefiLlama)\n- **Live MainNet throughput reads 2.00 transactions per second in the latest refresh, with 24-hour rewards at 8.7 million Canton Coin** — The live network stand on November 21 puts current throughput at 2.00 transactions per second, up from 1.00 in the earlier reads today, alongside 24-hour rewards of 8.7 million Canton Coin, up from 8.3 million recorded in the 0742 edition, with 13 Super Validators and 11 active proposals; these are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n- **Canton Coin futures open interest reads $32.59 million in the latest venue read, with OI-weighted funding at negative 0.0015%** — Coinfuty's latest read puts total futures open interest at $32.59 million, down 4.71% over 24 hours, with futures volume at $17.73 million, Bybit largest at $11.11 million ahead of Binance at $9.86 million and Hyperliquid at $3.53 million, and the OI-weighted funding rate at negative 0.0015% over four hours, narrowed from negative 0.0056% recorded in the 0742 edition (Coinfuty)\n- **Tracked Canton Coin liquidations total $17,430 over 24 hours, all of them longs, with open interest at $28.76 million in a separate venue read** — TerminalGremlin's November 21 read, built from Coinbase spot and OKX perpetual order books and the futures exchanges it tracks, puts 24-hour liquidations at $17,430, all of them longs, with the newest liquidation at 06:17 UTC, open interest at $28.76 million, down 4.30% over 24 hours, and taker buys at 49.1% of flow; its tracked venue set is narrower than the wider exchange aggregates, so its totals are not comparable to those reads (TerminalGremlin)\n\nNetwork: Canton Coin (CC) trades at $0.07559, with a market cap of $3.03 billion (rank 25) and 24-hour trading volume of $18.66 million (247 million CC), down 5.61% in 24 hours and down 11.33% over seven days, with a range of $0.0705 to $0.0791 and circulating supply of about 40 billion CC at the November 21 read; as a network milestone, total parties stand at 955.5 thousand on the live network stand (JustScreener for market data; CantonNews for the milestone).\n\nOriginal sources:\nDefiLlama: https://defillama.com/protocol/tradecraft\nCantonNews: https://cantonnews.org/today\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nTerminalGremlin: https://terminalgremlin.com/coin/CC.html\nJustScreener: https://justscreener.com/en/market/CC",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 8:42 AM ET)<br/><br/>- **Tradecraft&#x27;s daily locked value prints an all-time low of $1.36 million on November 21, with the live read at $1.33 million** — DefiLlama&#x27;s protocol history for the Canton AMM and liquidity layer puts its November 21 daily snapshot at $1.36 million, the lowest in its recorded history since October 28 and down from a high of $1.74 million on October 31, with the live read at $1.33 million; the figure is the tracker&#x27;s measured value for this one venue, not total Canton network activity (DefiLlama)<br/>- **Live MainNet throughput reads 2.00 transactions per second in the latest refresh, with 24-hour rewards at 8.7 million Canton Coin** — The live network stand on November 21 puts current throughput at 2.00 transactions per second, up from 1.00 in the earlier reads today, alongside 24-hour rewards of 8.7 million Canton Coin, up from 8.3 million recorded in the 0742 edition, with 13 Super Validators and 11 active proposals; these are live-dashboard reads that move between refreshes, not daily totals (CantonNews)<br/>- **Canton Coin futures open interest reads $32.59 million in the latest venue read, with OI-weighted funding at negative 0.0015%** — Coinfuty&#x27;s latest read puts total futures open interest at $32.59 million, down 4.71% over 24 hours, with futures volume at $17.73 million, Bybit largest at $11.11 million ahead of Binance at $9.86 million and Hyperliquid at $3.53 million, and the OI-weighted funding rate at negative 0.0015% over four hours, narrowed from negative 0.0056% recorded in the 0742 edition (Coinfuty)<br/>- **Tracked Canton Coin liquidations total $17,430 over 24 hours, all of them longs, with open interest at $28.76 million in a separate venue read** — TerminalGremlin&#x27;s November 21 read, built from Coinbase spot and OKX perpetual order books and the futures exchanges it tracks, puts 24-hour liquidations at $17,430, all of them longs, with the newest liquidation at 06:17 UTC, open interest at $28.76 million, down 4.30% over 24 hours, and taker buys at 49.1% of flow; its tracked venue set is narrower than the wider exchange aggregates, so its totals are not comparable to those reads (TerminalGremlin)<br/><br/>Network: Canton Coin (CC) trades at $0.07559, with a market cap of $3.03 billion (rank 25) and 24-hour trading volume of $18.66 million (247 million CC), down 5.61% in 24 hours and down 11.33% over seven days, with a range of $0.0705 to $0.0791 and circulating supply of about 40 billion CC at the November 21 read; as a network milestone, total parties stand at 955.5 thousand on the live network stand (JustScreener for market data; CantonNews for the milestone).<br/><br/>Original sources:<br/>DefiLlama: https://defillama.com/protocol/tradecraft<br/>CantonNews: https://cantonnews.org/today<br/>Coinfuty: https://www.coinfuty.com/coin/CC/open-interest<br/>TerminalGremlin: https://terminalgremlin.com/coin/CC.html<br/>JustScreener: https://justscreener.com/en/market/CC</p>",
+      "date_published": "2026-11-21T08:42:00-05:00",
+      "date_modified": "2026-11-21T08:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 21, 2026 · 8:42 AM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 8:42 AM ET)\n\n- **Tradecraft's daily locked value prints an all-time low of $1.36 million on November 21, with the live read at $1.33 million** — DefiLlama's protocol history for the Canton AMM and liquidity layer puts its November 21 daily snapshot at $1.36 million, the lowest in its recorded history since October 28 and down from a high of $1.74 million on October 31, with the live read at $1.33 million; the figure is the tracker's measured value for this one venue, not total Canton network activity (DefiLlama)\n- **Live MainNet throughput reads 2.00 transactions per second in the latest refresh, with 24-hour rewards at 8.7 million Canton Coin** — The live network stand on November 21 puts current throughput at 2.00 transactions per second, up from 1.00 in the earlier reads today, alongside 24-hour rewards of 8.7 million Canton Coin, up from 8.3 million recorded in the 0742 edition, with 13 Super Validators and 11 active proposals; these are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n- **Canton Coin futures open interest reads $32.59 million in the latest venue read, with OI-weighted funding at negative 0.0015%** — Coinfuty's latest read puts total futures open interest at $32.59 million, down 4.71% over 24 hours, with futures volume at $17.73 million, Bybit largest at $11.11 million ahead of Binance at $9.86 million and Hyperliquid at $3.53 million, and the OI-weighted funding rate at negative 0.0015% over four hours, narrowed from negative 0.0056% recorded in the 0742 edition (Coinfuty)\n- **Tracked Canton Coin liquidations total $17,430 over 24 hours, all of them longs, with open interest at $28.76 million in a separate venue read** — TerminalGremlin's November 21 read, built from Coinbase spot and OKX perpetual order books and the futures exchanges it tracks, puts 24-hour liquidations at $17,430, all of them longs, with the newest liquidation at 06:17 UTC, open interest at $28.76 million, down 4.30% over 24 hours, and taker buys at 49.1% of flow; its tracked venue set is narrower than the wider exchange aggregates, so its totals are not comparable to those reads (TerminalGremlin)\n\nNetwork: Canton Coin (CC) trades at $0.07559, with a market cap of $3.03 billion (rank 25) and 24-hour trading volume of $18.66 million (247 million CC), down 5.61% in 24 hours and down 11.33% over seven days, with a range of $0.0705 to $0.0791 and circulating supply of about 40 billion CC at the November 21 read; as a network milestone, total parties stand at 955.5 thousand on the live network stand (JustScreener for market data; CantonNews for the milestone).\n\nOriginal sources:\nDefiLlama: https://defillama.com/protocol/tradecraft\nCantonNews: https://cantonnews.org/today\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nTerminalGremlin: https://terminalgremlin.com/coin/CC.html\nJustScreener: https://justscreener.com/en/market/CC",
+      "image_url": null,
+      "published": "2026-11-21T08:42:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/protocol/tradecraft"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "TerminalGremlin",
+          "url": "https://terminalgremlin.com/coin/CC.html"
+        },
+        {
+          "source": "JustScreener",
+          "url": "https://justscreener.com/en/market/CC"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-21_0812-est",
       "slug": "a-foundation-proposal-would-cut-30-845-in-super-validator-weight-across-eight-operators-ov",
@@ -4962,39 +5016,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, April 12, 2027\nMainNet upgrades to Splice 0.13.4\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event",
-      "source_links": []
-    },
-    {
-      "id": "canton-event-sv-13546410666",
-      "slug": "mainnet-upgrades-to-splice-0-13-2",
-      "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-13-2",
-      "title": "MainNet upgrades to Splice 0.13.2",
-      "content_text": "Canton Calendar — Monday, March 29, 2027\nMainNet upgrades to Splice 0.13.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, March 29, 2027<br/>MainNet upgrades to Splice 0.13.2<br/>Weekly Upgrades · MainNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, March 29, 2027\nMainNet upgrades to Splice 0.13.2\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event",
