@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-21T05:42:00-05:00",
+  "updated": "2026-11-21T06:12:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-21_0612-est",
+      "slug": "wrapped-canton-coin-s-daily-locked-value-falls-to-an-all-time-low-of-152-796-on-november-2",
+      "url": "https://canton.w3ai.io/feed/wrapped-canton-coin-s-daily-locked-value-falls-to-an-all-time-low-of-152-796-on-november-2",
+      "title": "Wrapped Canton Coin's daily locked value falls to an all-time low of $152,796 on November 21, with the live read at $147,059",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 6:12 AM ET)\n\n- **Wrapped Canton Coin's daily locked value falls to an all-time low of $152,796 on November 21, with the live read at $147,059** — DefiLlama's protocol read puts the daily snapshot down from $163,864 on November 20 and $167,611 on November 19, down 32.9% over 30 days and below every earlier daily value in its history back to March 2026, with the EA Finance product ranking 85th among tracked bridge protocols; wCC is a 1:1 wrapped representation of Canton Coin on EVM chains starting with BSC, built as an interoperability layer for access, composability and capital flow (DefiLlama)\n- **Canton Coin futures open interest reads $28.16 million across seven exchanges in a new venue read, with liquidations of at least $49,150** — TradRadar's November 21 read at 10:05 UTC, shown with a 15-minute delay, puts open interest down 7.79% in 24 hours with an open-interest-weighted funding rate of negative 0.0039% per eight hours, liquidations of at least $49,150 of which $48,980 were longs and $169 were shorts, and Bybit largest at $10.93 million ahead of Binance at $9.72 million and Hyperliquid at $3.49 million; the seven-exchange total is a different venue set from the wider aggregates read earlier today, so the totals are not directly comparable (TradRadar)\n- **Canton DeFi locked value edges to $10.74 million as DEX volume eases to $18.39 million in the November 21 chain read** — DefiLlama's November 21 chain read puts total value locked at $10.74 million, down 2.52% in 24 hours and down from $10.78 million recorded in the previous edition, with DEX volume at $18.39 million over 24 hours, down from $18.47 million, and perpetuals volume at $221,188, down from $223,472, across eight tracked protocols with Temple still largest at $5.81 million, up from $5.79 million, ahead of Alpend at $1.77 million, Cantex at $1.64 million and Tradecraft at $1.35 million (DefiLlama)\n- **Live MainNet throughput reads 0.00 transactions per second in the latest refresh, with total parties at 955.5 thousand** — The live network stand on November 21 puts current throughput at 0.00 transactions per second, down from 1.00 recorded in every earlier edition today, alongside about 1.6 thousand validators, 13 Super Validators, 955.5 thousand total parties and 11 active proposals, with the rewards and burned fields shown blank in this refresh; the throughput figure is a live-dashboard read that moves between refreshes, not a confirmed halt to network activity (CantonNews)\n\nNetwork: Canton Coin (CC) trades at $0.0737, with a market cap of $2.95 billion (rank 25) and 24-hour trading volume of $10.7 million, down 7.70% in 24 hours and down 13.59% over seven days, with a 24-hour range of $0.0710 to $0.0800 and circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, Canton counts 955.5 thousand total parties on the live network stand (Blockdeck for market data; CantonNews for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 6:12 AM ET)<br/><br/>- **Wrapped Canton Coin&#x27;s daily locked value falls to an all-time low of $152,796 on November 21, with the live read at $147,059** — DefiLlama&#x27;s protocol read puts the daily snapshot down from $163,864 on November 20 and $167,611 on November 19, down 32.9% over 30 days and below every earlier daily value in its history back to March 2026, with the EA Finance product ranking 85th among tracked bridge protocols; wCC is a 1:1 wrapped representation of Canton Coin on EVM chains starting with BSC, built as an interoperability layer for access, composability and capital flow (DefiLlama)<br/>- **Canton Coin futures open interest reads $28.16 million across seven exchanges in a new venue read, with liquidations of at least $49,150** — TradRadar&#x27;s November 21 read at 10:05 UTC, shown with a 15-minute delay, puts open interest down 7.79% in 24 hours with an open-interest-weighted funding rate of negative 0.0039% per eight hours, liquidations of at least $49,150 of which $48,980 were longs and $169 were shorts, and Bybit largest at $10.93 million ahead of Binance at $9.72 million and Hyperliquid at $3.49 million; the seven-exchange total is a different venue set from the wider aggregates read earlier today, so the totals are not directly comparable (TradRadar)<br/>- **Canton DeFi locked value edges to $10.74 million as DEX volume eases to $18.39 million in the November 21 chain read** — DefiLlama&#x27;s November 21 chain read puts total value locked at $10.74 million, down 2.52% in 24 hours and down from $10.78 million recorded in the previous edition, with DEX volume at $18.39 million over 24 hours, down from $18.47 million, and perpetuals volume at $221,188, down from $223,472, across eight tracked protocols with Temple still largest at $5.81 million, up from $5.79 million, ahead of Alpend at $1.77 million, Cantex at $1.64 million and Tradecraft at $1.35 million (DefiLlama)<br/>- **Live MainNet throughput reads 0.00 transactions per second in the latest refresh, with total parties at 955.5 thousand** — The live network stand on November 21 puts current throughput at 0.00 transactions per second, down from 1.00 recorded in every earlier edition today, alongside about 1.6 thousand validators, 13 Super Validators, 955.5 thousand total parties and 11 active proposals, with the rewards and burned fields shown blank in this refresh; the throughput figure is a live-dashboard read that moves between refreshes, not a confirmed halt to network activity (CantonNews)<br/><br/>Network: Canton Coin (CC) trades at $0.0737, with a market cap of $2.95 billion (rank 25) and 24-hour trading volume of $10.7 million, down 7.70% in 24 hours and down 13.59% over seven days, with a 24-hour range of $0.0710 to $0.0800 and circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, Canton counts 955.5 thousand total parties on the live network stand (Blockdeck for market data; CantonNews for the milestone).</p>",
+      "date_published": "2026-11-21T06:12:00-05:00",
+      "date_modified": "2026-11-21T06:12:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 21, 2026 · 6:12 AM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 6:12 AM ET)\n\n- **Wrapped Canton Coin's daily locked value falls to an all-time low of $152,796 on November 21, with the live read at $147,059** — DefiLlama's protocol read puts the daily snapshot down from $163,864 on November 20 and $167,611 on November 19, down 32.9% over 30 days and below every earlier daily value in its history back to March 2026, with the EA Finance product ranking 85th among tracked bridge protocols; wCC is a 1:1 wrapped representation of Canton Coin on EVM chains starting with BSC, built as an interoperability layer for access, composability and capital flow (DefiLlama)\n- **Canton Coin futures open interest reads $28.16 million across seven exchanges in a new venue read, with liquidations of at least $49,150** — TradRadar's November 21 read at 10:05 UTC, shown with a 15-minute delay, puts open interest down 7.79% in 24 hours with an open-interest-weighted funding rate of negative 0.0039% per eight hours, liquidations of at least $49,150 of which $48,980 were longs and $169 were shorts, and Bybit largest at $10.93 million ahead of Binance at $9.72 million and Hyperliquid at $3.49 million; the seven-exchange total is a different venue set from the wider aggregates read earlier today, so the totals are not directly comparable (TradRadar)\n- **Canton DeFi locked value edges to $10.74 million as DEX volume eases to $18.39 million in the November 21 chain read** — DefiLlama's November 21 chain read puts total value locked at $10.74 million, down 2.52% in 24 hours and down from $10.78 million recorded in the previous edition, with DEX volume at $18.39 million over 24 hours, down from $18.47 million, and perpetuals volume at $221,188, down from $223,472, across eight tracked protocols with Temple still largest at $5.81 million, up from $5.79 million, ahead of Alpend at $1.77 million, Cantex at $1.64 million and Tradecraft at $1.35 million (DefiLlama)\n- **Live MainNet throughput reads 0.00 transactions per second in the latest refresh, with total parties at 955.5 thousand** — The live network stand on November 21 puts current throughput at 0.00 transactions per second, down from 1.00 recorded in every earlier edition today, alongside about 1.6 thousand validators, 13 Super Validators, 955.5 thousand total parties and 11 active proposals, with the rewards and burned fields shown blank in this refresh; the throughput figure is a live-dashboard read that moves between refreshes, not a confirmed halt to network activity (CantonNews)\n\nNetwork: Canton Coin (CC) trades at $0.0737, with a market cap of $2.95 billion (rank 25) and 24-hour trading volume of $10.7 million, down 7.70% in 24 hours and down 13.59% over seven days, with a 24-hour range of $0.0710 to $0.0800 and circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, Canton counts 955.5 thousand total parties on the live network stand (Blockdeck for market data; CantonNews for the milestone).",
+      "image_url": null,
+      "published": "2026-11-21T06:12:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-21_0542-est",
       "slug": "the-latest-canton-runtime-record-reflects-a-reduced-mainnet-reward-weight-for-the-global-s",
@@ -4801,38 +4833,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Tuesday, March 23, 2027\nTestNet Topology Freeze (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-13546407128",
-      "slug": "testnet-breaking-config-changes-0-13-required",
-      "url": "https://canton.w3ai.io/feed/testnet-breaking-config-changes-0-13-required",
-      "title": "TestNet Breaking Config Changes (0.13 Required)",
-      "content_text": "Canton Calendar — Tuesday, March 30, 2027\nTestNet Breaking Config Changes (0.13 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, March 30, 2027<br/>TestNet Breaking Config Changes (0.13 Required)<br/>Other Network Configuration Change · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, March 30, 2027\nTestNet Breaking Config Changes (0.13 Required)\nOther Network Configuration Change · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
