@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-21_1406-est",
+      "slug": "live-mainnet-rewards-climb-to-12-2-million-canton-coin-over-24-hours-as-total-burned-reach",
+      "title": "Live MainNet rewards climb to 12.2 million Canton Coin over 24 hours as total burned reaches 6.15 billion Canton Coin",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 2:06 PM ET)\n\n- **Live MainNet rewards climb to 12.2 million Canton Coin over 24 hours as total burned reaches 6.15 billion Canton Coin** — The live network stand on November 21 puts 24-hour rewards at 12.2 million Canton Coin, up from 11.7 million recorded in the 1:36 PM edition, alongside throughput of 1.00 transactions per second, with 13 Super Validators, 11 active proposals and total burned at 6.15 billion Canton Coin, up from 6.14 billion; the rewards and throughput figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n- **Canton Coin futures liquidations ease to $28,160, almost all of them longs, as the open-interest-weighted funding rate reads negative 0.0203%** — CoinGlass's November 21 read puts 24-hour liquidations at $28,160, with $28,140 in longs and $17.95 in shorts, down from $32,820 recorded in the 1:36 PM edition, with futures open interest at $33.57 million, futures volume at $14.42 million against spot volume at $5.37 million and an open-interest-weighted funding rate of negative 0.0203%, about negative 22.2% annualised, with shorts paying longs (CoinGlass)\n- **Canton DeFi locked value holds at $10.98 million as DEX volume reads $18.58 million in the November 21 chain read** — DefiLlama's November 21 chain read puts total value locked at $10.98 million, down 0.36% in 24 hours, with DEX volume at $18.58 million over 24 hours and perpetuals volume at $219,417, across eight tracked protocols with Temple still largest at $5.86 million, ahead of Alpend at $1.84 million and Cantex at $1.70 million, and Tradecraft at $1.39 million, up 5.27% in 24 hours (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0768, with a market cap of $3.1 billion (rank 25) and 24-hour trading volume of $9.6 million, up 2.30% in 24 hours and down 7.27% over seven days, with circulating supply of about 40.06 billion CC at the November 21 read; as a network milestone, total Canton Coin burned reaches 6.15 billion CC on the live network stand (Altcoin Buzz, reporting CoinGecko, for market data; CantonNews for the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/today\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nAltcoin Buzz: https://www.altcoinbuzz.io/price/canton-network",
+      "timestamp": "2026-11-21T14:06:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/live-mainnet-rewards-climb-to-12-2-million-canton-coin-over-24-hours-as-total-burned-reach",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Altcoin Buzz",
+          "url": "https://www.altcoinbuzz.io/price/canton-network"
+        }
+      ],
+      "external_url": "https://cantonnews.org/today",
+      "source_url": "https://cantonnews.org/today",
+      "original_url": "https://cantonnews.org/today",
+      "source": "CantonNews",
+      "publisher": "CantonNews",
+      "links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Altcoin Buzz",
+          "url": "https://www.altcoinbuzz.io/price/canton-network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-21_1351-est",
       "slug": "tokenomics-committee-approves-cbnb-as-a-featured-asset-and-pauses-three-featured-apps-over",
       "title": "Tokenomics Committee approves cBNB as a featured asset and pauses three featured apps over Canton Coin locking rules",
