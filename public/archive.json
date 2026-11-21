@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-21_1536-est",
+      "slug": "canton-coin-s-fully-diluted-valuation-reads-7-62-billion-two-and-a-half-times-its-market-c",
+      "title": "Canton Coin's fully diluted valuation reads $7.62 billion, two and a half times its market cap, with 60% of supply not yet minted",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 3:36 PM ET)\n\n- **Canton Coin's fully diluted valuation reads $7.62 billion, two and a half times its market cap, with 60% of supply not yet minted** — The network read as of November 21 puts the fully diluted valuation at $7.62 billion against a $3.05 billion market cap, a ratio of 2.5 times, with 40.10 billion Canton Coin in circulation, 40% of the 100 billion maximum, and 59.90 billion not yet minted (CCTools)\n- **Temple earns $6,530 in fees over 24 hours, the most of any tracked Canton protocol** — DefiLlama's November 21 protocol rankings put Temple's 24-hour fees and revenue at $6,530, ahead of Cantex at $918 in fees across the eight tracked Canton protocols (DefiLlama)\n- **Canton heads into the weekend with 63 Super Validator nodes on the live network stand** — The network's weekend stand counts 63 Super Validator nodes in total across the operator groups that run the Global Synchronizer, in the latest community network summary (CantonNews)\n\nNetwork: Canton Coin (CC) trades at $0.076786, with a market cap of $3.08 billion and 24-hour trading volume of $9.66 million at the November 21 read, with circulating supply of 40.10 billion CC; as a network milestone, Canton counts 1,579 validators alongside 13 Super Validators on the latest network read (Bybit, reporting CoinGecko, for market data; CCTools for the milestone).\n\nOriginal sources:\nCCTools: https://cctools.network/network\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCantonNews: https://cantonnews.org/today\nBybit, reporting CoinGecko: https://www.bybit.global/en/price/canton-network/",
+      "timestamp": "2026-11-21T15:36:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-s-fully-diluted-valuation-reads-7-62-billion-two-and-a-half-times-its-market-c",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "Bybit, reporting CoinGecko",
+          "url": "https://www.bybit.global/en/price/canton-network/"
+        }
+      ],
+      "external_url": "https://cctools.network/network",
+      "source_url": "https://cctools.network/network",
+      "original_url": "https://cctools.network/network",
+      "source": "CCTools",
+      "publisher": "CCTools",
+      "links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "Bybit, reporting CoinGecko",
+          "url": "https://www.bybit.global/en/price/canton-network/"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-21_1521-est",
       "slug": "canton-coin-s-next-halving-sits-about-140-083-issuance-rounds-away-with-nominal-daily-issu",
       "title": "Canton Coin's next halving sits about 140,083 issuance rounds away, with nominal daily issuance set to halve from 27.4 million to 13.7 million",
