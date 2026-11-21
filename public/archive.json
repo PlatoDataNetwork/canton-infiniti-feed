@@ -1,6 +1,92 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-21_1521-est",
+      "slug": "canton-coin-s-next-halving-sits-about-140-083-issuance-rounds-away-with-nominal-daily-issu",
+      "title": "Canton Coin's next halving sits about 140,083 issuance rounds away, with nominal daily issuance set to halve from 27.4 million to 13.7 million",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 3:21 PM ET)\n\n- **Canton Coin's next halving sits about 140,083 issuance rounds away, with nominal daily issuance set to halve from 27.4 million to 13.7 million** — The network read as of 20:10 UTC on November 21 puts the latest issuance round at number 122,717 against a halving round of 262,800 for Epoch 3, an estimated date of July 2029, with two of four halvings complete and a 50% issuance reduction at the halving, from 190,258.75 Canton Coin per round (CCTools)\n- **Canton Coin futures liquidations ease to $23,360, almost all of them longs, as the open-interest-weighted funding rate reads negative 0.0056%** — CoinGlass's November 21 read puts 24-hour liquidations at $23,360, with $23,340 in longs and $17.95 in shorts, down from $28,160 recorded in the 2:06 PM edition, with futures open interest at $33.46 million, futures volume at $13.73 million against spot volume at $5.12 million and an open-interest-weighted funding rate of negative 0.0056%, about negative 6.1% annualised, with shorts paying longs (CoinGlass)\n- **Live MainNet throughput returns to 3.00 transactions per second as 24-hour rewards climb to 12.6 million Canton Coin** — The live network stand on November 21 puts throughput at 3.00 transactions per second, back from 1.00 recorded in the 2:06 PM edition, with 24-hour rewards at 12.6 million Canton Coin, up from 12.2 million, alongside 13 Super Validators, 11 active proposals and total burned at 6.15 billion Canton Coin; the rewards and throughput figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n\nNetwork: Canton Coin (CC) trades at $0.0762, with a market cap of $3.05 billion and 24-hour trading volume of $7.80 million, up 2.70% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions reach 608.33 million, with total parties at 956,580 on the latest network read (CCTools for market data and the milestone).\n\nOriginal sources:\nCCTools: https://cctools.network/network\nCoinGlass: https://www.coinglass.com/currencies/CC\nCantonNews: https://cantonnews.org/today",
+      "timestamp": "2026-11-21T15:21:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-s-next-halving-sits-about-140-083-issuance-rounds-away-with-nominal-daily-issu",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        }
+      ],
+      "external_url": "https://cctools.network/network",
+      "source_url": "https://cctools.network/network",
+      "original_url": "https://cctools.network/network",
+      "source": "CCTools",
+      "publisher": "CCTools",
+      "links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-21_1421-est",
+      "slug": "canton-governance-counts-642-all-time-proposals-with-a-93-approval-rate-on-the-latest-netw",
+      "title": "Canton governance counts 642 all-time proposals with a 93% approval rate on the latest network read",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 2:21 PM ET)\n\n- **Canton governance counts 642 all-time proposals with a 93% approval rate on the latest network read** — CCTools' network read as of November 21 puts total proposals at 642, with 576 executed and 45 rejected for a 93% approval rate, 11 proposals in progress and 147 featured applications built on Canton (CCTools)\n- **A new Tokenomics Committee is in place from November 20, chaired by Cumberland with Digital Asset as vice-chair** — The committee listing records Chris Zuehlke of Cumberland as chair and Eric Saraniecki of Digital Asset as vice-chair from November 20, alongside a further 0.5 Super Validator weight for Tharimmune (Canton Strategic Holdings), recorded as 1,963,044 Canton Coin (CC Space)\n\nNetwork: Canton Coin (CC) trades at $0.0766, with a market cap of $3.07 billion (rank 25) and 24-hour trading volume of $9.1 million, up 3.06% in 24 hours and down 5.94% over seven days, with a 24-hour range of $0.0710 to $0.0770 and circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, 147 featured applications are built on Canton on the latest network read (Blockdeck for market data; CCTools for the milestone).\n\nOriginal sources:\nCCTools: https://cctools.network/network\nCC Space: https://cc.itrocket.space/news\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "timestamp": "2026-11-21T14:21:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-governance-counts-642-all-time-proposals-with-a-93-approval-rate-on-the-latest-netw",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "CC Space",
+          "url": "https://cc.itrocket.space/news"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "external_url": "https://cctools.network/network",
+      "source_url": "https://cctools.network/network",
+      "original_url": "https://cctools.network/network",
+      "source": "CCTools",
+      "publisher": "CCTools",
+      "links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "CC Space",
+          "url": "https://cc.itrocket.space/news"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-21_1406-est",
       "slug": "live-mainnet-rewards-climb-to-12-2-million-canton-coin-over-24-hours-as-total-burned-reach",
       "title": "Live MainNet rewards climb to 12.2 million Canton Coin over 24 hours as total burned reaches 6.15 billion Canton Coin",
