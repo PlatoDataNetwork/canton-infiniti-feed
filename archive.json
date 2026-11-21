@@ -1,6 +1,49 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-21_1042-est",
+      "slug": "canton-coin-s-daily-technical-read-turns-less-bearish-with-one-bullish-indicator-group-and",
+      "title": "Canton Coin's daily technical read turns less bearish, with one bullish indicator group and the relative strength index back at 33.0",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 10:42 AM ET)\n\n- **Canton Coin's daily technical read turns less bearish, with one bullish indicator group and the relative strength index back at 33.0** — Coinotag's November 21 read at the 15:49 UTC close counts one bullish, two neutral and four bearish indicator groups, improved from none bullish and five bearish at the 07:12 UTC close recorded earlier today, with the 14-day relative strength index at 33.0, up from 28.9, first resistance at $0.0788, up from $0.0758, first support at $0.0728, an analysis price of $0.0768, futures open interest at $14.98 million, up from $14.40 million, and average funding at positive 0.0011% (Coinotag)\n- **A separate daily read keeps Canton Coin at Hold, with its sentiment gauge at 18 of 100** — Flicker's November 21 read at 11:15 UTC keeps the verdict at Hold, with two of six factors agreeing, the price at $0.07341 sitting 0.8% below its nearest distribution zone at $0.07397 to $0.07985, a stop at $0.08966 and a first target at $0.05044, and its Fear and Greed gauge at 18 of 100, down from 33 in its November 15 read (Flicker)\n- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 9.04% apart across liquid exchanges** — The November 21 scan at 12:42 UTC puts Canton Coin cheapest on WEEX at $0.068645 and dearest on KuCoin at $0.07485 across 12 exchanges with a liquid spot market, with the spread widened from 8.36% at the 08:42 UTC scan recorded earlier today and the dearest venue changed from Bitstamp, the widest MEXC to OKX pair at positive 8.75% after fees and flagged suspect, and the best futures route, long on WhiteBIT and short on Hyperliquid, at positive 0.12% after fees, down from positive 0.45% (ArbitrageGap)\n\nNetwork: Canton Coin (CC) trades at $0.0766, with a market cap of $3.00 billion (rank 27) and 24-hour trading volume of $10.95 million, up 0.31% in 24 hours and down 10.59% over seven days, with circulating supply of 40,094,578,274 CC at the November 21 read; as a network milestone, about 1.6 thousand validators run alongside 13 Super Validators on the live network stand (Coinotag for market data; CantonNews for the milestone).\n\nOriginal sources:\nCoinotag: https://en.coinotag.com/cryptocurrencies/spot/CC\nFlicker: https://app.flicker.finance/assets/canton-network\nArbitrageGap: https://ArbitrageGap.com/coins/canton-network",
+      "timestamp": "2026-11-21T10:42:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-s-daily-technical-read-turns-less-bearish-with-one-bullish-indicator-group-and",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Coinotag",
+          "url": "https://en.coinotag.com/cryptocurrencies/spot/CC"
+        },
+        {
+          "source": "Flicker",
+          "url": "https://app.flicker.finance/assets/canton-network"
+        },
+        {
+          "source": "ArbitrageGap",
+          "url": "https://ArbitrageGap.com/coins/canton-network"
+        }
+      ],
+      "external_url": "https://en.coinotag.com/cryptocurrencies/spot/CC",
+      "source_url": "https://en.coinotag.com/cryptocurrencies/spot/CC",
+      "original_url": "https://en.coinotag.com/cryptocurrencies/spot/CC",
+      "source": "Coinotag",
+      "publisher": "Coinotag",
+      "links": [
+        {
+          "source": "Coinotag",
+          "url": "https://en.coinotag.com/cryptocurrencies/spot/CC"
+        },
+        {
+          "source": "Flicker",
+          "url": "https://app.flicker.finance/assets/canton-network"
+        },
+        {
+          "source": "ArbitrageGap",
+          "url": "https://ArbitrageGap.com/coins/canton-network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-21_1012-est",
       "slug": "canton-coin-futures-liquidations-ease-to-42-640-almost-all-of-them-longs-as-open-interest",
       "title": "Canton Coin futures liquidations ease to $42,640, almost all of them longs, as open interest edges to $33.60 million",
