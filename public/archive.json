@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-21_1236-est",
+      "slug": "canton-coin-s-open-interest-weighted-futures-funding-flips-back-positive-to-0-0026-as-liqu",
+      "title": "Canton Coin's open-interest-weighted futures funding flips back positive to 0.0026% as liquidations ease to $33,350",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 12:36 PM ET)\n\n- **Canton Coin's open-interest-weighted futures funding flips back positive to 0.0026% as liquidations ease to $33,350** — Coinfuty's live November 21 read puts the open-interest-weighted funding rate at positive 0.0026% per four hours, back above zero from the negative readings recorded earlier today, with total futures open interest at $33.41 million, futures volume at $15.59 million, 24-hour liquidations at $33,350, almost all of them longs at $33,330 against $17.95 in shorts, and an aggregate long-to-short ratio of 0.850 across 13 tracked exchanges (Coinfuty)\n- **Temple's locked value climbs to about $6.0 million, up 5.57% in 24 hours, in the November 21 protocol read** — DefiLlama's November 21 protocol rankings put Temple, still the largest tracked Canton protocol, at about $6.0 million in locked value, up 5.57% over 24 hours, ahead of Alpend at $1.83 million and Cantex at $1.70 million across eight tracked protocols (DefiLlama)\n- **Live MainNet rewards read 11.0 million Canton Coin over 24 hours, with throughput back at 1.00 transactions per second** — The live network stand on November 21 puts 24-hour rewards at 11.0 million Canton Coin, up from 10.6 million recorded in the previous edition, alongside throughput of 1.00 transactions per second, back from 3.00 in the previous edition, with 13 Super Validators and 11 active proposals; the rewards and throughput figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n\nNetwork: Canton Coin (CC) trades at $0.0763, with a market cap of $3.06 billion (rank 25) and 24-hour trading volume of $9.7 million, down 4.01% in 24 hours and down 10.24% over seven days at the November 21 read; as a network milestone, the live network stand counts about 1.6 thousand validators and 955.5 thousand total parties (Blockdeck for market data; CantonNews for the milestone).\n\nOriginal sources:\nCoinfuty: https://www.coinfuty.com/coin/CC/overview\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCantonNews: https://cantonnews.org/today\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "timestamp": "2026-11-21T12:36:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-s-open-interest-weighted-futures-funding-flips-back-positive-to-0-0026-as-liqu",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/overview"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "external_url": "https://www.coinfuty.com/coin/CC/overview",
+      "source_url": "https://www.coinfuty.com/coin/CC/overview",
+      "original_url": "https://www.coinfuty.com/coin/CC/overview",
+      "source": "Coinfuty",
+      "publisher": "Coinfuty",
+      "links": [
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/overview"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-21_1146-est",
       "slug": "live-mainnet-throughput-reads-3-00-transactions-per-second-with-1-6-thousand-validators-an",
       "title": "Live MainNet throughput reads 3.00 transactions per second, with 1.6 thousand validators and 955.5 thousand total parties on the November 21 network stand",
