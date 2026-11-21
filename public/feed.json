@@ -29,8 +29,79 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-21T12:36:00-05:00",
+  "updated": "2026-11-21T12:51:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-21_1251-est",
+      "slug": "capconnect-can-earn-up-to-five-super-validator-weight-units-under-cip-0131-tied-to-commerc",
+      "url": "https://canton.w3ai.io/feed/capconnect-can-earn-up-to-five-super-validator-weight-units-under-cip-0131-tied-to-commerc",
+      "title": "CapConnect+ can earn up to five Super Validator weight units under CIP-0131, tied to commercial-paper settlement milestones on Canton",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 12:51 PM ET)\n\n- **CapConnect+ can earn up to five Super Validator weight units under CIP-0131, tied to commercial-paper settlement milestones on Canton** — The approval, passed with 12 votes in favour and one non-vote, sets one unit for first production atomic settlements of at least $100 million in aggregate within six months, one unit for bringing at least two US corporate commercial-paper participants into production within nine months, and three units for cumulative Canton-settled issuance of $1 billion, $5 billion and $10 billion within nine, 12 and 18 months, with the top two thresholds also requiring at least 120 and 200 settlement events; the platform aims to settle both the debt instrument and its payment on Canton, with DiSH or compatible onchain cash for the payment side, and its more than $46.11 billion of issuance since early 2025 used existing infrastructure and is not Canton volume (CantonNews)\n- **Canton Coin burned reads 16.2 million in the latest 24-hour window, with app rewards at 15.2 million** — The burn and app rewards read for the 24-hour window as of 17:00 UTC on November 21 puts burned Canton Coin at 16.2 million and app rewards at 15.2 million, with the latest issuance round at number 122,699 as of 17:10 UTC; the figures are the tracker's rolling 24-hour window reads, not calendar-day totals (CCTools)\n- **Canton Coin's open-interest-weighted futures funding reads negative 0.0187%, with shorts paying longs, as open interest holds at $33.60 million** — The November 21 read puts the open-interest-weighted funding rate at negative 0.0187%, about negative 20.4% annualised, with futures open interest at $33.60 million, futures volume at $15.19 million against spot volume at $5.58 million, and 24-hour liquidations at $33,840, almost all of them longs at $33,820 (CoinGlass)\n- **Tradecraft's locked value rises to $1.39 million, up 5.33% in 24 hours, in the November 21 protocol read** — DefiLlama's November 21 protocol rankings put Tradecraft at $1.39 million in locked value, up 5.33% over 24 hours and up from $1.38 million recorded in the 1146 edition, as the fourth-largest tracked Canton protocol behind Temple at about $6.0 million, Alpend at $1.83 million and Cantex at $1.70 million across eight tracked protocols (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0766, with a market cap of $3.07 billion and 24-hour trading volume of $9.50 million, up 2.46% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions stand at 608.24 million, with total parties at 956,472 on the live network read (CCTools for market data and the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones\nCCTools: https://cctools.network/network\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?chainRevenue=true&tvl=false",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 12:51 PM ET)<br/><br/>- **CapConnect+ can earn up to five Super Validator weight units under CIP-0131, tied to commercial-paper settlement milestones on Canton** — The approval, passed with 12 votes in favour and one non-vote, sets one unit for first production atomic settlements of at least $100 million in aggregate within six months, one unit for bringing at least two US corporate commercial-paper participants into production within nine months, and three units for cumulative Canton-settled issuance of $1 billion, $5 billion and $10 billion within nine, 12 and 18 months, with the top two thresholds also requiring at least 120 and 200 settlement events; the platform aims to settle both the debt instrument and its payment on Canton, with DiSH or compatible onchain cash for the payment side, and its more than $46.11 billion of issuance since early 2025 used existing infrastructure and is not Canton volume (CantonNews)<br/>- **Canton Coin burned reads 16.2 million in the latest 24-hour window, with app rewards at 15.2 million** — The burn and app rewards read for the 24-hour window as of 17:00 UTC on November 21 puts burned Canton Coin at 16.2 million and app rewards at 15.2 million, with the latest issuance round at number 122,699 as of 17:10 UTC; the figures are the tracker&#x27;s rolling 24-hour window reads, not calendar-day totals (CCTools)<br/>- **Canton Coin&#x27;s open-interest-weighted futures funding reads negative 0.0187%, with shorts paying longs, as open interest holds at $33.60 million** — The November 21 read puts the open-interest-weighted funding rate at negative 0.0187%, about negative 20.4% annualised, with futures open interest at $33.60 million, futures volume at $15.19 million against spot volume at $5.58 million, and 24-hour liquidations at $33,840, almost all of them longs at $33,820 (CoinGlass)<br/>- **Tradecraft&#x27;s locked value rises to $1.39 million, up 5.33% in 24 hours, in the November 21 protocol read** — DefiLlama&#x27;s November 21 protocol rankings put Tradecraft at $1.39 million in locked value, up 5.33% over 24 hours and up from $1.38 million recorded in the 1146 edition, as the fourth-largest tracked Canton protocol behind Temple at about $6.0 million, Alpend at $1.83 million and Cantex at $1.70 million across eight tracked protocols (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0766, with a market cap of $3.07 billion and 24-hour trading volume of $9.50 million, up 2.46% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions stand at 608.24 million, with total parties at 956,472 on the live network read (CCTools for market data and the milestone).<br/><br/>Original sources:<br/>CantonNews: https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones<br/>CCTools: https://cctools.network/network<br/>CoinGlass: https://www.coinglass.com/currencies/CC<br/>DefiLlama: https://defillama.com/chain/canton?chainRevenue=true&amp;tvl=false</p>",
+      "date_published": "2026-11-21T12:51:00-05:00",
+      "date_modified": "2026-11-21T12:51:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones",
+      "source_url": "https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones",
+      "original_url": "https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones",
+      "source": "CantonNews",
+      "publisher": "CantonNews",
+      "links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?chainRevenue=true&tvl=false"
+        }
+      ],
+      "timestamp": "Nov 21, 2026 · 12:51 PM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 12:51 PM ET)\n\n- **CapConnect+ can earn up to five Super Validator weight units under CIP-0131, tied to commercial-paper settlement milestones on Canton** — The approval, passed with 12 votes in favour and one non-vote, sets one unit for first production atomic settlements of at least $100 million in aggregate within six months, one unit for bringing at least two US corporate commercial-paper participants into production within nine months, and three units for cumulative Canton-settled issuance of $1 billion, $5 billion and $10 billion within nine, 12 and 18 months, with the top two thresholds also requiring at least 120 and 200 settlement events; the platform aims to settle both the debt instrument and its payment on Canton, with DiSH or compatible onchain cash for the payment side, and its more than $46.11 billion of issuance since early 2025 used existing infrastructure and is not Canton volume (CantonNews)\n- **Canton Coin burned reads 16.2 million in the latest 24-hour window, with app rewards at 15.2 million** — The burn and app rewards read for the 24-hour window as of 17:00 UTC on November 21 puts burned Canton Coin at 16.2 million and app rewards at 15.2 million, with the latest issuance round at number 122,699 as of 17:10 UTC; the figures are the tracker's rolling 24-hour window reads, not calendar-day totals (CCTools)\n- **Canton Coin's open-interest-weighted futures funding reads negative 0.0187%, with shorts paying longs, as open interest holds at $33.60 million** — The November 21 read puts the open-interest-weighted funding rate at negative 0.0187%, about negative 20.4% annualised, with futures open interest at $33.60 million, futures volume at $15.19 million against spot volume at $5.58 million, and 24-hour liquidations at $33,840, almost all of them longs at $33,820 (CoinGlass)\n- **Tradecraft's locked value rises to $1.39 million, up 5.33% in 24 hours, in the November 21 protocol read** — DefiLlama's November 21 protocol rankings put Tradecraft at $1.39 million in locked value, up 5.33% over 24 hours and up from $1.38 million recorded in the 1146 edition, as the fourth-largest tracked Canton protocol behind Temple at about $6.0 million, Alpend at $1.83 million and Cantex at $1.70 million across eight tracked protocols (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0766, with a market cap of $3.07 billion and 24-hour trading volume of $9.50 million, up 2.46% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions stand at 608.24 million, with total parties at 956,472 on the live network read (CCTools for market data and the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones\nCCTools: https://cctools.network/network\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?chainRevenue=true&tvl=false",
+      "image_url": null,
+      "published": "2026-11-21T12:51:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?chainRevenue=true&tvl=false"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-21_1236-est",
       "slug": "canton-coin-s-open-interest-weighted-futures-funding-flips-back-positive-to-0-0026-as-liqu",
@@ -5837,43 +5908,6 @@
       "body": "Canton Signal Feed (Nov 14, 2026 · 9:12 AM ET)\n- **Governance locks bring Super Validator and Featured App locking enforcement on-chain under CIP-0127** — The Canton documentation now details how governance locks will work from Splice 0.10.0: CIP-0105 requires Super Validators to lock a percentage of their aggregate lifetime rewards to keep their weight, CIP-0116 requires each Featured App provider to lock a minimum amount of Canton Coin to gain and keep featured status, and CIP-0127 is the functional specification that moves enforcement of both onto the ledger itself; every lock must hold at least 10,000 CC, Super Validator locks vest over 365.25 days after an unlock while Featured App locks vest over 60 days, and wallet providers have been asked to expand memo fields to 1,000 characters because lock data is encoded in the transfer memo in compatibility mode (Canton Network Docs)\n- **SBI Holdings and Cambodia's central bank plan a tokenized government-bond trial on Canton** — SBI Holdings and the National Bank of Cambodia signed a memorandum of understanding on November 13 for a proof of concept in tokenized Cambodian government bonds, with Canton planned as the network and the aim of making bond investment accessible in smaller amounts through local financial institutions; the central bank will register and manage bondholder information, SBI Bank (Cambodia) will work on technical verification of tokenization and transfers, and SBI Digital Practice will build and operate the trial environment, with interim results and a demonstration planned for the Black Swan Summit in Phnom Penh on November 15–16, and a separate memorandum the same day covers a Japan–Cambodia remittance proof of concept; the bond work is a planned trial, not a live issuance (CantonNews)\n- **CapConnect+ seeks a Super Validator role under CIP-0131 to settle commercial paper and its cash payment together on Canton** — The proposal, in a vote that opened November 10 with Tradeweb as sponsor and MPCH as endorser, offers a maximum of five reward weight units tied to delivery and adoption milestones, starting with at least $100 million in aggregate commercial-paper issuance settling both the asset and the cash on Canton within six months of approval, then cumulative milestones at $1 billion, $5 billion and $10 billion; the existing CapConnect+ platform, developed in collaboration with Walmart, has facilitated more than $46.11 billion in issuance since full production began in early 2025 on existing settlement infrastructure, which is not Canton volume, and the public document does not identify the anchor issuer for the first Canton transactions (CantonNews)\n- **Canton Foundation launches an official Daml 3 developer certification, with free self-paced courses and a $150 exam** — The Canton Developer Certification, launched November 10, pairs free self-paced courses with a certification exam costing $150 per session and is based on Daml 3 and Canton 3.x, the current network stack; it validates practical mastery of Daml's authorization and privacy principles — controlling who may act on a contract and who may access its terms — and gives existing Daml 2 developers a migration path onto the single current platform, with Foundation chief operating officer Amanda Martin framing it as a common professional standard for building in regulated markets (HTX)\n- **Canton Coin spot prices widen to 9.06% apart across exchanges, with only a thin best route after fees** — A November 14, 14:02 UTC scan found Canton Coin cheapest on MEXC at $0.07571 and dearest on Bitstamp at $0.082569 across 12 exchanges with a liquid spot market, wider than the 8.19% spread recorded earlier today; the best spot route, buying on Bybit and selling on Kraken, paid only 0.11% after taker fees, about $1.05 on $1,000 at the best book prices, with the transfer status between the exchanges unknown, the best futures route, long WhiteBIT perpetuals against short Lighter perpetuals, paid 0.73% after fees, and no route with a confirmed open transfer was worth taking (ArbitrageGap)\n\nNetwork: CC $0.0852 | Market cap $3.41B (rank 26) | 24h volume $11.28M | Supply 40.05B CC; milestone: live MainNet rewards over the last 24 hours reached 8.7M CC, with activity at 2.00 TPS, total transactions at 603.0M, total parties at 946.8K, total burned at 6.03B CC, about 1.6K validators, 13 Super Validators and 6 active proposals (Kaavon for market data; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-14T09:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-14_0812-est",
-      "slug": "canton-coin-futures-open-interest-eases-further-to-38-01-million-with-liquidations-almost",
-      "url": "https://canton.w3ai.io/feed/canton-coin-futures-open-interest-eases-further-to-38-01-million-with-liquidations-almost",
-      "title": "Canton Coin futures open interest eases further to $38.01 million, with liquidations almost absent",
-      "content_text": "Canton Signal Feed (Nov 14, 2026 · 8:12 AM ET)\n- **Canton Coin futures open interest eases further to $38.01 million, with liquidations almost absent** — Aggregated CC futures open interest has fallen 6.15% over three days to $38.01 million, near the bottom of its 30-day range, while 24-hour liquidations totalled only $14.68K and funding stayed neutral at 0.0054% per eight hours; on Binance, accounts are now 51.8% long and 48.2% short, down from a 30-day average long share of 57.8%, suggesting longs are closing rather than shorts building (CoinStats)\n- **Splice 0.10.0 caps Scan and Super Validator endpoints and moves local deployments to Postgres 18** — The release bounds various Scan and SV App endpoints at a maxItems limit of 1,000, with larger requests rejected, sets Postgres 18 as the default for Docker Compose validator, Super Validator and localnet deployments, and binds LocalNet host ports to 127.0.0.1 instead of all interfaces; Canton 3.7 adds protocol version 37, which requires a Logical Synchronizer Upgrade to adopt (Canton Network Docs)\n- **Canton's $370.5 billion in represented assets is all Broadridge repo recordkeeping, a review clarifies** — RWA.xyz data as of November 12 counts $370.5 billion of represented real-world assets on Canton, 88.6% of all represented value it tracks, all in Broadridge's Distributed Ledger Repo, while showing no tokens distributed to investor wallets; Broadridge itself reports DLR processed an average of $345 billion a day in repo transactions in October, $7.6 trillion for the month, which is production settlement volume rather than distributed token holdings (Daniil Kozin)\n\nNetwork: CC $0.0855 | Market cap $3.43B (rank 26) | 24h volume $11.18M | Supply 40.05B CC; milestone: live MainNet activity reached 4.00 TPS with rewards over the last 24 hours at 8.2M CC, alongside total transactions at 603.0M, total parties at 946.8K, about 1.6K validators, 13 Super Validators and 6 active proposals (Kriptometre for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 14, 2026 · 8:12 AM ET)<br/>- **Canton Coin futures open interest eases further to $38.01 million, with liquidations almost absent** — Aggregated CC futures open interest has fallen 6.15% over three days to $38.01 million, near the bottom of its 30-day range, while 24-hour liquidations totalled only $14.68K and funding stayed neutral at 0.0054% per eight hours; on Binance, accounts are now 51.8% long and 48.2% short, down from a 30-day average long share of 57.8%, suggesting longs are closing rather than shorts building (CoinStats)<br/>- **Splice 0.10.0 caps Scan and Super Validator endpoints and moves local deployments to Postgres 18** — The release bounds various Scan and SV App endpoints at a maxItems limit of 1,000, with larger requests rejected, sets Postgres 18 as the default for Docker Compose validator, Super Validator and localnet deployments, and binds LocalNet host ports to 127.0.0.1 instead of all interfaces; Canton 3.7 adds protocol version 37, which requires a Logical Synchronizer Upgrade to adopt (Canton Network Docs)<br/>- **Canton&#x27;s $370.5 billion in represented assets is all Broadridge repo recordkeeping, a review clarifies** — RWA.xyz data as of November 12 counts $370.5 billion of represented real-world assets on Canton, 88.6% of all represented value it tracks, all in Broadridge&#x27;s Distributed Ledger Repo, while showing no tokens distributed to investor wallets; Broadridge itself reports DLR processed an average of $345 billion a day in repo transactions in October, $7.6 trillion for the month, which is production settlement volume rather than distributed token holdings (Daniil Kozin)<br/><br/>Network: CC $0.0855 | Market cap $3.43B (rank 26) | 24h volume $11.18M | Supply 40.05B CC; milestone: live MainNet activity reached 4.00 TPS with rewards over the last 24 hours at 8.2M CC, alongside total transactions at 603.0M, total parties at 946.8K, about 1.6K validators, 13 Super Validators and 6 active proposals (Kriptometre for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-14T08:12:00-05:00",
-      "date_modified": "2026-11-14T08:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 8:12 AM ET",
-      "body": "Canton Signal Feed (Nov 14, 2026 · 8:12 AM ET)\n- **Canton Coin futures open interest eases further to $38.01 million, with liquidations almost absent** — Aggregated CC futures open interest has fallen 6.15% over three days to $38.01 million, near the bottom of its 30-day range, while 24-hour liquidations totalled only $14.68K and funding stayed neutral at 0.0054% per eight hours; on Binance, accounts are now 51.8% long and 48.2% short, down from a 30-day average long share of 57.8%, suggesting longs are closing rather than shorts building (CoinStats)\n- **Splice 0.10.0 caps Scan and Super Validator endpoints and moves local deployments to Postgres 18** — The release bounds various Scan and SV App endpoints at a maxItems limit of 1,000, with larger requests rejected, sets Postgres 18 as the default for Docker Compose validator, Super Validator and localnet deployments, and binds LocalNet host ports to 127.0.0.1 instead of all interfaces; Canton 3.7 adds protocol version 37, which requires a Logical Synchronizer Upgrade to adopt (Canton Network Docs)\n- **Canton's $370.5 billion in represented assets is all Broadridge repo recordkeeping, a review clarifies** — RWA.xyz data as of November 12 counts $370.5 billion of represented real-world assets on Canton, 88.6% of all represented value it tracks, all in Broadridge's Distributed Ledger Repo, while showing no tokens distributed to investor wallets; Broadridge itself reports DLR processed an average of $345 billion a day in repo transactions in October, $7.6 trillion for the month, which is production settlement volume rather than distributed token holdings (Daniil Kozin)\n\nNetwork: CC $0.0855 | Market cap $3.43B (rank 26) | 24h volume $11.18M | Supply 40.05B CC; milestone: live MainNet activity reached 4.00 TPS with rewards over the last 24 hours at 8.2M CC, alongside total transactions at 603.0M, total parties at 946.8K, about 1.6K validators, 13 Super Validators and 6 active proposals (Kriptometre for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-14T08:12:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
