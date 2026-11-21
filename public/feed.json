@@ -29,8 +29,79 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-21T11:21:00-05:00",
+  "updated": "2026-11-21T11:46:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-21_1146-est",
+      "slug": "live-mainnet-throughput-reads-3-00-transactions-per-second-with-1-6-thousand-validators-an",
+      "url": "https://canton.w3ai.io/feed/live-mainnet-throughput-reads-3-00-transactions-per-second-with-1-6-thousand-validators-an",
+      "title": "Live MainNet throughput reads 3.00 transactions per second, with 1.6 thousand validators and 955.5 thousand total parties on the November 21 network stand",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 11:46 AM ET)\n\n- **Live MainNet throughput reads 3.00 transactions per second, with 1.6 thousand validators and 955.5 thousand total parties on the November 21 network stand** — The live network stand on November 21 puts current throughput at 3.00 transactions per second, down from 5.00 recorded in the 1106 edition, alongside 1.6 thousand validators, 13 Super Validators, 955.5 thousand total parties, 11 active proposals and 24-hour rewards of 10.6 million Canton Coin, up from 10.1 million recorded in the 1106 edition; the throughput and rewards figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n- **Canton Coin's open-interest-weighted funding rate flips negative to 0.0116%, with shorts now paying longs** — CoinGlass's November 21 read puts the open-interest-weighted funding rate at negative 0.0116%, about negative 12.7% annualised, flipped from positive 0.0054% recorded in the 1106 edition, with futures open interest at $33.49 million, down from $33.59 million, futures volume at $15.98 million, down from $16.25 million, against spot volume at $6.06 million, down from $6.23 million (CoinGlass)\n- **Tradecraft's locked value rises to $1.38 million, up 2.26% in 24 hours, as the fourth-largest tracked Canton protocol** — DefiLlama's November 21 protocol rankings put the Canton automated market maker and liquidity layer at $1.38 million in locked value, up 2.26% in 24 hours and up from $1.35 million recorded earlier today, behind Temple, Alpend and Cantex among the eight tracked protocols, with Pool Party fifth at $196,017 (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.076397, with a market cap of $3.06 billion (rank 25) and 24-hour trading volume of $8.99 million, up 0.17% in 24 hours, with a 24-hour range of $0.071048 to $0.076961 and circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton Coin burned stands at 6.14 billion CC, with total transactions at 607.8 million on the live network stand (Bybit, reporting CoinGecko, for market data; CantonNews for the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/today\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nBybit: https://www.bybit.global/en/price/canton-network/",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 11:46 AM ET)<br/><br/>- **Live MainNet throughput reads 3.00 transactions per second, with 1.6 thousand validators and 955.5 thousand total parties on the November 21 network stand** — The live network stand on November 21 puts current throughput at 3.00 transactions per second, down from 5.00 recorded in the 1106 edition, alongside 1.6 thousand validators, 13 Super Validators, 955.5 thousand total parties, 11 active proposals and 24-hour rewards of 10.6 million Canton Coin, up from 10.1 million recorded in the 1106 edition; the throughput and rewards figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)<br/>- **Canton Coin&#x27;s open-interest-weighted funding rate flips negative to 0.0116%, with shorts now paying longs** — CoinGlass&#x27;s November 21 read puts the open-interest-weighted funding rate at negative 0.0116%, about negative 12.7% annualised, flipped from positive 0.0054% recorded in the 1106 edition, with futures open interest at $33.49 million, down from $33.59 million, futures volume at $15.98 million, down from $16.25 million, against spot volume at $6.06 million, down from $6.23 million (CoinGlass)<br/>- **Tradecraft&#x27;s locked value rises to $1.38 million, up 2.26% in 24 hours, as the fourth-largest tracked Canton protocol** — DefiLlama&#x27;s November 21 protocol rankings put the Canton automated market maker and liquidity layer at $1.38 million in locked value, up 2.26% in 24 hours and up from $1.35 million recorded earlier today, behind Temple, Alpend and Cantex among the eight tracked protocols, with Pool Party fifth at $196,017 (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.076397, with a market cap of $3.06 billion (rank 25) and 24-hour trading volume of $8.99 million, up 0.17% in 24 hours, with a 24-hour range of $0.071048 to $0.076961 and circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton Coin burned stands at 6.14 billion CC, with total transactions at 607.8 million on the live network stand (Bybit, reporting CoinGecko, for market data; CantonNews for the milestone).<br/><br/>Original sources:<br/>CantonNews: https://cantonnews.org/today<br/>CoinGlass: https://www.coinglass.com/currencies/CC<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true<br/>Bybit: https://www.bybit.global/en/price/canton-network/</p>",
+      "date_published": "2026-11-21T11:46:00-05:00",
+      "date_modified": "2026-11-21T11:46:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://cantonnews.org/today",
+      "source_url": "https://cantonnews.org/today",
+      "original_url": "https://cantonnews.org/today",
+      "source": "CantonNews",
+      "publisher": "CantonNews",
+      "links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Bybit",
+          "url": "https://www.bybit.global/en/price/canton-network/"
+        }
+      ],
+      "timestamp": "Nov 21, 2026 · 11:46 AM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 11:46 AM ET)\n\n- **Live MainNet throughput reads 3.00 transactions per second, with 1.6 thousand validators and 955.5 thousand total parties on the November 21 network stand** — The live network stand on November 21 puts current throughput at 3.00 transactions per second, down from 5.00 recorded in the 1106 edition, alongside 1.6 thousand validators, 13 Super Validators, 955.5 thousand total parties, 11 active proposals and 24-hour rewards of 10.6 million Canton Coin, up from 10.1 million recorded in the 1106 edition; the throughput and rewards figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n- **Canton Coin's open-interest-weighted funding rate flips negative to 0.0116%, with shorts now paying longs** — CoinGlass's November 21 read puts the open-interest-weighted funding rate at negative 0.0116%, about negative 12.7% annualised, flipped from positive 0.0054% recorded in the 1106 edition, with futures open interest at $33.49 million, down from $33.59 million, futures volume at $15.98 million, down from $16.25 million, against spot volume at $6.06 million, down from $6.23 million (CoinGlass)\n- **Tradecraft's locked value rises to $1.38 million, up 2.26% in 24 hours, as the fourth-largest tracked Canton protocol** — DefiLlama's November 21 protocol rankings put the Canton automated market maker and liquidity layer at $1.38 million in locked value, up 2.26% in 24 hours and up from $1.35 million recorded earlier today, behind Temple, Alpend and Cantex among the eight tracked protocols, with Pool Party fifth at $196,017 (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.076397, with a market cap of $3.06 billion (rank 25) and 24-hour trading volume of $8.99 million, up 0.17% in 24 hours, with a 24-hour range of $0.071048 to $0.076961 and circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton Coin burned stands at 6.14 billion CC, with total transactions at 607.8 million on the live network stand (Bybit, reporting CoinGecko, for market data; CantonNews for the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/today\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nBybit: https://www.bybit.global/en/price/canton-network/",
+      "image_url": null,
+      "published": "2026-11-21T11:46:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Bybit",
+          "url": "https://www.bybit.global/en/price/canton-network/"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-21_1121-est",
       "slug": "canton-defi-locked-value-rises-to-10-99-million-as-dex-volume-climbs-to-18-73-million-in-t",
@@ -5769,43 +5840,6 @@
       "body": "Canton Signal Feed (Nov 14, 2026 · 7:12 AM ET)\n- **Canton selected to support a three-state RISE benefits pilot planned for the first quarter of 2027** — The pilot would combine public benefit programs into scheduled payments while applying spending rules and limiting data access, demonstrating a use beyond financial markets; it is planned for the first quarter of 2027 but requires federal approval, and the participating states and programs have not been disclosed, so it is a planned pilot rather than confirmed large-scale adoption (CoinMarketCap)\n- **Canton Strategic chief flags MEV costs for tokenized stocks, with privacy pitched as a safeguard** — Canton Strategic Holdings chief executive Mark Wendland warned on November 13 that maximum extractable value can create hidden costs when validators prioritize transactions, and said Canton's privacy protections and rules against paid transaction ordering are designed to reduce that exposure; the warning highlights execution quality as a live design concern for tokenized markets, and the report also noted tokenized share trades on Canton completed on November 4 (CoinMarketCap)\n- **Rome Protocol's Ostia brings EVM tools to Canton DevNet, in an unaudited test release** — Ostia, an Ethereum-compatible chain from Rome Protocol, began running on Canton's developer test network on October 22, with the report appearing on November 12; it supports wrapped Canton Coin, but the release remains unaudited and experimental and is not evidence of production adoption (CoinMarketCap)\n- **The Hub reports 1,000 members on Canton, combining creator content with tradable community tickets** — The Hub says its platform combines creator content, live rooms and tradable community tickets on Canton and has announced 1,000 members; the figure is a milestone reported by the project itself and follows an earlier SprintFAM creator-network partnership, although the posts do not establish how many sign-ups came from that collaboration (CantonNews)\n\nNetwork: CC $0.0853 | Market cap $3.42B (rank 26) | 24h volume $11.22M | Supply 40.05B CC; milestone: MainNet moved to Canton BFT multi-validator ordering, with more than 800 nodes switching with almost no downtime and 2,500+ transactions per second stated as a target rather than a confirmed MainNet result (Kaavon for market data; CoinMarketCap for the milestone)",
       "image_url": null,
       "published": "2026-11-14T07:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-14_0642-est",
-      "slug": "console-wallet-reports-full-service-restoration-after-a-precautionary-suspension",
-      "url": "https://canton.w3ai.io/feed/console-wallet-reports-full-service-restoration-after-a-precautionary-suspension",
-      "title": "Console Wallet reports full service restoration after a precautionary suspension",
-      "content_text": "Canton Signal Feed (Nov 14, 2026 · 6:42 AM ET)\n- **Console Wallet reports full service restoration after a precautionary suspension** — Console said in its November 12 update that it was fully operational after a precautionary suspension following suspicious activity the previous week; the restoration is the project's reported status and the short notice does not provide a full incident analysis (CantonNews)\n- **Cantex adds optional two-factor authentication for actions that move assets or grant permissions** — The wallet update covers withdrawals, transfers, pre-approvals and bridge transactions, adding another check beyond the initial sign-in that users can choose to apply to those actions (CantonNews)\n- **Two Canton development proposals pass their votes, for Python tooling and a protected co-validator** — Obsidian Systems' 1.27 million CC proposal to generate Python classes from compiled Daml packages passed and was merged, including delivery and a year of maintenance, and Financial Privacy Inc.'s 4.59 million CC proposal to build a Canton participant inside a trusted execution environment also passed and was merged, covering DevNet and TestNet development, a reference deployment and maintenance; neither vote establishes a completed production service (CantonNews)\n- **Digital Asset has 30 open roles as of November 14, with posted pay from $140,000 to $220,000** — None of the roles are listed as remote and 36% are senior level, with Scala, Kubernetes and Python the most requested skills and the highest posted range, $180,000 to $220,000, for a Principal Product Manager for the Canton Network Ecosystem (Landed Jobs)\n\nNetwork: CC $0.085174 | Market cap $3.41B (rank 26) | 24h volume $11.24M | Supply 40.05B CC; milestone: total transactions reached 603.0M and total parties stood at 946.8K, with rewards over the last 24 hours at 7.3M CC, about 1.6K validators and 13 Super Validators (CoinArena for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 14, 2026 · 6:42 AM ET)<br/>- **Console Wallet reports full service restoration after a precautionary suspension** — Console said in its November 12 update that it was fully operational after a precautionary suspension following suspicious activity the previous week; the restoration is the project&#x27;s reported status and the short notice does not provide a full incident analysis (CantonNews)<br/>- **Cantex adds optional two-factor authentication for actions that move assets or grant permissions** — The wallet update covers withdrawals, transfers, pre-approvals and bridge transactions, adding another check beyond the initial sign-in that users can choose to apply to those actions (CantonNews)<br/>- **Two Canton development proposals pass their votes, for Python tooling and a protected co-validator** — Obsidian Systems&#x27; 1.27 million CC proposal to generate Python classes from compiled Daml packages passed and was merged, including delivery and a year of maintenance, and Financial Privacy Inc.&#x27;s 4.59 million CC proposal to build a Canton participant inside a trusted execution environment also passed and was merged, covering DevNet and TestNet development, a reference deployment and maintenance; neither vote establishes a completed production service (CantonNews)<br/>- **Digital Asset has 30 open roles as of November 14, with posted pay from $140,000 to $220,000** — None of the roles are listed as remote and 36% are senior level, with Scala, Kubernetes and Python the most requested skills and the highest posted range, $180,000 to $220,000, for a Principal Product Manager for the Canton Network Ecosystem (Landed Jobs)<br/><br/>Network: CC $0.085174 | Market cap $3.41B (rank 26) | 24h volume $11.24M | Supply 40.05B CC; milestone: total transactions reached 603.0M and total parties stood at 946.8K, with rewards over the last 24 hours at 7.3M CC, about 1.6K validators and 13 Super Validators (CoinArena for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-14T06:42:00-05:00",
-      "date_modified": "2026-11-14T06:42:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:42 AM ET",
-      "body": "Canton Signal Feed (Nov 14, 2026 · 6:42 AM ET)\n- **Console Wallet reports full service restoration after a precautionary suspension** — Console said in its November 12 update that it was fully operational after a precautionary suspension following suspicious activity the previous week; the restoration is the project's reported status and the short notice does not provide a full incident analysis (CantonNews)\n- **Cantex adds optional two-factor authentication for actions that move assets or grant permissions** — The wallet update covers withdrawals, transfers, pre-approvals and bridge transactions, adding another check beyond the initial sign-in that users can choose to apply to those actions (CantonNews)\n- **Two Canton development proposals pass their votes, for Python tooling and a protected co-validator** — Obsidian Systems' 1.27 million CC proposal to generate Python classes from compiled Daml packages passed and was merged, including delivery and a year of maintenance, and Financial Privacy Inc.'s 4.59 million CC proposal to build a Canton participant inside a trusted execution environment also passed and was merged, covering DevNet and TestNet development, a reference deployment and maintenance; neither vote establishes a completed production service (CantonNews)\n- **Digital Asset has 30 open roles as of November 14, with posted pay from $140,000 to $220,000** — None of the roles are listed as remote and 36% are senior level, with Scala, Kubernetes and Python the most requested skills and the highest posted range, $180,000 to $220,000, for a Principal Product Manager for the Canton Network Ecosystem (Landed Jobs)\n\nNetwork: CC $0.085174 | Market cap $3.41B (rank 26) | 24h volume $11.24M | Supply 40.05B CC; milestone: total transactions reached 603.0M and total parties stood at 946.8K, with rewards over the last 24 hours at 7.3M CC, about 1.6K validators and 13 Super Validators (CoinArena for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-14T06:42:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
