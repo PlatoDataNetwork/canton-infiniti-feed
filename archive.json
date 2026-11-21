@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-21_1146-est",
+      "slug": "live-mainnet-throughput-reads-3-00-transactions-per-second-with-1-6-thousand-validators-an",
+      "title": "Live MainNet throughput reads 3.00 transactions per second, with 1.6 thousand validators and 955.5 thousand total parties on the November 21 network stand",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 11:46 AM ET)\n\n- **Live MainNet throughput reads 3.00 transactions per second, with 1.6 thousand validators and 955.5 thousand total parties on the November 21 network stand** — The live network stand on November 21 puts current throughput at 3.00 transactions per second, down from 5.00 recorded in the 1106 edition, alongside 1.6 thousand validators, 13 Super Validators, 955.5 thousand total parties, 11 active proposals and 24-hour rewards of 10.6 million Canton Coin, up from 10.1 million recorded in the 1106 edition; the throughput and rewards figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n- **Canton Coin's open-interest-weighted funding rate flips negative to 0.0116%, with shorts now paying longs** — CoinGlass's November 21 read puts the open-interest-weighted funding rate at negative 0.0116%, about negative 12.7% annualised, flipped from positive 0.0054% recorded in the 1106 edition, with futures open interest at $33.49 million, down from $33.59 million, futures volume at $15.98 million, down from $16.25 million, against spot volume at $6.06 million, down from $6.23 million (CoinGlass)\n- **Tradecraft's locked value rises to $1.38 million, up 2.26% in 24 hours, as the fourth-largest tracked Canton protocol** — DefiLlama's November 21 protocol rankings put the Canton automated market maker and liquidity layer at $1.38 million in locked value, up 2.26% in 24 hours and up from $1.35 million recorded earlier today, behind Temple, Alpend and Cantex among the eight tracked protocols, with Pool Party fifth at $196,017 (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.076397, with a market cap of $3.06 billion (rank 25) and 24-hour trading volume of $8.99 million, up 0.17% in 24 hours, with a 24-hour range of $0.071048 to $0.076961 and circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton Coin burned stands at 6.14 billion CC, with total transactions at 607.8 million on the live network stand (Bybit, reporting CoinGecko, for market data; CantonNews for the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/today\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nBybit: https://www.bybit.global/en/price/canton-network/",
+      "timestamp": "2026-11-21T11:46:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/live-mainnet-throughput-reads-3-00-transactions-per-second-with-1-6-thousand-validators-an",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Bybit",
+          "url": "https://www.bybit.global/en/price/canton-network/"
+        }
+      ],
+      "external_url": "https://cantonnews.org/today",
+      "source_url": "https://cantonnews.org/today",
+      "original_url": "https://cantonnews.org/today",
+      "source": "CantonNews",
+      "publisher": "CantonNews",
+      "links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Bybit",
+          "url": "https://www.bybit.global/en/price/canton-network/"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-21_1121-est",
       "slug": "canton-defi-locked-value-rises-to-10-99-million-as-dex-volume-climbs-to-18-73-million-in-t",
       "title": "Canton DeFi locked value rises to $10.99 million as DEX volume climbs to $18.73 million in the November 21 chain read",
