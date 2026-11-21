@@ -1,6 +1,159 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-21_1351-est",
+      "slug": "tokenomics-committee-approves-cbnb-as-a-featured-asset-and-pauses-three-featured-apps-over",
+      "title": "Tokenomics Committee approves cBNB as a featured asset and pauses three featured apps over Canton Coin locking rules",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 1:51 PM ET)\n\n- **Tokenomics Committee approves cBNB as a featured asset and pauses three featured apps over Canton Coin locking rules** — The committee approved cBNB, issued by Nuxaris, as a featured asset, and paused Obligate, Obligate issuer and the Interstice Cross-Chain Swap Engine because they do not meet the CIP-0116 Canton Coin locking requirement; cBNB's liquidity on three trading venues will be reviewed on December 7, 2026, and its featured status will be revoked if it does not pass (CC Space)\n- **Canton Coin's open-interest-weighted futures funding flips back negative to 0.0102% as liquidations ease to $23,160** — Coinfuty's live November 21 read puts the open-interest-weighted funding rate at negative 0.0102% per four hours, back below zero from positive 0.0026% recorded in the 1236 edition, with 24-hour liquidations at $23,160, almost all of them longs at $23,140 against $17.95 in shorts, futures open interest at $33.30 million, futures volume at $13.97 million and an aggregate long-to-short ratio of 0.853 across 13 tracked exchanges (Coinfuty)\n- **Total Canton transactions reach 608.27 million as total parties climb to 956,505 on the latest network read** — CCTools' network read as of 18:10 UTC on November 21 puts total transactions at 608.27 million, up from 608.24 million recorded in the 1251 edition, with total parties at 956,505, up from 956,472, and 1,579 validators alongside 13 Super Validators (CCTools)\n- **Canton Coin burned eases to 16.1 million in the latest 24-hour window, with app rewards at 15.2 million** — The burn and app rewards read for the 24-hour window as of 18:00 UTC on November 21 puts burned Canton Coin at 16.1 million, eased from 16.2 million in the previous window, with app rewards at 15.2 million and the latest issuance round at number 122,705; the figures are the tracker's rolling 24-hour window reads, not calendar-day totals (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.0766, with a market cap of $3.07 billion and 24-hour trading volume of $9.12 million, up 2.70% in 24 hours and down 5.94% over seven days, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions reach 608.27 million, with total parties at 956,505 on the latest network read (The Block for market data; CCTools for the milestone).\n\nOriginal sources:\nCC Space: https://cc.itrocket.space/news\nCoinfuty: https://www.coinfuty.com/coin/CC/overview\nCCTools: https://cctools.network/network\nThe Block: https://www.theblock.co/convert/cc-usd",
+      "timestamp": "2026-11-21T13:51:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/tokenomics-committee-approves-cbnb-as-a-featured-asset-and-pauses-three-featured-apps-over",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CC Space",
+          "url": "https://cc.itrocket.space/news"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/overview"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/convert/cc-usd"
+        }
+      ],
+      "external_url": "https://cc.itrocket.space/news",
+      "source_url": "https://cc.itrocket.space/news",
+      "original_url": "https://cc.itrocket.space/news",
+      "source": "CC Space",
+      "publisher": "CC Space",
+      "links": [
+        {
+          "source": "CC Space",
+          "url": "https://cc.itrocket.space/news"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/overview"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/convert/cc-usd"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-21_1336-est",
+      "slug": "canton-climbs-to-63rd-among-289-chains-by-locked-value-in-the-latest-cross-chain-ranking-a",
+      "title": "Canton climbs to 63rd among 289 chains by locked value in the latest cross-chain ranking, at $11 million",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 1:36 PM ET)\n\n- **Canton climbs to 63rd among 289 chains by locked value in the latest cross-chain ranking, at $11 million** — Koinize's November 21 ranking, read at 17:50 UTC, puts Canton 63rd of 289 chains with $11 million locked, up from 64th at $10.8 million recorded earlier today, with total locked value across all chains at $67.9 billion, up from $66.3 billion, and Canton sitting between Strato Chain at $12.1 million and Immutable zkEVM at $10.9 million (Koinize)\n- **Canton Coin futures liquidations ease to $32,820, almost all of them longs, as the open-interest-weighted funding rate reads negative 0.0145%** — CoinGlass's November 21 read puts 24-hour liquidations at $32,820, with $32,800 in longs, down from $33,840 recorded in the previous edition, with futures open interest at $33.56 million, futures volume at $14.74 million against spot volume at $5.44 million and an open-interest-weighted funding rate of negative 0.0145%, about negative 15.9% annualised, with shorts paying longs (CoinGlass)\n- **Live MainNet rewards read 11.7 million Canton Coin over 24 hours on the November 21 network stand** — The live network stand on November 21 puts 24-hour rewards at 11.7 million Canton Coin, up from 11.0 million recorded in the 1236 edition, alongside throughput of 1.00 transactions per second, with 13 Super Validators and 11 active proposals; the rewards and throughput figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n\nNetwork: Canton Coin (CC) trades at $0.0765, with a market cap of $3.00 billion (rank 27) and 24-hour trading volume of $9.34 million, up 2.16% in 24 hours, with circulating supply of 40,094,578,274 CC at the November 21 read; as a network milestone, the live network stand counts about 1.6 thousand validators and 607.8 million total transactions (Coinotag for market data; CantonNews for the milestone).\n\nOriginal sources:\nKoinize: https://www.koinize.com/chains/\nCoinGlass: https://www.coinglass.com/currencies/CC\nCantonNews: https://cantonnews.org/today\nCoinotag: https://en.coinotag.com/cryptocurrencies/spot/CC",
+      "timestamp": "2026-11-21T13:36:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-climbs-to-63rd-among-289-chains-by-locked-value-in-the-latest-cross-chain-ranking-a",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Koinize",
+          "url": "https://www.koinize.com/chains/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "Coinotag",
+          "url": "https://en.coinotag.com/cryptocurrencies/spot/CC"
+        }
+      ],
+      "external_url": "https://www.koinize.com/chains/",
+      "source_url": "https://www.koinize.com/chains/",
+      "original_url": "https://www.koinize.com/chains/",
+      "source": "Koinize",
+      "publisher": "Koinize",
+      "links": [
+        {
+          "source": "Koinize",
+          "url": "https://www.koinize.com/chains/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "Coinotag",
+          "url": "https://en.coinotag.com/cryptocurrencies/spot/CC"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-21_1251-est",
+      "slug": "capconnect-can-earn-up-to-five-super-validator-weight-units-under-cip-0131-tied-to-commerc",
+      "title": "CapConnect+ can earn up to five Super Validator weight units under CIP-0131, tied to commercial-paper settlement milestones on Canton",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 12:51 PM ET)\n\n- **CapConnect+ can earn up to five Super Validator weight units under CIP-0131, tied to commercial-paper settlement milestones on Canton** — The approval, passed with 12 votes in favour and one non-vote, sets one unit for first production atomic settlements of at least $100 million in aggregate within six months, one unit for bringing at least two US corporate commercial-paper participants into production within nine months, and three units for cumulative Canton-settled issuance of $1 billion, $5 billion and $10 billion within nine, 12 and 18 months, with the top two thresholds also requiring at least 120 and 200 settlement events; the platform aims to settle both the debt instrument and its payment on Canton, with DiSH or compatible onchain cash for the payment side, and its more than $46.11 billion of issuance since early 2025 used existing infrastructure and is not Canton volume (CantonNews)\n- **Canton Coin burned reads 16.2 million in the latest 24-hour window, with app rewards at 15.2 million** — The burn and app rewards read for the 24-hour window as of 17:00 UTC on November 21 puts burned Canton Coin at 16.2 million and app rewards at 15.2 million, with the latest issuance round at number 122,699 as of 17:10 UTC; the figures are the tracker's rolling 24-hour window reads, not calendar-day totals (CCTools)\n- **Canton Coin's open-interest-weighted futures funding reads negative 0.0187%, with shorts paying longs, as open interest holds at $33.60 million** — The November 21 read puts the open-interest-weighted funding rate at negative 0.0187%, about negative 20.4% annualised, with futures open interest at $33.60 million, futures volume at $15.19 million against spot volume at $5.58 million, and 24-hour liquidations at $33,840, almost all of them longs at $33,820 (CoinGlass)\n- **Tradecraft's locked value rises to $1.39 million, up 5.33% in 24 hours, in the November 21 protocol read** — DefiLlama's November 21 protocol rankings put Tradecraft at $1.39 million in locked value, up 5.33% over 24 hours and up from $1.38 million recorded in the 1146 edition, as the fourth-largest tracked Canton protocol behind Temple at about $6.0 million, Alpend at $1.83 million and Cantex at $1.70 million across eight tracked protocols (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0766, with a market cap of $3.07 billion and 24-hour trading volume of $9.50 million, up 2.46% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions stand at 608.24 million, with total parties at 956,472 on the live network read (CCTools for market data and the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones\nCCTools: https://cctools.network/network\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?chainRevenue=true&tvl=false",
+      "timestamp": "2026-11-21T12:51:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/capconnect-can-earn-up-to-five-super-validator-weight-units-under-cip-0131-tied-to-commerc",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?chainRevenue=true&tvl=false"
+        }
+      ],
+      "external_url": "https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones",
+      "source_url": "https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones",
+      "original_url": "https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones",
+      "source": "CantonNews",
+      "publisher": "CantonNews",
+      "links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/canton-approves-capconnect-super-validator-plan-with-weight-tied-to-milestones"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?chainRevenue=true&tvl=false"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-21_1236-est",
       "slug": "canton-coin-s-open-interest-weighted-futures-funding-flips-back-positive-to-0-0026-as-liqu",
       "title": "Canton Coin's open-interest-weighted futures funding flips back positive to 0.0026% as liquidations ease to $33,350",
