@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-21_1121-est",
+      "slug": "canton-defi-locked-value-rises-to-10-99-million-as-dex-volume-climbs-to-18-73-million-in-t",
+      "title": "Canton DeFi locked value rises to $10.99 million as DEX volume climbs to $18.73 million in the November 21 chain read",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 11:21 AM ET)\n\n- **Canton DeFi locked value rises to $10.99 million as DEX volume climbs to $18.73 million in the November 21 chain read** — DefiLlama's November 21 chain read puts total value locked at $10.99 million, down 0.33% in 24 hours and up from $10.95 million recorded in the 1012 edition, with DEX volume at $18.73 million over 24 hours, up from $18.58 million, and perpetuals volume at $220,553, across eight tracked protocols with Temple still largest at $5.87 million, up from $5.81 million, ahead of Alpend at $1.84 million and Cantex at $1.70 million (DefiLlama)\n- **Tracked Canton Coin liquidations ease to $13,900 over 24 hours, all of them longs, in a separate venue read** — TerminalGremlin's November 21 read, updated at 16:37 UTC, puts tracked liquidations at $13,900 over 24 hours, all of them longs and down from $17,430 recorded in the 0842 edition, with open interest at $29.01 million, down 0.30% in 24 hours, taker buys at 50.1% of flow and annualised funding at negative 9.4%; the venue set is narrower than the wider exchange aggregates, so the totals are not comparable (TerminalGremlin)\n- **An eight-exchange screen keeps Canton Coin strongly bearish, with the relative strength index at 30.4** — JustScreener's November 21 technical summary, as of 15:54 UTC, counts no bullish, no neutral and five bearish indicator groups, with the 14-period relative strength index at 30.4, a bearish MACD read and a death cross on the 50-period versus 200-period averages; the screen's open-interest and funding figures are unchanged from the 1106 edition and are not re-cited here (JustScreener)\n\nNetwork: Canton Coin (CC) trades at $0.07660, with a market cap of $3.07 billion (rank 31) and 24-hour trading volume of $10.15 million, up 0.65% in 24 hours, with circulating supply of 40,097,113,616 CC at the November 21 read; as a network milestone, total Canton transactions stand at 607.8 million on the live network stand (The Block for market data; CantonNews for the milestone).\n\nOriginal sources:\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nTerminalGremlin: https://terminalgremlin.com/coin/CC.html\nJustScreener: https://justscreener.com/en/market/CC\nThe Block: https://www.theblock.co/price/canton",
+      "timestamp": "2026-11-21T11:21:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-defi-locked-value-rises-to-10-99-million-as-dex-volume-climbs-to-18-73-million-in-t",
+      "image": null,
+      "source_links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "TerminalGremlin",
+          "url": "https://terminalgremlin.com/coin/CC.html"
+        },
+        {
+          "source": "JustScreener",
+          "url": "https://justscreener.com/en/market/CC"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/price/canton"
+        }
+      ],
+      "external_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "source_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "original_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "source": "DefiLlama",
+      "publisher": "DefiLlama",
+      "links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "TerminalGremlin",
+          "url": "https://terminalgremlin.com/coin/CC.html"
+        },
+        {
+          "source": "JustScreener",
+          "url": "https://justscreener.com/en/market/CC"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/price/canton"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-21_1106-est",
       "slug": "canton-coin-futures-liquidations-ease-to-38-620-almost-all-of-them-longs-as-open-interest",
       "title": "Canton Coin futures liquidations ease to $38,620, almost all of them longs, as open interest holds at $33.59 million",
