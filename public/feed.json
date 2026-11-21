@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-20T18:12:00-05:00",
+  "updated": "2026-11-20T18:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-20_1842-est",
+      "slug": "canton-docs-walk-through-cross-synchronizer-dvp-settlement-with-atomic-exchange-as-the-fif",
+      "url": "https://canton.w3ai.io/feed/canton-docs-walk-through-cross-synchronizer-dvp-settlement-with-atomic-exchange-as-the-fif",
+      "title": "Canton docs walk through cross-synchronizer DvP settlement, with atomic exchange as the fifth of six steps",
+      "content_text": "Canton Signal Feed (Nov 20, 2026 · 6:42 PM ET)\n\n- **Canton docs walk through cross-synchronizer DvP settlement, with atomic exchange as the fifth of six steps** — The worked example settles a trade between a buyer whose cash sits on a Payments synchronizer and a seller whose securities sit on a Securities synchronizer: both contracts are first reassigned, in two phases each, to a common Settlement synchronizer such as the Global Synchronizer, then a single Daml transaction archives the original cash and securities contracts and creates new ones with the owners swapped, so either both transfers happen or neither does; the reassignments themselves can leave a contract temporarily unusable in a pending state but carry no settlement risk, because no value changes hands until the atomic step executes, and afterwards the new contracts can optionally be reassigned back to their home synchronizers (Canton Network Docs)\n- **Live MainNet rewards reach 14.9 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live dashboard read puts rewards at 14.9 million Canton Coin over 24 hours, up from 14.5 million recorded in the early-evening read today; the figure is the dashboard's rolling 24-hour reward total, not a new issuance schedule (CantonNews)\n- **Bit Dynamics' Canton DevKit campaign reaches 3,753 participants, with a 5,000 Canton Coin draw running through November 24** — The open-source DevKit runs a complete local Canton network on a developer's machine, with two validator nodes and a super-validator, covering DAR uploads, contract inspection, token flows and portable network snapshots, and a qualifying DevKit run triples a participant's entries in the draw; participation is up from 3,713 recorded earlier today (CCTools)\n- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 7.52% apart across liquid exchanges** — The November 20 scan at 23:59 UTC puts Canton Coin cheapest on MEXC at $0.069563 and dearest on LBank at $0.074795 across 12 exchanges with a liquid spot market, with the widest route, MEXC to LBank at 6.97% after fees, flagged as a suspect pair, and the best futures route, long on WhiteBIT perpetuals against short on Lighter, at 0.28% after taker fees (ArbitrageGap)\n\nNetwork: Canton Coin (CC) trades at $0.07515, with a market cap of $3.01 billion and 24-hour trading volume of $8.44 million, down 6.34% in 24 hours and down 12.53% over seven days at the November 20 read; as a network milestone, live throughput on Canton MainNet stands at 2.00 transactions per second on the CantonNews live dashboard, alongside 1.6 thousand validators and 607.1 million total transactions (CoinStats for market data; CantonNews for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 20, 2026 · 6:42 PM ET)<br/><br/>- **Canton docs walk through cross-synchronizer DvP settlement, with atomic exchange as the fifth of six steps** — The worked example settles a trade between a buyer whose cash sits on a Payments synchronizer and a seller whose securities sit on a Securities synchronizer: both contracts are first reassigned, in two phases each, to a common Settlement synchronizer such as the Global Synchronizer, then a single Daml transaction archives the original cash and securities contracts and creates new ones with the owners swapped, so either both transfers happen or neither does; the reassignments themselves can leave a contract temporarily unusable in a pending state but carry no settlement risk, because no value changes hands until the atomic step executes, and afterwards the new contracts can optionally be reassigned back to their home synchronizers (Canton Network Docs)<br/>- **Live MainNet rewards reach 14.9 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live dashboard read puts rewards at 14.9 million Canton Coin over 24 hours, up from 14.5 million recorded in the early-evening read today; the figure is the dashboard&#x27;s rolling 24-hour reward total, not a new issuance schedule (CantonNews)<br/>- **Bit Dynamics&#x27; Canton DevKit campaign reaches 3,753 participants, with a 5,000 Canton Coin draw running through November 24** — The open-source DevKit runs a complete local Canton network on a developer&#x27;s machine, with two validator nodes and a super-validator, covering DAR uploads, contract inspection, token flows and portable network snapshots, and a qualifying DevKit run triples a participant&#x27;s entries in the draw; participation is up from 3,713 recorded earlier today (CCTools)<br/>- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 7.52% apart across liquid exchanges** — The November 20 scan at 23:59 UTC puts Canton Coin cheapest on MEXC at $0.069563 and dearest on LBank at $0.074795 across 12 exchanges with a liquid spot market, with the widest route, MEXC to LBank at 6.97% after fees, flagged as a suspect pair, and the best futures route, long on WhiteBIT perpetuals against short on Lighter, at 0.28% after taker fees (ArbitrageGap)<br/><br/>Network: Canton Coin (CC) trades at $0.07515, with a market cap of $3.01 billion and 24-hour trading volume of $8.44 million, down 6.34% in 24 hours and down 12.53% over seven days at the November 20 read; as a network milestone, live throughput on Canton MainNet stands at 2.00 transactions per second on the CantonNews live dashboard, alongside 1.6 thousand validators and 607.1 million total transactions (CoinStats for market data; CantonNews for the milestone).</p>",
+      "date_published": "2026-11-20T18:42:00-05:00",
+      "date_modified": "2026-11-20T18:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 20, 2026 · 6:42 PM ET",
+      "body": "Canton Signal Feed (Nov 20, 2026 · 6:42 PM ET)\n\n- **Canton docs walk through cross-synchronizer DvP settlement, with atomic exchange as the fifth of six steps** — The worked example settles a trade between a buyer whose cash sits on a Payments synchronizer and a seller whose securities sit on a Securities synchronizer: both contracts are first reassigned, in two phases each, to a common Settlement synchronizer such as the Global Synchronizer, then a single Daml transaction archives the original cash and securities contracts and creates new ones with the owners swapped, so either both transfers happen or neither does; the reassignments themselves can leave a contract temporarily unusable in a pending state but carry no settlement risk, because no value changes hands until the atomic step executes, and afterwards the new contracts can optionally be reassigned back to their home synchronizers (Canton Network Docs)\n- **Live MainNet rewards reach 14.9 million Canton Coin over the past 24 hours on the CantonNews dashboard** — The live dashboard read puts rewards at 14.9 million Canton Coin over 24 hours, up from 14.5 million recorded in the early-evening read today; the figure is the dashboard's rolling 24-hour reward total, not a new issuance schedule (CantonNews)\n- **Bit Dynamics' Canton DevKit campaign reaches 3,753 participants, with a 5,000 Canton Coin draw running through November 24** — The open-source DevKit runs a complete local Canton network on a developer's machine, with two validator nodes and a super-validator, covering DAR uploads, contract inspection, token flows and portable network snapshots, and a qualifying DevKit run triples a participant's entries in the draw; participation is up from 3,713 recorded earlier today (CCTools)\n- **No Canton Coin arbitrage route is worth taking at the latest scan, with spot prices 7.52% apart across liquid exchanges** — The November 20 scan at 23:59 UTC puts Canton Coin cheapest on MEXC at $0.069563 and dearest on LBank at $0.074795 across 12 exchanges with a liquid spot market, with the widest route, MEXC to LBank at 6.97% after fees, flagged as a suspect pair, and the best futures route, long on WhiteBIT perpetuals against short on Lighter, at 0.28% after taker fees (ArbitrageGap)\n\nNetwork: Canton Coin (CC) trades at $0.07515, with a market cap of $3.01 billion and 24-hour trading volume of $8.44 million, down 6.34% in 24 hours and down 12.53% over seven days at the November 20 read; as a network milestone, live throughput on Canton MainNet stands at 2.00 transactions per second on the CantonNews live dashboard, alongside 1.6 thousand validators and 607.1 million total transactions (CoinStats for market data; CantonNews for the milestone).",
+      "image_url": null,
+      "published": "2026-11-20T18:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-20_1812-est",
       "slug": "binance-canton-coin-accounts-lean-long-at-66-0-near-the-top-of-their-30-day-range-while-li",
@@ -4801,38 +4833,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Monday, March 15, 2027\nMainNet upgrades to Splice 0.13.0\nWeekly Upgrades · MainNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-13546376085",
-      "slug": "devnet-upgrades-to-splice-0-13-2",
-      "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-13-2",
-      "title": "DevNet upgrades to Splice 0.13.2",
-      "content_text": "Canton Calendar — Monday, March 15, 2027\nDevNet upgrades to Splice 0.13.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Monday, March 15, 2027<br/>DevNet upgrades to Splice 0.13.2<br/>Weekly Upgrades · DevNet · Tentative<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Monday, March 15, 2027\nDevNet upgrades to Splice 0.13.2\nWeekly Upgrades · DevNet · Tentative\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
