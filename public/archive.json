@@ -26,6 +26,29 @@
           "source": "The Block",
           "url": "https://www.theblock.co/price/canton"
         }
+      ],
+      "external_url": "https://www.coinglass.com/currencies/CC",
+      "source_url": "https://www.coinglass.com/currencies/CC",
+      "original_url": "https://www.coinglass.com/currencies/CC",
+      "source": "CoinGlass",
+      "publisher": "CoinGlass",
+      "links": [
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/price/canton"
+        }
       ]
     },
     {
@@ -38,6 +61,29 @@
       "url": "https://canton.w3ai.io/feed/live-mainnet-rewards-read-9-4-million-canton-coin-over-24-hours-as-the-day-s-dashboard-ser",
       "image": null,
       "source_links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ],
+      "external_url": "https://cantonnews.org/today",
+      "source_url": "https://cantonnews.org/today",
+      "original_url": "https://cantonnews.org/today",
+      "source": "CantonNews",
+      "publisher": "CantonNews",
+      "links": [
         {
           "source": "CantonNews",
           "url": "https://cantonnews.org/today"
@@ -86,6 +132,33 @@
           "source": "JustScreener",
           "url": "https://justscreener.com/en/market/CC"
         }
+      ],
+      "external_url": "https://defillama.com/protocol/tradecraft",
+      "source_url": "https://defillama.com/protocol/tradecraft",
+      "original_url": "https://defillama.com/protocol/tradecraft",
+      "source": "DefiLlama",
+      "publisher": "DefiLlama",
+      "links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/protocol/tradecraft"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "TerminalGremlin",
+          "url": "https://terminalgremlin.com/coin/CC.html"
+        },
+        {
+          "source": "JustScreener",
+          "url": "https://justscreener.com/en/market/CC"
+        }
       ]
     },
     {
@@ -110,6 +183,25 @@
           "source": "CCTools",
           "url": "https://cctools.network/earn"
         }
+      ],
+      "external_url": "https://cc.itrocket.space/news",
+      "source_url": "https://cc.itrocket.space/news",
+      "original_url": "https://cc.itrocket.space/news",
+      "source": "CC Space",
+      "publisher": "CC Space",
+      "links": [
+        {
+          "source": "CC Space",
+          "url": "https://cc.itrocket.space/news"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/earn"
+        }
       ]
     },
     {
@@ -121,7 +213,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-s-open-interest-weighted-futures-funding-deepens-to-negative-0-0056-as-open-in",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-21_0642-est",
@@ -132,7 +230,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-ranks-64th-among-289-chains-by-locked-value-in-a-new-cross-chain-ranking-at-10-8-mi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-21_0612-est",
@@ -143,7 +247,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/wrapped-canton-coin-s-daily-locked-value-falls-to-an-all-time-low-of-152-796-on-november-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-21_0542-est",
@@ -154,7 +264,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/the-latest-canton-runtime-record-reflects-a-reduced-mainnet-reward-weight-for-the-global-s",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-21_0442-est",
@@ -165,7 +281,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/no-canton-coin-arbitrage-route-is-worth-taking-at-the-latest-scan-with-spot-prices-8-36-ap",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-21_0312-est",
@@ -176,7 +298,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/live-mainnet-rewards-read-5-3-million-canton-coin-over-24-hours-as-the-day-s-dashboard-ser",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-21_0242-est",
@@ -187,7 +315,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-defi-locked-value-falls-to-10-28-million-as-the-24-hour-decline-steepens-to-6-71-in",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-21_0142-est",
@@ -198,7 +332,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/obsidian-s-keys-milestone-passes-its-acceptance-vote-with-60-in-favour-and-none-against",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-21_0042-est",
@@ -209,7 +349,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-futures-liquidations-rise-to-49-870-almost-all-of-them-longs-as-open-interest",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-21_0012-est",
@@ -220,7 +366,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/a-21-day-vote-is-open-on-moving-a-contributor-enablement-milestone-from-november-2026-to-f",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_2342-est",
@@ -231,7 +383,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/zenith-evm-testnet-can-now-send-a-test-token-to-ethereum-sepolia-through-a-pilot-linking-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_2212-est",
@@ -242,7 +400,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/only-51-of-775-active-canton-validators-run-splice-0-10-x-ahead-of-the-december-12-upgrade",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_2112-est",
@@ -253,7 +417,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-burned-covers-68-9-of-round-mints-in-the-third-quarter-up-from-11-0-a-year-ear",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_2012-est",
@@ -264,7 +434,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/edx-markets-partners-with-canton-listing-canton-coin-and-joining-as-a-validator",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1912-est",
@@ -275,7 +451,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-mainnet-total-parties-rise-to-955-5-thousand-as-total-transactions-reach-607-8-mill",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1842-est",
@@ -286,7 +468,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-docs-walk-through-cross-synchronizer-dvp-settlement-with-atomic-exchange-as-the-fif",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1812-est",
@@ -297,7 +485,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/binance-canton-coin-accounts-lean-long-at-66-0-near-the-top-of-their-30-day-range-while-li",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1742-est",
@@ -308,7 +502,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/cip-0131-would-add-capconnect-as-a-canton-super-validator-with-tradeweb-as-sponsor",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1712-est",
@@ -319,7 +519,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-docs-publish-a-recovery-runbook-for-validators-stuck-after-the-november-7-mainnet-u",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1642-est",
@@ -330,7 +536,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/bit-dynamics-canton-devkit-campaign-reaches-3-713-participants-with-a-5-000-canton-coin-dr",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1612-est",
@@ -341,7 +553,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-venues-mcp-server-offers-12-read-only-tools-for-live-canton-dex-data-with-no-key-re",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1542-est",
@@ -352,7 +570,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-perpetual-open-interest-stands-at-23-77-million-in-the-latest-screener-read-wi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1442-est",
@@ -363,7 +587,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/fairmint-plans-a-canton-venue-for-tokenized-shares-with-tradecraft-as-its-first-market-mak",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1412-est",
@@ -374,7 +604,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/redstone-joins-the-dtc-digital-assets-solutions-industry-working-group",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1342-est",
@@ -385,7 +621,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/splice-s-canton-compatibility-changes-make-selected-interfaces-accessible-and-turn-off-sta",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1312-est",
@@ -396,7 +638,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/rome-retires-ostia-s-earlier-bridge-account-route-on-canton-devnet-with-support-to-arrive",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1242-est",
@@ -407,7 +655,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/dla-piper-joins-the-canton-foundation-as-an-associate-member-to-work-on-collateral-and-leg",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1212-est",
@@ -418,7 +672,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/tokenomics-committee-approves-six-featured-apps-four-featured-assets-and-three-asset-movin",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_1042-est",
@@ -429,7 +689,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/silvana-adds-npcc-and-quadrillions-in-its-latest-canton-listing-update",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0942-est",
@@ -440,7 +706,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/obsidian-seeks-4-million-canton-coin-for-a-mathematically-checked-daml-reference-model",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0842-est",
@@ -451,7 +723,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/cancore-adds-base-as-its-seventh-network-connection-for-exchanging-canton-assets",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0812-est",
@@ -462,7 +740,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/triple-play-labs-seeks-up-to-7-15-million-canton-coin-for-private-eligibility-credentials",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0742-est",
@@ -473,7 +757,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/send-restores-its-canton-wallet-on-a-new-validator-with-a-one-time-passkey-security-upgrad",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0612-est",
@@ -484,7 +774,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-s-new-supply-grew-1-77-over-the-last-90-days-with-the-next-90-days-estimated-a",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0542-est",
@@ -495,7 +791,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/obsidian-outlines-three-canton-standards-projects-covering-clear-signing-validator-access",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0442-est",
@@ -506,7 +808,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/mystic-finance-proposes-a-shared-vault-standard-for-canton-with-up-to-2-million-canton-coi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0412-est",
@@ -517,7 +825,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-network-fees-in-the-30-days-through-november-17-were-more-than-twice-those-on-ether",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0342-est",
@@ -528,7 +842,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-foundation-adds-14-parties-including-kpmg-and-visa-in-its-latest-published-membersh",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0212-est",
@@ -539,7 +859,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/fairmint-backs-the-sec-s-transfer-agent-modernization-asking-that-onchain-shareholder-regi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0112-est",
@@ -550,7 +876,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/tradecraft-s-locked-value-falls-to-1-35-million-a-new-all-time-low-for-the-canton-liquidit",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-20_0012-est",
@@ -561,7 +893,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/cauri-starts-a-six-week-community-challenge-on-canton-with-10-000-canton-coin-in-season-01",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_2312-est",
@@ -572,7 +910,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/further-asset-management-signs-a-memorandum-to-join-canton-s-validator-network-and-explore",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_2212-est",
@@ -583,7 +927,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/woof-seeks-1-248-700-canton-coin-for-a-compliance-middleware-sdk-that-lets-zenith-evm-cont",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_2112-est",
@@ -594,7 +944,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canborsa-moves-its-ai-assistant-into-execution-letting-users-open-and-close-leveraged-posi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_2012-est",
@@ -605,7 +961,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-s-protocol-development-fund-counts-42-approved-projects-and-290-million-canton-coin",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_1912-est",
@@ -616,7 +978,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/standard-chartered-says-japan-s-government-bond-tokenization-could-support-its-2-trillion",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_1842-est",
@@ -627,7 +995,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-risk-engine-seeks-1-560-870-canton-coin-to-bring-governed-risk-parameters-to-canton",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_1742-est",
@@ -638,7 +1012,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/r-tli-splits-a-canton-validator-s-keys-across-a-threshold-cluster-so-no-single-machine-eve",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_1642-est",
@@ -649,7 +1029,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canborsa-opens-its-road-to-1-million-creator-campaign-with-a-prize-pool-that-grows-to-10-0",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_1542-est",
@@ -660,7 +1046,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/dtcc-will-add-stellar-in-the-first-half-of-2027-and-circle-s-arc-and-solana-in-the-second",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_1512-est",
@@ -671,7 +1063,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/predge-seeks-a-champion-for-conditional-x402-payments-on-canton-released-only-by-a-signed",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_1442-est",
@@ -682,7 +1080,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/cobuilders-proposes-a-sandbox-testing-library-so-javascript-and-typescript-teams-stop-rebu",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_1342-est",
@@ -693,7 +1097,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/digital-asset-introduces-covalidation-services-so-canton-parties-can-spread-transaction-co",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_1242-est",
@@ -704,7 +1114,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/obsidian-systems-prepares-a-clear-signing-proposal-so-canton-wallets-can-show-users-what-t",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_1212-est",
@@ -715,7 +1131,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-s-improvement-proposal-registry-now-tallies-103-proposals-with-56-in-final-effect-a",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_1112-est",
@@ -726,7 +1148,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/krasilnikoff-credit-collateral-adds-a-fifth-canton-benchmark-a-burn-mint-ratio-in-methodol",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_0942-est",
@@ -737,7 +1165,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/vertexpoint-s-mobile-signing-tools-enter-a-21-day-development-fund-vote-seeking-1-25-milli",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_0842-est",
@@ -748,7 +1182,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/supanova-introduces-v2-with-mobile-trading-and-canton-coin-funding-routes",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_0712-est",
@@ -759,7 +1199,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/nomura-nri-and-boostry-set-out-a-joint-plan-to-connect-financial-firms-to-on-chain-markets",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_0542-est",
@@ -770,7 +1216,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/halborn-requests-3-5-million-canton-coin-for-open-tools-to-check-six-security-properties-i",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_0512-est",
@@ -781,7 +1233,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-sets-dated-mainnet-steps-for-traffic-based-app-rewards-with-a-dry-run-starting-dece",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_0412-est",
@@ -792,7 +1250,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/a-new-canton-coin-explainer-sets-out-the-whitepaper-minting-path-100-billion-coins-over-te",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_0312-est",
@@ -803,7 +1267,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/capconnect-is-approved-as-a-canton-super-validator-with-a-maximum-reward-weight-of-5",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_0242-est",
@@ -814,7 +1284,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/talos-marex-and-broadridge-are-building-a-single-workflow-for-trading-prime-brokerage-and",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_0142-est",
@@ -825,7 +1301,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/the-imf-s-october-stability-report-puts-intraday-repo-and-legal-certainty-at-the-centre-of",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-19_0042-est",
@@ -836,7 +1318,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/tenderly-revises-its-canton-transaction-testing-proposal-to-421-520-63-over-24-months-with",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_2342-est",
@@ -847,7 +1335,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/cip-0129-s-universal-burn-first-phase-targets-the-first-quarter-of-2027-routing-dedicated",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_2312-est",
@@ -858,7 +1352,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/marex-is-approved-as-a-canton-super-validator-with-a-maximum-weight-of-10-running-through",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_2142-est",
@@ -869,7 +1369,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/zenith-joins-dtcc-s-tokenization-working-group-alongside-more-than-100-firms-to-help-desig",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_2112-est",
@@ -880,7 +1386,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/dtcc-s-canton-tokenization-pilot-runs-under-an-sec-no-action-letter-that-keeps-tokenized-e",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_2042-est",
@@ -891,7 +1403,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/dfns-adds-canton-token-standard-v2-allocations-support-letting-institutions-lock-the-canto",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_2012-est",
@@ -902,7 +1420,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-dev-fund-votes-are-failing-from-absent-voters-not-rejections-a-community-analysis-f",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1942-est",
@@ -913,7 +1437,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-issues-java4shell-mitigation-guidance-for-node-operators-recommending-they-disable",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1912-est",
@@ -924,7 +1454,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/draft-cip-0128-would-let-validators-join-canton-without-whitelisting-gated-by-a-traffic-pu",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1842-est",
@@ -935,7 +1471,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/valour-s-canton-network-etp-is-trading-on-sweden-s-spotlight-stock-market-giving-brokerage",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1812-est",
@@ -946,7 +1488,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/london-stock-exchange-group-is-approved-as-a-canton-super-validator-under-cip-0124-with-a",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1742-est",
@@ -957,7 +1505,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/a16z-crypto-is-cleared-to-join-canton-as-a-super-validator-with-its-weight-assigned-to-the",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1712-est",
@@ -968,7 +1522,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/broadridge-s-repo-product-built-on-canton-moves-300-billion-to-400-billion-of-value-daily",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1642-est",
@@ -979,7 +1539,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/cip-0104-stands-approved-in-the-canton-foundation-registry-tying-app-rewards-to-measured-t",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1612-est",
@@ -990,7 +1556,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/blockdaemon-schedules-canton-testnet-and-devnet-upgrades-for-november-19-taking-testnet-to",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1512-est",
@@ -1001,7 +1573,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/societe-generale-earns-4-009-129-canton-coin-for-completing-its-first-super-validator-comm",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1442-est",
@@ -1012,7 +1590,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-backs-a-four-pillars-research-programme-on-real-world-asset-and-stablecoin-risks-al",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1312-est",
@@ -1023,7 +1607,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/bayzen-is-approved-for-featured-app-status-on-canton-mainnet-with-the-decision-now-pending",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1242-est",
@@ -1034,7 +1624,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/palladium-labs-open-sources-its-chainlink-oracle-kit-for-canton-developers-packaging-the-p",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1212-est",
@@ -1045,7 +1641,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/kaiko-extends-its-series-b-to-110-million-led-by-s-p-global-with-canton-also-participating",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1142-est",
@@ -1056,7 +1658,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/capconnect-enters-a-canton-super-validator-vote-with-a-plan-to-settle-commercial-paper-and",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1112-est",
@@ -1067,7 +1675,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-mainnet-total-transactions-pass-606-2-million-as-validators-rise-to-1-572-and-parti",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_1012-est",
@@ -1078,7 +1692,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/openassets-brings-its-markets-in-a-box-tokenization-platform-to-canton-as-a-da-registry-im",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_0942-est",
@@ -1089,7 +1709,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-foundation-opens-community-research-grants-with-up-to-50-000-canton-coin-a-month-fo",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_0842-est",
@@ -1100,7 +1726,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/mexc-s-featured-app-status-is-recommended-for-a-pause-over-canton-coin-locking-requirement",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_0812-est",
@@ -1111,7 +1743,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/further-asset-management-is-approved-as-a-canton-super-validator-the-first-at-that-tier-wi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_0712-est",
@@ -1122,7 +1760,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-index-milestone-votes-seek-acceptance-for-tools-that-turn-ledger-records-into-data",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_0612-est",
@@ -1133,7 +1777,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/progmat-partners-with-digital-asset-to-tokenize-japanese-government-bonds-on-canton-for-ro",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_0542-est",
@@ -1144,7 +1794,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/damlfuzz-funding-vote-seeks-a-free-open-source-tool-to-test-daml-contracts-for-authorisati",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_0512-est",
@@ -1155,7 +1811,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/kann-audits-proposes-two-canton-security-projects-covering-independent-audits-of-core-comp",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_0442-est",
@@ -1166,7 +1828,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-dev-korea-brings-builders-together-in-seoul-today-for-sessions-on-identities-partic",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_0412-est",
@@ -1177,7 +1845,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/stratalink-labs-launches-its-proof-of-liquidity-oracle-on-canton-mainnet-recording-signed",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_0342-est",
@@ -1188,7 +1862,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/chainsafe-now-runs-the-canton-devnet-endpoints-openzeppelin-uses-to-build-and-test-its-dam",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-18_0312-est",
@@ -1199,7 +1879,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-strategic-holdings-doubles-third-quarter-revenue-to-3-05-million-and-turns-adjusted",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_1912-est",
@@ -1210,7 +1896,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-climbs-10-16-in-24-hours-to-0-0852-as-its-market-cap-reaches-3-41-billion",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_1742-est",
@@ -1221,7 +1913,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/sec-staff-no-action-relief-for-canton-coin-is-narrow-covering-only-the-programmatic-mintin",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_1612-est",
@@ -1232,7 +1930,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/kintsu-builds-vaults-on-canton-s-party-only-visibility-model-so-depositors-see-where-capit",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_1512-est",
@@ -1243,7 +1947,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-trading-volume-falls-10-1-to-about-24-6-million-as-edelx-leads-the-day-s-gains",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_1412-est",
@@ -1254,7 +1964,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/dtcc-s-production-tokenization-on-canton-points-to-a-credit-layer-as-the-next-chapter",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_1312-est",
@@ -1265,7 +1981,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-keeps-issuance-and-settlement-as-separate-jobs-unlike-a-single-public-ledger",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_1212-est",
@@ -1276,7 +1998,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-releases-version-3-7-3-focused-on-sequencer-stability-traffic-accounting-and-party",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_1142-est",
@@ -1287,7 +2015,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-has-no-cliff-unlock-scheduled-with-52-89-of-supply-still-locked-under-linear-v",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_1042-est",
@@ -1298,7 +2032,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/cantex-adds-optional-two-factor-authentication-for-actions-that-move-assets-or-grant-permi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_1012-est",
@@ -1309,7 +2049,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/about-79-of-canton-transactions-were-executed-privately-over-a-24-hour-window-in-november",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_0912-est",
@@ -1320,7 +2066,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/progmat-signs-with-digital-asset-to-build-tokenized-japanese-government-bonds-on-canton-wi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_0812-est",
@@ -1331,7 +2083,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/obsidian-systems-python-tools-for-canton-application-teams-pass-their-vote-and-are-merged",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_0742-est",
@@ -1342,7 +2100,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/dedaub-seeks-a-champion-for-damlsec-a-checker-that-scans-compiled-daml-packages-for-securi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_0642-est",
@@ -1353,7 +2117,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-futures-open-interest-eases-to-35-16-million-as-24-hour-liquidations-jump-to-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_0612-est",
@@ -1364,7 +2134,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-s-governance-runs-through-a-single-open-cip-process-with-more-than-117-proposals-ap",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_0442-est",
@@ -1375,7 +2151,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/rex-osprey-canton-coin-etf-registration-becomes-effective-with-trading-still-unconfirmed",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_0342-est",
@@ -1386,7 +2168,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/builders-can-run-a-full-canton-stack-locally-with-the-canton-foundation-builder-tool",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_0242-est",
@@ -1397,7 +2185,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-index-returns-for-milestone-review-with-two-votes-each-carrying-444-000-cc",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_0142-est",
@@ -1408,7 +2202,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/the-tie-puts-canton-s-year-to-date-canton-coin-burn-at-4-49-billion",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_0042-est",
@@ -1419,7 +2219,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/damlfuzz-funding-vote-opens-to-test-daml-contracts-for-authorization-and-privacy-failures",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-15_0012-est",
@@ -1430,7 +2236,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canborsa-adds-anthropic-linked-perpetual-markets-with-up-to-10x-leverage",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_2242-est",
@@ -1441,7 +2253,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-spot-prices-narrow-to-3-75-apart-across-exchanges-with-no-route-rated-worth-ta",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_2212-est",
@@ -1452,7 +2270,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/one-week-on-canton-in-three-numbers-63-super-validator-nodes-6-07-billion-cc-burned-to-dat",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_2042-est",
@@ -1463,7 +2287,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/certik-s-audit-of-cancore-s-canton-settlement-contracts-closed-with-12-of-15-findings-reso",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1942-est",
@@ -1474,7 +2304,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/progmat-signs-with-digital-asset-to-build-tokenized-japanese-government-bonds-on-canton",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1842-est",
@@ -1485,7 +2321,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/societe-generale-accepts-10-million-in-tokenized-us-treasuries-as-eligible-collateral-on-c",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1812-est",
@@ -1496,7 +2338,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-s-first-tokenized-stock-debut-drew-five-buys-and-no-sells-with-40-296-changing-hand",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1642-est",
@@ -1507,7 +2355,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/sec-staff-digital-commodity-view-on-canton-coin-stays-in-focus-as-coverage-weighs-its-limi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1612-est",
@@ -1518,7 +2372,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/goldman-sachs-is-proposed-as-a-super-validator-on-canton-under-a-milestone-based-programme",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1542-est",
@@ -1529,7 +2389,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/decrypt-s-november-14-explainer-puts-canton-s-september-snapshot-at-about-60-super-validat",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1512-est",
@@ -1540,7 +2406,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/certik-s-audit-of-digital-asset-s-canton-registry-off-chain-utilities-found-no-critical-or",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1442-est",
@@ -1551,7 +2423,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-documentation-sets-out-three-ways-wallets-and-exchanges-can-support-usdcx-circle-s",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1412-est",
@@ -1562,7 +2440,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/digital-asset-s-funding-for-canton-totals-415-million-across-three-rounds-including-a-10-m",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1342-est",
@@ -1573,7 +2457,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-chain-fees-run-at-about-7-675-a-day-a-steady-usage-baseline-even-as-market-sentimen",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1312-est",
@@ -1584,7 +2474,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/certik-ranks-canton-first-among-compared-blockchains-for-third-quarter-fees-at-more-than-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1242-est",
@@ -1595,7 +2491,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/dtcc-s-plan-to-add-solana-in-2027-puts-canton-inside-a-broader-multi-chain-tokenization-st",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1142-est",
@@ -1606,7 +2508,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-futures-open-interest-falls-to-36-08-million-as-24-hour-liquidations-jump-to-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1112-est",
@@ -1617,7 +2525,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-perpetuals-volume-falls-to-251-675-in-24-hours-as-spot-dex-volume-holds-above-20-mi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_1042-est",
@@ -1628,7 +2542,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/sixty-seven-companies-object-to-okxice-s-third-party-tokenization-plans-putting-issuer-con",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_0942-est",
@@ -1639,7 +2559,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-bridge-volume-reads-zero-in-the-last-24-hours-with-399-220-over-seven-days-all-thro",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_0912-est",
@@ -1650,7 +2576,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/governance-locks-bring-super-validator-and-featured-app-locking-enforcement-on-chain-under",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_0812-est",
@@ -1661,7 +2593,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-futures-open-interest-eases-further-to-38-01-million-with-liquidations-almost",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_0712-est",
@@ -1672,7 +2610,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-selected-to-support-a-three-state-rise-benefits-pilot-planned-for-the-first-quarter",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_0642-est",
@@ -1683,7 +2627,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/console-wallet-reports-full-service-restoration-after-a-precautionary-suspension",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546432971",
@@ -1694,7 +2644,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-lsu-0-13-required-march-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546432823",
@@ -1705,7 +2661,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-lsu-0-13-required-march-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546424610",
@@ -1716,7 +2678,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-13-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546410848",
@@ -1727,7 +2695,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-13-4",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546410673",
@@ -1738,7 +2712,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-13-4",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546410666",
@@ -1749,7 +2729,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-13-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546410626",
@@ -1760,7 +2746,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-13-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546407438",
@@ -1771,7 +2763,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-topology-freeze-0-13",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546407319",
@@ -1782,7 +2780,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-topology-freeze-0-13-required-march-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546407128",
@@ -1793,7 +2797,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-breaking-config-changes-0-13-required",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546407063",
@@ -1804,7 +2814,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-topology-freeze-0-13-required-march-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546406993",
@@ -1815,7 +2831,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-13-4",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546406985",
@@ -1826,7 +2848,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-13-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546406964",
@@ -1837,7 +2865,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-breaking-config-changes-0-13-required",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546401988",
@@ -1848,7 +2882,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-13-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546396696",
@@ -1859,7 +2899,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-breaking-config-changes-0-13-required",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546396588",
@@ -1870,7 +2916,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-13-0",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546391846",
@@ -1881,7 +2933,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-new-daml-models-introduced-by-splice-0-13-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546391720",
@@ -1892,7 +2950,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-13-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546390130",
@@ -1903,7 +2967,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-13-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546389859",
@@ -1914,7 +2984,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-lsu-0-13-required-april-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546379265",
@@ -1925,7 +3001,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-13-0",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546376085",
@@ -1936,7 +3018,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-13-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546375944",
@@ -1947,7 +3035,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-13-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546375608",
@@ -1958,7 +3052,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-new-daml-models-introduced-by-splice-0-13-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546375560",
@@ -1969,7 +3069,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-13-0",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13546375220",
@@ -1980,7 +3086,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-new-daml-models-introduced-by-splice-0-13-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13018682963",
@@ -1991,7 +3103,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13018641250",
@@ -2002,7 +3120,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-4",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-13018640867",
@@ -2013,7 +3137,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-10-4",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981644484",
@@ -2024,7 +3154,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-lsu-0-12-required-march-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981643108",
@@ -2035,7 +3171,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-12-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981643035",
@@ -2046,7 +3188,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-topology-freeze-0-12-required-february-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981642445",
@@ -2057,7 +3205,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-breaking-config-changes-0-12-required",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981642444",
@@ -2068,7 +3222,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-12-0",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981642215",
@@ -2079,7 +3239,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-12-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981637446",
@@ -2090,7 +3256,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-breaking-config-changes-0-12-required",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981637063",
@@ -2101,7 +3273,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-12-0",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981637055",
@@ -2112,7 +3290,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-12-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981636932",
@@ -2123,7 +3307,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-12-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981636916",
@@ -2134,7 +3324,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-12-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981636804",
@@ -2145,7 +3341,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-topology-freeze-0-12-required-february-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981634568",
@@ -2156,7 +3358,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-topology-freeze-0-12",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981634561",
@@ -2167,7 +3375,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-12-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981634513",
@@ -2178,7 +3392,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-lsu-0-12-required-february-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981634511",
@@ -2189,7 +3409,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981630900",
@@ -2200,7 +3426,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-12-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981630895",
@@ -2211,7 +3443,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-12-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981630642",
@@ -2222,7 +3460,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-lsu-0-12-required-february-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981630638",
@@ -2233,7 +3477,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-12-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981629573",
@@ -2244,7 +3494,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981629558",
@@ -2255,7 +3511,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-new-daml-models-introduced-by-splice-0-12-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981629556",
@@ -2266,7 +3528,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-breaking-config-changes-0-12-required",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981625557",
@@ -2277,7 +3545,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-12-0",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981598580",
@@ -2288,7 +3562,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-topology-freeze-0-11",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981598558",
@@ -2299,7 +3579,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981590116",
@@ -2310,7 +3596,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-11-0",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981586967",
@@ -2321,7 +3613,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-11-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981586372",
@@ -2332,7 +3630,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-topology-freeze-0-11-required-january-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981586333",
@@ -2343,7 +3647,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981586311",
@@ -2354,7 +3664,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-breaking-config-changes-0-11-required",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981586273",
@@ -2365,7 +3681,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-11-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981586149",
@@ -2376,7 +3698,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-11-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981583252",
@@ -2387,7 +3715,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-topology-freeze-0-11-required-january-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981583203",
@@ -2398,7 +3732,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-breaking-config-changes-0-11-required",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981583190",
@@ -2409,7 +3749,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-11-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981583189",
@@ -2420,7 +3766,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-11-0",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981582870",
@@ -2431,7 +3783,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-new-daml-models-introduced-by-splice-0-11-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981582813",
@@ -2442,7 +3800,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-11-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981582805",
@@ -2453,7 +3817,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-lsu-0-11-required-january-2026",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981582760",
@@ -2464,7 +3834,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-11-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981571281",
@@ -2475,7 +3851,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-breaking-config-changes-0-11-required",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981570670",
@@ -2486,7 +3868,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-lsu-0-11-required-january-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981570271",
@@ -2497,7 +3885,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-11-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981559687",
@@ -2508,7 +3902,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-lsu-0-11-required-february-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981559650",
@@ -2519,7 +3919,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-11-0",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981549327",
@@ -2530,7 +3936,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-11-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12981548855",
@@ -2541,7 +3953,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-11-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690976431",
@@ -2552,7 +3970,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-daml-models-introduced-by-splice-0-10-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690976366",
@@ -2563,7 +3987,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-breaking-configuration-changes-introduced-by-splice-0-10-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690976140",
@@ -2574,7 +4004,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-daml-models-introduced-by-splice-0-10-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690975783",
@@ -2585,7 +4021,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-breaking-configuration-changes-introduced-by-splice-0-10-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690975704",
@@ -2596,7 +4038,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-10-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690975690",
@@ -2607,7 +4055,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-10-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690957648",
@@ -2618,7 +4072,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-10-3",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690957127",
@@ -2629,7 +4089,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-logical-synchronizer-upgrade-0-10-x-required-november-2026",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690956723",
@@ -2640,7 +4106,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-0",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690956494",
@@ -2651,7 +4123,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-upgrades-to-splice-0-10-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690956490",
@@ -2662,7 +4140,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-logical-synchronizer-upgrade-0-10-x-required-november-2026",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690943575",
@@ -2673,7 +4157,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-topology-freeze-0-10-x-required-december-2026",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690943471",
@@ -2684,7 +4174,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-breaking-configuration-changes-introduced-by-splice-0-10-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690884026",
@@ -2695,7 +4191,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-daml-models-introduced-by-splice-0-10-0-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690883723",
@@ -2706,7 +4208,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-breaking-configurations-introduced-by-splice-0-9-x-take-effect",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690867807",
@@ -2717,7 +4225,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-10-4",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690867758",
@@ -2728,7 +4242,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690867545",
@@ -2739,7 +4259,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/testnet-topology-freeze-0-10-x-required-november-2026",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690852435",
@@ -2750,7 +4276,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-logical-synchronizer-upgrade-0-10-x-required-december-2026",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690828896",
@@ -2761,7 +4293,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-topology-freeze-0-10-x-required-november-2026",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690820725",
@@ -2772,7 +4310,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/mainnet-upgrades-to-splice-0-10-1",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-event-sv-12690820594",
@@ -2783,7 +4327,13 @@
       "kind": "calendar-event",
       "url": "https://canton.w3ai.io/feed/devnet-upgrades-to-splice-0-10-2",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_0612-est",
@@ -2794,7 +4344,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/tritemius-expands-its-ios-wallet-through-testflight-adding-canton-assets-and-two-lightning",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_0542-est",
@@ -2805,7 +4361,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/edel-reports-a-theft-of-about-300-000-in-edel-tokens-with-the-stolen-tokens-since-sold-or",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_0512-est",
@@ -2816,7 +4378,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-coin-futures-open-interest-eases-to-38-42-million-as-liquidations-stay-almost-entir",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_0442-est",
@@ -2827,7 +4395,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/circle-internet-group-and-upflam-are-named-in-the-latest-mainnet-validator-allocation-noti",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-14_0412-est",
@@ -2838,7 +4412,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/onepump-launches-on-canton-with-52-markets-listed-on-its-launchpad",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1942-est",
@@ -2849,7 +4429,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/mexc-s-featured-app-status-is-recommended-for-a-pause-over-canton-coin-locking-requirement",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1912-est",
@@ -2860,7 +4446,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/r13n-labs-canton-reward-engine-gets-a-fresh-dev-fund-vote-after-the-first-vote-closed-with",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1842-est",
@@ -2871,7 +4463,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/no-canton-coin-arbitrage-route-is-worth-taking-tonight-with-prices-4-29-apart-across-excha",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1812-est",
@@ -2882,7 +4480,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-s-tokenized-stock-debut-tallied-from-tsv-s-public-feed-five-purchases-zero-sales-40",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1642-est",
@@ -2893,7 +4497,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/ledger-enterprise-brings-hardware-enforced-threshold-self-custody-to-canton-targeting-the",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1512-est",
@@ -2904,7 +4514,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/fairmint-and-blockworks-win-approval-for-a-shared-2-4-million-cc-canton-asset-data-feed",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1412-est",
@@ -2915,7 +4531,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-security-advisory-warns-validators-that-attackers-are-targeting-operators-internal",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1342-est",
@@ -2926,7 +4548,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-draft-would-let-super-validators-delegate-their-governance-votes-to-a-separate-iden",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1312-est",
@@ -2937,7 +4565,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-outlines-its-next-steps-tokenized-stocks-first-then-repo-derivatives-and-private-as",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1242-est",
@@ -2948,7 +4582,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/anchain-ai-seeks-1-6-million-cc-to-build-canton-fraud-investigation-tools-that-work-within",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1142-est",
@@ -2959,7 +4599,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/independent-review-scores-canton-68-out-of-100-on-trust-and-finds-no-third-party-audit-in",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_1112-est",
@@ -2970,7 +4616,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/silvana-v2-brings-private-trading-to-canton-with-orders-matched-away-from-public-view-and",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0942-est",
@@ -2981,7 +4633,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-s-governance-guide-sets-out-how-every-network-change-passes-the-cip-process-with-mo",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0842-est",
@@ -2992,7 +4650,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-s-network-now-spans-more-than-830-firms-with-the-dtcc-tokenization-service-able-to",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0812-est",
@@ -3003,7 +4667,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/progmat-and-digital-asset-move-tokenized-japanese-government-bonds-into-phase-two-live-val",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0712-est",
@@ -3014,7 +4684,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/valour-lists-a-canton-coin-etp-on-sweden-s-spotlight-stock-market-giving-investors-securit",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0612-est",
@@ -3025,7 +4701,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/chainsafe-s-daml-reason-gives-ai-written-daml-a-second-check-before-it-compiles",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0512-est",
@@ -3036,7 +4718,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-foundation-welcomes-six-new-members-in-november-2026-spanning-liquidity-infrastruct",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0442-est",
@@ -3047,7 +4735,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/noves-seeks-5-25-million-cc-to-turn-canton-activity-into-accounting-records",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0412-est",
@@ -3058,7 +4752,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/sec-staff-digital-commodity-view-on-canton-coin-returns-to-focus-as-markets-weigh-its-limi",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0342-est",
@@ -3069,7 +4769,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/saxon-releases-self-hosted-kms-drivers-so-canton-validators-can-keep-keys-outside-aws-and",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0242-est",
@@ -3080,7 +4786,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/edena-and-cantor8-launch-concordia-to-connect-africa-s-mobile-money-systems-on-canton",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0212-est",
@@ -3091,7 +4803,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/capconnect-enters-canton-super-validator-vote-with-a-plan-for-corporate-debt-settlement",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-13_0012-est",
@@ -3102,7 +4820,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-mainnet-completes-its-migration-to-cantonbft-the-network-s-native-consensus-orderin",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_2342-est",
@@ -3113,7 +4837,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/supanova-launches-canton-s-first-permissionless-token-launchpad-opening-the-network-to-ret",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_2242-est",
@@ -3124,7 +4854,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/bny-icapital-nasdaq-and-s-p-global-make-strategic-investments-in-digital-asset",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_2212-est",
@@ -3135,7 +4871,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/r-tli-brings-threshold-key-management-to-canton-validators-so-no-single-machine-ever-holds",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_2142-est",
@@ -3146,7 +4888,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/edx-markets-partners-with-canton-to-list-canton-coin-settle-stablecoins-and-validate-the-n",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_2112-est",
@@ -3157,7 +4905,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/tharimmune-approved-as-a-canton-super-validator-the-first-publicly-traded-company-supporte",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_2012-est",
@@ -3168,7 +4922,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-foundation-launches-official-daml-3-developer-certification",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1942-est",
@@ -3179,7 +4939,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/hqlax-takes-strategic-investments-from-broadridge-and-digital-asset-for-its-canton-migrati",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1912-est",
@@ -3190,7 +4956,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-foundation-passes-100-members-as-isda-and-isla-join-legal-standards-work",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1842-est",
@@ -3201,7 +4973,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/visa-joins-canton-as-a-super-validator-announced-on-its-q4-earnings-call",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1812-est",
@@ -3212,7 +4990,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/openassets-brings-markets-in-a-box-tokenization-platform-to-canton-as-da-registry-implemen",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1742-est",
@@ -3223,7 +5007,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/kaiko-joins-canton-foundation-collateral-workstream-to-bring-trusted-pricing-to-tokenized",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1712-est",
@@ -3234,7 +5024,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/cancore-raises-7-2-million-seed-round-to-connect-canton-assets-with-public-chain-liquidity",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1612-est",
@@ -3245,7 +5041,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/tokenomics-committee-approves-stable-coin-sbc-as-a-featured-app-on-canton",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1542-est",
@@ -3256,7 +5058,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/upflam-payments-and-wallet-platform-opens-to-everyone-on-canton",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1442-est",
@@ -3267,7 +5075,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/dtcc-plans-to-connect-its-tokenization-service-to-solana-in-the-second-half-of-2027",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1412-est",
@@ -3278,7 +5092,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-foundation-backs-redstone-pricing-tool-with-15-8-million-canton-coin",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1342-est",
@@ -3289,7 +5109,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/nomura-group-and-boostry-approved-for-canton-super-validator-participation-under-cip-0130",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     },
     {
       "id": "canton-2026-11-12_1033-est",
@@ -3300,7 +5126,13 @@
       "kind": "briefing",
       "url": "https://canton.w3ai.io/feed/canton-roadmap-leads-with-tokenized-stocks-then-repo-and-derivatives",
       "image": null,
-      "source_links": []
+      "source_links": [],
+      "external_url": null,
+      "source_url": null,
+      "original_url": null,
+      "source": null,
+      "publisher": null,
+      "links": []
     }
   ]
 }
