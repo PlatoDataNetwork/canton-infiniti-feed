@@ -29,8 +29,79 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-21T13:51:00-05:00",
+  "updated": "2026-11-21T14:06:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-21_1406-est",
+      "slug": "live-mainnet-rewards-climb-to-12-2-million-canton-coin-over-24-hours-as-total-burned-reach",
+      "url": "https://canton.w3ai.io/feed/live-mainnet-rewards-climb-to-12-2-million-canton-coin-over-24-hours-as-total-burned-reach",
+      "title": "Live MainNet rewards climb to 12.2 million Canton Coin over 24 hours as total burned reaches 6.15 billion Canton Coin",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 2:06 PM ET)\n\n- **Live MainNet rewards climb to 12.2 million Canton Coin over 24 hours as total burned reaches 6.15 billion Canton Coin** — The live network stand on November 21 puts 24-hour rewards at 12.2 million Canton Coin, up from 11.7 million recorded in the 1:36 PM edition, alongside throughput of 1.00 transactions per second, with 13 Super Validators, 11 active proposals and total burned at 6.15 billion Canton Coin, up from 6.14 billion; the rewards and throughput figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n- **Canton Coin futures liquidations ease to $28,160, almost all of them longs, as the open-interest-weighted funding rate reads negative 0.0203%** — CoinGlass's November 21 read puts 24-hour liquidations at $28,160, with $28,140 in longs and $17.95 in shorts, down from $32,820 recorded in the 1:36 PM edition, with futures open interest at $33.57 million, futures volume at $14.42 million against spot volume at $5.37 million and an open-interest-weighted funding rate of negative 0.0203%, about negative 22.2% annualised, with shorts paying longs (CoinGlass)\n- **Canton DeFi locked value holds at $10.98 million as DEX volume reads $18.58 million in the November 21 chain read** — DefiLlama's November 21 chain read puts total value locked at $10.98 million, down 0.36% in 24 hours, with DEX volume at $18.58 million over 24 hours and perpetuals volume at $219,417, across eight tracked protocols with Temple still largest at $5.86 million, ahead of Alpend at $1.84 million and Cantex at $1.70 million, and Tradecraft at $1.39 million, up 5.27% in 24 hours (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0768, with a market cap of $3.1 billion (rank 25) and 24-hour trading volume of $9.6 million, up 2.30% in 24 hours and down 7.27% over seven days, with circulating supply of about 40.06 billion CC at the November 21 read; as a network milestone, total Canton Coin burned reaches 6.15 billion CC on the live network stand (Altcoin Buzz, reporting CoinGecko, for market data; CantonNews for the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/today\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nAltcoin Buzz: https://www.altcoinbuzz.io/price/canton-network",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 2:06 PM ET)<br/><br/>- **Live MainNet rewards climb to 12.2 million Canton Coin over 24 hours as total burned reaches 6.15 billion Canton Coin** — The live network stand on November 21 puts 24-hour rewards at 12.2 million Canton Coin, up from 11.7 million recorded in the 1:36 PM edition, alongside throughput of 1.00 transactions per second, with 13 Super Validators, 11 active proposals and total burned at 6.15 billion Canton Coin, up from 6.14 billion; the rewards and throughput figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)<br/>- **Canton Coin futures liquidations ease to $28,160, almost all of them longs, as the open-interest-weighted funding rate reads negative 0.0203%** — CoinGlass&#x27;s November 21 read puts 24-hour liquidations at $28,160, with $28,140 in longs and $17.95 in shorts, down from $32,820 recorded in the 1:36 PM edition, with futures open interest at $33.57 million, futures volume at $14.42 million against spot volume at $5.37 million and an open-interest-weighted funding rate of negative 0.0203%, about negative 22.2% annualised, with shorts paying longs (CoinGlass)<br/>- **Canton DeFi locked value holds at $10.98 million as DEX volume reads $18.58 million in the November 21 chain read** — DefiLlama&#x27;s November 21 chain read puts total value locked at $10.98 million, down 0.36% in 24 hours, with DEX volume at $18.58 million over 24 hours and perpetuals volume at $219,417, across eight tracked protocols with Temple still largest at $5.86 million, ahead of Alpend at $1.84 million and Cantex at $1.70 million, and Tradecraft at $1.39 million, up 5.27% in 24 hours (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0768, with a market cap of $3.1 billion (rank 25) and 24-hour trading volume of $9.6 million, up 2.30% in 24 hours and down 7.27% over seven days, with circulating supply of about 40.06 billion CC at the November 21 read; as a network milestone, total Canton Coin burned reaches 6.15 billion CC on the live network stand (Altcoin Buzz, reporting CoinGecko, for market data; CantonNews for the milestone).<br/><br/>Original sources:<br/>CantonNews: https://cantonnews.org/today<br/>CoinGlass: https://www.coinglass.com/currencies/CC<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true<br/>Altcoin Buzz: https://www.altcoinbuzz.io/price/canton-network</p>",
+      "date_published": "2026-11-21T14:06:00-05:00",
+      "date_modified": "2026-11-21T14:06:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://cantonnews.org/today",
+      "source_url": "https://cantonnews.org/today",
+      "original_url": "https://cantonnews.org/today",
+      "source": "CantonNews",
+      "publisher": "CantonNews",
+      "links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Altcoin Buzz",
+          "url": "https://www.altcoinbuzz.io/price/canton-network"
+        }
+      ],
+      "timestamp": "Nov 21, 2026 · 2:06 PM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 2:06 PM ET)\n\n- **Live MainNet rewards climb to 12.2 million Canton Coin over 24 hours as total burned reaches 6.15 billion Canton Coin** — The live network stand on November 21 puts 24-hour rewards at 12.2 million Canton Coin, up from 11.7 million recorded in the 1:36 PM edition, alongside throughput of 1.00 transactions per second, with 13 Super Validators, 11 active proposals and total burned at 6.15 billion Canton Coin, up from 6.14 billion; the rewards and throughput figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n- **Canton Coin futures liquidations ease to $28,160, almost all of them longs, as the open-interest-weighted funding rate reads negative 0.0203%** — CoinGlass's November 21 read puts 24-hour liquidations at $28,160, with $28,140 in longs and $17.95 in shorts, down from $32,820 recorded in the 1:36 PM edition, with futures open interest at $33.57 million, futures volume at $14.42 million against spot volume at $5.37 million and an open-interest-weighted funding rate of negative 0.0203%, about negative 22.2% annualised, with shorts paying longs (CoinGlass)\n- **Canton DeFi locked value holds at $10.98 million as DEX volume reads $18.58 million in the November 21 chain read** — DefiLlama's November 21 chain read puts total value locked at $10.98 million, down 0.36% in 24 hours, with DEX volume at $18.58 million over 24 hours and perpetuals volume at $219,417, across eight tracked protocols with Temple still largest at $5.86 million, ahead of Alpend at $1.84 million and Cantex at $1.70 million, and Tradecraft at $1.39 million, up 5.27% in 24 hours (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0768, with a market cap of $3.1 billion (rank 25) and 24-hour trading volume of $9.6 million, up 2.30% in 24 hours and down 7.27% over seven days, with circulating supply of about 40.06 billion CC at the November 21 read; as a network milestone, total Canton Coin burned reaches 6.15 billion CC on the live network stand (Altcoin Buzz, reporting CoinGecko, for market data; CantonNews for the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/today\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nAltcoin Buzz: https://www.altcoinbuzz.io/price/canton-network",
+      "image_url": null,
+      "published": "2026-11-21T14:06:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Altcoin Buzz",
+          "url": "https://www.altcoinbuzz.io/price/canton-network"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-21_1351-est",
       "slug": "tokenomics-committee-approves-cbnb-as-a-featured-asset-and-pauses-three-featured-apps-over",
@@ -5939,43 +6010,6 @@
       "body": "Canton Signal Feed (Nov 14, 2026 · 11:12 AM ET)\n- **Canton perpetuals volume falls to $251,675 in 24 hours as spot DEX volume holds above $20 million** — Perpetuals trading on Canton has slowed sharply, with $251,675 in volume over the last 24 hours and $1.93 million over seven days, a weekly change of -73.39%, while spot DEX volume held at $20.51 million over 24 hours and $139.07 million over seven days, up 4.77% on the week (DefiLlama)\n- **About 79% of Canton updates were fully private in a November 24-hour window, CantonScan data shows** — Network explorer data cited in new coverage of Digital Asset's institutional rollout puts the fully private share of updates at approximately 79% over a 24-hour window in November 2026, reflecting Canton's Daml-based sub-transaction privacy, under which participating nodes only receive the data relevant to their own leg of a transaction (Basis Desk)\n- **Canton DeFi locked value falls to $11.5 million, down 4.94% in 24 hours** — Total value locked across Canton's eight tracked DeFi protocols fell to $11.5 million, with Temple at $6.2 million, Alpend at $1.89 million, Cantex at $1.76 million and Tradecraft at $1.46 million; the figures are down from $11.74 million locked earlier today (DefiLlama)\n- **Canton Coin futures positioning leans short, with an aggregate long-to-short ratio of 0.658** — Positioning across tracked venues leans toward shorts, with an aggregate long-to-short ratio of 0.658 and OI-weighted funding at -0.0017% over four hours; Bybit holds the largest futures book at $12.35 million, about 32% of the $38.44 million total, ahead of Binance at $11.02 million (Coinfuty)\n\nNetwork: CC $0.0824 | Market cap $3.30B (rank 26) | 24h volume $11.67M | Supply 40.05B CC; milestone: total transactions on MainNet reached 603.0M and total parties stood at 946.8K, with about 1.6K validators, 13 Super Validators and 6 active governance proposals (Kaavon for market data; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-14T11:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-14_1042-est",
-      "slug": "sixty-seven-companies-object-to-okxice-s-third-party-tokenization-plans-putting-issuer-con",
-      "url": "https://canton.w3ai.io/feed/sixty-seven-companies-object-to-okxice-s-third-party-tokenization-plans-putting-issuer-con",
-      "title": "Sixty-seven companies object to OKXICE's third-party tokenization plans, putting issuer consent at the centre of the SEC exemption debate",
-      "content_text": "Canton Signal Feed (Nov 14, 2026 · 10:42 AM ET)\n- **Sixty-seven companies object to OKXICE's third-party tokenization plans, putting issuer consent at the centre of the SEC exemption debate** — Of the 62 companies originally proposed for tokenization by OKXICE, the OKX and Intercontinental Exchange venture, 56 have formally objected, including all seven Magnificent Seven companies alongside Walmart, JPMorgan, Coca-Cola, Eli Lilly, Boeing and McDonald's, and 11 further companies outside the original list have also raised objections, leaving only Strategy, Robinhood, Coinbase, Circle, Securitize and BitGo not objecting; the dispute is over consent, because OKXICE would tokenize shares through an unaffiliated third party, while TSV on Canton tokenizes only with issuer sponsorship through Fairmint, the SEC-registered transfer agent behind its first Canton Strategic Holdings trades, and Nasdaq has separately opposed TSV's framework in favour of an issuer-centric approach inside existing regulated markets (CryptoFrontNews)\n- **Live MainNet activity jumps to 11.00 TPS as rewards over the last 24 hours climb to 9.9 million CC** — CantonNews' live MainNet counter on November 14 reads current activity at 11.00 TPS, up sharply from the 1.00 TPS recorded earlier today, with rewards over the last 24 hours at 9.9 million CC, up from 9.2 million in the previous edition, alongside total transactions at 603.0 million, total parties at 946.8K and total burned at 6.03B CC (CantonNews)\n- **Circle reports about $47.99 million held in Canton Coin in its latest quarterly disclosure** — Circle's reported digital-asset holdings totalled about $133 million as of September 30, including about $47.99 million in Canton Coin and about $45.88 million in HYPE, with the HYPE position up more than fivefold from a year earlier; the figure is a treasury disclosure by a company that also operates on Canton and was named in the latest MainNet validator allocation notice, not an announcement of a new purchase (CoinNewsify)\n- **Canton app fees total $7,829 over 24 hours, with Temple generating $7,113 of the total** — DefiLlama's November 14 fees ranking puts Canton app fees at $7,829 in the last 24 hours, up from $7,118 a day earlier, with $54,943 over the last seven days and $256,512 over the last 30 days, a weekly change of -0.36%; Temple accounts for $7,113 of the daily total and Cantex for $1,021, while Pool Party recorded no fees in the window (DefiLlama)\n\nNetwork: CC $0.0816 | Market cap $3.27B (rank 26) | 24h volume $11.47M | Supply 40.05B CC; milestone: the MainNet upgrade to Splice 0.10.0 is listed for November 16, with about 1.6K validators, 13 Super Validators and 6 active proposals on the network (BlocFolio for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 14, 2026 · 10:42 AM ET)<br/>- **Sixty-seven companies object to OKXICE&#x27;s third-party tokenization plans, putting issuer consent at the centre of the SEC exemption debate** — Of the 62 companies originally proposed for tokenization by OKXICE, the OKX and Intercontinental Exchange venture, 56 have formally objected, including all seven Magnificent Seven companies alongside Walmart, JPMorgan, Coca-Cola, Eli Lilly, Boeing and McDonald&#x27;s, and 11 further companies outside the original list have also raised objections, leaving only Strategy, Robinhood, Coinbase, Circle, Securitize and BitGo not objecting; the dispute is over consent, because OKXICE would tokenize shares through an unaffiliated third party, while TSV on Canton tokenizes only with issuer sponsorship through Fairmint, the SEC-registered transfer agent behind its first Canton Strategic Holdings trades, and Nasdaq has separately opposed TSV&#x27;s framework in favour of an issuer-centric approach inside existing regulated markets (CryptoFrontNews)<br/>- **Live MainNet activity jumps to 11.00 TPS as rewards over the last 24 hours climb to 9.9 million CC** — CantonNews&#x27; live MainNet counter on November 14 reads current activity at 11.00 TPS, up sharply from the 1.00 TPS recorded earlier today, with rewards over the last 24 hours at 9.9 million CC, up from 9.2 million in the previous edition, alongside total transactions at 603.0 million, total parties at 946.8K and total burned at 6.03B CC (CantonNews)<br/>- **Circle reports about $47.99 million held in Canton Coin in its latest quarterly disclosure** — Circle&#x27;s reported digital-asset holdings totalled about $133 million as of September 30, including about $47.99 million in Canton Coin and about $45.88 million in HYPE, with the HYPE position up more than fivefold from a year earlier; the figure is a treasury disclosure by a company that also operates on Canton and was named in the latest MainNet validator allocation notice, not an announcement of a new purchase (CoinNewsify)<br/>- **Canton app fees total $7,829 over 24 hours, with Temple generating $7,113 of the total** — DefiLlama&#x27;s November 14 fees ranking puts Canton app fees at $7,829 in the last 24 hours, up from $7,118 a day earlier, with $54,943 over the last seven days and $256,512 over the last 30 days, a weekly change of -0.36%; Temple accounts for $7,113 of the daily total and Cantex for $1,021, while Pool Party recorded no fees in the window (DefiLlama)<br/><br/>Network: CC $0.0816 | Market cap $3.27B (rank 26) | 24h volume $11.47M | Supply 40.05B CC; milestone: the MainNet upgrade to Splice 0.10.0 is listed for November 16, with about 1.6K validators, 13 Super Validators and 6 active proposals on the network (BlocFolio for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-14T10:42:00-05:00",
-      "date_modified": "2026-11-14T10:42:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 10:42 AM ET",
-      "body": "Canton Signal Feed (Nov 14, 2026 · 10:42 AM ET)\n- **Sixty-seven companies object to OKXICE's third-party tokenization plans, putting issuer consent at the centre of the SEC exemption debate** — Of the 62 companies originally proposed for tokenization by OKXICE, the OKX and Intercontinental Exchange venture, 56 have formally objected, including all seven Magnificent Seven companies alongside Walmart, JPMorgan, Coca-Cola, Eli Lilly, Boeing and McDonald's, and 11 further companies outside the original list have also raised objections, leaving only Strategy, Robinhood, Coinbase, Circle, Securitize and BitGo not objecting; the dispute is over consent, because OKXICE would tokenize shares through an unaffiliated third party, while TSV on Canton tokenizes only with issuer sponsorship through Fairmint, the SEC-registered transfer agent behind its first Canton Strategic Holdings trades, and Nasdaq has separately opposed TSV's framework in favour of an issuer-centric approach inside existing regulated markets (CryptoFrontNews)\n- **Live MainNet activity jumps to 11.00 TPS as rewards over the last 24 hours climb to 9.9 million CC** — CantonNews' live MainNet counter on November 14 reads current activity at 11.00 TPS, up sharply from the 1.00 TPS recorded earlier today, with rewards over the last 24 hours at 9.9 million CC, up from 9.2 million in the previous edition, alongside total transactions at 603.0 million, total parties at 946.8K and total burned at 6.03B CC (CantonNews)\n- **Circle reports about $47.99 million held in Canton Coin in its latest quarterly disclosure** — Circle's reported digital-asset holdings totalled about $133 million as of September 30, including about $47.99 million in Canton Coin and about $45.88 million in HYPE, with the HYPE position up more than fivefold from a year earlier; the figure is a treasury disclosure by a company that also operates on Canton and was named in the latest MainNet validator allocation notice, not an announcement of a new purchase (CoinNewsify)\n- **Canton app fees total $7,829 over 24 hours, with Temple generating $7,113 of the total** — DefiLlama's November 14 fees ranking puts Canton app fees at $7,829 in the last 24 hours, up from $7,118 a day earlier, with $54,943 over the last seven days and $256,512 over the last 30 days, a weekly change of -0.36%; Temple accounts for $7,113 of the daily total and Cantex for $1,021, while Pool Party recorded no fees in the window (DefiLlama)\n\nNetwork: CC $0.0816 | Market cap $3.27B (rank 26) | 24h volume $11.47M | Supply 40.05B CC; milestone: the MainNet upgrade to Splice 0.10.0 is listed for November 16, with about 1.6K validators, 13 Super Validators and 6 active proposals on the network (BlocFolio for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-14T10:42:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
