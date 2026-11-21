@@ -29,8 +29,71 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-21T10:42:00-05:00",
+  "updated": "2026-11-21T11:06:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-21_1106-est",
+      "slug": "canton-coin-futures-liquidations-ease-to-38-620-almost-all-of-them-longs-as-open-interest",
+      "url": "https://canton.w3ai.io/feed/canton-coin-futures-liquidations-ease-to-38-620-almost-all-of-them-longs-as-open-interest",
+      "title": "Canton Coin futures liquidations ease to $38,620, almost all of them longs, as open interest holds at $33.59 million",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 11:06 AM ET)\n\n- **Canton Coin futures liquidations ease to $38,620, almost all of them longs, as open interest holds at $33.59 million** — CoinGlass's November 21 read puts 24-hour liquidations at $38,620, with $38,600 in longs and $17.95 in shorts, down from $42,640 recorded in the 1012 edition, with futures open interest at $33.59 million, futures volume at $16.25 million against spot volume at $6.23 million and an open-interest-weighted funding rate of 0.0054%, up from 0.0018% in the 1012 edition (CoinGlass)\n- **Live MainNet throughput reads 5.00 transactions per second as 24-hour rewards climb to 10.1 million Canton Coin** — The live network stand on November 21 puts current throughput at 5.00 transactions per second, up from 1.00 in the 1012 edition's read, alongside 13 Super Validators, 11 active proposals and 24-hour rewards of 10.1 million Canton Coin, up from 9.9 million in the 1012 edition; the throughput and rewards figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n- **An eight-exchange Canton Coin screen puts perpetual open interest at $24.23 million with average funding at negative 0.0056%** — JustScreener's November 21 screen, covering eight exchanges, puts perpetual open interest at 318 million CC, or $24.23 million, with Binance holding 41.3% of it, average funding at negative 0.0056% with shorts paying longs, and 24-hour turnover at $16.76 million; the eight-exchange set is narrower than the wider CoinGlass aggregate, so the totals are not comparable (JustScreener)\n\nNetwork: Canton Coin (CC) trades at $0.07653, with a market cap of about $3.07 billion (rank 22) and 24-hour spot volume of $6.23 million against futures volume of $16.25 million, up 1.18% in 24 hours, with circulating supply of about 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions stand at 607.8 million on the live network stand (CoinGlass for market data; CantonNews for the milestone).\n\nOriginal sources:\nCoinGlass: https://www.coinglass.com/currencies/CC\nCantonNews: https://cantonnews.org/today\nJustScreener: https://justscreener.com/en/market/CC",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 11:06 AM ET)<br/><br/>- **Canton Coin futures liquidations ease to $38,620, almost all of them longs, as open interest holds at $33.59 million** — CoinGlass&#x27;s November 21 read puts 24-hour liquidations at $38,620, with $38,600 in longs and $17.95 in shorts, down from $42,640 recorded in the 1012 edition, with futures open interest at $33.59 million, futures volume at $16.25 million against spot volume at $6.23 million and an open-interest-weighted funding rate of 0.0054%, up from 0.0018% in the 1012 edition (CoinGlass)<br/>- **Live MainNet throughput reads 5.00 transactions per second as 24-hour rewards climb to 10.1 million Canton Coin** — The live network stand on November 21 puts current throughput at 5.00 transactions per second, up from 1.00 in the 1012 edition&#x27;s read, alongside 13 Super Validators, 11 active proposals and 24-hour rewards of 10.1 million Canton Coin, up from 9.9 million in the 1012 edition; the throughput and rewards figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)<br/>- **An eight-exchange Canton Coin screen puts perpetual open interest at $24.23 million with average funding at negative 0.0056%** — JustScreener&#x27;s November 21 screen, covering eight exchanges, puts perpetual open interest at 318 million CC, or $24.23 million, with Binance holding 41.3% of it, average funding at negative 0.0056% with shorts paying longs, and 24-hour turnover at $16.76 million; the eight-exchange set is narrower than the wider CoinGlass aggregate, so the totals are not comparable (JustScreener)<br/><br/>Network: Canton Coin (CC) trades at $0.07653, with a market cap of about $3.07 billion (rank 22) and 24-hour spot volume of $6.23 million against futures volume of $16.25 million, up 1.18% in 24 hours, with circulating supply of about 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions stand at 607.8 million on the live network stand (CoinGlass for market data; CantonNews for the milestone).<br/><br/>Original sources:<br/>CoinGlass: https://www.coinglass.com/currencies/CC<br/>CantonNews: https://cantonnews.org/today<br/>JustScreener: https://justscreener.com/en/market/CC</p>",
+      "date_published": "2026-11-21T11:06:00-05:00",
+      "date_modified": "2026-11-21T11:06:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://www.coinglass.com/currencies/CC",
+      "source_url": "https://www.coinglass.com/currencies/CC",
+      "original_url": "https://www.coinglass.com/currencies/CC",
+      "source": "CoinGlass",
+      "publisher": "CoinGlass",
+      "links": [
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "JustScreener",
+          "url": "https://justscreener.com/en/market/CC"
+        }
+      ],
+      "timestamp": "Nov 21, 2026 · 11:06 AM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 11:06 AM ET)\n\n- **Canton Coin futures liquidations ease to $38,620, almost all of them longs, as open interest holds at $33.59 million** — CoinGlass's November 21 read puts 24-hour liquidations at $38,620, with $38,600 in longs and $17.95 in shorts, down from $42,640 recorded in the 1012 edition, with futures open interest at $33.59 million, futures volume at $16.25 million against spot volume at $6.23 million and an open-interest-weighted funding rate of 0.0054%, up from 0.0018% in the 1012 edition (CoinGlass)\n- **Live MainNet throughput reads 5.00 transactions per second as 24-hour rewards climb to 10.1 million Canton Coin** — The live network stand on November 21 puts current throughput at 5.00 transactions per second, up from 1.00 in the 1012 edition's read, alongside 13 Super Validators, 11 active proposals and 24-hour rewards of 10.1 million Canton Coin, up from 9.9 million in the 1012 edition; the throughput and rewards figures are live-dashboard reads that move between refreshes, not daily totals (CantonNews)\n- **An eight-exchange Canton Coin screen puts perpetual open interest at $24.23 million with average funding at negative 0.0056%** — JustScreener's November 21 screen, covering eight exchanges, puts perpetual open interest at 318 million CC, or $24.23 million, with Binance holding 41.3% of it, average funding at negative 0.0056% with shorts paying longs, and 24-hour turnover at $16.76 million; the eight-exchange set is narrower than the wider CoinGlass aggregate, so the totals are not comparable (JustScreener)\n\nNetwork: Canton Coin (CC) trades at $0.07653, with a market cap of about $3.07 billion (rank 22) and 24-hour spot volume of $6.23 million against futures volume of $16.25 million, up 1.18% in 24 hours, with circulating supply of about 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions stand at 607.8 million on the live network stand (CoinGlass for market data; CantonNews for the milestone).\n\nOriginal sources:\nCoinGlass: https://www.coinglass.com/currencies/CC\nCantonNews: https://cantonnews.org/today\nJustScreener: https://justscreener.com/en/market/CC",
+      "image_url": null,
+      "published": "2026-11-21T11:06:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/today"
+        },
+        {
+          "source": "JustScreener",
+          "url": "https://justscreener.com/en/market/CC"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-21_1042-est",
       "slug": "canton-coin-s-daily-technical-read-turns-less-bearish-with-one-bullish-indicator-group-and",
@@ -5707,43 +5770,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Wednesday, March 17, 2027\nDevNet LSU (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · DevNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event",
-      "source_links": []
-    },
-    {
-      "id": "canton-event-sv-13546432823",
-      "slug": "testnet-lsu-0-13-required-march-2027",
-      "url": "https://canton.w3ai.io/feed/testnet-lsu-0-13-required-march-2027",
-      "title": "TestNet LSU (0.13 Required) (March 2027)",
-      "content_text": "Canton Calendar — Wednesday, March 24, 2027\nTestNet LSU (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Wednesday, March 24, 2027<br/>TestNet LSU (0.13 Required) (March 2027)<br/>Protocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Wednesday, March 24, 2027\nTestNet LSU (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event",
