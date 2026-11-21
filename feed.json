@@ -29,8 +29,40 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-21T06:12:00-05:00",
+  "updated": "2026-11-21T06:42:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-21_0642-est",
+      "slug": "canton-ranks-64th-among-289-chains-by-locked-value-in-a-new-cross-chain-ranking-at-10-8-mi",
+      "url": "https://canton.w3ai.io/feed/canton-ranks-64th-among-289-chains-by-locked-value-in-a-new-cross-chain-ranking-at-10-8-mi",
+      "title": "Canton ranks 64th among 289 chains by locked value in a new cross-chain ranking, at $10.8 million",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 6:42 AM ET)\n\n- **Canton ranks 64th among 289 chains by locked value in a new cross-chain ranking, at $10.8 million** — Koinize's November 21 ranking, read at 10:50 UTC and counting locked value as DefiLlama counts it, places Canton 64th of 289 tracked chains with $10.8 million locked, just ahead of Bifrost Network at $10.5 million and behind Immutable zkEVM at $10.9 million, across $66.3 billion locked in total on all tracked chains; the ranking is a cross-chain snapshot of the tracker's DeFi figure, not a measure of Canton's institutional settlement activity (Koinize)\n- **Canton Coin futures liquidations jump to $46,550, almost all of them longs, as open interest eases to $32.17 million** — Coinfuty's latest read puts 24-hour liquidations at $46,550, of which $46,380 were longs and $169 were shorts, with total futures open interest at $32.17 million, down 7.58% in 24 hours and down from $33.30 million recorded earlier today, futures volume at $18.12 million, an aggregate long-to-short ratio of 0.817 and an open-interest-weighted funding rate of negative 0.0041%, with Bybit largest at $10.90 million ahead of Binance at $9.69 million (Coinfuty)\n- **Canton Coin's average futures funding turns negative in the latest technical update, with open interest at $14.51 million** — Coinotag's November 21 update at the 11:42 UTC close, taken at an analysis price of $0.0738 with the live spot price at $0.0741, puts average funding at negative 0.0048%, turned from positive 0.0027% in the technical read recorded earlier today, with futures open interest at $14.51 million, up from $14.40 million in that earlier read; the update's venue set differs from the wider derivatives aggregates read elsewhere in this edition, so the totals are not directly comparable (Coinotag)\n- **The Crypto Fear and Greed gauge displayed on CantonNews reads 12, in extreme fear, on November 21** — The gauge shown on CantonNews' November 21 daily page reads 12 on its 0-to-100 scale, labelled extreme fear; the reading is the page's displayed market-sentiment gauge for the day, not a Canton-specific activity measure (CantonNews)\n\nNetwork: Canton Coin (CC) trades at $0.0741, with a market cap of $3.00 billion (rank 27) and 24-hour trading volume of $12.51 million, down 7.28% in 24 hours and down 13.51% over seven days, with circulating supply of 40,094,578,274 CC at the November 21 read at 11:42 UTC; as a network milestone, Canton counts 11 active proposals on the live network stand (Coinotag for market data; CantonNews for the milestone).",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 6:42 AM ET)<br/><br/>- **Canton ranks 64th among 289 chains by locked value in a new cross-chain ranking, at $10.8 million** — Koinize&#x27;s November 21 ranking, read at 10:50 UTC and counting locked value as DefiLlama counts it, places Canton 64th of 289 tracked chains with $10.8 million locked, just ahead of Bifrost Network at $10.5 million and behind Immutable zkEVM at $10.9 million, across $66.3 billion locked in total on all tracked chains; the ranking is a cross-chain snapshot of the tracker&#x27;s DeFi figure, not a measure of Canton&#x27;s institutional settlement activity (Koinize)<br/>- **Canton Coin futures liquidations jump to $46,550, almost all of them longs, as open interest eases to $32.17 million** — Coinfuty&#x27;s latest read puts 24-hour liquidations at $46,550, of which $46,380 were longs and $169 were shorts, with total futures open interest at $32.17 million, down 7.58% in 24 hours and down from $33.30 million recorded earlier today, futures volume at $18.12 million, an aggregate long-to-short ratio of 0.817 and an open-interest-weighted funding rate of negative 0.0041%, with Bybit largest at $10.90 million ahead of Binance at $9.69 million (Coinfuty)<br/>- **Canton Coin&#x27;s average futures funding turns negative in the latest technical update, with open interest at $14.51 million** — Coinotag&#x27;s November 21 update at the 11:42 UTC close, taken at an analysis price of $0.0738 with the live spot price at $0.0741, puts average funding at negative 0.0048%, turned from positive 0.0027% in the technical read recorded earlier today, with futures open interest at $14.51 million, up from $14.40 million in that earlier read; the update&#x27;s venue set differs from the wider derivatives aggregates read elsewhere in this edition, so the totals are not directly comparable (Coinotag)<br/>- **The Crypto Fear and Greed gauge displayed on CantonNews reads 12, in extreme fear, on November 21** — The gauge shown on CantonNews&#x27; November 21 daily page reads 12 on its 0-to-100 scale, labelled extreme fear; the reading is the page&#x27;s displayed market-sentiment gauge for the day, not a Canton-specific activity measure (CantonNews)<br/><br/>Network: Canton Coin (CC) trades at $0.0741, with a market cap of $3.00 billion (rank 27) and 24-hour trading volume of $12.51 million, down 7.28% in 24 hours and down 13.51% over seven days, with circulating supply of 40,094,578,274 CC at the November 21 read at 11:42 UTC; as a network milestone, Canton counts 11 active proposals on the live network stand (Coinotag for market data; CantonNews for the milestone).</p>",
+      "date_published": "2026-11-21T06:42:00-05:00",
+      "date_modified": "2026-11-21T06:42:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": null,
+      "links": [],
+      "timestamp": "Nov 21, 2026 · 6:42 AM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 6:42 AM ET)\n\n- **Canton ranks 64th among 289 chains by locked value in a new cross-chain ranking, at $10.8 million** — Koinize's November 21 ranking, read at 10:50 UTC and counting locked value as DefiLlama counts it, places Canton 64th of 289 tracked chains with $10.8 million locked, just ahead of Bifrost Network at $10.5 million and behind Immutable zkEVM at $10.9 million, across $66.3 billion locked in total on all tracked chains; the ranking is a cross-chain snapshot of the tracker's DeFi figure, not a measure of Canton's institutional settlement activity (Koinize)\n- **Canton Coin futures liquidations jump to $46,550, almost all of them longs, as open interest eases to $32.17 million** — Coinfuty's latest read puts 24-hour liquidations at $46,550, of which $46,380 were longs and $169 were shorts, with total futures open interest at $32.17 million, down 7.58% in 24 hours and down from $33.30 million recorded earlier today, futures volume at $18.12 million, an aggregate long-to-short ratio of 0.817 and an open-interest-weighted funding rate of negative 0.0041%, with Bybit largest at $10.90 million ahead of Binance at $9.69 million (Coinfuty)\n- **Canton Coin's average futures funding turns negative in the latest technical update, with open interest at $14.51 million** — Coinotag's November 21 update at the 11:42 UTC close, taken at an analysis price of $0.0738 with the live spot price at $0.0741, puts average funding at negative 0.0048%, turned from positive 0.0027% in the technical read recorded earlier today, with futures open interest at $14.51 million, up from $14.40 million in that earlier read; the update's venue set differs from the wider derivatives aggregates read elsewhere in this edition, so the totals are not directly comparable (Coinotag)\n- **The Crypto Fear and Greed gauge displayed on CantonNews reads 12, in extreme fear, on November 21** — The gauge shown on CantonNews' November 21 daily page reads 12 on its 0-to-100 scale, labelled extreme fear; the reading is the page's displayed market-sentiment gauge for the day, not a Canton-specific activity measure (CantonNews)\n\nNetwork: Canton Coin (CC) trades at $0.0741, with a market cap of $3.00 billion (rank 27) and 24-hour trading volume of $12.51 million, down 7.28% in 24 hours and down 13.51% over seven days, with circulating supply of 40,094,578,274 CC at the November 21 read at 11:42 UTC; as a network milestone, Canton counts 11 active proposals on the live network stand (Coinotag for market data; CantonNews for the milestone).",
+      "image_url": null,
+      "published": "2026-11-21T06:42:00-05:00",
+      "kind": "briefing"
+    },
     {
       "id": "canton-2026-11-21_0612-est",
       "slug": "wrapped-canton-coin-s-daily-locked-value-falls-to-an-all-time-low-of-152-796-on-november-2",
@@ -4801,38 +4833,6 @@
       "links": [],
       "timestamp": "Nov 14, 2026 · 6:35 AM ET",
       "body": "Canton Calendar — Friday, April 2, 2027\nMainNet Topology Freeze (0.13)\nProtocol Upgrades (LSU) · MainNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "image_url": null,
-      "published": "2026-11-14T06:35:31-05:00",
-      "kind": "calendar-event"
-    },
-    {
-      "id": "canton-event-sv-13546407319",
-      "slug": "testnet-topology-freeze-0-13-required-march-2027",
-      "url": "https://canton.w3ai.io/feed/testnet-topology-freeze-0-13-required-march-2027",
-      "title": "TestNet Topology Freeze (0.13 Required) (March 2027)",
-      "content_text": "Canton Calendar — Tuesday, March 23, 2027\nTestNet Topology Freeze (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
-      "content_html": "<p>Canton Calendar — Tuesday, March 23, 2027<br/>TestNet Topology Freeze (0.13 Required) (March 2027)<br/>Protocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET<br/>Source: Canton Foundation<br/>Full calendar: https://canton.w3ai.io/app/calendar</p>",
-      "date_published": "2026-11-14T06:35:31-05:00",
-      "date_modified": "2026-11-14T06:35:31-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:35 AM ET",
-      "body": "Canton Calendar — Tuesday, March 23, 2027\nTestNet Topology Freeze (0.13 Required) (March 2027)\nProtocol Upgrades (LSU) · TestNet · Tentative · 9:00 AM ET\nSource: Canton Foundation\nFull calendar: https://canton.w3ai.io/app/calendar",
       "image_url": null,
       "published": "2026-11-14T06:35:31-05:00",
       "kind": "calendar-event"
