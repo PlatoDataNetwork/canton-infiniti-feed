@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_0636-est",
+      "slug": "canton-s-approved-free-preapproval-rule-gives-canton-coin-transfers-a-90-day-free-base-win",
+      "title": "Canton's approved free preapproval rule gives Canton Coin transfers a 90-day free base window",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 6:36 AM ET)\n\n- **Canton's approved free preapproval rule gives Canton Coin transfers a 90-day free base window** — The Canton Network Docs registry details CIP-0119, approved on June 15, 2026, which introduces a free base duration for Canton Coin transfer preapprovals defaulting to 90 days, so a preapproval can be created or renewed using just traffic costs, including the free base traffic rate; the change addresses a bootstrapping problem created when CIP-0096 removed validator liveness rewards, after which most exchanges would only send Canton Coin to parties that already had preapprovals enabled, while enabling a preapproval itself required paying a Canton Coin fee for its expiry duration (Canton Network Docs)\n- **aSOL begins trading on Cantex and OneSwap, bringing a SOL-backed token to two Canton venues** — Cantex opened trading in aSOL on November 19 and Cantor8 announced the OneSwap listing on November 20, giving Canton traders two venues in two days for the token that represents SOL on Canton; Cantex describes aSOL as backed one-for-one by Solana's SOL token and says qualified participants can redeem aSOL for SOL, with HelloMoon identified as the issuer and issuance through Cantor8's C8 Registry in partnership with ACME Markets (CantonNews)\n- **Canton Coin futures open interest reads $26.5 million in a second derivatives aggregate, with average funding at negative 0.0019%** — Coinalyze's latest aggregate puts futures open interest at $26.5 million, down 0.09% over 24 hours, with average funding at negative 0.0019%, a predicted rate of positive 0.0029% and tracked liquidations at $402.20 over 24 hours on $6.7 million of volume; this is Coinalyze's own venue set, a narrower aggregate than the wider CoinGlass total cited in the 6:06 AM edition, so the two open-interest totals are not comparable (Coinalyze)\n\nNetwork: Canton Coin (CC) trades at $0.0736, with a market cap of $2.95 billion (rank 26) and 24-hour trading volume of $5.4 million, down 0.20% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton counts 11 proposals in progress out of 642 total proposals on the latest network read (Blockdeck for market data; CCTools for the milestone).\n\nOriginal sources:\nCanton Network Docs: https://docs.canton.network/ai-context/cip-registry\nCantonNews: https://cantonnews.org/asol-begins-trading-on-cantex-and-oneswap\nCoinalyze: https://coinalyze.net/?ref=dobermanvc.com&p=3\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "timestamp": "2026-11-22T06:36:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-s-approved-free-preapproval-rule-gives-canton-coin-transfers-a-90-day-free-base-win",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/ai-context/cip-registry"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/asol-begins-trading-on-cantex-and-oneswap"
+        },
+        {
+          "source": "Coinalyze",
+          "url": "https://coinalyze.net/?ref=dobermanvc.com&p=3"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "external_url": "https://docs.canton.network/ai-context/cip-registry",
+      "source_url": "https://docs.canton.network/ai-context/cip-registry",
+      "original_url": "https://docs.canton.network/ai-context/cip-registry",
+      "source": "Canton Network Docs",
+      "publisher": "Canton Network Docs",
+      "links": [
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/ai-context/cip-registry"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/asol-begins-trading-on-cantex-and-oneswap"
+        },
+        {
+          "source": "Coinalyze",
+          "url": "https://coinalyze.net/?ref=dobermanvc.com&p=3"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_0606-est",
       "slug": "canton-total-parties-reach-957-050-in-the-latest-network-read",
       "title": "Canton total parties reach 957,050 in the latest network read",
