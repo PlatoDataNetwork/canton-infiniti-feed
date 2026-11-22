@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_1551-est",
+      "slug": "cip-0132-paymasters-would-burn-cc-for-dedicated-traffic",
+      "title": "CIP-0132 paymasters would burn CC for dedicated traffic",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 3:51 PM ET)\n\n- **CIP-0132 paymasters would burn CC for dedicated traffic** — Coindoo's November 22 read of CIP-0132, authored by Moritz Kiefer and proposed on November 16 and still marked Proposed on November 22, sets out the initial version of the payment system that would bill dedicated-synchronizer traffic in Canton Coin burns instead of license fees to Digital Asset: each dedicated synchronizer gets one paymaster, registered by a Super Validator vote and the only party allowed to burn CC for that synchronizer; operators report bytes consumed in 10-minute intervals, burns can lag traffic by up to 14 days under smoothing schedules, traffic reports are self-declared at launch with no on-chain check, and the proposal's worked example prices traffic at $60 per megabyte; it builds on the approved CIP-0129 framework, whose first phase is estimated for the first quarter of 2027 (Coindoo)\n- **Canton DeFi locked value slips to $10.66M as Temple falls** — DefiLlama's latest chain read puts total value locked at $10.66 million, down 1.73% over 24 hours and down from $10.76 million recorded in the 4:36 AM edition, with decentralised exchange volume at $16.02 million over 24 hours, down from $16.39 million last cited this morning, and Temple still largest at $5.69 million, down 5.37% over 24 hours, ahead of Alpend at $1.77 million and Cantex at $1.66 million across eight tracked protocols (DefiLlama)\n- **Canton Foundation Premier tier costs $150,000 a year** — The Canton Foundation's policies page sets out three membership tiers for the independent non-profit that governs the Global Synchronizer with the Linux Foundation: Premier at $150,000 a year carries a Board of Directors seat and Board Committee delegates, General runs $5,000 to $30,000 a year scaled by organisation size, and Associate is free for government agencies, regulators, nonprofits and academic institutions with Board approval; work runs through six Member Committees, including Tokenomics, Accountability and a Collateral Subcommittee, and the Foundation votes as one Super Validator among many, with governance actions needing roughly two-thirds of onboarded Super Validators (Canton Network Docs)\n\nNetwork: Canton Coin (CC) trades at $0.0716, with a market cap of $2.87 billion and 24-hour trading volume of $6.11 million, down 6.08% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CCTools).\n\nOriginal sources:\nCoindoo: https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCanton Network Docs: https://docs.canton.network/overview/reference/gsf-policies\nCCTools: https://cctools.network/network",
+      "timestamp": "2026-11-22T15:51:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/cip-0132-paymasters-would-burn-cc-for-dedicated-traffic",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Coindoo",
+          "url": "https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/overview/reference/gsf-policies"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "external_url": "https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/",
+      "source_url": "https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/",
+      "original_url": "https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/",
+      "source": "Coindoo",
+      "publisher": "Coindoo",
+      "links": [
+        {
+          "source": "Coindoo",
+          "url": "https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/overview/reference/gsf-policies"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_1521-est",
       "slug": "sg-forge-to-deploy-coinvertible-stablecoins-on-canton",
       "title": "SG-FORGE to deploy CoinVertible stablecoins on Canton",
