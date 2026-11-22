@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_0821-est",
+      "slug": "canton-coin-burned-reads-14-4-million-in-latest-24-hour-window",
+      "title": "Canton Coin burned reads 14.4 million in latest 24-hour window",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 8:21 AM ET)\n\n- **Canton Coin burned reads 14.4 million in latest 24-hour window** — CCTools' rolling 24-hour window, as of the November 22 13:00 UTC read, puts burn at 14.4 million Canton Coin against app rewards at 14.0 million Canton Coin, moved from 14.5 million burned and 14.1 million in rewards cited in the 5:21 AM edition; this is the rolling window read, distinct from the November 21 calendar-day record of 15.8 million burned and 15.1 million in rewards cited in the 7:21 PM edition on November 21 (CCTools)\n- **Canton futures open interest reads $32.54M in latest venue read** — Coinfuty's latest read puts total futures open interest at $32.54 million, down 0.34% over 24 hours, with an open-interest-weighted funding rate of positive 0.0037% per four hours, futures volume at $10.75 million, an aggregate long/short ratio of 0.820 and Bybit largest at $10.85 million ahead of Binance at $9.85 million and Hyperliquid at $3.48 million; this is Coinfuty's own venue set, distinct from the wider CoinGlass aggregate cited in the 8:06 AM edition, and the tracked liquidation total is not cited here because it is unchanged from earlier editions today (Coinfuty)\n- **Tradecraft locked value eases to $1.36M in latest protocol read** — DefiLlama's latest protocol rankings put Tradecraft at $1.36 million in locked value, up 0.69% over 24 hours and down from $1.39 million recorded on November 21, as the fourth-largest of the eight tracked Canton protocols (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0737, with a market cap of $2.96 billion and 24-hour trading volume of $5.40 million, down 2.07% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, total Canton transactions reach 608.76 million on the latest network read (The Block for market data; CCTools for the milestone).\n\nOriginal sources:\nCCTools: https://cctools.network/network\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nThe Block: https://www.theblock.co/convert/cc-usd",
+      "timestamp": "2026-11-22T08:21:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-burned-reads-14-4-million-in-latest-24-hour-window",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/convert/cc-usd"
+        }
+      ],
+      "external_url": "https://cctools.network/network",
+      "source_url": "https://cctools.network/network",
+      "original_url": "https://cctools.network/network",
+      "source": "CCTools",
+      "publisher": "CCTools",
+      "links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/convert/cc-usd"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_0806-est",
       "slug": "canton-coin-funding-hits-0-0100-as-open-interest-reaches-32-94m",
       "title": "Canton Coin funding hits 0.0100% as open interest reaches $32.94M",
