@@ -29,8 +29,158 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-22T15:51:00-05:00",
+  "updated": "2026-11-22T16:21:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-22_1621-est",
+      "slug": "nomura-and-boostry-named-canton-super-validators",
+      "url": "https://canton.w3ai.io/feed/nomura-and-boostry-named-canton-super-validators",
+      "title": "Nomura and BOOSTRY named Canton Super Validators",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 4:21 PM ET)\n\n- **Nomura and BOOSTRY named Canton Super Validators** — Nomura Holdings and BOOSTRY, which operates a digital securities platform, have been selected as Super Validators for the Canton Network, taking key roles in setting network rules and approving transactions, in a November 16 announcement of an on-chain finance collaboration with Nomura Research Institute; NRI plans to link the network with its I-STAR back-office system, while BOOSTRY has completed development of a mechanism connecting its ibet for Fin platform with Canton (Ava Advisor)\n- **Traffic rewards dry run set for December 8 on MainNet** — Canton's traffic-based application rewards, which tie rewards to qualifying network usage, now have a dated MainNet timetable from the November 18 update: Super Validators are expected to raise the onchain proposal for a dry run on December 1, 2026, the dry run is scheduled to begin December 8, the Featured Application Accountability Committee and providers review the calculations through December and January, and a go-live vote is expected in late January or early February 2027, with full rewards taking effect in early February if approved (CCTools)\n- **Uber treasury pilot runs on Canton with HSBC, Tradeweb** — Canton Network's November 19 highlights pointed to Uber's treasury pilot on the network involving HSBC, Franklin Templeton, Tradeweb and Fireblocks, presented alongside coverage of the DTCC tokenization service as evidence of institutional activity building on Canton rails (CoinMarketCap)\n- **OnePump cuts fees, first trade free, large trades fee-free** — OnePump's November 18 fee announcement says the first trade each day is free, trades of 900 Canton Coin or more carry no network fee, and other trades cost 1 CC; the larger-trade exemption refers specifically to the network fee (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.0724, with a market cap of $2.88 billion and 24-hour trading volume of $10.91 million, down 5.72% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CoinMarketCap).\n\nOriginal sources:\nAva Advisor: https://ava.fund/news/nomura-hd-nri-and-boostry-to-explore-on-chain-finance-collaboration-selected-as-16112026\nCCTools: https://cctools.network/news/b68a1d4d-2cb4-4783-848d-bec3672d5577\nCoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/\nCoinMarketCap: https://coinmarketcap.com/currencies/canton-network/",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 4:21 PM ET)<br/><br/>- **Nomura and BOOSTRY named Canton Super Validators** — Nomura Holdings and BOOSTRY, which operates a digital securities platform, have been selected as Super Validators for the Canton Network, taking key roles in setting network rules and approving transactions, in a November 16 announcement of an on-chain finance collaboration with Nomura Research Institute; NRI plans to link the network with its I-STAR back-office system, while BOOSTRY has completed development of a mechanism connecting its ibet for Fin platform with Canton (Ava Advisor)<br/>- **Traffic rewards dry run set for December 8 on MainNet** — Canton&#x27;s traffic-based application rewards, which tie rewards to qualifying network usage, now have a dated MainNet timetable from the November 18 update: Super Validators are expected to raise the onchain proposal for a dry run on December 1, 2026, the dry run is scheduled to begin December 8, the Featured Application Accountability Committee and providers review the calculations through December and January, and a go-live vote is expected in late January or early February 2027, with full rewards taking effect in early February if approved (CCTools)<br/>- **Uber treasury pilot runs on Canton with HSBC, Tradeweb** — Canton Network&#x27;s November 19 highlights pointed to Uber&#x27;s treasury pilot on the network involving HSBC, Franklin Templeton, Tradeweb and Fireblocks, presented alongside coverage of the DTCC tokenization service as evidence of institutional activity building on Canton rails (CoinMarketCap)<br/>- **OnePump cuts fees, first trade free, large trades fee-free** — OnePump&#x27;s November 18 fee announcement says the first trade each day is free, trades of 900 Canton Coin or more carry no network fee, and other trades cost 1 CC; the larger-trade exemption refers specifically to the network fee (CCTools)<br/><br/>Network: Canton Coin (CC) trades at $0.0724, with a market cap of $2.88 billion and 24-hour trading volume of $10.91 million, down 5.72% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CoinMarketCap).<br/><br/>Original sources:<br/>Ava Advisor: https://ava.fund/news/nomura-hd-nri-and-boostry-to-explore-on-chain-finance-collaboration-selected-as-16112026<br/>CCTools: https://cctools.network/news/b68a1d4d-2cb4-4783-848d-bec3672d5577<br/>CoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/<br/>CoinMarketCap: https://coinmarketcap.com/currencies/canton-network/</p>",
+      "date_published": "2026-11-22T16:21:00-05:00",
+      "date_modified": "2026-11-22T16:21:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://ava.fund/news/nomura-hd-nri-and-boostry-to-explore-on-chain-finance-collaboration-selected-as-16112026",
+      "source_url": "https://ava.fund/news/nomura-hd-nri-and-boostry-to-explore-on-chain-finance-collaboration-selected-as-16112026",
+      "original_url": "https://ava.fund/news/nomura-hd-nri-and-boostry-to-explore-on-chain-finance-collaboration-selected-as-16112026",
+      "source": "Ava Advisor",
+      "publisher": "Ava Advisor",
+      "links": [
+        {
+          "source": "Ava Advisor",
+          "url": "https://ava.fund/news/nomura-hd-nri-and-boostry-to-explore-on-chain-finance-collaboration-selected-as-16112026"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/news/b68a1d4d-2cb4-4783-848d-bec3672d5577"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/currencies/canton-network/"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 4:21 PM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 4:21 PM ET)\n\n- **Nomura and BOOSTRY named Canton Super Validators** — Nomura Holdings and BOOSTRY, which operates a digital securities platform, have been selected as Super Validators for the Canton Network, taking key roles in setting network rules and approving transactions, in a November 16 announcement of an on-chain finance collaboration with Nomura Research Institute; NRI plans to link the network with its I-STAR back-office system, while BOOSTRY has completed development of a mechanism connecting its ibet for Fin platform with Canton (Ava Advisor)\n- **Traffic rewards dry run set for December 8 on MainNet** — Canton's traffic-based application rewards, which tie rewards to qualifying network usage, now have a dated MainNet timetable from the November 18 update: Super Validators are expected to raise the onchain proposal for a dry run on December 1, 2026, the dry run is scheduled to begin December 8, the Featured Application Accountability Committee and providers review the calculations through December and January, and a go-live vote is expected in late January or early February 2027, with full rewards taking effect in early February if approved (CCTools)\n- **Uber treasury pilot runs on Canton with HSBC, Tradeweb** — Canton Network's November 19 highlights pointed to Uber's treasury pilot on the network involving HSBC, Franklin Templeton, Tradeweb and Fireblocks, presented alongside coverage of the DTCC tokenization service as evidence of institutional activity building on Canton rails (CoinMarketCap)\n- **OnePump cuts fees, first trade free, large trades fee-free** — OnePump's November 18 fee announcement says the first trade each day is free, trades of 900 Canton Coin or more carry no network fee, and other trades cost 1 CC; the larger-trade exemption refers specifically to the network fee (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.0724, with a market cap of $2.88 billion and 24-hour trading volume of $10.91 million, down 5.72% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CoinMarketCap).\n\nOriginal sources:\nAva Advisor: https://ava.fund/news/nomura-hd-nri-and-boostry-to-explore-on-chain-finance-collaboration-selected-as-16112026\nCCTools: https://cctools.network/news/b68a1d4d-2cb4-4783-848d-bec3672d5577\nCoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/\nCoinMarketCap: https://coinmarketcap.com/currencies/canton-network/",
+      "image_url": null,
+      "published": "2026-11-22T16:21:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "Ava Advisor",
+          "url": "https://ava.fund/news/nomura-hd-nri-and-boostry-to-explore-on-chain-finance-collaboration-selected-as-16112026"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/news/b68a1d4d-2cb4-4783-848d-bec3672d5577"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/currencies/canton-network/"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1606-est",
+      "slug": "canton-funding-reads-0-0050-with-open-interest-at-32-33m",
+      "url": "https://canton.w3ai.io/feed/canton-funding-reads-0-0050-with-open-interest-at-32-33m",
+      "title": "Canton funding reads 0.0050% with open interest at $32.33M",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 4:06 PM ET)\n\n- **Canton funding reads 0.0050% with open interest at $32.33M** — CoinGlass's latest aggregate, updated November 23 at 05:05 UTC+8, puts the open-interest-weighted funding rate at 0.0050%, about 5.51% annualised and below the 0.01% baseline, with futures open interest at $32.33 million, down 3.30% over 24 hours, futures volume at $12.46 million against spot volume at $4.33 million and tracked liquidations at $5.18 thousand, almost all of them longs, as the price fell 5.88% over 24 hours with open interest rising on mostly new shorts intraday (CoinGlass)\n- **OpenAssets and Digital Asset offer tokenization on Canton** — OpenAssets has partnered with Digital Asset to provide institutions on Canton with asset tokenization services, serving as an implementation partner for Digital Asset's tokenization engine, DA Registry; the platform combines tokenized asset issuance, settlement, compliance, asset management and distribution, and institutions can configure allowlists and blocklists plus transfer approval functions connected to external know-your-customer and anti-money laundering monitoring, with the assets able to take part in atomic settlement, collateral management and cross-application lending on Canton (TradingView)\n- **DTCC tokenization service runs on Canton with 20 firms signed** — The Depository Trust & Clearing Corporation's tokenization service is live on the Canton Network and DTCC's private Besu blockchain, initially supporting select large-cap stocks from the Russell 1000 index, exchange-traded funds and U.S. Treasury bills, notes and bonds, with 34 securities eligible at launch; twenty participants, including Bank of America, Barclays, Citi, Fidelity Investments, JPMorgan, Morgan Stanley, Citadel Securities, State Street and UBS, have signed agreements to access the service, the tokens are backed one-for-one by securities held at Depository Trust Company and can move between registered wallets around the clock, and DTCC targets conversion processing times of 15 minutes or less (CoinDesk)\n- **Covalidation splits Canton confirmation across independent nodes** — Digital Asset's covalidation services, announced November 19, let a Canton party be multi-hosted so several independent nodes share confirmation duties, including threshold settings such as two approvals from three covalidators before a transaction confirms, with no single node able to confirm alone and services able to continue if one node becomes unavailable; 5N Loop became the first Canton wallet where every new participant is multi-party hosted, using Digital Asset and MPCH as independent operators, and Digital Asset, MPCH and Kiln are among the early covalidation service providers, building on underlying capabilities delivered in May 2026 (Digital Asset)\n\nNetwork: Canton Coin (CC) trades at $0.07165, with a market cap of $2.88 billion (rank 24) and 24-hour trading volume of $10.91 million, down 5.88% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CoinGlass for price and market cap; Crypto.com for volume).\n\nOriginal sources:\nCoinGlass: https://www.coinglass.com/currencies/CC\nTradingView: https://www.tradingview.com/news/binance_news:c0c2978e3094b:0-openassets-and-digital-asset-to-offer-institutional-asset-tokenization-on-canton/\nCoinDesk: https://WWW.Coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks\nDigital Asset: https://blog.digitalasset.com/blog/covalidation-on-canton-resilience-for-markets\nCrypto.com: https://crypto.com/en/price/canton-network/usd",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 4:06 PM ET)<br/><br/>- **Canton funding reads 0.0050% with open interest at $32.33M** — CoinGlass&#x27;s latest aggregate, updated November 23 at 05:05 UTC+8, puts the open-interest-weighted funding rate at 0.0050%, about 5.51% annualised and below the 0.01% baseline, with futures open interest at $32.33 million, down 3.30% over 24 hours, futures volume at $12.46 million against spot volume at $4.33 million and tracked liquidations at $5.18 thousand, almost all of them longs, as the price fell 5.88% over 24 hours with open interest rising on mostly new shorts intraday (CoinGlass)<br/>- **OpenAssets and Digital Asset offer tokenization on Canton** — OpenAssets has partnered with Digital Asset to provide institutions on Canton with asset tokenization services, serving as an implementation partner for Digital Asset&#x27;s tokenization engine, DA Registry; the platform combines tokenized asset issuance, settlement, compliance, asset management and distribution, and institutions can configure allowlists and blocklists plus transfer approval functions connected to external know-your-customer and anti-money laundering monitoring, with the assets able to take part in atomic settlement, collateral management and cross-application lending on Canton (TradingView)<br/>- **DTCC tokenization service runs on Canton with 20 firms signed** — The Depository Trust &amp; Clearing Corporation&#x27;s tokenization service is live on the Canton Network and DTCC&#x27;s private Besu blockchain, initially supporting select large-cap stocks from the Russell 1000 index, exchange-traded funds and U.S. Treasury bills, notes and bonds, with 34 securities eligible at launch; twenty participants, including Bank of America, Barclays, Citi, Fidelity Investments, JPMorgan, Morgan Stanley, Citadel Securities, State Street and UBS, have signed agreements to access the service, the tokens are backed one-for-one by securities held at Depository Trust Company and can move between registered wallets around the clock, and DTCC targets conversion processing times of 15 minutes or less (CoinDesk)<br/>- **Covalidation splits Canton confirmation across independent nodes** — Digital Asset&#x27;s covalidation services, announced November 19, let a Canton party be multi-hosted so several independent nodes share confirmation duties, including threshold settings such as two approvals from three covalidators before a transaction confirms, with no single node able to confirm alone and services able to continue if one node becomes unavailable; 5N Loop became the first Canton wallet where every new participant is multi-party hosted, using Digital Asset and MPCH as independent operators, and Digital Asset, MPCH and Kiln are among the early covalidation service providers, building on underlying capabilities delivered in May 2026 (Digital Asset)<br/><br/>Network: Canton Coin (CC) trades at $0.07165, with a market cap of $2.88 billion (rank 24) and 24-hour trading volume of $10.91 million, down 5.88% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CoinGlass for price and market cap; Crypto.com for volume).<br/><br/>Original sources:<br/>CoinGlass: https://www.coinglass.com/currencies/CC<br/>TradingView: https://www.tradingview.com/news/binance_news:c0c2978e3094b:0-openassets-and-digital-asset-to-offer-institutional-asset-tokenization-on-canton/<br/>CoinDesk: https://WWW.Coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks<br/>Digital Asset: https://blog.digitalasset.com/blog/covalidation-on-canton-resilience-for-markets<br/>Crypto.com: https://crypto.com/en/price/canton-network/usd</p>",
+      "date_published": "2026-11-22T16:06:00-05:00",
+      "date_modified": "2026-11-22T16:06:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://www.coinglass.com/currencies/CC",
+      "source_url": "https://www.coinglass.com/currencies/CC",
+      "original_url": "https://www.coinglass.com/currencies/CC",
+      "source": "CoinGlass",
+      "publisher": "CoinGlass",
+      "links": [
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/binance_news:c0c2978e3094b:0-openassets-and-digital-asset-to-offer-institutional-asset-tokenization-on-canton/"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://WWW.Coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks"
+        },
+        {
+          "source": "Digital Asset",
+          "url": "https://blog.digitalasset.com/blog/covalidation-on-canton-resilience-for-markets"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 4:06 PM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 4:06 PM ET)\n\n- **Canton funding reads 0.0050% with open interest at $32.33M** — CoinGlass's latest aggregate, updated November 23 at 05:05 UTC+8, puts the open-interest-weighted funding rate at 0.0050%, about 5.51% annualised and below the 0.01% baseline, with futures open interest at $32.33 million, down 3.30% over 24 hours, futures volume at $12.46 million against spot volume at $4.33 million and tracked liquidations at $5.18 thousand, almost all of them longs, as the price fell 5.88% over 24 hours with open interest rising on mostly new shorts intraday (CoinGlass)\n- **OpenAssets and Digital Asset offer tokenization on Canton** — OpenAssets has partnered with Digital Asset to provide institutions on Canton with asset tokenization services, serving as an implementation partner for Digital Asset's tokenization engine, DA Registry; the platform combines tokenized asset issuance, settlement, compliance, asset management and distribution, and institutions can configure allowlists and blocklists plus transfer approval functions connected to external know-your-customer and anti-money laundering monitoring, with the assets able to take part in atomic settlement, collateral management and cross-application lending on Canton (TradingView)\n- **DTCC tokenization service runs on Canton with 20 firms signed** — The Depository Trust & Clearing Corporation's tokenization service is live on the Canton Network and DTCC's private Besu blockchain, initially supporting select large-cap stocks from the Russell 1000 index, exchange-traded funds and U.S. Treasury bills, notes and bonds, with 34 securities eligible at launch; twenty participants, including Bank of America, Barclays, Citi, Fidelity Investments, JPMorgan, Morgan Stanley, Citadel Securities, State Street and UBS, have signed agreements to access the service, the tokens are backed one-for-one by securities held at Depository Trust Company and can move between registered wallets around the clock, and DTCC targets conversion processing times of 15 minutes or less (CoinDesk)\n- **Covalidation splits Canton confirmation across independent nodes** — Digital Asset's covalidation services, announced November 19, let a Canton party be multi-hosted so several independent nodes share confirmation duties, including threshold settings such as two approvals from three covalidators before a transaction confirms, with no single node able to confirm alone and services able to continue if one node becomes unavailable; 5N Loop became the first Canton wallet where every new participant is multi-party hosted, using Digital Asset and MPCH as independent operators, and Digital Asset, MPCH and Kiln are among the early covalidation service providers, building on underlying capabilities delivered in May 2026 (Digital Asset)\n\nNetwork: Canton Coin (CC) trades at $0.07165, with a market cap of $2.88 billion (rank 24) and 24-hour trading volume of $10.91 million, down 5.88% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CoinGlass for price and market cap; Crypto.com for volume).\n\nOriginal sources:\nCoinGlass: https://www.coinglass.com/currencies/CC\nTradingView: https://www.tradingview.com/news/binance_news:c0c2978e3094b:0-openassets-and-digital-asset-to-offer-institutional-asset-tokenization-on-canton/\nCoinDesk: https://WWW.Coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks\nDigital Asset: https://blog.digitalasset.com/blog/covalidation-on-canton-resilience-for-markets\nCrypto.com: https://crypto.com/en/price/canton-network/usd",
+      "image_url": null,
+      "published": "2026-11-22T16:06:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/binance_news:c0c2978e3094b:0-openassets-and-digital-asset-to-offer-institutional-asset-tokenization-on-canton/"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://WWW.Coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks"
+        },
+        {
+          "source": "Digital Asset",
+          "url": "https://blog.digitalasset.com/blog/covalidation-on-canton-resilience-for-markets"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-22_1551-est",
       "slug": "cip-0132-paymasters-would-burn-cc-for-dedicated-traffic",
@@ -7225,80 +7375,6 @@
       "body": "Canton Signal Feed (Nov 18, 2026 · 5:42 AM ET)\n- **DamlFuzz funding vote seeks a free, open-source tool to test Daml contracts for authorisation and privacy failures before users find them** — The vote, opened on November 14, would fund a fuzzer that tries many inputs and sequences of actions against contracts written in Daml, Canton's smart-contract language, checking rules about who can authorise an action and which parties can see the data; the proposed tool would run locally and fit into developers' regular testing, and the vote opening is a proposal stage, not an approved grant or a live tool (CantonNews)\n- **Party-Aware Daml Upgrade and Vetting Planner vote opens to check an application update before it changes a running system** — The separate November 14 vote would combine checks on software packages, dependencies and permissions into a reviewable plan, with vetting meaning declaring which application packages a participant supports; the proposed first version would inspect one participant and produce a plan without making changes itself, flagging gaps where information is missing rather than treating the whole network as ready (CantonNews)\n- **Supanova launchpad liquidity roughly doubles in its first week even as trading volume cools sharply from launch day** — AlphaMemeRadar's review of Supanova, which opened Canton's first memecoin launchpad on November 3, puts its liquidity page on November 11 at 5 pools loaded and $496.9K in total value locked, up from about $247,600 on November 4, while 24-hour volume fell about 95% to 451K CC from 9.73 million CC the day after launch; every trade on the launchpad runs against Canton Coin, tokens trade on a bonding curve with no gas fees and graduate into a liquidity pool, and the review notes a listing or graduation is not an endorsement or a safety check (AlphaMemeRadar)\n- **Canton Coin rebounds from its November 17 low in the latest daily history, rising to $0.08346 from $0.07937** — TrackLivePrice's November 18 daily history, based on CoinGecko data, puts Canton Coin at $0.08346, up from $0.07937 recorded for November 17 and below $0.08260 for November 16, with the move described in the latest snapshot as up 3.82% in 24 hours and down 5.97% over seven days; the daily rows are snapshots, not a forecast (TrackLivePrice)\n\nNetwork: CC $0.08346 | Market cap $3.34B (rank 25) | 24h volume $15.21M | Supply 40,072,068,785 CC, up 3.82% in 24 hours and down 5.97% over seven days as of the 16:10 IST November 18 read; milestone: live MainNet activity stands at 1.00 TPS with total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (TrackLivePrice for market data, reporting CoinGecko figures; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-18T05:42:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-18_0512-est",
-      "slug": "kann-audits-proposes-two-canton-security-projects-covering-independent-audits-of-core-comp",
-      "url": "https://canton.w3ai.io/feed/kann-audits-proposes-two-canton-security-projects-covering-independent-audits-of-core-comp",
-      "title": "Kann Audits proposes two Canton security projects, covering independent audits of core components and AI-assisted scanning of Daml code",
-      "content_text": "Canton Signal Feed (Nov 18, 2026 · 5:12 AM ET)\n- **Kann Audits proposes two Canton security projects, covering independent audits of core components and AI-assisted scanning of Daml code** — The two applications, submitted on November 14, seek assignments within the existing audit programme for independent audits of core components, with no new allocation requested and any work drawing on that programme's approved budget subject to selection, and the Canton Coin equivalent of $45,000 over nine months for an AI-assisted Daml security scanner that would include a catalogue of security weaknesses, developer-tool integration and three months of free access for each Canton team with a researcher reviewing its first scan; both applications still list a need for a champion to support them through the process, so they are proposals, not approved grants or audit appointments (CantonNews)\n- **National Bank of Cambodia is testing tokenized government bonds on Canton in an SBI Holdings proof of concept** — The test, reported on November 18 with interim results due at the Black Swan Summit on November 15 to 16, is separate from a yen stablecoin remittance trial, and service details and timing remain under discussion, so the work is a proof of concept rather than a live government-bond issuance on the network (CoinStats)\n- **Canborsa adds Anthropic-linked markets to its perpetuals venue, listing leverage of up to 10 times for both new tickers** — The ANT and ANTH markets announced on November 13 let traders take a position on price movements without owning Anthropic shares, with leverage amplifying losses as well as gains, and add another category of exposure to a venue that already supports Canton Coin as collateral (CantonNews)\n- **Canton Coin spot prices sit 5.57% apart across exchanges, with no spot route rated worth taking outright** — A live scan at 10:14 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.07952 and dearest on Bitstamp at $0.083952 across 13 exchanges with a liquid spot market, changed from 4.23% recorded on November 15, with the widest spot route, buying on MEXC and selling on LBank at 4.82% after fees, flagged as a suspect pair, and the best futures route long Toobit and short Hyperliquid at 0.09% after fees (ArbitrageGap)\n\nNetwork: CC $0.0847 | Market cap $3.39B (rank 25) | 24h volume $15.37M | Supply 40,071,474,310 CC, up 5.22% in 24 hours and down 5.32% over seven days as of the 10:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 6.4M CC, up from 6.1M CC in the 4:42 AM read, with current activity at 1.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (Criptano for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 5:12 AM ET)<br/>- **Kann Audits proposes two Canton security projects, covering independent audits of core components and AI-assisted scanning of Daml code** — The two applications, submitted on November 14, seek assignments within the existing audit programme for independent audits of core components, with no new allocation requested and any work drawing on that programme&#x27;s approved budget subject to selection, and the Canton Coin equivalent of $45,000 over nine months for an AI-assisted Daml security scanner that would include a catalogue of security weaknesses, developer-tool integration and three months of free access for each Canton team with a researcher reviewing its first scan; both applications still list a need for a champion to support them through the process, so they are proposals, not approved grants or audit appointments (CantonNews)<br/>- **National Bank of Cambodia is testing tokenized government bonds on Canton in an SBI Holdings proof of concept** — The test, reported on November 18 with interim results due at the Black Swan Summit on November 15 to 16, is separate from a yen stablecoin remittance trial, and service details and timing remain under discussion, so the work is a proof of concept rather than a live government-bond issuance on the network (CoinStats)<br/>- **Canborsa adds Anthropic-linked markets to its perpetuals venue, listing leverage of up to 10 times for both new tickers** — The ANT and ANTH markets announced on November 13 let traders take a position on price movements without owning Anthropic shares, with leverage amplifying losses as well as gains, and add another category of exposure to a venue that already supports Canton Coin as collateral (CantonNews)<br/>- **Canton Coin spot prices sit 5.57% apart across exchanges, with no spot route rated worth taking outright** — A live scan at 10:14 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.07952 and dearest on Bitstamp at $0.083952 across 13 exchanges with a liquid spot market, changed from 4.23% recorded on November 15, with the widest spot route, buying on MEXC and selling on LBank at 4.82% after fees, flagged as a suspect pair, and the best futures route long Toobit and short Hyperliquid at 0.09% after fees (ArbitrageGap)<br/><br/>Network: CC $0.0847 | Market cap $3.39B (rank 25) | 24h volume $15.37M | Supply 40,071,474,310 CC, up 5.22% in 24 hours and down 5.32% over seven days as of the 10:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 6.4M CC, up from 6.1M CC in the 4:42 AM read, with current activity at 1.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (Criptano for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-18T05:12:00-05:00",
-      "date_modified": "2026-11-18T05:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 18, 2026 · 5:12 AM ET",
-      "body": "Canton Signal Feed (Nov 18, 2026 · 5:12 AM ET)\n- **Kann Audits proposes two Canton security projects, covering independent audits of core components and AI-assisted scanning of Daml code** — The two applications, submitted on November 14, seek assignments within the existing audit programme for independent audits of core components, with no new allocation requested and any work drawing on that programme's approved budget subject to selection, and the Canton Coin equivalent of $45,000 over nine months for an AI-assisted Daml security scanner that would include a catalogue of security weaknesses, developer-tool integration and three months of free access for each Canton team with a researcher reviewing its first scan; both applications still list a need for a champion to support them through the process, so they are proposals, not approved grants or audit appointments (CantonNews)\n- **National Bank of Cambodia is testing tokenized government bonds on Canton in an SBI Holdings proof of concept** — The test, reported on November 18 with interim results due at the Black Swan Summit on November 15 to 16, is separate from a yen stablecoin remittance trial, and service details and timing remain under discussion, so the work is a proof of concept rather than a live government-bond issuance on the network (CoinStats)\n- **Canborsa adds Anthropic-linked markets to its perpetuals venue, listing leverage of up to 10 times for both new tickers** — The ANT and ANTH markets announced on November 13 let traders take a position on price movements without owning Anthropic shares, with leverage amplifying losses as well as gains, and add another category of exposure to a venue that already supports Canton Coin as collateral (CantonNews)\n- **Canton Coin spot prices sit 5.57% apart across exchanges, with no spot route rated worth taking outright** — A live scan at 10:14 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.07952 and dearest on Bitstamp at $0.083952 across 13 exchanges with a liquid spot market, changed from 4.23% recorded on November 15, with the widest spot route, buying on MEXC and selling on LBank at 4.82% after fees, flagged as a suspect pair, and the best futures route long Toobit and short Hyperliquid at 0.09% after fees (ArbitrageGap)\n\nNetwork: CC $0.0847 | Market cap $3.39B (rank 25) | 24h volume $15.37M | Supply 40,071,474,310 CC, up 5.22% in 24 hours and down 5.32% over seven days as of the 10:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 6.4M CC, up from 6.1M CC in the 4:42 AM read, with current activity at 1.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (Criptano for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-18T05:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-18_0442-est",
-      "slug": "canton-dev-korea-brings-builders-together-in-seoul-today-for-sessions-on-identities-partic",
-      "url": "https://canton.w3ai.io/feed/canton-dev-korea-brings-builders-together-in-seoul-today-for-sessions-on-identities-partic",
-      "title": "Canton Dev Korea brings builders together in Seoul today for sessions on identities, participant nodes and application development",
-      "content_text": "Canton Signal Feed (Nov 18, 2026 · 4:42 AM ET)\n- **Canton Dev Korea brings builders together in Seoul today for sessions on identities, participant nodes and application development** — DSRV is hosting Canton Dev Korea: Building on Canton in Seoul on November 18 from 09:00 to 12:00 UTC, with planned sessions covering operating Canton identities and participant nodes, application development and integration with existing systems, followed by questions and networking; registration requires host approval, so the session is a developer-ecosystem event for approved attendees rather than a product launch or a network announcement (CantonNews)\n- **DPM Trace reaches its adoption-review vote after four independent organisations tested the transaction-debugging tool on Canton** — Walnut submitted its fourth milestone report after four independent organisations tested DPM Trace, which helps developers follow a transaction's actions and investigate failures, on Canton versions 3.4.11 through 3.7.1, bringing together their feedback and the team's own findings in 17 tracked issues; a 21-day acceptance vote opened on November 16 requiring support from at least 51% of eligible binding voters, and the vote opening does not establish acceptance or payment (CantonNews)\n- **Canton Coin perpetuals show short-leaning positioning as open interest sits at $27.22 million across eight exchanges** — JustScreener's November 18 read puts perpetual futures open interest at 323 million CC, or $27.22 million, with average funding at -0.0064% across eight exchanges, meaning shorts are paying longs, 24-hour turnover at $20.45 million and the price up 4.04% over 24 hours; the figures come from a different provider than the derivatives read in the previous edition and describe positioning, not new spot buying (JustScreener)\n- **Canton chain fees ease to $7,247 a day in the latest daily snapshot** — Crypheat's November 18 snapshot puts chain fees at $7,247 per day, down from $8,215 recorded on November 15, with the site describing fees as a proxy for real usage of the chain; the same snapshot gives a heat score of 2, rated COLD, unchanged from yesterday (Crypheat)\n\nNetwork: CC $0.0843 | Market cap $3.38B (rank 25) | 24h volume $15.10M | Supply about 40.07B CC, up 4.57% in 24 hours and down 5.32% over seven days as of the 09:30 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 6.1M CC, up from 5.7M CC in the 4:12 AM read, with current activity at 1.00 TPS, about 1.6K validators, 13 Super Validators and 4 active proposals (BlocFolio for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 4:42 AM ET)<br/>- **Canton Dev Korea brings builders together in Seoul today for sessions on identities, participant nodes and application development** — DSRV is hosting Canton Dev Korea: Building on Canton in Seoul on November 18 from 09:00 to 12:00 UTC, with planned sessions covering operating Canton identities and participant nodes, application development and integration with existing systems, followed by questions and networking; registration requires host approval, so the session is a developer-ecosystem event for approved attendees rather than a product launch or a network announcement (CantonNews)<br/>- **DPM Trace reaches its adoption-review vote after four independent organisations tested the transaction-debugging tool on Canton** — Walnut submitted its fourth milestone report after four independent organisations tested DPM Trace, which helps developers follow a transaction&#x27;s actions and investigate failures, on Canton versions 3.4.11 through 3.7.1, bringing together their feedback and the team&#x27;s own findings in 17 tracked issues; a 21-day acceptance vote opened on November 16 requiring support from at least 51% of eligible binding voters, and the vote opening does not establish acceptance or payment (CantonNews)<br/>- **Canton Coin perpetuals show short-leaning positioning as open interest sits at $27.22 million across eight exchanges** — JustScreener&#x27;s November 18 read puts perpetual futures open interest at 323 million CC, or $27.22 million, with average funding at -0.0064% across eight exchanges, meaning shorts are paying longs, 24-hour turnover at $20.45 million and the price up 4.04% over 24 hours; the figures come from a different provider than the derivatives read in the previous edition and describe positioning, not new spot buying (JustScreener)<br/>- **Canton chain fees ease to $7,247 a day in the latest daily snapshot** — Crypheat&#x27;s November 18 snapshot puts chain fees at $7,247 per day, down from $8,215 recorded on November 15, with the site describing fees as a proxy for real usage of the chain; the same snapshot gives a heat score of 2, rated COLD, unchanged from yesterday (Crypheat)<br/><br/>Network: CC $0.0843 | Market cap $3.38B (rank 25) | 24h volume $15.10M | Supply about 40.07B CC, up 4.57% in 24 hours and down 5.32% over seven days as of the 09:30 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 6.1M CC, up from 5.7M CC in the 4:12 AM read, with current activity at 1.00 TPS, about 1.6K validators, 13 Super Validators and 4 active proposals (BlocFolio for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-18T04:42:00-05:00",
-      "date_modified": "2026-11-18T04:42:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 18, 2026 · 4:42 AM ET",
-      "body": "Canton Signal Feed (Nov 18, 2026 · 4:42 AM ET)\n- **Canton Dev Korea brings builders together in Seoul today for sessions on identities, participant nodes and application development** — DSRV is hosting Canton Dev Korea: Building on Canton in Seoul on November 18 from 09:00 to 12:00 UTC, with planned sessions covering operating Canton identities and participant nodes, application development and integration with existing systems, followed by questions and networking; registration requires host approval, so the session is a developer-ecosystem event for approved attendees rather than a product launch or a network announcement (CantonNews)\n- **DPM Trace reaches its adoption-review vote after four independent organisations tested the transaction-debugging tool on Canton** — Walnut submitted its fourth milestone report after four independent organisations tested DPM Trace, which helps developers follow a transaction's actions and investigate failures, on Canton versions 3.4.11 through 3.7.1, bringing together their feedback and the team's own findings in 17 tracked issues; a 21-day acceptance vote opened on November 16 requiring support from at least 51% of eligible binding voters, and the vote opening does not establish acceptance or payment (CantonNews)\n- **Canton Coin perpetuals show short-leaning positioning as open interest sits at $27.22 million across eight exchanges** — JustScreener's November 18 read puts perpetual futures open interest at 323 million CC, or $27.22 million, with average funding at -0.0064% across eight exchanges, meaning shorts are paying longs, 24-hour turnover at $20.45 million and the price up 4.04% over 24 hours; the figures come from a different provider than the derivatives read in the previous edition and describe positioning, not new spot buying (JustScreener)\n- **Canton chain fees ease to $7,247 a day in the latest daily snapshot** — Crypheat's November 18 snapshot puts chain fees at $7,247 per day, down from $8,215 recorded on November 15, with the site describing fees as a proxy for real usage of the chain; the same snapshot gives a heat score of 2, rated COLD, unchanged from yesterday (Crypheat)\n\nNetwork: CC $0.0843 | Market cap $3.38B (rank 25) | 24h volume $15.10M | Supply about 40.07B CC, up 4.57% in 24 hours and down 5.32% over seven days as of the 09:30 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 6.1M CC, up from 5.7M CC in the 4:12 AM read, with current activity at 1.00 TPS, about 1.6K validators, 13 Super Validators and 4 active proposals (BlocFolio for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-18T04:42:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
