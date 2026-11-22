@@ -29,8 +29,142 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-21T17:51:00-05:00",
+  "updated": "2026-11-21T20:06:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-21_2006-est",
+      "slug": "canton-coin-s-open-interest-weighted-futures-funding-flips-positive-to-0-0006-as-open-inte",
+      "url": "https://canton.w3ai.io/feed/canton-coin-s-open-interest-weighted-futures-funding-flips-positive-to-0-0006-as-open-inte",
+      "title": "Canton Coin's open-interest-weighted futures funding flips positive to 0.0006% as open interest reads $33.11 million",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 8:06 PM ET)\n\n- **Canton Coin's open-interest-weighted futures funding flips positive to 0.0006% as open interest reads $33.11 million** — Coinfuty's November 21 read puts the open-interest-weighted funding rate at positive 0.0006% per four hours, flipped from negative 0.0027% recorded in the 7:21 PM edition, with total futures open interest at $33.11 million, futures volume at $12.07 million and a long/short ratio of 0.846 (Coinfuty)\n- **Canton Coin burned reads 15.7 million in the latest 24-hour window, with app rewards at 14.9 million** — CCTools' rolling 24-hour window, as of the November 22 01:00 UTC read, puts burn at 15.7 million Canton Coin against app rewards at 14.9 million Canton Coin; this is the rolling window read, distinct from the November 21 calendar-day record of 15.8 million burned and 15.1 million in rewards in the previous edition (CCTools)\n- **Canton DeFi locked value reads $10.96 million as DEX volume totals $17.95 million over 24 hours** — DefiLlama's November 21 chain read puts total value locked at $10.96 million, with DEX volume at $17.95 million over 24 hours, down from $18.11 million recorded in the 5:21 PM edition, with Temple still largest at $5.86 million, ahead of Alpend at $1.83 million and Cantex at $1.69 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0757, with a market cap of $3.04 billion and 24-hour trading volume of $6.98 million, up 1.16% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions reach 608.46 million, with total parties at 956,724 on the latest network read (CCTools for market data and the milestone).\n\nOriginal sources:\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nCCTools: https://cctools.network/network\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 8:06 PM ET)<br/><br/>- **Canton Coin&#x27;s open-interest-weighted futures funding flips positive to 0.0006% as open interest reads $33.11 million** — Coinfuty&#x27;s November 21 read puts the open-interest-weighted funding rate at positive 0.0006% per four hours, flipped from negative 0.0027% recorded in the 7:21 PM edition, with total futures open interest at $33.11 million, futures volume at $12.07 million and a long/short ratio of 0.846 (Coinfuty)<br/>- **Canton Coin burned reads 15.7 million in the latest 24-hour window, with app rewards at 14.9 million** — CCTools&#x27; rolling 24-hour window, as of the November 22 01:00 UTC read, puts burn at 15.7 million Canton Coin against app rewards at 14.9 million Canton Coin; this is the rolling window read, distinct from the November 21 calendar-day record of 15.8 million burned and 15.1 million in rewards in the previous edition (CCTools)<br/>- **Canton DeFi locked value reads $10.96 million as DEX volume totals $17.95 million over 24 hours** — DefiLlama&#x27;s November 21 chain read puts total value locked at $10.96 million, with DEX volume at $17.95 million over 24 hours, down from $18.11 million recorded in the 5:21 PM edition, with Temple still largest at $5.86 million, ahead of Alpend at $1.83 million and Cantex at $1.69 million (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0757, with a market cap of $3.04 billion and 24-hour trading volume of $6.98 million, up 1.16% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions reach 608.46 million, with total parties at 956,724 on the latest network read (CCTools for market data and the milestone).<br/><br/>Original sources:<br/>Coinfuty: https://www.coinfuty.com/coin/CC/open-interest<br/>CCTools: https://cctools.network/network<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true</p>",
+      "date_published": "2026-11-21T20:06:00-05:00",
+      "date_modified": "2026-11-21T20:06:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://www.coinfuty.com/coin/CC/open-interest",
+      "source_url": "https://www.coinfuty.com/coin/CC/open-interest",
+      "original_url": "https://www.coinfuty.com/coin/CC/open-interest",
+      "source": "Coinfuty",
+      "publisher": "Coinfuty",
+      "links": [
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        }
+      ],
+      "timestamp": "Nov 21, 2026 · 8:06 PM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 8:06 PM ET)\n\n- **Canton Coin's open-interest-weighted futures funding flips positive to 0.0006% as open interest reads $33.11 million** — Coinfuty's November 21 read puts the open-interest-weighted funding rate at positive 0.0006% per four hours, flipped from negative 0.0027% recorded in the 7:21 PM edition, with total futures open interest at $33.11 million, futures volume at $12.07 million and a long/short ratio of 0.846 (Coinfuty)\n- **Canton Coin burned reads 15.7 million in the latest 24-hour window, with app rewards at 14.9 million** — CCTools' rolling 24-hour window, as of the November 22 01:00 UTC read, puts burn at 15.7 million Canton Coin against app rewards at 14.9 million Canton Coin; this is the rolling window read, distinct from the November 21 calendar-day record of 15.8 million burned and 15.1 million in rewards in the previous edition (CCTools)\n- **Canton DeFi locked value reads $10.96 million as DEX volume totals $17.95 million over 24 hours** — DefiLlama's November 21 chain read puts total value locked at $10.96 million, with DEX volume at $17.95 million over 24 hours, down from $18.11 million recorded in the 5:21 PM edition, with Temple still largest at $5.86 million, ahead of Alpend at $1.83 million and Cantex at $1.69 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0757, with a market cap of $3.04 billion and 24-hour trading volume of $6.98 million, up 1.16% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions reach 608.46 million, with total parties at 956,724 on the latest network read (CCTools for market data and the milestone).\n\nOriginal sources:\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nCCTools: https://cctools.network/network\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "image_url": null,
+      "published": "2026-11-21T20:06:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-21_1921-est",
+      "slug": "canton-coin-s-daily-record-for-november-21-shows-15-8-million-coins-burned-against-15-1-mi",
+      "url": "https://canton.w3ai.io/feed/canton-coin-s-daily-record-for-november-21-shows-15-8-million-coins-burned-against-15-1-mi",
+      "title": "Canton Coin's daily record for November 21 shows 15.8 million coins burned against 15.1 million in app rewards",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 7:21 PM ET)\n\n- **Canton Coin's daily record for November 21 shows 15.8 million coins burned against 15.1 million in app rewards** — CCTools' daily record, closed at the November 22 00:00 UTC boundary, puts November 21 burn at 15.8 million Canton Coin with app rewards at 15.1 million Canton Coin for the same calendar day; this is the calendar-day record, distinct from the rolling 24-hour window reads cited earlier today (CCTools)\n- **Canton Coin's open-interest-weighted futures funding eases to negative 0.0027% as open interest reads $33.22 million** — Coinfuty's November 21 read puts the open-interest-weighted funding rate at negative 0.0027% per four hours, eased from negative 0.0046% recorded in the 5:51 PM edition, with total futures open interest at $33.22 million, futures volume at $12.37 million and a long/short ratio of 0.844 (Coinfuty)\n- **Tradecraft's live locked value reads $1.38 million, up 7.07% in 24 hours, after its daily snapshot printed an all-time low** — DefiLlama's November 21 chain read puts Tradecraft's live locked value at $1.38 million, up 7.07% over 24 hours, a move up from the $1.36 million daily snapshot that printed as the protocol's all-time low earlier today (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0760, with a market cap of $3.05 billion and 24-hour trading volume of $7.2 million, up 1.18% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions reach 608.43 million, with total parties at 956,670 on the latest network read (Blockdeck for market data; CCTools for the milestone).\n\nOriginal sources:\nCCTools: https://cctools.network/network\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 7:21 PM ET)<br/><br/>- **Canton Coin&#x27;s daily record for November 21 shows 15.8 million coins burned against 15.1 million in app rewards** — CCTools&#x27; daily record, closed at the November 22 00:00 UTC boundary, puts November 21 burn at 15.8 million Canton Coin with app rewards at 15.1 million Canton Coin for the same calendar day; this is the calendar-day record, distinct from the rolling 24-hour window reads cited earlier today (CCTools)<br/>- **Canton Coin&#x27;s open-interest-weighted futures funding eases to negative 0.0027% as open interest reads $33.22 million** — Coinfuty&#x27;s November 21 read puts the open-interest-weighted funding rate at negative 0.0027% per four hours, eased from negative 0.0046% recorded in the 5:51 PM edition, with total futures open interest at $33.22 million, futures volume at $12.37 million and a long/short ratio of 0.844 (Coinfuty)<br/>- **Tradecraft&#x27;s live locked value reads $1.38 million, up 7.07% in 24 hours, after its daily snapshot printed an all-time low** — DefiLlama&#x27;s November 21 chain read puts Tradecraft&#x27;s live locked value at $1.38 million, up 7.07% over 24 hours, a move up from the $1.36 million daily snapshot that printed as the protocol&#x27;s all-time low earlier today (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0760, with a market cap of $3.05 billion and 24-hour trading volume of $7.2 million, up 1.18% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions reach 608.43 million, with total parties at 956,670 on the latest network read (Blockdeck for market data; CCTools for the milestone).<br/><br/>Original sources:<br/>CCTools: https://cctools.network/network<br/>Coinfuty: https://www.coinfuty.com/coin/CC/open-interest<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true<br/>Blockdeck: https://blockdeck.app/coin/canton-network</p>",
+      "date_published": "2026-11-21T19:21:00-05:00",
+      "date_modified": "2026-11-21T19:21:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://cctools.network/network",
+      "source_url": "https://cctools.network/network",
+      "original_url": "https://cctools.network/network",
+      "source": "CCTools",
+      "publisher": "CCTools",
+      "links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "timestamp": "Nov 21, 2026 · 7:21 PM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 7:21 PM ET)\n\n- **Canton Coin's daily record for November 21 shows 15.8 million coins burned against 15.1 million in app rewards** — CCTools' daily record, closed at the November 22 00:00 UTC boundary, puts November 21 burn at 15.8 million Canton Coin with app rewards at 15.1 million Canton Coin for the same calendar day; this is the calendar-day record, distinct from the rolling 24-hour window reads cited earlier today (CCTools)\n- **Canton Coin's open-interest-weighted futures funding eases to negative 0.0027% as open interest reads $33.22 million** — Coinfuty's November 21 read puts the open-interest-weighted funding rate at negative 0.0027% per four hours, eased from negative 0.0046% recorded in the 5:51 PM edition, with total futures open interest at $33.22 million, futures volume at $12.37 million and a long/short ratio of 0.844 (Coinfuty)\n- **Tradecraft's live locked value reads $1.38 million, up 7.07% in 24 hours, after its daily snapshot printed an all-time low** — DefiLlama's November 21 chain read puts Tradecraft's live locked value at $1.38 million, up 7.07% over 24 hours, a move up from the $1.36 million daily snapshot that printed as the protocol's all-time low earlier today (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0760, with a market cap of $3.05 billion and 24-hour trading volume of $7.2 million, up 1.18% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions reach 608.43 million, with total parties at 956,670 on the latest network read (Blockdeck for market data; CCTools for the milestone).\n\nOriginal sources:\nCCTools: https://cctools.network/network\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "image_url": null,
+      "published": "2026-11-21T19:21:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-21_1751-est",
       "slug": "canton-coin-burned-over-the-last-30-days-equals-56-5-of-issuance-with-451-6-million-coins",
@@ -6140,80 +6274,6 @@
       "body": "Canton Signal Feed (Nov 14, 2026 · 4:12 PM ET)\n- **Goldman Sachs is proposed as a Super Validator on Canton under a milestone-based programme** — A governance CIP, authored by Abeetha Pitigala and currently in Proposed status, would designate Goldman Sachs and Co. as a Canton Super Validator with a maximum earnable weight of 10 under a programme agreed with the Canton Foundation; weight is earned incrementally as ecosystem commitments are met, rewards do not mint until milestones are verified, unearned weight tied to missed deadlines is removed, and approval requires a two-thirds Super Validator vote, with specific milestones and timelines remaining confidential until Goldman Sachs and the Foundation agree on disclosure (CC Privacy Club)\n- **TreasurySpring's Canton plan wins approval with a $5 billion outstanding target for its fund shares** — The plan, approved September 9, targets $5 billion in outstanding fund shares and $20 billion in cumulative issuance within 12 months, starting with $10 million outstanding and $15 million cumulative issuance at three months and reaching $1 billion outstanding by month six; Canton will hold ownership records for the fund shares, TreasurySpring can earn a maximum Super Validator reward weight of four with evidence that targets are reached and maintained for a month, and it already operates a Canton validator (CC Privacy Club)\n- **Canton Coin futures open interest falls to $29.0 million as liquidations stay modest at $73,800** — Coinalyze's latest aggregated read puts Canton Coin futures open interest at $29.0 million, down 8.42% in 24 hours, with futures volume at $14.0 million and tracked liquidations at $73,800, a sharp step down from the $35.10 million open interest recorded earlier today (Coinalyze)\n- **Canton Coin appears on an oversold screen as its live price slips to $0.0770, down 10.64% in 24 hours** — BlocFolio's live November 14 read, computed at 21:30 UTC, puts Canton Coin at $0.0770, down 10.64% in 24 hours, 17.54% over seven days and 60.3% below its all-time high of $0.1942 set on February 3, 2026, with the coin now appearing in its Oversold Crypto Screener (BlocFolio)\n\nNetwork: CC $0.0774 | Market cap $3.10B (rank 26) | 24h volume $13.49M | Supply 40.05B CC; milestone: MainNet validator onboarding capacity stands at 50 validators per week, with priority for projects that have working devnet or testnet applications ready for production (Kriptometre for market data; CC Privacy Club for the milestone)",
       "image_url": null,
       "published": "2026-11-14T16:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-14_1542-est",
-      "slug": "decrypt-s-november-14-explainer-puts-canton-s-september-snapshot-at-about-60-super-validat",
-      "url": "https://canton.w3ai.io/feed/decrypt-s-november-14-explainer-puts-canton-s-september-snapshot-at-about-60-super-validat",
-      "title": "Decrypt's November 14 explainer puts Canton's September snapshot at about 60 Super Validators and more than 120 applications",
-      "content_text": "Canton Signal Feed (Nov 14, 2026 · 3:42 PM ET)\n- **Decrypt's November 14 explainer puts Canton's September snapshot at about 60 Super Validators and more than 120 applications** — The explainer, summarised November 14, cites Digital Asset reporting as of September 30 that Canton had about 60 Super Validators run by 13 Super Validator node operators, more than 700 Validators and over 120 applications, with applications processing more than $6 trillion in tokenized real-world assets including over $350 billion in daily U.S. Treasury repo on company-reported figures; the Global Synchronizer, live since July 2024, orders and confirms transactions under a two-thirds Byzantine Fault Tolerant threshold without reading their contents, and governance sits with the Global Synchronizer Foundation hosted by the Linux Foundation (CoinStats)\n- **An over-the-counter swap on Canton references a tokenized investment-grade bond index** — S&P Dow Jones Indices, Kaiko and Derivnex announced the swap as a Canton-based trade referencing the tokenized index, an example of derivatives building on tokenized bonds rather than on a spot crypto asset; the announcement does not give a trade size or confirm recurring volume (CoinStats)\n- **Pool Party, Canton's first automated market maker, holds $192,834 in locked value after a 25.1% fall over 30 days** — The Send Foundation venue, launched in February 2026 and accessed through the Send Canton Wallet, shows a November 14 daily snapshot of $196,016, cumulative DEX volume of $4.8 million against only $28,409 over the last 30 days and $95.17 in fees over 30 days, down from an all-time high of $1.03 million in locked value on June 3 (DefiLlama)\n- **Canton Coin futures open interest falls to $35.10 million as liquidations rise to $231,840, all of it on the long side** — Coinfuty's latest aggregated read puts open interest at $35.10 million, down 9.75% in 24 hours, with futures volume at $20.15 million, up 13.00%, tracked liquidations at $231,840 entirely in longs against $8.75 in shorts, an open-interest-weighted funding rate of -0.0151% over four hours and an aggregate long-to-short ratio of 0.673; Bybit holds the largest book at $11.37 million, about 32% of the total, ahead of Binance at $10.33 million (Coinfuty)\n\nNetwork: CC $0.0786 | Market cap $3.15B (rank 26) | 24h volume $12.68M | Supply 40.05B CC; milestone: a MainNet upgrade to Splice 0.10.0 is listed for November 16, with about 1.6K validators, 13 Super Validators and 6 active governance proposals on the network (Kaavon for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 14, 2026 · 3:42 PM ET)<br/>- **Decrypt&#x27;s November 14 explainer puts Canton&#x27;s September snapshot at about 60 Super Validators and more than 120 applications** — The explainer, summarised November 14, cites Digital Asset reporting as of September 30 that Canton had about 60 Super Validators run by 13 Super Validator node operators, more than 700 Validators and over 120 applications, with applications processing more than $6 trillion in tokenized real-world assets including over $350 billion in daily U.S. Treasury repo on company-reported figures; the Global Synchronizer, live since July 2024, orders and confirms transactions under a two-thirds Byzantine Fault Tolerant threshold without reading their contents, and governance sits with the Global Synchronizer Foundation hosted by the Linux Foundation (CoinStats)<br/>- **An over-the-counter swap on Canton references a tokenized investment-grade bond index** — S&amp;P Dow Jones Indices, Kaiko and Derivnex announced the swap as a Canton-based trade referencing the tokenized index, an example of derivatives building on tokenized bonds rather than on a spot crypto asset; the announcement does not give a trade size or confirm recurring volume (CoinStats)<br/>- **Pool Party, Canton&#x27;s first automated market maker, holds $192,834 in locked value after a 25.1% fall over 30 days** — The Send Foundation venue, launched in February 2026 and accessed through the Send Canton Wallet, shows a November 14 daily snapshot of $196,016, cumulative DEX volume of $4.8 million against only $28,409 over the last 30 days and $95.17 in fees over 30 days, down from an all-time high of $1.03 million in locked value on June 3 (DefiLlama)<br/>- **Canton Coin futures open interest falls to $35.10 million as liquidations rise to $231,840, all of it on the long side** — Coinfuty&#x27;s latest aggregated read puts open interest at $35.10 million, down 9.75% in 24 hours, with futures volume at $20.15 million, up 13.00%, tracked liquidations at $231,840 entirely in longs against $8.75 in shorts, an open-interest-weighted funding rate of -0.0151% over four hours and an aggregate long-to-short ratio of 0.673; Bybit holds the largest book at $11.37 million, about 32% of the total, ahead of Binance at $10.33 million (Coinfuty)<br/><br/>Network: CC $0.0786 | Market cap $3.15B (rank 26) | 24h volume $12.68M | Supply 40.05B CC; milestone: a MainNet upgrade to Splice 0.10.0 is listed for November 16, with about 1.6K validators, 13 Super Validators and 6 active governance proposals on the network (Kaavon for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-14T15:42:00-05:00",
-      "date_modified": "2026-11-14T15:42:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 3:42 PM ET",
-      "body": "Canton Signal Feed (Nov 14, 2026 · 3:42 PM ET)\n- **Decrypt's November 14 explainer puts Canton's September snapshot at about 60 Super Validators and more than 120 applications** — The explainer, summarised November 14, cites Digital Asset reporting as of September 30 that Canton had about 60 Super Validators run by 13 Super Validator node operators, more than 700 Validators and over 120 applications, with applications processing more than $6 trillion in tokenized real-world assets including over $350 billion in daily U.S. Treasury repo on company-reported figures; the Global Synchronizer, live since July 2024, orders and confirms transactions under a two-thirds Byzantine Fault Tolerant threshold without reading their contents, and governance sits with the Global Synchronizer Foundation hosted by the Linux Foundation (CoinStats)\n- **An over-the-counter swap on Canton references a tokenized investment-grade bond index** — S&P Dow Jones Indices, Kaiko and Derivnex announced the swap as a Canton-based trade referencing the tokenized index, an example of derivatives building on tokenized bonds rather than on a spot crypto asset; the announcement does not give a trade size or confirm recurring volume (CoinStats)\n- **Pool Party, Canton's first automated market maker, holds $192,834 in locked value after a 25.1% fall over 30 days** — The Send Foundation venue, launched in February 2026 and accessed through the Send Canton Wallet, shows a November 14 daily snapshot of $196,016, cumulative DEX volume of $4.8 million against only $28,409 over the last 30 days and $95.17 in fees over 30 days, down from an all-time high of $1.03 million in locked value on June 3 (DefiLlama)\n- **Canton Coin futures open interest falls to $35.10 million as liquidations rise to $231,840, all of it on the long side** — Coinfuty's latest aggregated read puts open interest at $35.10 million, down 9.75% in 24 hours, with futures volume at $20.15 million, up 13.00%, tracked liquidations at $231,840 entirely in longs against $8.75 in shorts, an open-interest-weighted funding rate of -0.0151% over four hours and an aggregate long-to-short ratio of 0.673; Bybit holds the largest book at $11.37 million, about 32% of the total, ahead of Binance at $10.33 million (Coinfuty)\n\nNetwork: CC $0.0786 | Market cap $3.15B (rank 26) | 24h volume $12.68M | Supply 40.05B CC; milestone: a MainNet upgrade to Splice 0.10.0 is listed for November 16, with about 1.6K validators, 13 Super Validators and 6 active governance proposals on the network (Kaavon for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-14T15:42:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-14_1512-est",
-      "slug": "certik-s-audit-of-digital-asset-s-canton-registry-off-chain-utilities-found-no-critical-or",
-      "url": "https://canton.w3ai.io/feed/certik-s-audit-of-digital-asset-s-canton-registry-off-chain-utilities-found-no-critical-or",
-      "title": "CertiK's audit of Digital Asset's Canton registry off-chain utilities found no critical or high issues",
-      "content_text": "Canton Signal Feed (Nov 14, 2026 · 3:12 PM ET)\n- **CertiK's audit of Digital Asset's Canton registry off-chain utilities found no critical or high issues** — The security assessment, carried out in July 2026 by three CertiK reviewers and published in final form on August 21, covered the Canton Network Off-Chain Utilities frontend and backend at version 0.12.15, including utility APIs, the active registry and credential workflows, operator automation, contract archival and reward processing; it recorded 12 findings in total — four Medium, all acknowledged, six Low, with one resolved and five acknowledged, and two Informational, both acknowledged — mainly around authentication and authorization gaps, information disclosure and backend resource handling, and testing found no bypass of Daml's on-ledger authorization model and no practical exploit chain from the off-chain weaknesses to unauthorized ledger actions (CertiK)\n- **Marex's hosted Super Validator arrangement takes effect on MainNet, with its host node's reward weight rising from 35 to 45** — The MainNet governance record shows MPCH's reward weight increasing from 35 to 45 on October 7 to accommodate Marex's weight-10 program under CIP-0126, approved September 25; rewards accumulate in the Unclaimed Rewards Pool and are released only against verified milestones covering regulated customer access, institutional settlement, collateral integration and production activity, with Marex required to present evidence and a Canton Coin calculation for each milestone, and once it has been awarded more than 2.5 in weight it must operate its own Super Validator within six months (CantonNews)\n- **Canton holds fourth place for institutional adoption in TokenSonar's updated comparison with XRP** — TokenSonar's live comparison, published November 14, puts Canton at 78 of 100 and ranked fourth, ahead of XRP at 71 of 100 and ranked seventh, with both networks tracked on 10 institutional signals each, both classed as Bank Infrastructure and both with a live spot ETF; the scores update twice daily from regulatory filings, named bank deployments, ETF flows and on-chain real-world asset data rather than price action, and Canton's tracked partners include Goldman Sachs, BNY Mellon, BNP Paribas, Société Générale, DTCC and JPMorgan Chase (TokenSonar)\n- **Canton Coin futures open interest falls to $35.64 million as liquidations stay almost entirely on the long side** — Coinfuty's latest aggregated read puts open interest at $35.64 million, down 8.67% in 24 hours, with futures volume at $19.82 million, up 16.07%, tracked liquidations at $220,950 of which $220,940 were longs against only $8.75 in shorts, an open-interest-weighted funding rate of -0.0072% and an aggregate long-to-short ratio of 0.681; Bybit holds the largest book at $11.54 million, about 32% of the total, ahead of Binance at $10.44 million (Coinfuty)\n\nNetwork: CC $0.0805 | Market cap $3.2B (rank 26) | 24h volume $12.5M | Supply 40.05B CC; milestone: Canton's governance registry lists 56 Canton Improvement Proposals in Final, in-effect status, with a further 41 Approved and 8 Active, out of the full CIP record for the Global Synchronizer (Altcoin Buzz for market data, sourced from CoinGecko as of 19:11 UTC; Canton Network Docs for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 14, 2026 · 3:12 PM ET)<br/>- **CertiK&#x27;s audit of Digital Asset&#x27;s Canton registry off-chain utilities found no critical or high issues** — The security assessment, carried out in July 2026 by three CertiK reviewers and published in final form on August 21, covered the Canton Network Off-Chain Utilities frontend and backend at version 0.12.15, including utility APIs, the active registry and credential workflows, operator automation, contract archival and reward processing; it recorded 12 findings in total — four Medium, all acknowledged, six Low, with one resolved and five acknowledged, and two Informational, both acknowledged — mainly around authentication and authorization gaps, information disclosure and backend resource handling, and testing found no bypass of Daml&#x27;s on-ledger authorization model and no practical exploit chain from the off-chain weaknesses to unauthorized ledger actions (CertiK)<br/>- **Marex&#x27;s hosted Super Validator arrangement takes effect on MainNet, with its host node&#x27;s reward weight rising from 35 to 45** — The MainNet governance record shows MPCH&#x27;s reward weight increasing from 35 to 45 on October 7 to accommodate Marex&#x27;s weight-10 program under CIP-0126, approved September 25; rewards accumulate in the Unclaimed Rewards Pool and are released only against verified milestones covering regulated customer access, institutional settlement, collateral integration and production activity, with Marex required to present evidence and a Canton Coin calculation for each milestone, and once it has been awarded more than 2.5 in weight it must operate its own Super Validator within six months (CantonNews)<br/>- **Canton holds fourth place for institutional adoption in TokenSonar&#x27;s updated comparison with XRP** — TokenSonar&#x27;s live comparison, published November 14, puts Canton at 78 of 100 and ranked fourth, ahead of XRP at 71 of 100 and ranked seventh, with both networks tracked on 10 institutional signals each, both classed as Bank Infrastructure and both with a live spot ETF; the scores update twice daily from regulatory filings, named bank deployments, ETF flows and on-chain real-world asset data rather than price action, and Canton&#x27;s tracked partners include Goldman Sachs, BNY Mellon, BNP Paribas, Société Générale, DTCC and JPMorgan Chase (TokenSonar)<br/>- **Canton Coin futures open interest falls to $35.64 million as liquidations stay almost entirely on the long side** — Coinfuty&#x27;s latest aggregated read puts open interest at $35.64 million, down 8.67% in 24 hours, with futures volume at $19.82 million, up 16.07%, tracked liquidations at $220,950 of which $220,940 were longs against only $8.75 in shorts, an open-interest-weighted funding rate of -0.0072% and an aggregate long-to-short ratio of 0.681; Bybit holds the largest book at $11.54 million, about 32% of the total, ahead of Binance at $10.44 million (Coinfuty)<br/><br/>Network: CC $0.0805 | Market cap $3.2B (rank 26) | 24h volume $12.5M | Supply 40.05B CC; milestone: Canton&#x27;s governance registry lists 56 Canton Improvement Proposals in Final, in-effect status, with a further 41 Approved and 8 Active, out of the full CIP record for the Global Synchronizer (Altcoin Buzz for market data, sourced from CoinGecko as of 19:11 UTC; Canton Network Docs for the milestone)</p>",
-      "date_published": "2026-11-14T15:12:00-05:00",
-      "date_modified": "2026-11-14T15:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 3:12 PM ET",
-      "body": "Canton Signal Feed (Nov 14, 2026 · 3:12 PM ET)\n- **CertiK's audit of Digital Asset's Canton registry off-chain utilities found no critical or high issues** — The security assessment, carried out in July 2026 by three CertiK reviewers and published in final form on August 21, covered the Canton Network Off-Chain Utilities frontend and backend at version 0.12.15, including utility APIs, the active registry and credential workflows, operator automation, contract archival and reward processing; it recorded 12 findings in total — four Medium, all acknowledged, six Low, with one resolved and five acknowledged, and two Informational, both acknowledged — mainly around authentication and authorization gaps, information disclosure and backend resource handling, and testing found no bypass of Daml's on-ledger authorization model and no practical exploit chain from the off-chain weaknesses to unauthorized ledger actions (CertiK)\n- **Marex's hosted Super Validator arrangement takes effect on MainNet, with its host node's reward weight rising from 35 to 45** — The MainNet governance record shows MPCH's reward weight increasing from 35 to 45 on October 7 to accommodate Marex's weight-10 program under CIP-0126, approved September 25; rewards accumulate in the Unclaimed Rewards Pool and are released only against verified milestones covering regulated customer access, institutional settlement, collateral integration and production activity, with Marex required to present evidence and a Canton Coin calculation for each milestone, and once it has been awarded more than 2.5 in weight it must operate its own Super Validator within six months (CantonNews)\n- **Canton holds fourth place for institutional adoption in TokenSonar's updated comparison with XRP** — TokenSonar's live comparison, published November 14, puts Canton at 78 of 100 and ranked fourth, ahead of XRP at 71 of 100 and ranked seventh, with both networks tracked on 10 institutional signals each, both classed as Bank Infrastructure and both with a live spot ETF; the scores update twice daily from regulatory filings, named bank deployments, ETF flows and on-chain real-world asset data rather than price action, and Canton's tracked partners include Goldman Sachs, BNY Mellon, BNP Paribas, Société Générale, DTCC and JPMorgan Chase (TokenSonar)\n- **Canton Coin futures open interest falls to $35.64 million as liquidations stay almost entirely on the long side** — Coinfuty's latest aggregated read puts open interest at $35.64 million, down 8.67% in 24 hours, with futures volume at $19.82 million, up 16.07%, tracked liquidations at $220,950 of which $220,940 were longs against only $8.75 in shorts, an open-interest-weighted funding rate of -0.0072% and an aggregate long-to-short ratio of 0.681; Bybit holds the largest book at $11.54 million, about 32% of the total, ahead of Binance at $10.44 million (Coinfuty)\n\nNetwork: CC $0.0805 | Market cap $3.2B (rank 26) | 24h volume $12.5M | Supply 40.05B CC; milestone: Canton's governance registry lists 56 Canton Improvement Proposals in Final, in-effect status, with a further 41 Approved and 8 Active, out of the full CIP record for the Global Synchronizer (Altcoin Buzz for market data, sourced from CoinGecko as of 19:11 UTC; Canton Network Docs for the milestone)",
-      "image_url": null,
-      "published": "2026-11-14T15:12:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
