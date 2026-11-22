@@ -29,8 +29,79 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-22T15:21:00-05:00",
+  "updated": "2026-11-22T15:51:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-22_1551-est",
+      "slug": "cip-0132-paymasters-would-burn-cc-for-dedicated-traffic",
+      "url": "https://canton.w3ai.io/feed/cip-0132-paymasters-would-burn-cc-for-dedicated-traffic",
+      "title": "CIP-0132 paymasters would burn CC for dedicated traffic",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 3:51 PM ET)\n\n- **CIP-0132 paymasters would burn CC for dedicated traffic** — Coindoo's November 22 read of CIP-0132, authored by Moritz Kiefer and proposed on November 16 and still marked Proposed on November 22, sets out the initial version of the payment system that would bill dedicated-synchronizer traffic in Canton Coin burns instead of license fees to Digital Asset: each dedicated synchronizer gets one paymaster, registered by a Super Validator vote and the only party allowed to burn CC for that synchronizer; operators report bytes consumed in 10-minute intervals, burns can lag traffic by up to 14 days under smoothing schedules, traffic reports are self-declared at launch with no on-chain check, and the proposal's worked example prices traffic at $60 per megabyte; it builds on the approved CIP-0129 framework, whose first phase is estimated for the first quarter of 2027 (Coindoo)\n- **Canton DeFi locked value slips to $10.66M as Temple falls** — DefiLlama's latest chain read puts total value locked at $10.66 million, down 1.73% over 24 hours and down from $10.76 million recorded in the 4:36 AM edition, with decentralised exchange volume at $16.02 million over 24 hours, down from $16.39 million last cited this morning, and Temple still largest at $5.69 million, down 5.37% over 24 hours, ahead of Alpend at $1.77 million and Cantex at $1.66 million across eight tracked protocols (DefiLlama)\n- **Canton Foundation Premier tier costs $150,000 a year** — The Canton Foundation's policies page sets out three membership tiers for the independent non-profit that governs the Global Synchronizer with the Linux Foundation: Premier at $150,000 a year carries a Board of Directors seat and Board Committee delegates, General runs $5,000 to $30,000 a year scaled by organisation size, and Associate is free for government agencies, regulators, nonprofits and academic institutions with Board approval; work runs through six Member Committees, including Tokenomics, Accountability and a Collateral Subcommittee, and the Foundation votes as one Super Validator among many, with governance actions needing roughly two-thirds of onboarded Super Validators (Canton Network Docs)\n\nNetwork: Canton Coin (CC) trades at $0.0716, with a market cap of $2.87 billion and 24-hour trading volume of $6.11 million, down 6.08% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CCTools).\n\nOriginal sources:\nCoindoo: https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCanton Network Docs: https://docs.canton.network/overview/reference/gsf-policies\nCCTools: https://cctools.network/network",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 3:51 PM ET)<br/><br/>- **CIP-0132 paymasters would burn CC for dedicated traffic** — Coindoo&#x27;s November 22 read of CIP-0132, authored by Moritz Kiefer and proposed on November 16 and still marked Proposed on November 22, sets out the initial version of the payment system that would bill dedicated-synchronizer traffic in Canton Coin burns instead of license fees to Digital Asset: each dedicated synchronizer gets one paymaster, registered by a Super Validator vote and the only party allowed to burn CC for that synchronizer; operators report bytes consumed in 10-minute intervals, burns can lag traffic by up to 14 days under smoothing schedules, traffic reports are self-declared at launch with no on-chain check, and the proposal&#x27;s worked example prices traffic at $60 per megabyte; it builds on the approved CIP-0129 framework, whose first phase is estimated for the first quarter of 2027 (Coindoo)<br/>- **Canton DeFi locked value slips to $10.66M as Temple falls** — DefiLlama&#x27;s latest chain read puts total value locked at $10.66 million, down 1.73% over 24 hours and down from $10.76 million recorded in the 4:36 AM edition, with decentralised exchange volume at $16.02 million over 24 hours, down from $16.39 million last cited this morning, and Temple still largest at $5.69 million, down 5.37% over 24 hours, ahead of Alpend at $1.77 million and Cantex at $1.66 million across eight tracked protocols (DefiLlama)<br/>- **Canton Foundation Premier tier costs $150,000 a year** — The Canton Foundation&#x27;s policies page sets out three membership tiers for the independent non-profit that governs the Global Synchronizer with the Linux Foundation: Premier at $150,000 a year carries a Board of Directors seat and Board Committee delegates, General runs $5,000 to $30,000 a year scaled by organisation size, and Associate is free for government agencies, regulators, nonprofits and academic institutions with Board approval; work runs through six Member Committees, including Tokenomics, Accountability and a Collateral Subcommittee, and the Foundation votes as one Super Validator among many, with governance actions needing roughly two-thirds of onboarded Super Validators (Canton Network Docs)<br/><br/>Network: Canton Coin (CC) trades at $0.0716, with a market cap of $2.87 billion and 24-hour trading volume of $6.11 million, down 6.08% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CCTools).<br/><br/>Original sources:<br/>Coindoo: https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true<br/>Canton Network Docs: https://docs.canton.network/overview/reference/gsf-policies<br/>CCTools: https://cctools.network/network</p>",
+      "date_published": "2026-11-22T15:51:00-05:00",
+      "date_modified": "2026-11-22T15:51:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/",
+      "source_url": "https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/",
+      "original_url": "https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/",
+      "source": "Coindoo",
+      "publisher": "Coindoo",
+      "links": [
+        {
+          "source": "Coindoo",
+          "url": "https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/overview/reference/gsf-policies"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 3:51 PM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 3:51 PM ET)\n\n- **CIP-0132 paymasters would burn CC for dedicated traffic** — Coindoo's November 22 read of CIP-0132, authored by Moritz Kiefer and proposed on November 16 and still marked Proposed on November 22, sets out the initial version of the payment system that would bill dedicated-synchronizer traffic in Canton Coin burns instead of license fees to Digital Asset: each dedicated synchronizer gets one paymaster, registered by a Super Validator vote and the only party allowed to burn CC for that synchronizer; operators report bytes consumed in 10-minute intervals, burns can lag traffic by up to 14 days under smoothing schedules, traffic reports are self-declared at launch with no on-chain check, and the proposal's worked example prices traffic at $60 per megabyte; it builds on the approved CIP-0129 framework, whose first phase is estimated for the first quarter of 2027 (Coindoo)\n- **Canton DeFi locked value slips to $10.66M as Temple falls** — DefiLlama's latest chain read puts total value locked at $10.66 million, down 1.73% over 24 hours and down from $10.76 million recorded in the 4:36 AM edition, with decentralised exchange volume at $16.02 million over 24 hours, down from $16.39 million last cited this morning, and Temple still largest at $5.69 million, down 5.37% over 24 hours, ahead of Alpend at $1.77 million and Cantex at $1.66 million across eight tracked protocols (DefiLlama)\n- **Canton Foundation Premier tier costs $150,000 a year** — The Canton Foundation's policies page sets out three membership tiers for the independent non-profit that governs the Global Synchronizer with the Linux Foundation: Premier at $150,000 a year carries a Board of Directors seat and Board Committee delegates, General runs $5,000 to $30,000 a year scaled by organisation size, and Associate is free for government agencies, regulators, nonprofits and academic institutions with Board approval; work runs through six Member Committees, including Tokenomics, Accountability and a Collateral Subcommittee, and the Foundation votes as one Super Validator among many, with governance actions needing roughly two-thirds of onboarded Super Validators (Canton Network Docs)\n\nNetwork: Canton Coin (CC) trades at $0.0716, with a market cap of $2.87 billion and 24-hour trading volume of $6.11 million, down 6.08% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CCTools).\n\nOriginal sources:\nCoindoo: https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCanton Network Docs: https://docs.canton.network/overview/reference/gsf-policies\nCCTools: https://cctools.network/network",
+      "image_url": null,
+      "published": "2026-11-22T15:51:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "Coindoo",
+          "url": "https://coindoo.com/canton-plans-to-bill-institutional-traffic-in-cc-burns/"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/overview/reference/gsf-policies"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-22_1521-est",
       "slug": "sg-forge-to-deploy-coinvertible-stablecoins-on-canton",
@@ -7228,43 +7299,6 @@
       "body": "Canton Signal Feed (Nov 18, 2026 · 4:42 AM ET)\n- **Canton Dev Korea brings builders together in Seoul today for sessions on identities, participant nodes and application development** — DSRV is hosting Canton Dev Korea: Building on Canton in Seoul on November 18 from 09:00 to 12:00 UTC, with planned sessions covering operating Canton identities and participant nodes, application development and integration with existing systems, followed by questions and networking; registration requires host approval, so the session is a developer-ecosystem event for approved attendees rather than a product launch or a network announcement (CantonNews)\n- **DPM Trace reaches its adoption-review vote after four independent organisations tested the transaction-debugging tool on Canton** — Walnut submitted its fourth milestone report after four independent organisations tested DPM Trace, which helps developers follow a transaction's actions and investigate failures, on Canton versions 3.4.11 through 3.7.1, bringing together their feedback and the team's own findings in 17 tracked issues; a 21-day acceptance vote opened on November 16 requiring support from at least 51% of eligible binding voters, and the vote opening does not establish acceptance or payment (CantonNews)\n- **Canton Coin perpetuals show short-leaning positioning as open interest sits at $27.22 million across eight exchanges** — JustScreener's November 18 read puts perpetual futures open interest at 323 million CC, or $27.22 million, with average funding at -0.0064% across eight exchanges, meaning shorts are paying longs, 24-hour turnover at $20.45 million and the price up 4.04% over 24 hours; the figures come from a different provider than the derivatives read in the previous edition and describe positioning, not new spot buying (JustScreener)\n- **Canton chain fees ease to $7,247 a day in the latest daily snapshot** — Crypheat's November 18 snapshot puts chain fees at $7,247 per day, down from $8,215 recorded on November 15, with the site describing fees as a proxy for real usage of the chain; the same snapshot gives a heat score of 2, rated COLD, unchanged from yesterday (Crypheat)\n\nNetwork: CC $0.0843 | Market cap $3.38B (rank 25) | 24h volume $15.10M | Supply about 40.07B CC, up 4.57% in 24 hours and down 5.32% over seven days as of the 09:30 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 6.1M CC, up from 5.7M CC in the 4:12 AM read, with current activity at 1.00 TPS, about 1.6K validators, 13 Super Validators and 4 active proposals (BlocFolio for market data; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-18T04:42:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-18_0412-est",
-      "slug": "stratalink-labs-launches-its-proof-of-liquidity-oracle-on-canton-mainnet-recording-signed",
-      "url": "https://canton.w3ai.io/feed/stratalink-labs-launches-its-proof-of-liquidity-oracle-on-canton-mainnet-recording-signed",
-      "title": "Stratalink Labs launches its Proof of Liquidity oracle on Canton MainNet, recording signed assessments of market depth on the ledger",
-      "content_text": "Canton Signal Feed (Nov 18, 2026 · 4:12 AM ET)\n- **Stratalink Labs launches its Proof of Liquidity oracle on Canton MainNet, recording signed assessments of market depth on the ledger** — The PoLi Oracle, published November 17, scores secondary-market order-book depth observed directly from trading venues, with each score cryptographically signed and recorded on Canton as a point-in-time attestation that authorised parties can verify; the initial deployment covers Bitcoin, Ether, Solana and Canton Coin across two venues, IntellectEU built the Daml smart contract layer and the deployment runs on a validator provisioned through CatalyX Blockchain Manager with an on-ledger compliance check; PoLi measures market depth, not reserve backing or redemption access, so a fully backed asset can still score poorly if its markets are thin, and founder Robert McDermott confirmed institutional pilot discussions are at an early stage with no institutions yet using the system, making the launch a technical milestone rather than a commercial one (Unlock Blockchain)\n- **Canton DeFi locked value holds at $11.55 million as 24-hour DEX volume rises to $17.6 million** — DefiLlama's November 18 snapshot puts total value locked at $11.55 million, with DEX volume at $17.6 million in 24 hours, up from $16.66 million recorded on November 15, $130.84 million over seven days and perps volume at $238,049 (DefiLlama)\n- **Canton Foundation publishes CIP-0103, the dApp Standard defining a common interface between applications and wallets** — The standard, published on November 17 and listed as Approved on the Standards Track, introduces a vendor-neutral dApp API that decouples network connectivity and key management from decentralised applications, so users can access any application with a validator and signing provider of their choice while wallets enforce authorisation against malicious requests from untrusted applications (Canton Network Docs)\n- **Canton Coin derivatives show no new buying behind the latest price gain, with open interest down and funding neutral** — CoinStats' November 18 read puts futures open interest at $36.04 million, down 1.24% over two days and 19.78% over 30 days and below the $40.35 million period average, with funding neutral at 0.0008%, 24-hour liquidations of only $3.11K almost entirely on long positions, and 24-hour volume of $12.68 million described as thin against the market cap, with no dated price-specific announcement found in the past 24 hours (CoinStats)\n\nNetwork: CC $0.08489 | Market cap $3.4B | 24h volume $12.95M | CC up 4.26% in 24 hours and down 6.08% over seven days as of the 09:13 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 5.7M CC, with 4 active proposals and current activity at 1.00 TPS (CoinStats for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 4:12 AM ET)<br/>- **Stratalink Labs launches its Proof of Liquidity oracle on Canton MainNet, recording signed assessments of market depth on the ledger** — The PoLi Oracle, published November 17, scores secondary-market order-book depth observed directly from trading venues, with each score cryptographically signed and recorded on Canton as a point-in-time attestation that authorised parties can verify; the initial deployment covers Bitcoin, Ether, Solana and Canton Coin across two venues, IntellectEU built the Daml smart contract layer and the deployment runs on a validator provisioned through CatalyX Blockchain Manager with an on-ledger compliance check; PoLi measures market depth, not reserve backing or redemption access, so a fully backed asset can still score poorly if its markets are thin, and founder Robert McDermott confirmed institutional pilot discussions are at an early stage with no institutions yet using the system, making the launch a technical milestone rather than a commercial one (Unlock Blockchain)<br/>- **Canton DeFi locked value holds at $11.55 million as 24-hour DEX volume rises to $17.6 million** — DefiLlama&#x27;s November 18 snapshot puts total value locked at $11.55 million, with DEX volume at $17.6 million in 24 hours, up from $16.66 million recorded on November 15, $130.84 million over seven days and perps volume at $238,049 (DefiLlama)<br/>- **Canton Foundation publishes CIP-0103, the dApp Standard defining a common interface between applications and wallets** — The standard, published on November 17 and listed as Approved on the Standards Track, introduces a vendor-neutral dApp API that decouples network connectivity and key management from decentralised applications, so users can access any application with a validator and signing provider of their choice while wallets enforce authorisation against malicious requests from untrusted applications (Canton Network Docs)<br/>- **Canton Coin derivatives show no new buying behind the latest price gain, with open interest down and funding neutral** — CoinStats&#x27; November 18 read puts futures open interest at $36.04 million, down 1.24% over two days and 19.78% over 30 days and below the $40.35 million period average, with funding neutral at 0.0008%, 24-hour liquidations of only $3.11K almost entirely on long positions, and 24-hour volume of $12.68 million described as thin against the market cap, with no dated price-specific announcement found in the past 24 hours (CoinStats)<br/><br/>Network: CC $0.08489 | Market cap $3.4B | 24h volume $12.95M | CC up 4.26% in 24 hours and down 6.08% over seven days as of the 09:13 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 5.7M CC, with 4 active proposals and current activity at 1.00 TPS (CoinStats for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-18T04:12:00-05:00",
-      "date_modified": "2026-11-18T04:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 18, 2026 · 4:12 AM ET",
-      "body": "Canton Signal Feed (Nov 18, 2026 · 4:12 AM ET)\n- **Stratalink Labs launches its Proof of Liquidity oracle on Canton MainNet, recording signed assessments of market depth on the ledger** — The PoLi Oracle, published November 17, scores secondary-market order-book depth observed directly from trading venues, with each score cryptographically signed and recorded on Canton as a point-in-time attestation that authorised parties can verify; the initial deployment covers Bitcoin, Ether, Solana and Canton Coin across two venues, IntellectEU built the Daml smart contract layer and the deployment runs on a validator provisioned through CatalyX Blockchain Manager with an on-ledger compliance check; PoLi measures market depth, not reserve backing or redemption access, so a fully backed asset can still score poorly if its markets are thin, and founder Robert McDermott confirmed institutional pilot discussions are at an early stage with no institutions yet using the system, making the launch a technical milestone rather than a commercial one (Unlock Blockchain)\n- **Canton DeFi locked value holds at $11.55 million as 24-hour DEX volume rises to $17.6 million** — DefiLlama's November 18 snapshot puts total value locked at $11.55 million, with DEX volume at $17.6 million in 24 hours, up from $16.66 million recorded on November 15, $130.84 million over seven days and perps volume at $238,049 (DefiLlama)\n- **Canton Foundation publishes CIP-0103, the dApp Standard defining a common interface between applications and wallets** — The standard, published on November 17 and listed as Approved on the Standards Track, introduces a vendor-neutral dApp API that decouples network connectivity and key management from decentralised applications, so users can access any application with a validator and signing provider of their choice while wallets enforce authorisation against malicious requests from untrusted applications (Canton Network Docs)\n- **Canton Coin derivatives show no new buying behind the latest price gain, with open interest down and funding neutral** — CoinStats' November 18 read puts futures open interest at $36.04 million, down 1.24% over two days and 19.78% over 30 days and below the $40.35 million period average, with funding neutral at 0.0008%, 24-hour liquidations of only $3.11K almost entirely on long positions, and 24-hour volume of $12.68 million described as thin against the market cap, with no dated price-specific announcement found in the past 24 hours (CoinStats)\n\nNetwork: CC $0.08489 | Market cap $3.4B | 24h volume $12.95M | CC up 4.26% in 24 hours and down 6.08% over seven days as of the 09:13 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 5.7M CC, with 4 active proposals and current activity at 1.00 TPS (CoinStats for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-18T04:12:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
