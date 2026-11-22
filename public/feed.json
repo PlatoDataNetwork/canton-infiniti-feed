@@ -29,8 +29,79 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-22T09:36:00-05:00",
+  "updated": "2026-11-22T10:06:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-22_1006-est",
+      "slug": "canton-treasury-program-rewards-firms-holding-canton-coin-long-term",
+      "url": "https://canton.w3ai.io/feed/canton-treasury-program-rewards-firms-holding-canton-coin-long-term",
+      "title": "Canton treasury program rewards firms holding Canton Coin long term",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 10:06 AM ET)\n\n- **Canton treasury program rewards firms holding Canton Coin long term** — The Canton Network Docs registry details CIP-0114, approved on April 16, 2026, which establishes a time-bound Super Validator program to encourage the formation and growth of Digital Asset Treasury companies: operating companies whose primary purpose is to acquire, accumulate and hold Canton Coin as a treasury asset while offering third parties structured access to that exposure; treasuries that accumulate and hold Canton Coin over multi-year periods may earn Super Validator rewards based on verifiable, consistent holdings (Canton Network Docs)\n- **Canton rule sets the process to cut a Super Validator's weight** — The Canton Network Docs registry details CIP-0111, approved on April 23, 2026, which sets the process for reducing a Super Validator's weight: a review of the circumstances, an off-chain governance procedure, then an on-chain vote and configuration change; a Ghost Super Validator, one still completing the milestones tied to its weight allocation, accrues its unminted rewards in escrow, and the process covers calculating and burning unminted rewards tied to reduced Ghost weight while preserving escrow for those in good standing (Canton Network Docs)\n- **Tradecraft locked value reads $1.37M in latest protocol read** — DefiLlama's latest protocol rankings put Tradecraft at $1.37 million in locked value, down 1.10% over 24 hours and up from $1.36 million recorded in the 8:21 AM edition, holding fourth place among the eight tracked Canton protocols behind Temple, Alpend and Cantex (DefiLlama)\n- **Canton funding splits by venue, Bybit at 0.0100%, Binance negative** — Coinalyze's latest venue read, with funding rates normalised to eight hours, puts Bybit and Hyperliquid both at positive 0.0100% while Binance reads negative 0.0006%, with a predicted rate of positive 0.0008%, and OKX reads negative 0.0021%; this is the per-venue split, distinct from the wider open-interest-weighted aggregate cited in the 9:36 AM edition (Coinalyze)\n\nNetwork: Canton Coin (CC) trades at $0.0726, with a market cap of $2.91 billion (rank 26) and 24-hour trading volume of $5.3 million, down 5.43% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton would need to grow about 2.5% in value to pass Avalanche at $2.98 billion directly above it in the rankings, widened from about 0.8% in the 8:36 AM edition's read (Blockdeck).\n\nOriginal sources:\nCanton Network Docs: https://docs.canton.network/ai-context/cip-registry\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCoinalyze: https://coinalyze.net/canton-network/funding-rate/\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 10:06 AM ET)<br/><br/>- **Canton treasury program rewards firms holding Canton Coin long term** — The Canton Network Docs registry details CIP-0114, approved on April 16, 2026, which establishes a time-bound Super Validator program to encourage the formation and growth of Digital Asset Treasury companies: operating companies whose primary purpose is to acquire, accumulate and hold Canton Coin as a treasury asset while offering third parties structured access to that exposure; treasuries that accumulate and hold Canton Coin over multi-year periods may earn Super Validator rewards based on verifiable, consistent holdings (Canton Network Docs)<br/>- **Canton rule sets the process to cut a Super Validator&#x27;s weight** — The Canton Network Docs registry details CIP-0111, approved on April 23, 2026, which sets the process for reducing a Super Validator&#x27;s weight: a review of the circumstances, an off-chain governance procedure, then an on-chain vote and configuration change; a Ghost Super Validator, one still completing the milestones tied to its weight allocation, accrues its unminted rewards in escrow, and the process covers calculating and burning unminted rewards tied to reduced Ghost weight while preserving escrow for those in good standing (Canton Network Docs)<br/>- **Tradecraft locked value reads $1.37M in latest protocol read** — DefiLlama&#x27;s latest protocol rankings put Tradecraft at $1.37 million in locked value, down 1.10% over 24 hours and up from $1.36 million recorded in the 8:21 AM edition, holding fourth place among the eight tracked Canton protocols behind Temple, Alpend and Cantex (DefiLlama)<br/>- **Canton funding splits by venue, Bybit at 0.0100%, Binance negative** — Coinalyze&#x27;s latest venue read, with funding rates normalised to eight hours, puts Bybit and Hyperliquid both at positive 0.0100% while Binance reads negative 0.0006%, with a predicted rate of positive 0.0008%, and OKX reads negative 0.0021%; this is the per-venue split, distinct from the wider open-interest-weighted aggregate cited in the 9:36 AM edition (Coinalyze)<br/><br/>Network: Canton Coin (CC) trades at $0.0726, with a market cap of $2.91 billion (rank 26) and 24-hour trading volume of $5.3 million, down 5.43% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton would need to grow about 2.5% in value to pass Avalanche at $2.98 billion directly above it in the rankings, widened from about 0.8% in the 8:36 AM edition&#x27;s read (Blockdeck).<br/><br/>Original sources:<br/>Canton Network Docs: https://docs.canton.network/ai-context/cip-registry<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true<br/>Coinalyze: https://coinalyze.net/canton-network/funding-rate/<br/>Blockdeck: https://blockdeck.app/coin/canton-network</p>",
+      "date_published": "2026-11-22T10:06:00-05:00",
+      "date_modified": "2026-11-22T10:06:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://docs.canton.network/ai-context/cip-registry",
+      "source_url": "https://docs.canton.network/ai-context/cip-registry",
+      "original_url": "https://docs.canton.network/ai-context/cip-registry",
+      "source": "Canton Network Docs",
+      "publisher": "Canton Network Docs",
+      "links": [
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/ai-context/cip-registry"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Coinalyze",
+          "url": "https://coinalyze.net/canton-network/funding-rate/"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 10:06 AM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 10:06 AM ET)\n\n- **Canton treasury program rewards firms holding Canton Coin long term** — The Canton Network Docs registry details CIP-0114, approved on April 16, 2026, which establishes a time-bound Super Validator program to encourage the formation and growth of Digital Asset Treasury companies: operating companies whose primary purpose is to acquire, accumulate and hold Canton Coin as a treasury asset while offering third parties structured access to that exposure; treasuries that accumulate and hold Canton Coin over multi-year periods may earn Super Validator rewards based on verifiable, consistent holdings (Canton Network Docs)\n- **Canton rule sets the process to cut a Super Validator's weight** — The Canton Network Docs registry details CIP-0111, approved on April 23, 2026, which sets the process for reducing a Super Validator's weight: a review of the circumstances, an off-chain governance procedure, then an on-chain vote and configuration change; a Ghost Super Validator, one still completing the milestones tied to its weight allocation, accrues its unminted rewards in escrow, and the process covers calculating and burning unminted rewards tied to reduced Ghost weight while preserving escrow for those in good standing (Canton Network Docs)\n- **Tradecraft locked value reads $1.37M in latest protocol read** — DefiLlama's latest protocol rankings put Tradecraft at $1.37 million in locked value, down 1.10% over 24 hours and up from $1.36 million recorded in the 8:21 AM edition, holding fourth place among the eight tracked Canton protocols behind Temple, Alpend and Cantex (DefiLlama)\n- **Canton funding splits by venue, Bybit at 0.0100%, Binance negative** — Coinalyze's latest venue read, with funding rates normalised to eight hours, puts Bybit and Hyperliquid both at positive 0.0100% while Binance reads negative 0.0006%, with a predicted rate of positive 0.0008%, and OKX reads negative 0.0021%; this is the per-venue split, distinct from the wider open-interest-weighted aggregate cited in the 9:36 AM edition (Coinalyze)\n\nNetwork: Canton Coin (CC) trades at $0.0726, with a market cap of $2.91 billion (rank 26) and 24-hour trading volume of $5.3 million, down 5.43% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton would need to grow about 2.5% in value to pass Avalanche at $2.98 billion directly above it in the rankings, widened from about 0.8% in the 8:36 AM edition's read (Blockdeck).\n\nOriginal sources:\nCanton Network Docs: https://docs.canton.network/ai-context/cip-registry\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCoinalyze: https://coinalyze.net/canton-network/funding-rate/\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "image_url": null,
+      "published": "2026-11-22T10:06:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/ai-context/cip-registry"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Coinalyze",
+          "url": "https://coinalyze.net/canton-network/funding-rate/"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-22_0936-est",
       "slug": "jpmorgan-to-bring-jpm-coin-natively-to-canton-network",
@@ -6835,43 +6906,6 @@
       "body": "Canton Signal Feed (Nov 15, 2026 · 10:42 AM ET)\n- **Cantex adds optional two-factor authentication for actions that move assets or grant permissions** — The wallet update covers withdrawals, transfers, pre-approvals and bridge transactions, adding another check beyond the initial sign-in that users can choose to apply to those actions; it is an optional setting, not a mandatory change for all accounts (CantonNews)\n- **The Hub reports 1,000 members on Canton, combining creator content with tradable community tickets** — The Hub says its platform combines creator content, live rooms and tradable community tickets on Canton and has announced 1,000 members; the figure is a milestone reported by the project itself and follows an earlier SprintFAM creator-network partnership, although the posts do not establish how many sign-ups came from that collaboration (CantonNews)\n- **Canton Coin spot prices widen to 4.88% apart across exchanges, with no route rated worth taking outright** — A live scan at 16:06 UTC on November 15 puts CC cheapest on MEXC at $0.078756 and dearest on OKX at $0.082602 across 11 exchanges with a liquid spot market, widened from 4.61% recorded at 9:12 AM; the widest route, buying on MEXC and selling on OKX at 4.26% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.68% after fees, and all 18 routes in profit are rated risky with none rated take (ArbitrageGap)\n- **Canton perpetuals are flagged as shorts crowded, with negative funding as open interest eases** — GetCoinSight's November 15 read at 16:02 UTC flags Canton CC as shorts crowded, with CC at $0.08255, funding at -0.0439% on an 8-hour equivalent basis and open interest across four venues at $29.2 million; crowded short positioning is a positioning label from the screener, not a forecast of a squeeze (GetCoinSight)\n\nNetwork: CC $0.0822 | Market cap $3.29B (rank 25) | 24h volume $20.70M | Supply 40,058,671,403 CC; milestone: live MainNet rewards (24h) rise to 9.5M CC, up from 9.1M at 10:12 AM, with current activity at 1.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (Criptano for market data; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-15T10:42:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-15_1012-est",
-      "slug": "about-79-of-canton-transactions-were-executed-privately-over-a-24-hour-window-in-november",
-      "url": "https://canton.w3ai.io/feed/about-79-of-canton-transactions-were-executed-privately-over-a-24-hour-window-in-november",
-      "title": "About 79% of Canton transactions were executed privately over a 24-hour window in November",
-      "content_text": "Canton Signal Feed (Nov 15, 2026 · 10:12 AM ET)\n- **About 79% of Canton transactions were executed privately over a 24-hour window in November** — Basis Desk's November 14 summary, drawing on Decrypt and CantonScan data, puts about 79% of updates across a 24-hour period in November as fully private, with participating nodes storing only data relevant to their leg of a transaction and Super Validators ordering encrypted state changes without accessing transaction payloads; it is a privacy-share snapshot from an explainer summary, not a new launch (Basis Desk)\n- **Tritemius expands its iOS wallet through TestFlight, adding Canton assets and two Lightning options** — The update adds support for cETH from onRails, HANDL from HandlPay and Edel's tokenized stock and index products labelled AAPL, MSTR, QQQ and SPY, plus a one-click Lightning option that needs no personal node and a personal-node option using Tritemius as controller; availability is through TestFlight, not a confirmed general App Store release, and the Lightning options do not mean Lightning transactions settle on Canton (CantonNews)\n- **R13N's Canton Reward Engine gets a fresh funding vote, for up to 3,636,363.64 CC** — The reopened vote covers software to help applications calculate and distribute rewards funded by campaign sponsors; the previous vote closed without passing after receiving no binding votes, which is different from members voting against it, and approval remains pending (CantonNews)\n- **MEXC's Featured App status is recommended for pause over Canton Coin locking requirements** — The Tokenomics Committee has recommended pausing MEXC's Featured Application status because it does not meet the Canton Coin locking requirements introduced by CIP-0116, meaning the exchange's party stops earning featured-app rewards until it complies; it is a committee recommendation reported November 12, not a delisting of Canton Coin from the exchange (CC Space)\n\nNetwork: CC $0.0820 | Market cap $3.28B (rank 25) | 24h volume $20.80M | Supply 40,057,309,502 CC; milestone: live MainNet rewards (24h) rise to 9.1M CC, up from 8.7M at 9:12 AM, with current activity at 5.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (Kaavon for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 15, 2026 · 10:12 AM ET)<br/>- **About 79% of Canton transactions were executed privately over a 24-hour window in November** — Basis Desk&#x27;s November 14 summary, drawing on Decrypt and CantonScan data, puts about 79% of updates across a 24-hour period in November as fully private, with participating nodes storing only data relevant to their leg of a transaction and Super Validators ordering encrypted state changes without accessing transaction payloads; it is a privacy-share snapshot from an explainer summary, not a new launch (Basis Desk)<br/>- **Tritemius expands its iOS wallet through TestFlight, adding Canton assets and two Lightning options** — The update adds support for cETH from onRails, HANDL from HandlPay and Edel&#x27;s tokenized stock and index products labelled AAPL, MSTR, QQQ and SPY, plus a one-click Lightning option that needs no personal node and a personal-node option using Tritemius as controller; availability is through TestFlight, not a confirmed general App Store release, and the Lightning options do not mean Lightning transactions settle on Canton (CantonNews)<br/>- **R13N&#x27;s Canton Reward Engine gets a fresh funding vote, for up to 3,636,363.64 CC** — The reopened vote covers software to help applications calculate and distribute rewards funded by campaign sponsors; the previous vote closed without passing after receiving no binding votes, which is different from members voting against it, and approval remains pending (CantonNews)<br/>- **MEXC&#x27;s Featured App status is recommended for pause over Canton Coin locking requirements** — The Tokenomics Committee has recommended pausing MEXC&#x27;s Featured Application status because it does not meet the Canton Coin locking requirements introduced by CIP-0116, meaning the exchange&#x27;s party stops earning featured-app rewards until it complies; it is a committee recommendation reported November 12, not a delisting of Canton Coin from the exchange (CC Space)<br/><br/>Network: CC $0.0820 | Market cap $3.28B (rank 25) | 24h volume $20.80M | Supply 40,057,309,502 CC; milestone: live MainNet rewards (24h) rise to 9.1M CC, up from 8.7M at 9:12 AM, with current activity at 5.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (Kaavon for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-15T10:12:00-05:00",
-      "date_modified": "2026-11-15T10:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 15, 2026 · 10:12 AM ET",
-      "body": "Canton Signal Feed (Nov 15, 2026 · 10:12 AM ET)\n- **About 79% of Canton transactions were executed privately over a 24-hour window in November** — Basis Desk's November 14 summary, drawing on Decrypt and CantonScan data, puts about 79% of updates across a 24-hour period in November as fully private, with participating nodes storing only data relevant to their leg of a transaction and Super Validators ordering encrypted state changes without accessing transaction payloads; it is a privacy-share snapshot from an explainer summary, not a new launch (Basis Desk)\n- **Tritemius expands its iOS wallet through TestFlight, adding Canton assets and two Lightning options** — The update adds support for cETH from onRails, HANDL from HandlPay and Edel's tokenized stock and index products labelled AAPL, MSTR, QQQ and SPY, plus a one-click Lightning option that needs no personal node and a personal-node option using Tritemius as controller; availability is through TestFlight, not a confirmed general App Store release, and the Lightning options do not mean Lightning transactions settle on Canton (CantonNews)\n- **R13N's Canton Reward Engine gets a fresh funding vote, for up to 3,636,363.64 CC** — The reopened vote covers software to help applications calculate and distribute rewards funded by campaign sponsors; the previous vote closed without passing after receiving no binding votes, which is different from members voting against it, and approval remains pending (CantonNews)\n- **MEXC's Featured App status is recommended for pause over Canton Coin locking requirements** — The Tokenomics Committee has recommended pausing MEXC's Featured Application status because it does not meet the Canton Coin locking requirements introduced by CIP-0116, meaning the exchange's party stops earning featured-app rewards until it complies; it is a committee recommendation reported November 12, not a delisting of Canton Coin from the exchange (CC Space)\n\nNetwork: CC $0.0820 | Market cap $3.28B (rank 25) | 24h volume $20.80M | Supply 40,057,309,502 CC; milestone: live MainNet rewards (24h) rise to 9.1M CC, up from 8.7M at 9:12 AM, with current activity at 5.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (Kaavon for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-15T10:12:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
