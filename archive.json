@@ -1,6 +1,116 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_1706-est",
+      "slug": "canton-coin-supply-up-14-2-in-a-year-as-burns-lag-minting",
+      "title": "Canton Coin supply up 14.2% in a year as burns lag minting",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 5:06 PM ET)\n\n- **Canton Coin supply up 14.2% in a year as burns lag minting** — Independent Canton research published in November, with data as of November 14–15, finds Canton Coin's circulating supply rose 14.2% over a year, and the authors of the universal-burn proposal put the trailing-year ratio of coins burned to coins minted at about 0.5, so issuance is still running at roughly twice the pace of the burn that traffic fees generate (Medium)\n- **New Canton validators need a Super Validator approval vote** — Canton's operator tiers are not open the way staking is on other chains: Super Validators vote to approve new validators, adding or removing a Super Validator itself requires a governance vote with a supermajority of existing Super Validator approval, applications to operate a validator node are reviewed by the Canton Foundation's Tokenomics Committee, and institutions that do not run their own node can instead connect through an approved node-as-a-service provider (Proof of Talk)\n- **Coin trackers list no maximum supply for Canton Coin** — CoinGecko and CoinMarketCap both return a null maximum supply for Canton Coin and report its circulating supply as equal to its total supply, with no locked tranche shown in the aggregator data reviewed in September, so the trackers place no fixed cap on the coin even though the Canton Coin white paper sets out a minting schedule of 100 billion coins over the Global Synchronizer's first ten years (Wurrly)\n\nNetwork: Canton Coin (CC) trades at $0.07239, with a market cap of $2.90 billion (rank 26) and 24-hour trading volume of $6.08 million, down 5.44% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (BitcoinValues, reporting CoinGecko figures).\n\nOriginal sources:\nMedium: https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6\nProof of Talk: https://proofoftalk.io/blog/canton-network-explained-regulated-institutions/\nWurrly: https://www.wurrly.org/research/canton/coin\nBitcoinValues: https://bitcoinvalues.net/coins/canton-network/",
+      "timestamp": "2026-11-22T17:06:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-supply-up-14-2-in-a-year-as-burns-lag-minting",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Medium",
+          "url": "https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6"
+        },
+        {
+          "source": "Proof of Talk",
+          "url": "https://proofoftalk.io/blog/canton-network-explained-regulated-institutions/"
+        },
+        {
+          "source": "Wurrly",
+          "url": "https://www.wurrly.org/research/canton/coin"
+        },
+        {
+          "source": "BitcoinValues",
+          "url": "https://bitcoinvalues.net/coins/canton-network/"
+        }
+      ],
+      "external_url": "https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6",
+      "source_url": "https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6",
+      "original_url": "https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6",
+      "source": "Medium",
+      "publisher": "Medium",
+      "links": [
+        {
+          "source": "Medium",
+          "url": "https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6"
+        },
+        {
+          "source": "Proof of Talk",
+          "url": "https://proofoftalk.io/blog/canton-network-explained-regulated-institutions/"
+        },
+        {
+          "source": "Wurrly",
+          "url": "https://www.wurrly.org/research/canton/coin"
+        },
+        {
+          "source": "BitcoinValues",
+          "url": "https://bitcoinvalues.net/coins/canton-network/"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1606-est",
+      "slug": "canton-funding-reads-0-0050-with-open-interest-at-32-33m",
+      "title": "Canton funding reads 0.0050% with open interest at $32.33M",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 4:06 PM ET)\n\n- **Canton funding reads 0.0050% with open interest at $32.33M** — CoinGlass's latest aggregate, updated November 23 at 05:05 UTC+8, puts the open-interest-weighted funding rate at 0.0050%, about 5.51% annualised and below the 0.01% baseline, with futures open interest at $32.33 million, down 3.30% over 24 hours, futures volume at $12.46 million against spot volume at $4.33 million and tracked liquidations at $5.18 thousand, almost all of them longs, as the price fell 5.88% over 24 hours with open interest rising on mostly new shorts intraday (CoinGlass)\n- **OpenAssets and Digital Asset offer tokenization on Canton** — OpenAssets has partnered with Digital Asset to provide institutions on Canton with asset tokenization services, serving as an implementation partner for Digital Asset's tokenization engine, DA Registry; the platform combines tokenized asset issuance, settlement, compliance, asset management and distribution, and institutions can configure allowlists and blocklists plus transfer approval functions connected to external know-your-customer and anti-money laundering monitoring, with the assets able to take part in atomic settlement, collateral management and cross-application lending on Canton (TradingView)\n- **DTCC tokenization service runs on Canton with 20 firms signed** — The Depository Trust & Clearing Corporation's tokenization service is live on the Canton Network and DTCC's private Besu blockchain, initially supporting select large-cap stocks from the Russell 1000 index, exchange-traded funds and U.S. Treasury bills, notes and bonds, with 34 securities eligible at launch; twenty participants, including Bank of America, Barclays, Citi, Fidelity Investments, JPMorgan, Morgan Stanley, Citadel Securities, State Street and UBS, have signed agreements to access the service, the tokens are backed one-for-one by securities held at Depository Trust Company and can move between registered wallets around the clock, and DTCC targets conversion processing times of 15 minutes or less (CoinDesk)\n- **Covalidation splits Canton confirmation across independent nodes** — Digital Asset's covalidation services, announced November 19, let a Canton party be multi-hosted so several independent nodes share confirmation duties, including threshold settings such as two approvals from three covalidators before a transaction confirms, with no single node able to confirm alone and services able to continue if one node becomes unavailable; 5N Loop became the first Canton wallet where every new participant is multi-party hosted, using Digital Asset and MPCH as independent operators, and Digital Asset, MPCH and Kiln are among the early covalidation service providers, building on underlying capabilities delivered in May 2026 (Digital Asset)\n\nNetwork: Canton Coin (CC) trades at $0.07165, with a market cap of $2.88 billion (rank 24) and 24-hour trading volume of $10.91 million, down 5.88% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CoinGlass for price and market cap; Crypto.com for volume).\n\nOriginal sources:\nCoinGlass: https://www.coinglass.com/currencies/CC\nTradingView: https://www.tradingview.com/news/binance_news:c0c2978e3094b:0-openassets-and-digital-asset-to-offer-institutional-asset-tokenization-on-canton/\nCoinDesk: https://WWW.Coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks\nDigital Asset: https://blog.digitalasset.com/blog/covalidation-on-canton-resilience-for-markets\nCrypto.com: https://crypto.com/en/price/canton-network/usd",
+      "timestamp": "2026-11-22T16:06:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-funding-reads-0-0050-with-open-interest-at-32-33m",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/binance_news:c0c2978e3094b:0-openassets-and-digital-asset-to-offer-institutional-asset-tokenization-on-canton/"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://WWW.Coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks"
+        },
+        {
+          "source": "Digital Asset",
+          "url": "https://blog.digitalasset.com/blog/covalidation-on-canton-resilience-for-markets"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ],
+      "external_url": "https://www.coinglass.com/currencies/CC",
+      "source_url": "https://www.coinglass.com/currencies/CC",
+      "original_url": "https://www.coinglass.com/currencies/CC",
+      "source": "CoinGlass",
+      "publisher": "CoinGlass",
+      "links": [
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/binance_news:c0c2978e3094b:0-openassets-and-digital-asset-to-offer-institutional-asset-tokenization-on-canton/"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://WWW.Coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks"
+        },
+        {
+          "source": "Digital Asset",
+          "url": "https://blog.digitalasset.com/blog/covalidation-on-canton-resilience-for-markets"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_1551-est",
       "slug": "cip-0132-paymasters-would-burn-cc-for-dedicated-traffic",
       "title": "CIP-0132 paymasters would burn CC for dedicated traffic",
