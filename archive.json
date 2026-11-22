@@ -1,6 +1,108 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_0936-est",
+      "slug": "jpmorgan-to-bring-jpm-coin-natively-to-canton-network",
+      "title": "JPMorgan to bring JPM Coin natively to Canton Network",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 9:36 AM ET)\n\n- **JPMorgan to bring JPM Coin natively to Canton Network** — Digital Asset and Kinexys by JPMorgan announced on January 7, 2026 that they plan to bring JPM Coin, the bank's USD-denominated deposit token (JPMD), natively to Canton, in a phased integration through 2026 that first builds the technical and business frameworks to issue, transfer and redeem the token near instantly; Canton would be JPM Coin's second public blockchain after its November 2025 launch on Base, and the partners plan to explore bringing other Kinexys Digital Payments products, including blockchain deposit accounts, to the network (CoinMarketCap)\n- **Canton MainNet upgrade moves ordering to parallel validators** — Canton's October 10, 2026 MainNet upgrade replaced single-leader transaction ordering with multiple validators ordering in parallel, with more than 800 nodes switching over with almost no downtime; Digital Asset's figure of more than 2,500 transactions per second is a design target for the new ordering system, not a confirmed live-network result (CoinMarketCap)\n- **Canton Coin funding eases to 0.0052% as open interest slips** — CoinGlass's latest aggregate, with data as of November 22 22:46 UTC+8, puts the open-interest-weighted funding rate at 0.0052%, about 5.71% annualised, eased from 0.0100% recorded in the 8:06 AM edition, with futures open interest at $32.24 million, futures volume at $10.99 million against spot volume at $3.55 million and tracked liquidations at $470.60, moved from the $402.18 total frozen across earlier editions today (CoinGlass)\n- **Canton DEX volume eases to $16.39M in latest chain read** — DefiLlama's latest chain read puts decentralised exchange volume at $16.39 million over 24 hours, down from $16.78 million recorded in the 8:06 AM edition, with perpetuals volume at $222,309 over 24 hours and Temple still the largest of the eight tracked protocols at $5.71 million, ahead of Alpend at $1.79 million and Cantex at $1.66 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0727, with a market cap of $2.92 billion and 24-hour trading volume of $5.30 million, down 5.12% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton's issuance rounds reach round #122,822, with about 139,978 rounds remaining before the Epoch 3 halving cuts issuance by 50% (CCTools).\n\nOriginal sources:\nCoinMarketCap: https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1\nCoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCCTools: https://cctools.network/network",
+      "timestamp": "2026-11-22T09:36:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/jpmorgan-to-bring-jpm-coin-natively-to-canton-network",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "external_url": "https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1",
+      "source_url": "https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1",
+      "original_url": "https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1",
+      "source": "CoinMarketCap",
+      "publisher": "CoinMarketCap",
+      "links": [
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_0836-est",
+      "slug": "quantstamp-audit-of-canton-coin-found-no-high-or-medium-issues",
+      "title": "Quantstamp audit of Canton Coin found no high or medium issues",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 8:36 AM ET)\n\n- **Quantstamp audit of Canton Coin found no high or medium issues** — Quantstamp's audit of the Canton Coin application, the Splice Amulet implementation, carried out from May 5 to June 26, 2025 at the request of the Global Synchronizer Foundation's Tokenomics working group under CIP-0057, recorded seven findings in total, none of high or medium severity: five low-severity issues, four of them fixed and one acknowledged, plus two informational items, both acknowledged; a fix review on July 11, 2025 confirmed every issue had been fixed or acknowledged with sufficient reasoning by the core Splice contributor team (Quantstamp)\n- **Alpend locked value climbs 1.52% in latest protocol read** — DefiLlama's latest protocol rankings put Alpend, the lending protocol, at $1.8 million in locked value, up 1.52% over 24 hours and 2.28% over seven days, holding second place among the eight tracked Canton protocols behind Temple at $5.77 million (DefiLlama)\n- **Canton closes to within 0.8% of Avalanche in market rankings** — Blockdeck's latest ranking read puts Canton at a $2.96 billion market capitalisation, ranked 26th, directly below Avalanche at $2.98 billion, so Canton would need to grow about 0.8% to pass it, narrowed from about 1.4% in the 6:51 AM edition's read, with Ripple USD directly below at $2.87 billion (Blockdeck)\n\nNetwork: Canton Coin (CC) trades at $0.0737, with a market cap of $2.96 billion (rank 26) and 24-hour trading volume of $5.4 million, down 1.29% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton counts 1,581 validators alongside 13 Super Validators on the latest network read (Blockdeck for market data; CCTools for the milestone).\n\nOriginal sources:\nQuantstamp: https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "timestamp": "2026-11-22T08:36:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/quantstamp-audit-of-canton-coin-found-no-high-or-medium-issues",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Quantstamp",
+          "url": "https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "external_url": "https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html",
+      "source_url": "https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html",
+      "original_url": "https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html",
+      "source": "Quantstamp",
+      "publisher": "Quantstamp",
+      "links": [
+        {
+          "source": "Quantstamp",
+          "url": "https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_0821-est",
       "slug": "canton-coin-burned-reads-14-4-million-in-latest-24-hour-window",
       "title": "Canton Coin burned reads 14.4 million in latest 24-hour window",
