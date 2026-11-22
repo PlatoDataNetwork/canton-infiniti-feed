@@ -1,6 +1,261 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_1251-est",
+      "slug": "canton-development-fund-approves-14-3m-cc-in-two-grants",
+      "title": "Canton Development Fund approves 14.3M CC in two grants",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 12:51 PM ET)\n\n- **Canton Development Fund approves 14.3M CC in two grants** — The Canton Development Fund has approved two grants totalling 14.3 million Canton Coin, reported on November 22: 9.5 million CC funds implementation of the coin-locking rules by Digital Asset, at 4.25 million CC, and Obsidian Systems, at 5.25 million CC including maintenance, under a proposal merged on November 18, starting with compatibility work and Featured App locking before Super Validator automation; the second grant extends BitDynamics' DevKit with 4.8 million CC after a committee vote on November 19, with 2.352 million CC assigned to three software milestones and the remaining 2.448 million CC payable only as external projects adopt the delivered tools (CantonNews)\n- **Euroclear and World Gold Council tokenized gilts and gold** — In a pilot announced in October 2024, Digital Asset, Euroclear and the World Gold Council tokenized UK gilts, Eurobonds and gold on Canton with 27 market participants, running 500 transactions across 11 distributed applications, six registry apps and five margin apps, on 14 Canton nodes over June and July 2024, using digital twins of the assets as collateral in atomic, real-time transactions, with Clifford Chance observing on the legal implications (Asset Servicing Times)\n- **Guardian review of Canton VER finds no critical issues** — Guardian's security review of LayerZero's Canton VER, carried out from March 20 to May 7, 2026 across two review rounds with the final report dated May 7, 2026, recorded 65 findings in total, none of them critical or high: 3 medium, 28 low and 34 informational, and assigned the project a confidence ranking of 5 out of 5, Very High (Guardian)\n\nNetwork: Canton Coin (CC) trades at $0.0721, with a market cap of $2.89 billion (rank 26) and 24-hour trading volume of $6.00 million, down 5.94% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, total Canton Coin burned reaches 6.16 billion CC on the latest live mainnet read (Bybit, reporting CoinGecko data, for market data; CantonNews for the milestone).\n\nOriginal sources:\nCantonNews: https://cantonnews.org/canton-development-fund-approves-14-3-million-cc-for-locking-rules-and-developer-tools\nAsset Servicing Times: https://www.assetservicingtimes.com/assetservicesnews/article.php?article_id=15950\nGuardian: https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/2026-05-07_LayerZero_Canton_VER.pdf\nBybit: https://www.bybit.global/en/price/canton-network/",
+      "timestamp": "2026-11-22T12:51:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-development-fund-approves-14-3m-cc-in-two-grants",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/canton-development-fund-approves-14-3-million-cc-for-locking-rules-and-developer-tools"
+        },
+        {
+          "source": "Asset Servicing Times",
+          "url": "https://www.assetservicingtimes.com/assetservicesnews/article.php?article_id=15950"
+        },
+        {
+          "source": "Guardian",
+          "url": "https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/2026-05-07_LayerZero_Canton_VER.pdf"
+        },
+        {
+          "source": "Bybit",
+          "url": "https://www.bybit.global/en/price/canton-network/"
+        }
+      ],
+      "external_url": "https://cantonnews.org/canton-development-fund-approves-14-3-million-cc-for-locking-rules-and-developer-tools",
+      "source_url": "https://cantonnews.org/canton-development-fund-approves-14-3-million-cc-for-locking-rules-and-developer-tools",
+      "original_url": "https://cantonnews.org/canton-development-fund-approves-14-3-million-cc-for-locking-rules-and-developer-tools",
+      "source": "CantonNews",
+      "publisher": "CantonNews",
+      "links": [
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/canton-development-fund-approves-14-3-million-cc-for-locking-rules-and-developer-tools"
+        },
+        {
+          "source": "Asset Servicing Times",
+          "url": "https://www.assetservicingtimes.com/assetservicesnews/article.php?article_id=15950"
+        },
+        {
+          "source": "Guardian",
+          "url": "https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/2026-05-07_LayerZero_Canton_VER.pdf"
+        },
+        {
+          "source": "Bybit",
+          "url": "https://www.bybit.global/en/price/canton-network/"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1236-est",
+      "slug": "guardian-review-of-onesig-on-canton-finds-no-critical-issues",
+      "title": "Guardian review of OneSig on Canton finds no critical issues",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 12:36 PM ET)\n\n- **Guardian review of OneSig on Canton finds no critical issues** — Guardian's security review of LayerZero's OneSig on Canton, carried out from July 1 to September 4, 2026 across four review rounds with the final report dated September 4, 2026, recorded 32 findings in total, none of them critical or high: five medium, one of them resolved and four acknowledged, 23 low and four informational, and assigned the project a confidence ranking of 5 out of 5, its highest grade (Guardian)\n- **Hong Kong prices HK$20B digital green bond on Canton rails** — The Hong Kong Special Administrative Region Government priced around HK$20 billion, about US$2.6 billion, in digital green bonds on September 28, 2026, the largest digital bond issuance completed anywhere to date, run by HSBC on its Orion platform, which operates entirely on Canton Network infrastructure with its own dedicated synchronizer; the offering spanned four currencies and its Hong Kong dollar tranche settled using tokenised Hong Kong dollar bank deposits for the first time in any digital bond globally (Genfinity)\n- **Canton funding jumps to 0.0221% in latest Coinfuty venue read** — Coinfuty's latest venue read puts the open-interest-weighted funding rate at positive 0.0221% per four hours, up sharply from positive 0.0037% recorded in the 8:21 AM edition, with total futures open interest at $32.33 million, futures volume at $11.63 million, an aggregate long/short ratio of 0.747 and Bybit largest at $10.79 million; this is Coinfuty's own venue set, distinct from the wider CoinGlass aggregate cited in the 12:21 PM edition, and the tracked liquidation total is not cited here because it matches the total already served today (Coinfuty)\n\nNetwork: Canton Coin (CC) trades at $0.0719, with a market cap of $2.88 billion (rank 26) and 24-hour trading volume of $5.9 million, down 6.40% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, total transactions reach 608.87 million, up from 608.84 million last cited in the 11:06 AM edition (Blockdeck for market data; CCTools for the milestone).\n\nOriginal sources:\nGuardian: https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/2026-09-04_LayerZero_OneSig_on_Canton.pdf\nGenfinity: https://genfinity.io/2026/09/30/hong-kong-hk20-billion-digital-green-bond-tokenised-hkd-deposits/\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "timestamp": "2026-11-22T12:36:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/guardian-review-of-onesig-on-canton-finds-no-critical-issues",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Guardian",
+          "url": "https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/2026-09-04_LayerZero_OneSig_on_Canton.pdf"
+        },
+        {
+          "source": "Genfinity",
+          "url": "https://genfinity.io/2026/09/30/hong-kong-hk20-billion-digital-green-bond-tokenised-hkd-deposits/"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "external_url": "https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/2026-09-04_LayerZero_OneSig_on_Canton.pdf",
+      "source_url": "https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/2026-09-04_LayerZero_OneSig_on_Canton.pdf",
+      "original_url": "https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/2026-09-04_LayerZero_OneSig_on_Canton.pdf",
+      "source": "Guardian",
+      "publisher": "Guardian",
+      "links": [
+        {
+          "source": "Guardian",
+          "url": "https://raw.githubusercontent.com/GuardianAudits/Audits/main/LayerZero/2026-09-04_LayerZero_OneSig_on_Canton.pdf"
+        },
+        {
+          "source": "Genfinity",
+          "url": "https://genfinity.io/2026/09/30/hong-kong-hk20-billion-digital-green-bond-tokenised-hkd-deposits/"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1221-est",
+      "slug": "japan-clearing-house-jscc-to-test-sovereign-bonds-on-canton",
+      "title": "Japan clearing house JSCC to test sovereign bonds on Canton",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 12:21 PM ET)\n\n- **Japan clearing house JSCC to test sovereign bonds on Canton** — In April, the Japan Securities Clearing Corporation announced it would test the use of on-chain government bonds on Canton Network, evaluating whether ownership of Japan's sovereign bonds can be transferred on-chain and used as digital collateral inside a regulated, interoperable environment (CoinStats)\n- **Visa adds Canton to stablecoin settlement pilot at $7B pace** — Visa added Canton as one of five new chains in its stablecoin settlement pilot on April 29, 2026, a pilot that now spans nine chains at a $7 billion annualized run rate; the settlement role is distinct from Visa's Super Validator seat covered in earlier editions (ChainReport)\n- **Canton funding eases to 0.0088% with open interest at $32.25M** — CoinGlass's latest aggregate puts the open-interest-weighted funding rate at 0.0088%, about 9.69% annualised, eased sharply from 0.0532% recorded in the 11:06 AM edition, with futures open interest at $32.25 million, futures volume at $12.12 million against spot volume at $4.11 million and tracked liquidations at $4.94 thousand, all of them longs (CoinGlass)\n\nNetwork: Canton Coin (CC) trades at $0.0718, with a market cap of $2.88 billion and 24-hour trading volume of $5.89 million, down 6.35% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton governance proposals reach 645 in total with 14 in progress, up from 642 in total with 11 in progress last cited on the morning of November 22 (CCTools).\n\nOriginal sources:\nCoinStats: https://coinstats.app/news/f922f2d038169ac9301e94135b38e3b0aadfd57aa1d4cbe3bd08e37f15c39809_Canton-Network-Creator-Targets-300M-Capital-Raise-Report-Says/\nChainReport: https://chainreport.co/institutions-onchain/chain/canton/\nCoinGlass: https://www.coinglass.com/currencies/CC\nCCTools: https://cctools.network/network",
+      "timestamp": "2026-11-22T12:21:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/japan-clearing-house-jscc-to-test-sovereign-bonds-on-canton",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CoinStats",
+          "url": "https://coinstats.app/news/f922f2d038169ac9301e94135b38e3b0aadfd57aa1d4cbe3bd08e37f15c39809_Canton-Network-Creator-Targets-300M-Capital-Raise-Report-Says/"
+        },
+        {
+          "source": "ChainReport",
+          "url": "https://chainreport.co/institutions-onchain/chain/canton/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "external_url": "https://coinstats.app/news/f922f2d038169ac9301e94135b38e3b0aadfd57aa1d4cbe3bd08e37f15c39809_Canton-Network-Creator-Targets-300M-Capital-Raise-Report-Says/",
+      "source_url": "https://coinstats.app/news/f922f2d038169ac9301e94135b38e3b0aadfd57aa1d4cbe3bd08e37f15c39809_Canton-Network-Creator-Targets-300M-Capital-Raise-Report-Says/",
+      "original_url": "https://coinstats.app/news/f922f2d038169ac9301e94135b38e3b0aadfd57aa1d4cbe3bd08e37f15c39809_Canton-Network-Creator-Targets-300M-Capital-Raise-Report-Says/",
+      "source": "CoinStats",
+      "publisher": "CoinStats",
+      "links": [
+        {
+          "source": "CoinStats",
+          "url": "https://coinstats.app/news/f922f2d038169ac9301e94135b38e3b0aadfd57aa1d4cbe3bd08e37f15c39809_Canton-Network-Creator-Targets-300M-Capital-Raise-Report-Says/"
+        },
+        {
+          "source": "ChainReport",
+          "url": "https://chainreport.co/institutions-onchain/chain/canton/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1106-est",
+      "slug": "canton-devhub-2-0-bundles-docs-sdks-and-ai-workflows",
+      "title": "Canton DevHub 2.0 bundles docs, SDKs and AI workflows",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 11:06 AM ET)\n\n- **Canton DevHub 2.0 bundles docs, SDKs and AI workflows** — Canton announced its Developer Hub tooling refresh on September 1, 2026: DevHub 2.0 brings developer resources together in one place, combining documentation, software development kits, AI-assisted workflows and a tool to start a local Canton environment, so teams can learn and test applications more easily; the announcement reported no specific code commits or performance benchmarks (CoinMarketCap)\n- **Amina is first FINMA-regulated bank to back Canton Coin** — Swiss crypto bank Amina disclosed custody and trading support for Canton Coin, the network's utility token, becoming the first FINMA-regulated bank to back the token; the move brings the token inside a regulated bank's custody and trading framework (CoinStats)\n- **Canton funding jumps to 0.0532% with open interest at $32.47M** — CoinGlass's latest aggregate puts the open-interest-weighted funding rate at 0.0532%, about 58.25% annualised, up sharply from 0.0052% recorded in the 9:36 AM edition, with futures open interest at $32.47 million, futures volume at $11.84 million against spot volume at $3.95 million and tracked liquidations at $475.85, almost all of them longs at $469.87 (CoinGlass)\n\nNetwork: Canton Coin (CC) trades at $0.0725, with a market cap of $2.91 billion and 24-hour trading volume of $6.45 million, down 5.41% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, total transactions reach 608.84 million, up from 608.76 million last cited in the 8:21 AM edition (CCTools).\n\nOriginal sources:\nCoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/\nCoinStats: https://coinstats.app/news/f922f2d038169ac9301e94135b38e3b0aadfd57aa1d4cbe3bd08e37f15c39809_Canton-Network-Creator-Targets-300M-Capital-Raise-Report-Says/\nCoinGlass: https://www.coinglass.com/currencies/CC\nCCTools: https://cctools.network/network",
+      "timestamp": "2026-11-22T11:06:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-devhub-2-0-bundles-docs-sdks-and-ai-workflows",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/"
+        },
+        {
+          "source": "CoinStats",
+          "url": "https://coinstats.app/news/f922f2d038169ac9301e94135b38e3b0aadfd57aa1d4cbe3bd08e37f15c39809_Canton-Network-Creator-Targets-300M-Capital-Raise-Report-Says/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "external_url": "https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/",
+      "source_url": "https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/",
+      "original_url": "https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/",
+      "source": "CoinMarketCap",
+      "publisher": "CoinMarketCap",
+      "links": [
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/"
+        },
+        {
+          "source": "CoinStats",
+          "url": "https://coinstats.app/news/f922f2d038169ac9301e94135b38e3b0aadfd57aa1d4cbe3bd08e37f15c39809_Canton-Network-Creator-Targets-300M-Capital-Raise-Report-Says/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1006-est",
+      "slug": "canton-treasury-program-rewards-firms-holding-canton-coin-long-term",
+      "title": "Canton treasury program rewards firms holding Canton Coin long term",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 10:06 AM ET)\n\n- **Canton treasury program rewards firms holding Canton Coin long term** — The Canton Network Docs registry details CIP-0114, approved on April 16, 2026, which establishes a time-bound Super Validator program to encourage the formation and growth of Digital Asset Treasury companies: operating companies whose primary purpose is to acquire, accumulate and hold Canton Coin as a treasury asset while offering third parties structured access to that exposure; treasuries that accumulate and hold Canton Coin over multi-year periods may earn Super Validator rewards based on verifiable, consistent holdings (Canton Network Docs)\n- **Canton rule sets the process to cut a Super Validator's weight** — The Canton Network Docs registry details CIP-0111, approved on April 23, 2026, which sets the process for reducing a Super Validator's weight: a review of the circumstances, an off-chain governance procedure, then an on-chain vote and configuration change; a Ghost Super Validator, one still completing the milestones tied to its weight allocation, accrues its unminted rewards in escrow, and the process covers calculating and burning unminted rewards tied to reduced Ghost weight while preserving escrow for those in good standing (Canton Network Docs)\n- **Tradecraft locked value reads $1.37M in latest protocol read** — DefiLlama's latest protocol rankings put Tradecraft at $1.37 million in locked value, down 1.10% over 24 hours and up from $1.36 million recorded in the 8:21 AM edition, holding fourth place among the eight tracked Canton protocols behind Temple, Alpend and Cantex (DefiLlama)\n- **Canton funding splits by venue, Bybit at 0.0100%, Binance negative** — Coinalyze's latest venue read, with funding rates normalised to eight hours, puts Bybit and Hyperliquid both at positive 0.0100% while Binance reads negative 0.0006%, with a predicted rate of positive 0.0008%, and OKX reads negative 0.0021%; this is the per-venue split, distinct from the wider open-interest-weighted aggregate cited in the 9:36 AM edition (Coinalyze)\n\nNetwork: Canton Coin (CC) trades at $0.0726, with a market cap of $2.91 billion (rank 26) and 24-hour trading volume of $5.3 million, down 5.43% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton would need to grow about 2.5% in value to pass Avalanche at $2.98 billion directly above it in the rankings, widened from about 0.8% in the 8:36 AM edition's read (Blockdeck).\n\nOriginal sources:\nCanton Network Docs: https://docs.canton.network/ai-context/cip-registry\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCoinalyze: https://coinalyze.net/canton-network/funding-rate/\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "timestamp": "2026-11-22T10:06:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-treasury-program-rewards-firms-holding-canton-coin-long-term",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/ai-context/cip-registry"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Coinalyze",
+          "url": "https://coinalyze.net/canton-network/funding-rate/"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "external_url": "https://docs.canton.network/ai-context/cip-registry",
+      "source_url": "https://docs.canton.network/ai-context/cip-registry",
+      "original_url": "https://docs.canton.network/ai-context/cip-registry",
+      "source": "Canton Network Docs",
+      "publisher": "Canton Network Docs",
+      "links": [
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/ai-context/cip-registry"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Coinalyze",
+          "url": "https://coinalyze.net/canton-network/funding-rate/"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_0936-est",
       "slug": "jpmorgan-to-bring-jpm-coin-natively-to-canton-network",
       "title": "JPMorgan to bring JPM Coin natively to Canton Network",
