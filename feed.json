@@ -29,8 +29,79 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-21T20:06:00-05:00",
+  "updated": "2026-11-21T20:51:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-21_2051-est",
+      "slug": "canton-perpetuals-volume-reads-221-141-over-24-hours-in-the-latest-chain-read",
+      "url": "https://canton.w3ai.io/feed/canton-perpetuals-volume-reads-221-141-over-24-hours-in-the-latest-chain-read",
+      "title": "Canton perpetuals volume reads $221,141 over 24 hours in the latest chain read",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 8:51 PM ET)\n\n- **Canton perpetuals volume reads $221,141 over 24 hours in the latest chain read** — DefiLlama's chain read puts perpetuals volume at $221,141 over 24 hours, up from $219,900 in the chain read recorded earlier today, with $1.66 million over seven days and a weekly change of negative 13.68%, against 24-hour DEX volume of $17.95 million across the chain's eight tracked protocols (DefiLlama)\n- **Canton Coin's open-interest-weighted futures funding rises to positive 0.0025% as open interest reads $33.10 million** — Coinfuty's latest read puts the open-interest-weighted funding rate at positive 0.0025% per four hours, up from positive 0.0006% recorded in the 8:06 PM edition, with total futures open interest at $33.10 million, futures volume at $12.02 million and a long/short ratio of 0.850 (Coinfuty)\n- **Canton Coin burned over the last 30 days totals 453.8 million coins on the latest tracker read** — CCTools' burn record puts total Canton Coin burned over the last 30 days at 453.8 million coins on the latest read; this is the rolling 30-day burn total, distinct from the 30-day burn share of issuance cited in the 5:51 PM edition (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.07545, with a market cap of $3.03 billion and 24-hour trading volume of $6.97 million, up 1.12% in 24 hours, with circulating supply of 40,099,209,370 CC at the November 21 read; as a network milestone, Canton counts 1,580 validators alongside 13 Super Validators on the latest network read (The Block for market data; CCTools for the milestone).\n\nOriginal sources:\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nCCTools: https://cctools.network/network\nThe Block: https://www.theblock.co/price/canton",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 8:51 PM ET)<br/><br/>- **Canton perpetuals volume reads $221,141 over 24 hours in the latest chain read** — DefiLlama&#x27;s chain read puts perpetuals volume at $221,141 over 24 hours, up from $219,900 in the chain read recorded earlier today, with $1.66 million over seven days and a weekly change of negative 13.68%, against 24-hour DEX volume of $17.95 million across the chain&#x27;s eight tracked protocols (DefiLlama)<br/>- **Canton Coin&#x27;s open-interest-weighted futures funding rises to positive 0.0025% as open interest reads $33.10 million** — Coinfuty&#x27;s latest read puts the open-interest-weighted funding rate at positive 0.0025% per four hours, up from positive 0.0006% recorded in the 8:06 PM edition, with total futures open interest at $33.10 million, futures volume at $12.02 million and a long/short ratio of 0.850 (Coinfuty)<br/>- **Canton Coin burned over the last 30 days totals 453.8 million coins on the latest tracker read** — CCTools&#x27; burn record puts total Canton Coin burned over the last 30 days at 453.8 million coins on the latest read; this is the rolling 30-day burn total, distinct from the 30-day burn share of issuance cited in the 5:51 PM edition (CCTools)<br/><br/>Network: Canton Coin (CC) trades at $0.07545, with a market cap of $3.03 billion and 24-hour trading volume of $6.97 million, up 1.12% in 24 hours, with circulating supply of 40,099,209,370 CC at the November 21 read; as a network milestone, Canton counts 1,580 validators alongside 13 Super Validators on the latest network read (The Block for market data; CCTools for the milestone).<br/><br/>Original sources:<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true<br/>Coinfuty: https://www.coinfuty.com/coin/CC/open-interest<br/>CCTools: https://cctools.network/network<br/>The Block: https://www.theblock.co/price/canton</p>",
+      "date_published": "2026-11-21T20:51:00-05:00",
+      "date_modified": "2026-11-21T20:51:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "source_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "original_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "source": "DefiLlama",
+      "publisher": "DefiLlama",
+      "links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/price/canton"
+        }
+      ],
+      "timestamp": "Nov 21, 2026 · 8:51 PM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 8:51 PM ET)\n\n- **Canton perpetuals volume reads $221,141 over 24 hours in the latest chain read** — DefiLlama's chain read puts perpetuals volume at $221,141 over 24 hours, up from $219,900 in the chain read recorded earlier today, with $1.66 million over seven days and a weekly change of negative 13.68%, against 24-hour DEX volume of $17.95 million across the chain's eight tracked protocols (DefiLlama)\n- **Canton Coin's open-interest-weighted futures funding rises to positive 0.0025% as open interest reads $33.10 million** — Coinfuty's latest read puts the open-interest-weighted funding rate at positive 0.0025% per four hours, up from positive 0.0006% recorded in the 8:06 PM edition, with total futures open interest at $33.10 million, futures volume at $12.02 million and a long/short ratio of 0.850 (Coinfuty)\n- **Canton Coin burned over the last 30 days totals 453.8 million coins on the latest tracker read** — CCTools' burn record puts total Canton Coin burned over the last 30 days at 453.8 million coins on the latest read; this is the rolling 30-day burn total, distinct from the 30-day burn share of issuance cited in the 5:51 PM edition (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.07545, with a market cap of $3.03 billion and 24-hour trading volume of $6.97 million, up 1.12% in 24 hours, with circulating supply of 40,099,209,370 CC at the November 21 read; as a network milestone, Canton counts 1,580 validators alongside 13 Super Validators on the latest network read (The Block for market data; CCTools for the milestone).\n\nOriginal sources:\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nCCTools: https://cctools.network/network\nThe Block: https://www.theblock.co/price/canton",
+      "image_url": null,
+      "published": "2026-11-21T20:51:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/price/canton"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-21_2006-est",
       "slug": "canton-coin-s-open-interest-weighted-futures-funding-flips-positive-to-0-0006-as-open-inte",
@@ -6237,43 +6308,6 @@
       "body": "Canton Signal Feed (Nov 14, 2026 · 4:42 PM ET)\n- **SEC staff digital-commodity view on Canton Coin stays in focus as coverage weighs its limits** — Fresh coverage of the November 3 response notes that staff in the SEC's Division of Corporation Finance viewed Canton Coin as a digital commodity under the facts presented by Digital Asset and would not recommend enforcement action over programmatic minting by Super Validators, Validators and application providers if the stated conditions are followed, covering registration provisions under Section 5 of the Securities Act and Section 12(g) of the Exchange Act; the coverage stresses the limits — the response is a staff position rather than a Commission action, expresses no legal conclusion, relies on Digital Asset's representations and does not address secondary-market trading of CC (ad-hoc-news)\n- **Canton roadmap leads with tokenized stocks, then repo, derivatives and private assets** — Digital Asset CEO Yuval Rooz, speaking in an X Space, put tokenized stocks at the top of the network's sequence after the first trades under the SEC's Innovation Exemption — Canton Strategic Holdings' issuer-sponsored tokenized common stock traded on TSV LLC, announced November 4 — with more firms expected to join repo trading on Canton this year and derivatives and a wider range of private assets to follow; for corporate adoption he cited Uber's treasury pilot, run by HSBC, Franklin Templeton, Tradeweb and Fireblocks on Canton, as the model for bringing in non-financial companies (BSC News)\n- **LayerZero links with Canton to support cross-chain asset transfers for institutional users** — LayerZero has integrated its interoperability protocol with the Canton Network to enable cross-chain transfers, connecting Canton to an interoperability ecosystem LayerZero puts at more than $100 billion in value; the network is built by Digital Asset, whose backers include Goldman Sachs, Microsoft and DTCC, and which confirmed nearly 400 ecosystem participants now engage with Canton (BitRss)\n- **Canton DeFi locked value eases to $11.32 million even as daily DEX volume holds above $20 million** — DefiLlama's November 14 snapshot puts total value locked at $11.32 million, down 6.46% over 24 hours, with 24-hour DEX volume at $20.79 million and seven-day DEX volume at $139.07 million, up 4.77% on the week; Temple remains the largest protocol at $6.18 million locked, ahead of Alpend at $1.8 million and Cantex at $1.72 million (DefiLlama)\n\nNetwork: CC $0.0767 | Market cap $3.08B (rank 27) | 24h volume $14.49M | Supply 40.05B CC; milestone: the network was burning roughly 80% as much CC each day as it minted as of November 2026, below the 1:1 ratio at which supply would start to shrink, with every CC in circulation minted as a reward and no pre-mine or venture allocations (Kriptometre for market data; CVJ for the milestone)",
       "image_url": null,
       "published": "2026-11-14T16:42:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-14_1612-est",
-      "slug": "goldman-sachs-is-proposed-as-a-super-validator-on-canton-under-a-milestone-based-programme",
-      "url": "https://canton.w3ai.io/feed/goldman-sachs-is-proposed-as-a-super-validator-on-canton-under-a-milestone-based-programme",
-      "title": "Goldman Sachs is proposed as a Super Validator on Canton under a milestone-based programme",
-      "content_text": "Canton Signal Feed (Nov 14, 2026 · 4:12 PM ET)\n- **Goldman Sachs is proposed as a Super Validator on Canton under a milestone-based programme** — A governance CIP, authored by Abeetha Pitigala and currently in Proposed status, would designate Goldman Sachs and Co. as a Canton Super Validator with a maximum earnable weight of 10 under a programme agreed with the Canton Foundation; weight is earned incrementally as ecosystem commitments are met, rewards do not mint until milestones are verified, unearned weight tied to missed deadlines is removed, and approval requires a two-thirds Super Validator vote, with specific milestones and timelines remaining confidential until Goldman Sachs and the Foundation agree on disclosure (CC Privacy Club)\n- **TreasurySpring's Canton plan wins approval with a $5 billion outstanding target for its fund shares** — The plan, approved September 9, targets $5 billion in outstanding fund shares and $20 billion in cumulative issuance within 12 months, starting with $10 million outstanding and $15 million cumulative issuance at three months and reaching $1 billion outstanding by month six; Canton will hold ownership records for the fund shares, TreasurySpring can earn a maximum Super Validator reward weight of four with evidence that targets are reached and maintained for a month, and it already operates a Canton validator (CC Privacy Club)\n- **Canton Coin futures open interest falls to $29.0 million as liquidations stay modest at $73,800** — Coinalyze's latest aggregated read puts Canton Coin futures open interest at $29.0 million, down 8.42% in 24 hours, with futures volume at $14.0 million and tracked liquidations at $73,800, a sharp step down from the $35.10 million open interest recorded earlier today (Coinalyze)\n- **Canton Coin appears on an oversold screen as its live price slips to $0.0770, down 10.64% in 24 hours** — BlocFolio's live November 14 read, computed at 21:30 UTC, puts Canton Coin at $0.0770, down 10.64% in 24 hours, 17.54% over seven days and 60.3% below its all-time high of $0.1942 set on February 3, 2026, with the coin now appearing in its Oversold Crypto Screener (BlocFolio)\n\nNetwork: CC $0.0774 | Market cap $3.10B (rank 26) | 24h volume $13.49M | Supply 40.05B CC; milestone: MainNet validator onboarding capacity stands at 50 validators per week, with priority for projects that have working devnet or testnet applications ready for production (Kriptometre for market data; CC Privacy Club for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 14, 2026 · 4:12 PM ET)<br/>- **Goldman Sachs is proposed as a Super Validator on Canton under a milestone-based programme** — A governance CIP, authored by Abeetha Pitigala and currently in Proposed status, would designate Goldman Sachs and Co. as a Canton Super Validator with a maximum earnable weight of 10 under a programme agreed with the Canton Foundation; weight is earned incrementally as ecosystem commitments are met, rewards do not mint until milestones are verified, unearned weight tied to missed deadlines is removed, and approval requires a two-thirds Super Validator vote, with specific milestones and timelines remaining confidential until Goldman Sachs and the Foundation agree on disclosure (CC Privacy Club)<br/>- **TreasurySpring&#x27;s Canton plan wins approval with a $5 billion outstanding target for its fund shares** — The plan, approved September 9, targets $5 billion in outstanding fund shares and $20 billion in cumulative issuance within 12 months, starting with $10 million outstanding and $15 million cumulative issuance at three months and reaching $1 billion outstanding by month six; Canton will hold ownership records for the fund shares, TreasurySpring can earn a maximum Super Validator reward weight of four with evidence that targets are reached and maintained for a month, and it already operates a Canton validator (CC Privacy Club)<br/>- **Canton Coin futures open interest falls to $29.0 million as liquidations stay modest at $73,800** — Coinalyze&#x27;s latest aggregated read puts Canton Coin futures open interest at $29.0 million, down 8.42% in 24 hours, with futures volume at $14.0 million and tracked liquidations at $73,800, a sharp step down from the $35.10 million open interest recorded earlier today (Coinalyze)<br/>- **Canton Coin appears on an oversold screen as its live price slips to $0.0770, down 10.64% in 24 hours** — BlocFolio&#x27;s live November 14 read, computed at 21:30 UTC, puts Canton Coin at $0.0770, down 10.64% in 24 hours, 17.54% over seven days and 60.3% below its all-time high of $0.1942 set on February 3, 2026, with the coin now appearing in its Oversold Crypto Screener (BlocFolio)<br/><br/>Network: CC $0.0774 | Market cap $3.10B (rank 26) | 24h volume $13.49M | Supply 40.05B CC; milestone: MainNet validator onboarding capacity stands at 50 validators per week, with priority for projects that have working devnet or testnet applications ready for production (Kriptometre for market data; CC Privacy Club for the milestone)</p>",
-      "date_published": "2026-11-14T16:12:00-05:00",
-      "date_modified": "2026-11-14T16:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 4:12 PM ET",
-      "body": "Canton Signal Feed (Nov 14, 2026 · 4:12 PM ET)\n- **Goldman Sachs is proposed as a Super Validator on Canton under a milestone-based programme** — A governance CIP, authored by Abeetha Pitigala and currently in Proposed status, would designate Goldman Sachs and Co. as a Canton Super Validator with a maximum earnable weight of 10 under a programme agreed with the Canton Foundation; weight is earned incrementally as ecosystem commitments are met, rewards do not mint until milestones are verified, unearned weight tied to missed deadlines is removed, and approval requires a two-thirds Super Validator vote, with specific milestones and timelines remaining confidential until Goldman Sachs and the Foundation agree on disclosure (CC Privacy Club)\n- **TreasurySpring's Canton plan wins approval with a $5 billion outstanding target for its fund shares** — The plan, approved September 9, targets $5 billion in outstanding fund shares and $20 billion in cumulative issuance within 12 months, starting with $10 million outstanding and $15 million cumulative issuance at three months and reaching $1 billion outstanding by month six; Canton will hold ownership records for the fund shares, TreasurySpring can earn a maximum Super Validator reward weight of four with evidence that targets are reached and maintained for a month, and it already operates a Canton validator (CC Privacy Club)\n- **Canton Coin futures open interest falls to $29.0 million as liquidations stay modest at $73,800** — Coinalyze's latest aggregated read puts Canton Coin futures open interest at $29.0 million, down 8.42% in 24 hours, with futures volume at $14.0 million and tracked liquidations at $73,800, a sharp step down from the $35.10 million open interest recorded earlier today (Coinalyze)\n- **Canton Coin appears on an oversold screen as its live price slips to $0.0770, down 10.64% in 24 hours** — BlocFolio's live November 14 read, computed at 21:30 UTC, puts Canton Coin at $0.0770, down 10.64% in 24 hours, 17.54% over seven days and 60.3% below its all-time high of $0.1942 set on February 3, 2026, with the coin now appearing in its Oversold Crypto Screener (BlocFolio)\n\nNetwork: CC $0.0774 | Market cap $3.10B (rank 26) | 24h volume $13.49M | Supply 40.05B CC; milestone: MainNet validator onboarding capacity stands at 50 validators per week, with priority for projects that have working devnet or testnet applications ready for production (Kriptometre for market data; CC Privacy Club for the milestone)",
-      "image_url": null,
-      "published": "2026-11-14T16:12:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
