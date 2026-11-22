@@ -1,6 +1,151 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-21_2051-est",
+      "slug": "canton-perpetuals-volume-reads-221-141-over-24-hours-in-the-latest-chain-read",
+      "title": "Canton perpetuals volume reads $221,141 over 24 hours in the latest chain read",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 8:51 PM ET)\n\n- **Canton perpetuals volume reads $221,141 over 24 hours in the latest chain read** — DefiLlama's chain read puts perpetuals volume at $221,141 over 24 hours, up from $219,900 in the chain read recorded earlier today, with $1.66 million over seven days and a weekly change of negative 13.68%, against 24-hour DEX volume of $17.95 million across the chain's eight tracked protocols (DefiLlama)\n- **Canton Coin's open-interest-weighted futures funding rises to positive 0.0025% as open interest reads $33.10 million** — Coinfuty's latest read puts the open-interest-weighted funding rate at positive 0.0025% per four hours, up from positive 0.0006% recorded in the 8:06 PM edition, with total futures open interest at $33.10 million, futures volume at $12.02 million and a long/short ratio of 0.850 (Coinfuty)\n- **Canton Coin burned over the last 30 days totals 453.8 million coins on the latest tracker read** — CCTools' burn record puts total Canton Coin burned over the last 30 days at 453.8 million coins on the latest read; this is the rolling 30-day burn total, distinct from the 30-day burn share of issuance cited in the 5:51 PM edition (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.07545, with a market cap of $3.03 billion and 24-hour trading volume of $6.97 million, up 1.12% in 24 hours, with circulating supply of 40,099,209,370 CC at the November 21 read; as a network milestone, Canton counts 1,580 validators alongside 13 Super Validators on the latest network read (The Block for market data; CCTools for the milestone).\n\nOriginal sources:\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nCCTools: https://cctools.network/network\nThe Block: https://www.theblock.co/price/canton",
+      "timestamp": "2026-11-21T20:51:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-perpetuals-volume-reads-221-141-over-24-hours-in-the-latest-chain-read",
+      "image": null,
+      "source_links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/price/canton"
+        }
+      ],
+      "external_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "source_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "original_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "source": "DefiLlama",
+      "publisher": "DefiLlama",
+      "links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/price/canton"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-21_2006-est",
+      "slug": "canton-coin-s-open-interest-weighted-futures-funding-flips-positive-to-0-0006-as-open-inte",
+      "title": "Canton Coin's open-interest-weighted futures funding flips positive to 0.0006% as open interest reads $33.11 million",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 8:06 PM ET)\n\n- **Canton Coin's open-interest-weighted futures funding flips positive to 0.0006% as open interest reads $33.11 million** — Coinfuty's November 21 read puts the open-interest-weighted funding rate at positive 0.0006% per four hours, flipped from negative 0.0027% recorded in the 7:21 PM edition, with total futures open interest at $33.11 million, futures volume at $12.07 million and a long/short ratio of 0.846 (Coinfuty)\n- **Canton Coin burned reads 15.7 million in the latest 24-hour window, with app rewards at 14.9 million** — CCTools' rolling 24-hour window, as of the November 22 01:00 UTC read, puts burn at 15.7 million Canton Coin against app rewards at 14.9 million Canton Coin; this is the rolling window read, distinct from the November 21 calendar-day record of 15.8 million burned and 15.1 million in rewards in the previous edition (CCTools)\n- **Canton DeFi locked value reads $10.96 million as DEX volume totals $17.95 million over 24 hours** — DefiLlama's November 21 chain read puts total value locked at $10.96 million, with DEX volume at $17.95 million over 24 hours, down from $18.11 million recorded in the 5:21 PM edition, with Temple still largest at $5.86 million, ahead of Alpend at $1.83 million and Cantex at $1.69 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0757, with a market cap of $3.04 billion and 24-hour trading volume of $6.98 million, up 1.16% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions reach 608.46 million, with total parties at 956,724 on the latest network read (CCTools for market data and the milestone).\n\nOriginal sources:\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nCCTools: https://cctools.network/network\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "timestamp": "2026-11-21T20:06:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-s-open-interest-weighted-futures-funding-flips-positive-to-0-0006-as-open-inte",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        }
+      ],
+      "external_url": "https://www.coinfuty.com/coin/CC/open-interest",
+      "source_url": "https://www.coinfuty.com/coin/CC/open-interest",
+      "original_url": "https://www.coinfuty.com/coin/CC/open-interest",
+      "source": "Coinfuty",
+      "publisher": "Coinfuty",
+      "links": [
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-21_1921-est",
+      "slug": "canton-coin-s-daily-record-for-november-21-shows-15-8-million-coins-burned-against-15-1-mi",
+      "title": "Canton Coin's daily record for November 21 shows 15.8 million coins burned against 15.1 million in app rewards",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 7:21 PM ET)\n\n- **Canton Coin's daily record for November 21 shows 15.8 million coins burned against 15.1 million in app rewards** — CCTools' daily record, closed at the November 22 00:00 UTC boundary, puts November 21 burn at 15.8 million Canton Coin with app rewards at 15.1 million Canton Coin for the same calendar day; this is the calendar-day record, distinct from the rolling 24-hour window reads cited earlier today (CCTools)\n- **Canton Coin's open-interest-weighted futures funding eases to negative 0.0027% as open interest reads $33.22 million** — Coinfuty's November 21 read puts the open-interest-weighted funding rate at negative 0.0027% per four hours, eased from negative 0.0046% recorded in the 5:51 PM edition, with total futures open interest at $33.22 million, futures volume at $12.37 million and a long/short ratio of 0.844 (Coinfuty)\n- **Tradecraft's live locked value reads $1.38 million, up 7.07% in 24 hours, after its daily snapshot printed an all-time low** — DefiLlama's November 21 chain read puts Tradecraft's live locked value at $1.38 million, up 7.07% over 24 hours, a move up from the $1.36 million daily snapshot that printed as the protocol's all-time low earlier today (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0760, with a market cap of $3.05 billion and 24-hour trading volume of $7.2 million, up 1.18% in 24 hours, with circulating supply of 40.10 billion CC at the November 21 read; as a network milestone, total Canton transactions reach 608.43 million, with total parties at 956,670 on the latest network read (Blockdeck for market data; CCTools for the milestone).\n\nOriginal sources:\nCCTools: https://cctools.network/network\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "timestamp": "2026-11-21T19:21:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-s-daily-record-for-november-21-shows-15-8-million-coins-burned-against-15-1-mi",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "external_url": "https://cctools.network/network",
+      "source_url": "https://cctools.network/network",
+      "original_url": "https://cctools.network/network",
+      "source": "CCTools",
+      "publisher": "CCTools",
+      "links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-21_1751-est",
       "slug": "canton-coin-burned-over-the-last-30-days-equals-56-5-of-issuance-with-451-6-million-coins",
       "title": "Canton Coin burned over the last 30 days equals 56.5% of issuance, with 451.6 million coins burned against 799.5 million issued",
