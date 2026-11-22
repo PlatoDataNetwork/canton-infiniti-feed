@@ -29,8 +29,150 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-22T14:06:00-05:00",
+  "updated": "2026-11-22T14:36:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-22_1436-est",
+      "slug": "canton-coin-mica-white-paper-caps-issuance-near-100b-over-decade",
+      "url": "https://canton.w3ai.io/feed/canton-coin-mica-white-paper-caps-issuance-near-100b-over-decade",
+      "title": "Canton Coin MiCA white paper caps issuance near 100B over decade",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 2:36 PM ET)\n\n- **Canton Coin MiCA white paper caps issuance near 100B over decade** — The Canton Coin MiCA white paper sets a minting curve of about 100 billion CC over the first ten years: up to 40 billion a year in the first six months and 20 billion a year in months seven to 18, with the current phase, running to about July 2029, capped at 10 billion a year, or about 27.4 million CC a day; issuance then steps down to 5 billion a year in years five to ten and about 2.5 billion a year after year ten, so a published curve, not discretionary issuance, governs new supply (Datawallet)\n- **Grayscale files S-1 for spot Canton Coin ETF trust** — Grayscale Investments filed an S-1 registration statement with the SEC on June 5, 2026 for a Grayscale Canton ETF, a Delaware statutory trust that would hold Canton Coin directly and issue publicly traded shares designed to track the token's value less the trust's expenses and liabilities, giving investors exposure through standard brokerage accounts without buying or storing the token themselves; the filing names Grayscale Investments Sponsors as sponsor and the Bank of New York Mellon as transfer agent, and the shares cannot be sold until the registration statement is effective (AInvest)\n- **Messari ranks Canton first of 21 chains on Q1 fees near $193M** — Messari's Q1 2026 State of Blockchains report ranked Canton first for fees among the 21 blockchains it tracked, with about $193 million of the group's $457 million total, roughly 42%, as institutional activity on the network grew; Messari framed the quarter around selective strength, with tokenized real-world assets still climbing even as other sector metrics declined (Crypto Daily Feed)\n\nNetwork: Canton Coin (CC) trades at $0.07242, with a market cap of about $2.90 billion (rank 24) and 24-hour trading volume of $6.1 million, down 4.85% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, more than 55 institutions hold Super Validator status while 13 operators run the Global Synchronizer nodes (CoinGlass and Blockdeck for market data; Datawallet for the milestone).\n\nOriginal sources:\nDatawallet: https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true\nAInvest: https://www.ainvest.com/news/canton-coin-etf-filing-expands-institutional-access-enterprise-blockchain-2606/\nCrypto Daily Feed: https://cryptodailyfeed.com/canton-network-tops-fee-generator-rankings-as-institutions-drive-q1-2026-activity/\nCoinGlass: https://www.coinglass.com/currencies/CC",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 2:36 PM ET)<br/><br/>- **Canton Coin MiCA white paper caps issuance near 100B over decade** — The Canton Coin MiCA white paper sets a minting curve of about 100 billion CC over the first ten years: up to 40 billion a year in the first six months and 20 billion a year in months seven to 18, with the current phase, running to about July 2029, capped at 10 billion a year, or about 27.4 million CC a day; issuance then steps down to 5 billion a year in years five to ten and about 2.5 billion a year after year ten, so a published curve, not discretionary issuance, governs new supply (Datawallet)<br/>- **Grayscale files S-1 for spot Canton Coin ETF trust** — Grayscale Investments filed an S-1 registration statement with the SEC on June 5, 2026 for a Grayscale Canton ETF, a Delaware statutory trust that would hold Canton Coin directly and issue publicly traded shares designed to track the token&#x27;s value less the trust&#x27;s expenses and liabilities, giving investors exposure through standard brokerage accounts without buying or storing the token themselves; the filing names Grayscale Investments Sponsors as sponsor and the Bank of New York Mellon as transfer agent, and the shares cannot be sold until the registration statement is effective (AInvest)<br/>- **Messari ranks Canton first of 21 chains on Q1 fees near $193M** — Messari&#x27;s Q1 2026 State of Blockchains report ranked Canton first for fees among the 21 blockchains it tracked, with about $193 million of the group&#x27;s $457 million total, roughly 42%, as institutional activity on the network grew; Messari framed the quarter around selective strength, with tokenized real-world assets still climbing even as other sector metrics declined (Crypto Daily Feed)<br/><br/>Network: Canton Coin (CC) trades at $0.07242, with a market cap of about $2.90 billion (rank 24) and 24-hour trading volume of $6.1 million, down 4.85% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, more than 55 institutions hold Super Validator status while 13 operators run the Global Synchronizer nodes (CoinGlass and Blockdeck for market data; Datawallet for the milestone).<br/><br/>Original sources:<br/>Datawallet: https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true<br/>AInvest: https://www.ainvest.com/news/canton-coin-etf-filing-expands-institutional-access-enterprise-blockchain-2606/<br/>Crypto Daily Feed: https://cryptodailyfeed.com/canton-network-tops-fee-generator-rankings-as-institutions-drive-q1-2026-activity/<br/>CoinGlass: https://www.coinglass.com/currencies/CC</p>",
+      "date_published": "2026-11-22T14:36:00-05:00",
+      "date_modified": "2026-11-22T14:36:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true",
+      "source_url": "https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true",
+      "original_url": "https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true",
+      "source": "Datawallet",
+      "publisher": "Datawallet",
+      "links": [
+        {
+          "source": "Datawallet",
+          "url": "https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true"
+        },
+        {
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/canton-coin-etf-filing-expands-institutional-access-enterprise-blockchain-2606/"
+        },
+        {
+          "source": "Crypto Daily Feed",
+          "url": "https://cryptodailyfeed.com/canton-network-tops-fee-generator-rankings-as-institutions-drive-q1-2026-activity/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 2:36 PM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 2:36 PM ET)\n\n- **Canton Coin MiCA white paper caps issuance near 100B over decade** — The Canton Coin MiCA white paper sets a minting curve of about 100 billion CC over the first ten years: up to 40 billion a year in the first six months and 20 billion a year in months seven to 18, with the current phase, running to about July 2029, capped at 10 billion a year, or about 27.4 million CC a day; issuance then steps down to 5 billion a year in years five to ten and about 2.5 billion a year after year ten, so a published curve, not discretionary issuance, governs new supply (Datawallet)\n- **Grayscale files S-1 for spot Canton Coin ETF trust** — Grayscale Investments filed an S-1 registration statement with the SEC on June 5, 2026 for a Grayscale Canton ETF, a Delaware statutory trust that would hold Canton Coin directly and issue publicly traded shares designed to track the token's value less the trust's expenses and liabilities, giving investors exposure through standard brokerage accounts without buying or storing the token themselves; the filing names Grayscale Investments Sponsors as sponsor and the Bank of New York Mellon as transfer agent, and the shares cannot be sold until the registration statement is effective (AInvest)\n- **Messari ranks Canton first of 21 chains on Q1 fees near $193M** — Messari's Q1 2026 State of Blockchains report ranked Canton first for fees among the 21 blockchains it tracked, with about $193 million of the group's $457 million total, roughly 42%, as institutional activity on the network grew; Messari framed the quarter around selective strength, with tokenized real-world assets still climbing even as other sector metrics declined (Crypto Daily Feed)\n\nNetwork: Canton Coin (CC) trades at $0.07242, with a market cap of about $2.90 billion (rank 24) and 24-hour trading volume of $6.1 million, down 4.85% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, more than 55 institutions hold Super Validator status while 13 operators run the Global Synchronizer nodes (CoinGlass and Blockdeck for market data; Datawallet for the milestone).\n\nOriginal sources:\nDatawallet: https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true\nAInvest: https://www.ainvest.com/news/canton-coin-etf-filing-expands-institutional-access-enterprise-blockchain-2606/\nCrypto Daily Feed: https://cryptodailyfeed.com/canton-network-tops-fee-generator-rankings-as-institutions-drive-q1-2026-activity/\nCoinGlass: https://www.coinglass.com/currencies/CC",
+      "image_url": null,
+      "published": "2026-11-22T14:36:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "Datawallet",
+          "url": "https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true"
+        },
+        {
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/canton-coin-etf-filing-expands-institutional-access-enterprise-blockchain-2606/"
+        },
+        {
+          "source": "Crypto Daily Feed",
+          "url": "https://cryptodailyfeed.com/canton-network-tops-fee-generator-rankings-as-institutions-drive-q1-2026-activity/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1421-est",
+      "slug": "daml-audits-flag-authorization-key-and-upgrade-flaws",
+      "url": "https://canton.w3ai.io/feed/daml-audits-flag-authorization-key-and-upgrade-flaws",
+      "title": "DAML audits flag authorization, key and upgrade flaws",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 2:21 PM ET)\n\n- **DAML audits flag authorization, key and upgrade flaws** — A 2026 security guide to auditing DAML, the smart contract language built by Digital Asset and used almost exclusively on Canton, says a DAML audit examines authorization logic, privacy boundaries and upgrade paths rather than the arithmetic bugs a typical Solidity review hunts; the three vulnerability classes auditors flag most often are choice-level authorization mistakes, template key collisions and unsafe contract upgrades, a complete audit blends manual review of DAML Ledger Model logic with automated Daml Script and property-based testing and closes with a re-audit of every fix, and regulated institutions running Canton in production are advised to budget for both a pre-launch audit and periodic re-audits tied to every major model upgrade (SoluLab)\n- **Canton Coin falls 5.72% as burns cover 61% of issuance** — Canton fell 5.72% to $0.0724 over 24 hours on November 22 even as the total crypto market rose about 0.88% and Bitcoin gained about 0.87%, with Canton's 24-hour trading volume down 34.95%, so the move does not look like simple market beta; a November 21 analysis reported about 26.6 million CC minted daily versus 16.3 million burned through fees, or roughly 61% coverage, pointing to net supply growth that is a plausible ongoing headwind rather than proof of the specific trigger for the decline, with $0.0724 the level to hold and a reclaim of $0.076 an initial improvement (CoinMarketCap)\n- **Canton total parties reach 957,686 in latest network read** — Total parties on Canton reach 957,686 in the latest network read as of November 22 at 18:10 UTC, up from 957,205 cited in the 8:06 AM edition and 957,418 noted in the 11:06 AM run, a cumulative gain of 481 parties since the morning read (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.07248, with a market cap of $2.91 billion and 24-hour trading volume of $10.92 million, down 5.04% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, the network counts 1,581 validators alongside 13 Super Validators (Crypto.com for market data; CCTools for the milestone).\n\nOriginal sources:\nSoluLab: https://www.solulab.com/daml-smart-contract-audit/\nCoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/price-analysis/\nCCTools: https://cctools.network/network\nCrypto.com: https://crypto.com/en/price/canton-network/usd",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 2:21 PM ET)<br/><br/>- **DAML audits flag authorization, key and upgrade flaws** — A 2026 security guide to auditing DAML, the smart contract language built by Digital Asset and used almost exclusively on Canton, says a DAML audit examines authorization logic, privacy boundaries and upgrade paths rather than the arithmetic bugs a typical Solidity review hunts; the three vulnerability classes auditors flag most often are choice-level authorization mistakes, template key collisions and unsafe contract upgrades, a complete audit blends manual review of DAML Ledger Model logic with automated Daml Script and property-based testing and closes with a re-audit of every fix, and regulated institutions running Canton in production are advised to budget for both a pre-launch audit and periodic re-audits tied to every major model upgrade (SoluLab)<br/>- **Canton Coin falls 5.72% as burns cover 61% of issuance** — Canton fell 5.72% to $0.0724 over 24 hours on November 22 even as the total crypto market rose about 0.88% and Bitcoin gained about 0.87%, with Canton&#x27;s 24-hour trading volume down 34.95%, so the move does not look like simple market beta; a November 21 analysis reported about 26.6 million CC minted daily versus 16.3 million burned through fees, or roughly 61% coverage, pointing to net supply growth that is a plausible ongoing headwind rather than proof of the specific trigger for the decline, with $0.0724 the level to hold and a reclaim of $0.076 an initial improvement (CoinMarketCap)<br/>- **Canton total parties reach 957,686 in latest network read** — Total parties on Canton reach 957,686 in the latest network read as of November 22 at 18:10 UTC, up from 957,205 cited in the 8:06 AM edition and 957,418 noted in the 11:06 AM run, a cumulative gain of 481 parties since the morning read (CCTools)<br/><br/>Network: Canton Coin (CC) trades at $0.07248, with a market cap of $2.91 billion and 24-hour trading volume of $10.92 million, down 5.04% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, the network counts 1,581 validators alongside 13 Super Validators (Crypto.com for market data; CCTools for the milestone).<br/><br/>Original sources:<br/>SoluLab: https://www.solulab.com/daml-smart-contract-audit/<br/>CoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/price-analysis/<br/>CCTools: https://cctools.network/network<br/>Crypto.com: https://crypto.com/en/price/canton-network/usd</p>",
+      "date_published": "2026-11-22T14:21:00-05:00",
+      "date_modified": "2026-11-22T14:21:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://www.solulab.com/daml-smart-contract-audit/",
+      "source_url": "https://www.solulab.com/daml-smart-contract-audit/",
+      "original_url": "https://www.solulab.com/daml-smart-contract-audit/",
+      "source": "SoluLab",
+      "publisher": "SoluLab",
+      "links": [
+        {
+          "source": "SoluLab",
+          "url": "https://www.solulab.com/daml-smart-contract-audit/"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/price-analysis/"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 2:21 PM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 2:21 PM ET)\n\n- **DAML audits flag authorization, key and upgrade flaws** — A 2026 security guide to auditing DAML, the smart contract language built by Digital Asset and used almost exclusively on Canton, says a DAML audit examines authorization logic, privacy boundaries and upgrade paths rather than the arithmetic bugs a typical Solidity review hunts; the three vulnerability classes auditors flag most often are choice-level authorization mistakes, template key collisions and unsafe contract upgrades, a complete audit blends manual review of DAML Ledger Model logic with automated Daml Script and property-based testing and closes with a re-audit of every fix, and regulated institutions running Canton in production are advised to budget for both a pre-launch audit and periodic re-audits tied to every major model upgrade (SoluLab)\n- **Canton Coin falls 5.72% as burns cover 61% of issuance** — Canton fell 5.72% to $0.0724 over 24 hours on November 22 even as the total crypto market rose about 0.88% and Bitcoin gained about 0.87%, with Canton's 24-hour trading volume down 34.95%, so the move does not look like simple market beta; a November 21 analysis reported about 26.6 million CC minted daily versus 16.3 million burned through fees, or roughly 61% coverage, pointing to net supply growth that is a plausible ongoing headwind rather than proof of the specific trigger for the decline, with $0.0724 the level to hold and a reclaim of $0.076 an initial improvement (CoinMarketCap)\n- **Canton total parties reach 957,686 in latest network read** — Total parties on Canton reach 957,686 in the latest network read as of November 22 at 18:10 UTC, up from 957,205 cited in the 8:06 AM edition and 957,418 noted in the 11:06 AM run, a cumulative gain of 481 parties since the morning read (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.07248, with a market cap of $2.91 billion and 24-hour trading volume of $10.92 million, down 5.04% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, the network counts 1,581 validators alongside 13 Super Validators (Crypto.com for market data; CCTools for the milestone).\n\nOriginal sources:\nSoluLab: https://www.solulab.com/daml-smart-contract-audit/\nCoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/price-analysis/\nCCTools: https://cctools.network/network\nCrypto.com: https://crypto.com/en/price/canton-network/usd",
+      "image_url": null,
+      "published": "2026-11-22T14:21:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "SoluLab",
+          "url": "https://www.solulab.com/daml-smart-contract-audit/"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/price-analysis/"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-22_1406-est",
       "slug": "p2p-org-joins-canton-as-validator-with-10b-under-management",
@@ -7037,77 +7179,6 @@
       "body": "Canton Signal Feed (Nov 15, 2026 · 7:12 PM ET)\n- **Canton Coin climbs 10.16% in 24 hours to $0.0852 as its market cap reaches $3.41 billion** — The November 16 read at 00:15 UTC puts Canton Coin at rank 25 with 24-hour volume of $18.00 million, still down 5.13% over seven days and 59% below its all-time high of $0.1942; the read notes no specific recent catalyst and attributes the move to a broader crypto market advance despite extreme fear conditions (Criptano)\n- **Canton DeFi locked value stands at $11.5 million as 24-hour DEX volume eases to $16.66 million** — DefiLlama's November 15 snapshot puts total value locked down 2.70% in 24 hours, with DEX volume at $16.66 million, down from $16.89 million recorded at 4:12 PM, perps volume at $237,843, Temple still largest at $6.12 million ahead of Alpend at $1.91 million, Cantex at $1.79 million and Tradecraft at $1.47 million, across eight tracked protocols (DefiLlama)\n- **Console Wallet reports full service restoration after a precautionary suspension following suspicious activity** — In its November 12 update, Console said it was fully operational after suspending services the previous week as a precaution; the restoration is the project's reported status and the short notice does not provide a full incident analysis (CantonNews)\n- **Canton Coin spot prices sit 4.23% apart across exchanges, with no route rated worth taking outright** — A live scan at 00:13 UTC on November 16 puts Canton Coin cheapest on WEEX at $0.08176 and dearest on OKX at $0.085221 across 11 exchanges with a liquid spot market, changed from 4.70% recorded at 5:42 PM; the widest route, buying on WEEX and selling on OKX at 3.86% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.61% after fees, and all 15 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.0852 | Market cap $3.41B (rank 25) | 24h volume $18.00M | Supply 40,059,986,477 CC; milestone: live MainNet rewards (24h) rise to 13.9M CC, up from 13.2M CC at 5:42 PM, with current activity at 3.00 TPS, total transactions at 603.6M, total parties at 948.0K, total burned at 6.05B CC, about 1.6K validators, 13 Super Validators and 6 active proposals, with the MainNet upgrade to Splice 0.10.0 listed for November 16 (Criptano for market data; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-15T19:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-15_1742-est",
-      "slug": "sec-staff-no-action-relief-for-canton-coin-is-narrow-covering-only-the-programmatic-mintin",
-      "url": "https://canton.w3ai.io/feed/sec-staff-no-action-relief-for-canton-coin-is-narrow-covering-only-the-programmatic-mintin",
-      "title": "SEC staff no-action relief for Canton Coin is narrow, covering only the programmatic minting described in Digital Asset's October 30 request",
-      "content_text": "Canton Signal Feed (Nov 15, 2026 · 5:42 PM ET)\n- **SEC staff no-action relief for Canton Coin is narrow, covering only the programmatic minting described in Digital Asset's October 30 request** — A detailed breakdown of the November 3 response says Division of Corporation Finance staff viewed Canton Coin as a digital commodity under the agency's March interpretation and would not recommend enforcement over the specified programmatic minting by Super Validators, Validators and application providers under Section 5 of the Securities Act and Section 12(g) of the Exchange Act; it is a staff position, not a court ruling, a Commission-wide conclusion or a blanket exemption, it does not approve secondary-market trading, every distribution method, other tokens built on Canton or every financial product using the network, and different facts could lead staff to a different conclusion, with the request resting on representations that the network has no central party and that the token launched without an initial coin offering or premine (Bitcoin Foundation)\n- **Canton's institutional adoption score rises to 78 out of 100, ranked third of 27 in TokenSonar's latest update** — TokenSonar's update published November 15 at 20:34 UTC puts Canton at 78/100 and rank #3, up from 75/100 and rank #5 recorded earlier today, ahead of Quant at 62/100 and rank #13, with both classed as Bank Infrastructure and carrying 10 tracked institutional signals each, Canton's tracked partners including Goldman Sachs, BNY Mellon, BNP Paribas, Société Générale, DTCC and JPMorgan Chase, and Canton listed with live spot ETF status against none for Quant; scores update twice daily from regulatory filings, named bank deployments, ETF flows and on-chain real-world-asset data, not price action (TokenSonar)\n- **Canton Coin spot prices sit 4.70% apart across exchanges, with no route rated worth taking outright** — A live scan at 22:45 UTC on November 15 puts Canton Coin cheapest on MEXC at $0.080252 and dearest on Bitrue at $0.08402 across 11 exchanges with a liquid spot market, changed from 5.23% recorded at 4:12 PM; the widest route, buying on MEXC and selling on LBank at 4.14% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.62% after fees, and all 16 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.0834 | Market cap $3.34B (rank 25) | 24h volume $19.52M | Supply 40,059,986,477 CC; milestone: live MainNet rewards (24h) rise to 13.2M CC, up from 12.7M CC at 4:12 PM, with current activity at 1.00 TPS, total transactions at 603.6M, total parties at 948.0K, total burned at 6.05B CC, about 1.6K validators, 13 Super Validators and 6 active proposals (Kaavon for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 15, 2026 · 5:42 PM ET)<br/>- **SEC staff no-action relief for Canton Coin is narrow, covering only the programmatic minting described in Digital Asset&#x27;s October 30 request** — A detailed breakdown of the November 3 response says Division of Corporation Finance staff viewed Canton Coin as a digital commodity under the agency&#x27;s March interpretation and would not recommend enforcement over the specified programmatic minting by Super Validators, Validators and application providers under Section 5 of the Securities Act and Section 12(g) of the Exchange Act; it is a staff position, not a court ruling, a Commission-wide conclusion or a blanket exemption, it does not approve secondary-market trading, every distribution method, other tokens built on Canton or every financial product using the network, and different facts could lead staff to a different conclusion, with the request resting on representations that the network has no central party and that the token launched without an initial coin offering or premine (Bitcoin Foundation)<br/>- **Canton&#x27;s institutional adoption score rises to 78 out of 100, ranked third of 27 in TokenSonar&#x27;s latest update** — TokenSonar&#x27;s update published November 15 at 20:34 UTC puts Canton at 78/100 and rank #3, up from 75/100 and rank #5 recorded earlier today, ahead of Quant at 62/100 and rank #13, with both classed as Bank Infrastructure and carrying 10 tracked institutional signals each, Canton&#x27;s tracked partners including Goldman Sachs, BNY Mellon, BNP Paribas, Société Générale, DTCC and JPMorgan Chase, and Canton listed with live spot ETF status against none for Quant; scores update twice daily from regulatory filings, named bank deployments, ETF flows and on-chain real-world-asset data, not price action (TokenSonar)<br/>- **Canton Coin spot prices sit 4.70% apart across exchanges, with no route rated worth taking outright** — A live scan at 22:45 UTC on November 15 puts Canton Coin cheapest on MEXC at $0.080252 and dearest on Bitrue at $0.08402 across 11 exchanges with a liquid spot market, changed from 5.23% recorded at 4:12 PM; the widest route, buying on MEXC and selling on LBank at 4.14% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.62% after fees, and all 16 routes in profit are rated risky with none rated take (ArbitrageGap)<br/><br/>Network: CC $0.0834 | Market cap $3.34B (rank 25) | 24h volume $19.52M | Supply 40,059,986,477 CC; milestone: live MainNet rewards (24h) rise to 13.2M CC, up from 12.7M CC at 4:12 PM, with current activity at 1.00 TPS, total transactions at 603.6M, total parties at 948.0K, total burned at 6.05B CC, about 1.6K validators, 13 Super Validators and 6 active proposals (Kaavon for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-15T17:42:00-05:00",
-      "date_modified": "2026-11-15T17:42:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "3",
-        "5",
-        "13"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 15, 2026 · 5:42 PM ET",
-      "body": "Canton Signal Feed (Nov 15, 2026 · 5:42 PM ET)\n- **SEC staff no-action relief for Canton Coin is narrow, covering only the programmatic minting described in Digital Asset's October 30 request** — A detailed breakdown of the November 3 response says Division of Corporation Finance staff viewed Canton Coin as a digital commodity under the agency's March interpretation and would not recommend enforcement over the specified programmatic minting by Super Validators, Validators and application providers under Section 5 of the Securities Act and Section 12(g) of the Exchange Act; it is a staff position, not a court ruling, a Commission-wide conclusion or a blanket exemption, it does not approve secondary-market trading, every distribution method, other tokens built on Canton or every financial product using the network, and different facts could lead staff to a different conclusion, with the request resting on representations that the network has no central party and that the token launched without an initial coin offering or premine (Bitcoin Foundation)\n- **Canton's institutional adoption score rises to 78 out of 100, ranked third of 27 in TokenSonar's latest update** — TokenSonar's update published November 15 at 20:34 UTC puts Canton at 78/100 and rank #3, up from 75/100 and rank #5 recorded earlier today, ahead of Quant at 62/100 and rank #13, with both classed as Bank Infrastructure and carrying 10 tracked institutional signals each, Canton's tracked partners including Goldman Sachs, BNY Mellon, BNP Paribas, Société Générale, DTCC and JPMorgan Chase, and Canton listed with live spot ETF status against none for Quant; scores update twice daily from regulatory filings, named bank deployments, ETF flows and on-chain real-world-asset data, not price action (TokenSonar)\n- **Canton Coin spot prices sit 4.70% apart across exchanges, with no route rated worth taking outright** — A live scan at 22:45 UTC on November 15 puts Canton Coin cheapest on MEXC at $0.080252 and dearest on Bitrue at $0.08402 across 11 exchanges with a liquid spot market, changed from 5.23% recorded at 4:12 PM; the widest route, buying on MEXC and selling on LBank at 4.14% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.62% after fees, and all 16 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.0834 | Market cap $3.34B (rank 25) | 24h volume $19.52M | Supply 40,059,986,477 CC; milestone: live MainNet rewards (24h) rise to 13.2M CC, up from 12.7M CC at 4:12 PM, with current activity at 1.00 TPS, total transactions at 603.6M, total parties at 948.0K, total burned at 6.05B CC, about 1.6K validators, 13 Super Validators and 6 active proposals (Kaavon for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-15T17:42:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-15_1612-est",
-      "slug": "kintsu-builds-vaults-on-canton-s-party-only-visibility-model-so-depositors-see-where-capit",
-      "url": "https://canton.w3ai.io/feed/kintsu-builds-vaults-on-canton-s-party-only-visibility-model-so-depositors-see-where-capit",
-      "title": "Kintsu builds vaults on Canton's party-only visibility model, so depositors see where capital can go while curator rebalances stay private",
-      "content_text": "Canton Signal Feed (Nov 15, 2026 · 4:12 PM ET)\n- **Kintsu builds vaults on Canton's party-only visibility model, so depositors see where capital can go while curator rebalances stay private** — A November 15 wire item says that on Canton a contract is visible only to the parties required to see it, and Kintsu is building vaults on that model, so depositors can see where capital can go while a curator's rebalances stay out of public view; it describes the vault design and its privacy model, not a live vault launch (CantonNews)\n- **Uber's tokenized money market fund pilot on Canton shows weekend access to cash when traditional markets are closed** — Tekedia's November 15 coverage of the October 30 pilot says Uber used HSBC tokenized deposits to buy Franklin Templeton tokenized money market fund shares through Tradeweb, with Fireblocks providing wallet infrastructure and Canton facilitating settlement by delivery-versus-payment, and liquidated part of the holding over a weekend; it remains a pilot, not a deployed global treasury system, and the participants have not disclosed the transaction value (Tekedia)\n- **Canton DeFi locked value eases to $11.53 million as 24-hour DEX volume slips to $16.89 million** — DefiLlama's November 15 snapshot puts total value locked at $11.53 million, down 2.39% in 24 hours, with DEX volume at $16.89 million, down from $17.34 million recorded at 2:12 PM, perps volume at $237,710, Temple still largest at $6.21 million ahead of Alpend at $1.9 million, Cantex at $1.77 million and Tradecraft at $1.46 million, across eight tracked protocols (DefiLlama)\n- **Canton Coin spot prices sit 5.23% apart across exchanges, with no route rated worth taking outright** — A live scan at 21:17 UTC on November 15 puts Canton Coin cheapest on MEXC at $0.079149 and dearest on XT at $0.08329 across 11 exchanges with a liquid spot market, changed from 5.36% earlier today; the widest route, buying on MEXC and selling on LBank at 4.59% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.58% after fees, and all 15 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.0835 | Market cap $3.34B (rank 25) | 24h volume $21.29M | Supply 40,059,282,064 CC; milestone: live MainNet rewards (24h) rise to 12.7M CC, up from 12.3M CC at 3:12 PM, with current activity at 2.00 TPS, total transactions at 603.6M, total parties at 948.0K, about 1.6K validators, 13 Super Validators and 6 active proposals (Kriptometre for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 15, 2026 · 4:12 PM ET)<br/>- **Kintsu builds vaults on Canton&#x27;s party-only visibility model, so depositors see where capital can go while curator rebalances stay private** — A November 15 wire item says that on Canton a contract is visible only to the parties required to see it, and Kintsu is building vaults on that model, so depositors can see where capital can go while a curator&#x27;s rebalances stay out of public view; it describes the vault design and its privacy model, not a live vault launch (CantonNews)<br/>- **Uber&#x27;s tokenized money market fund pilot on Canton shows weekend access to cash when traditional markets are closed** — Tekedia&#x27;s November 15 coverage of the October 30 pilot says Uber used HSBC tokenized deposits to buy Franklin Templeton tokenized money market fund shares through Tradeweb, with Fireblocks providing wallet infrastructure and Canton facilitating settlement by delivery-versus-payment, and liquidated part of the holding over a weekend; it remains a pilot, not a deployed global treasury system, and the participants have not disclosed the transaction value (Tekedia)<br/>- **Canton DeFi locked value eases to $11.53 million as 24-hour DEX volume slips to $16.89 million** — DefiLlama&#x27;s November 15 snapshot puts total value locked at $11.53 million, down 2.39% in 24 hours, with DEX volume at $16.89 million, down from $17.34 million recorded at 2:12 PM, perps volume at $237,710, Temple still largest at $6.21 million ahead of Alpend at $1.9 million, Cantex at $1.77 million and Tradecraft at $1.46 million, across eight tracked protocols (DefiLlama)<br/>- **Canton Coin spot prices sit 5.23% apart across exchanges, with no route rated worth taking outright** — A live scan at 21:17 UTC on November 15 puts Canton Coin cheapest on MEXC at $0.079149 and dearest on XT at $0.08329 across 11 exchanges with a liquid spot market, changed from 5.36% earlier today; the widest route, buying on MEXC and selling on LBank at 4.59% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.58% after fees, and all 15 routes in profit are rated risky with none rated take (ArbitrageGap)<br/><br/>Network: CC $0.0835 | Market cap $3.34B (rank 25) | 24h volume $21.29M | Supply 40,059,282,064 CC; milestone: live MainNet rewards (24h) rise to 12.7M CC, up from 12.3M CC at 3:12 PM, with current activity at 2.00 TPS, total transactions at 603.6M, total parties at 948.0K, about 1.6K validators, 13 Super Validators and 6 active proposals (Kriptometre for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-15T16:12:00-05:00",
-      "date_modified": "2026-11-15T16:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 15, 2026 · 4:12 PM ET",
-      "body": "Canton Signal Feed (Nov 15, 2026 · 4:12 PM ET)\n- **Kintsu builds vaults on Canton's party-only visibility model, so depositors see where capital can go while curator rebalances stay private** — A November 15 wire item says that on Canton a contract is visible only to the parties required to see it, and Kintsu is building vaults on that model, so depositors can see where capital can go while a curator's rebalances stay out of public view; it describes the vault design and its privacy model, not a live vault launch (CantonNews)\n- **Uber's tokenized money market fund pilot on Canton shows weekend access to cash when traditional markets are closed** — Tekedia's November 15 coverage of the October 30 pilot says Uber used HSBC tokenized deposits to buy Franklin Templeton tokenized money market fund shares through Tradeweb, with Fireblocks providing wallet infrastructure and Canton facilitating settlement by delivery-versus-payment, and liquidated part of the holding over a weekend; it remains a pilot, not a deployed global treasury system, and the participants have not disclosed the transaction value (Tekedia)\n- **Canton DeFi locked value eases to $11.53 million as 24-hour DEX volume slips to $16.89 million** — DefiLlama's November 15 snapshot puts total value locked at $11.53 million, down 2.39% in 24 hours, with DEX volume at $16.89 million, down from $17.34 million recorded at 2:12 PM, perps volume at $237,710, Temple still largest at $6.21 million ahead of Alpend at $1.9 million, Cantex at $1.77 million and Tradecraft at $1.46 million, across eight tracked protocols (DefiLlama)\n- **Canton Coin spot prices sit 5.23% apart across exchanges, with no route rated worth taking outright** — A live scan at 21:17 UTC on November 15 puts Canton Coin cheapest on MEXC at $0.079149 and dearest on XT at $0.08329 across 11 exchanges with a liquid spot market, changed from 5.36% earlier today; the widest route, buying on MEXC and selling on LBank at 4.59% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.58% after fees, and all 15 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.0835 | Market cap $3.34B (rank 25) | 24h volume $21.29M | Supply 40,059,282,064 CC; milestone: live MainNet rewards (24h) rise to 12.7M CC, up from 12.3M CC at 3:12 PM, with current activity at 2.00 TPS, total transactions at 603.6M, total parties at 948.0K, about 1.6K validators, 13 Super Validators and 6 active proposals (Kriptometre for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-15T16:12:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
