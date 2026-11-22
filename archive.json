@@ -1,6 +1,49 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_1521-est",
+      "slug": "sg-forge-to-deploy-coinvertible-stablecoins-on-canton",
+      "title": "SG-FORGE to deploy CoinVertible stablecoins on Canton",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 3:21 PM ET)\n\n- **SG-FORGE to deploy CoinVertible stablecoins on Canton** — Societe Generale-FORGE plans to deploy its USD and EUR CoinVertible stablecoins on Canton for tokenized collateral and repo use, while Societe Generale joins the network as an Ecosystem Super Validator building tokenized collateral and repo services there, in an announcement dated May 13, 2026 (ChainReport)\n- **Nasdaq Super Validator weight unlocks by milestones to 10** — The Canton Foundation approved Nasdaq as a Super Validator with up to weight 10 unlocked by milestones, on terms that it must run its own Super Validator node within six months once its weight exceeds 2.5, in an approval dated January 5, 2026 (ChainReport)\n- **Ledger adds support for Canton Coin and private assets** — Ledger added support for Canton Coin and privacy-enabled assets in an August 2026 announcement listed by Canton, bringing hardware wallet support to the token after its July 2024 launch alongside the Global Synchronizer, when it was the first time a public network rewarded both infrastructure providers and app developers (Eco)\n- **Canton network of networks preserves transaction privacy** — Canton's architecture supports a network-of-networks model where independent participant nodes and synchronization domains coordinate to ensure atomic multi-party workflows while preserving confidentiality, with applications written in Daml, the open-source smart contract language that lets organisations define rights, obligations and permissions explicitly and control data visibility (The Block)\n\nNetwork: Canton Coin (CC) trades at $0.0720, with a market cap of $2.89 billion and 24-hour trading volume of $6.12 million, down 5.59% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton counts 21 tracked institutions with 19 live relationships, ranking fourth of 36 chains by institution count (The Block for market data; ChainReport for the milestone).\n\nOriginal sources:\nChainReport: https://chainreport.co/institutions-onchain/chain/canton/\nEco: https://eco.com/support/en/articles/17272664-what-is-canton-network\nThe Block: https://www.theblock.co/convert/cc-usd",
+      "timestamp": "2026-11-22T15:21:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/sg-forge-to-deploy-coinvertible-stablecoins-on-canton",
+      "image": null,
+      "source_links": [
+        {
+          "source": "ChainReport",
+          "url": "https://chainreport.co/institutions-onchain/chain/canton/"
+        },
+        {
+          "source": "Eco",
+          "url": "https://eco.com/support/en/articles/17272664-what-is-canton-network"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/convert/cc-usd"
+        }
+      ],
+      "external_url": "https://chainreport.co/institutions-onchain/chain/canton/",
+      "source_url": "https://chainreport.co/institutions-onchain/chain/canton/",
+      "original_url": "https://chainreport.co/institutions-onchain/chain/canton/",
+      "source": "ChainReport",
+      "publisher": "ChainReport",
+      "links": [
+        {
+          "source": "ChainReport",
+          "url": "https://chainreport.co/institutions-onchain/chain/canton/"
+        },
+        {
+          "source": "Eco",
+          "url": "https://eco.com/support/en/articles/17272664-what-is-canton-network"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/convert/cc-usd"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_1506-est",
       "slug": "canton-super-validators-validate-every-canton-coin-transfer",
       "title": "Canton Super Validators validate every Canton Coin transfer",
