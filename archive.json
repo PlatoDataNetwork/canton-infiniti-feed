@@ -1,6 +1,210 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_1436-est",
+      "slug": "canton-coin-mica-white-paper-caps-issuance-near-100b-over-decade",
+      "title": "Canton Coin MiCA white paper caps issuance near 100B over decade",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 2:36 PM ET)\n\n- **Canton Coin MiCA white paper caps issuance near 100B over decade** — The Canton Coin MiCA white paper sets a minting curve of about 100 billion CC over the first ten years: up to 40 billion a year in the first six months and 20 billion a year in months seven to 18, with the current phase, running to about July 2029, capped at 10 billion a year, or about 27.4 million CC a day; issuance then steps down to 5 billion a year in years five to ten and about 2.5 billion a year after year ten, so a published curve, not discretionary issuance, governs new supply (Datawallet)\n- **Grayscale files S-1 for spot Canton Coin ETF trust** — Grayscale Investments filed an S-1 registration statement with the SEC on June 5, 2026 for a Grayscale Canton ETF, a Delaware statutory trust that would hold Canton Coin directly and issue publicly traded shares designed to track the token's value less the trust's expenses and liabilities, giving investors exposure through standard brokerage accounts without buying or storing the token themselves; the filing names Grayscale Investments Sponsors as sponsor and the Bank of New York Mellon as transfer agent, and the shares cannot be sold until the registration statement is effective (AInvest)\n- **Messari ranks Canton first of 21 chains on Q1 fees near $193M** — Messari's Q1 2026 State of Blockchains report ranked Canton first for fees among the 21 blockchains it tracked, with about $193 million of the group's $457 million total, roughly 42%, as institutional activity on the network grew; Messari framed the quarter around selective strength, with tokenized real-world assets still climbing even as other sector metrics declined (Crypto Daily Feed)\n\nNetwork: Canton Coin (CC) trades at $0.07242, with a market cap of about $2.90 billion (rank 24) and 24-hour trading volume of $6.1 million, down 4.85% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, more than 55 institutions hold Super Validator status while 13 operators run the Global Synchronizer nodes (CoinGlass and Blockdeck for market data; Datawallet for the milestone).\n\nOriginal sources:\nDatawallet: https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true\nAInvest: https://www.ainvest.com/news/canton-coin-etf-filing-expands-institutional-access-enterprise-blockchain-2606/\nCrypto Daily Feed: https://cryptodailyfeed.com/canton-network-tops-fee-generator-rankings-as-institutions-drive-q1-2026-activity/\nCoinGlass: https://www.coinglass.com/currencies/CC",
+      "timestamp": "2026-11-22T14:36:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-mica-white-paper-caps-issuance-near-100b-over-decade",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Datawallet",
+          "url": "https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true"
+        },
+        {
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/canton-coin-etf-filing-expands-institutional-access-enterprise-blockchain-2606/"
+        },
+        {
+          "source": "Crypto Daily Feed",
+          "url": "https://cryptodailyfeed.com/canton-network-tops-fee-generator-rankings-as-institutions-drive-q1-2026-activity/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        }
+      ],
+      "external_url": "https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true",
+      "source_url": "https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true",
+      "original_url": "https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true",
+      "source": "Datawallet",
+      "publisher": "Datawallet",
+      "links": [
+        {
+          "source": "Datawallet",
+          "url": "https://www.datawallet.com/crypto/canton-network-explained?cache_bypass=true"
+        },
+        {
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/canton-coin-etf-filing-expands-institutional-access-enterprise-blockchain-2606/"
+        },
+        {
+          "source": "Crypto Daily Feed",
+          "url": "https://cryptodailyfeed.com/canton-network-tops-fee-generator-rankings-as-institutions-drive-q1-2026-activity/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1421-est",
+      "slug": "daml-audits-flag-authorization-key-and-upgrade-flaws",
+      "title": "DAML audits flag authorization, key and upgrade flaws",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 2:21 PM ET)\n\n- **DAML audits flag authorization, key and upgrade flaws** — A 2026 security guide to auditing DAML, the smart contract language built by Digital Asset and used almost exclusively on Canton, says a DAML audit examines authorization logic, privacy boundaries and upgrade paths rather than the arithmetic bugs a typical Solidity review hunts; the three vulnerability classes auditors flag most often are choice-level authorization mistakes, template key collisions and unsafe contract upgrades, a complete audit blends manual review of DAML Ledger Model logic with automated Daml Script and property-based testing and closes with a re-audit of every fix, and regulated institutions running Canton in production are advised to budget for both a pre-launch audit and periodic re-audits tied to every major model upgrade (SoluLab)\n- **Canton Coin falls 5.72% as burns cover 61% of issuance** — Canton fell 5.72% to $0.0724 over 24 hours on November 22 even as the total crypto market rose about 0.88% and Bitcoin gained about 0.87%, with Canton's 24-hour trading volume down 34.95%, so the move does not look like simple market beta; a November 21 analysis reported about 26.6 million CC minted daily versus 16.3 million burned through fees, or roughly 61% coverage, pointing to net supply growth that is a plausible ongoing headwind rather than proof of the specific trigger for the decline, with $0.0724 the level to hold and a reclaim of $0.076 an initial improvement (CoinMarketCap)\n- **Canton total parties reach 957,686 in latest network read** — Total parties on Canton reach 957,686 in the latest network read as of November 22 at 18:10 UTC, up from 957,205 cited in the 8:06 AM edition and 957,418 noted in the 11:06 AM run, a cumulative gain of 481 parties since the morning read (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.07248, with a market cap of $2.91 billion and 24-hour trading volume of $10.92 million, down 5.04% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, the network counts 1,581 validators alongside 13 Super Validators (Crypto.com for market data; CCTools for the milestone).\n\nOriginal sources:\nSoluLab: https://www.solulab.com/daml-smart-contract-audit/\nCoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/price-analysis/\nCCTools: https://cctools.network/network\nCrypto.com: https://crypto.com/en/price/canton-network/usd",
+      "timestamp": "2026-11-22T14:21:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/daml-audits-flag-authorization-key-and-upgrade-flaws",
+      "image": null,
+      "source_links": [
+        {
+          "source": "SoluLab",
+          "url": "https://www.solulab.com/daml-smart-contract-audit/"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/price-analysis/"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ],
+      "external_url": "https://www.solulab.com/daml-smart-contract-audit/",
+      "source_url": "https://www.solulab.com/daml-smart-contract-audit/",
+      "original_url": "https://www.solulab.com/daml-smart-contract-audit/",
+      "source": "SoluLab",
+      "publisher": "SoluLab",
+      "links": [
+        {
+          "source": "SoluLab",
+          "url": "https://www.solulab.com/daml-smart-contract-audit/"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/price-analysis/"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1406-est",
+      "slug": "p2p-org-joins-canton-as-validator-with-10b-under-management",
+      "title": "P2P.org joins Canton as validator with $10B under management",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 2:06 PM ET)\n\n- **P2P.org joins Canton as validator with $10B under management** — P2P.org, a staking infrastructure provider reporting more than $10 billion in assets under management across more than 40 blockchain networks, has joined the Canton Network as a validator, placing it alongside institutional participants including Goldman Sachs, JPMorgan and Citi; product manager Jonathan Reisman said blockchains are often not designed with institutional requirements in mind, while Canton enables secure, privacy-preserving transactions aligned with institutional standards, and Canton Coin is distributed based on user activity and contributions rather than staking yield (AInvest)\n- **Canton pilot links 22 apps across 350 simulated trades** — In March 2024, Digital Asset and leading market participants completed the Canton Network pilot, demonstrating the interoperability of twenty-two independent distributed ledger applications in the capital markets domain, with more than 350 simulated transactions executed to show how interoperable applications can connect to enable secure, atomic transactions across multiple parts of the capital markets value chain (Bitget)\n- **Canton open interest reads $26.1M in second derivatives aggregate** — Coinalyze's latest aggregate puts Canton Coin futures open interest at $26.1 million, down 4.64%, with an average funding rate of positive 0.0042% and a predicted rate of positive 0.0064%; this is Coinalyze's own tracked-venue set, distinct from the wider CoinGlass aggregate cited in earlier editions, and the tracked liquidation total is not cited here because it matches a total already served today (Coinalyze)\n\nNetwork: Canton Coin (CC) trades at $0.07239, with a market cap of $2.90 billion (rank 26) and 24-hour trading volume of $6.08 million, down 5.44% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, live MainNet rewards over 24 hours read 10.7 million CC with current activity at 1.00 transactions per second on the live network counter (BitcoinValues, reporting CoinGecko data, for market data; CantonNews for the milestone).\n\nOriginal sources:\nAInvest: https://www.ainvest.com/news/big-banks-bet-canton-blockchain-meets-wall-street-rules-2509/\nBitget: https://web3.bitget.com/dapp/canton-network-29710\nCoinalyze: https://coinalyze.net/?ref=alphagrowth&p=3\nBitcoinValues: https://bitcoinvalues.net/coins/canton-network/",
+      "timestamp": "2026-11-22T14:06:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/p2p-org-joins-canton-as-validator-with-10b-under-management",
+      "image": null,
+      "source_links": [
+        {
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/big-banks-bet-canton-blockchain-meets-wall-street-rules-2509/"
+        },
+        {
+          "source": "Bitget",
+          "url": "https://web3.bitget.com/dapp/canton-network-29710"
+        },
+        {
+          "source": "Coinalyze",
+          "url": "https://coinalyze.net/?ref=alphagrowth&p=3"
+        },
+        {
+          "source": "BitcoinValues",
+          "url": "https://bitcoinvalues.net/coins/canton-network/"
+        }
+      ],
+      "external_url": "https://www.ainvest.com/news/big-banks-bet-canton-blockchain-meets-wall-street-rules-2509/",
+      "source_url": "https://www.ainvest.com/news/big-banks-bet-canton-blockchain-meets-wall-street-rules-2509/",
+      "original_url": "https://www.ainvest.com/news/big-banks-bet-canton-blockchain-meets-wall-street-rules-2509/",
+      "source": "AInvest",
+      "publisher": "AInvest",
+      "links": [
+        {
+          "source": "AInvest",
+          "url": "https://www.ainvest.com/news/big-banks-bet-canton-blockchain-meets-wall-street-rules-2509/"
+        },
+        {
+          "source": "Bitget",
+          "url": "https://web3.bitget.com/dapp/canton-network-29710"
+        },
+        {
+          "source": "Coinalyze",
+          "url": "https://coinalyze.net/?ref=alphagrowth&p=3"
+        },
+        {
+          "source": "BitcoinValues",
+          "url": "https://bitcoinvalues.net/coins/canton-network/"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1351-est",
+      "slug": "goldman-hkfmi-and-moody-s-join-canton-synchronizer-foundation",
+      "title": "Goldman, HKFMI and Moody's join Canton synchronizer foundation",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 1:51 PM ET)\n\n- **Goldman, HKFMI and Moody's join Canton synchronizer foundation** — On March 19, 2025, Goldman Sachs, Hong Kong FMI Services Limited and Moody's Ratings joined the Global Synchronizer Foundation as its newest members, taking a role in the governance and expansion of the Global Synchronizer, the Canton Network's interoperability backbone; the foundation said the additions joined more than 30 existing participants, including Broadridge, Tradeweb and Digital Asset, and would help keep the synchronizer governed transparently with organisational neutrality (Linux Foundation)\n- **Hydra X first APAC custodian to offer Canton Coin custody** — In November 2024, Hydra X, a crypto custodian regulated by the Monetary Authority of Singapore, became the first APAC custodian to provide custody for Canton Coin, extending regulated custody for the token into the Asia-Pacific region (Wikipedia)\n- **Canton funding reads 0.0092% with open interest at $32.70M** — CoinGlass's latest aggregate, updated November 23 at 03:02 UTC+8, puts the open-interest-weighted funding rate at 0.0092%, about 10.07% annualised and near the 0.01% baseline, up from 0.0088% recorded in the 12:21 PM edition, with futures open interest at $32.70 million, futures volume at $12.31 million against spot volume at $4.26 million and tracked liquidations at $4.94 thousand, all of them longs (CoinGlass)\n\nNetwork: Canton Coin (CC) trades at $0.0725, with a market cap of $2.91 billion and 24-hour trading volume of $6.14 million, down 5.01% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, total transactions reach 608.89 million, up from 608.87 million last cited in the 12:36 PM edition (CCTools).\n\nOriginal sources:\nLinux Foundation: https://www.linuxfoundation.org/press/largest-financial-institutions-join-the-global-synchronizer-foundation\nWikipedia: https://en.wikipedia.org/wiki/Canton_Network\nCoinGlass: https://www.coinglass.com/currencies/CC\nCCTools: https://cctools.network/network",
+      "timestamp": "2026-11-22T13:51:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/goldman-hkfmi-and-moody-s-join-canton-synchronizer-foundation",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Linux Foundation",
+          "url": "https://www.linuxfoundation.org/press/largest-financial-institutions-join-the-global-synchronizer-foundation"
+        },
+        {
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Canton_Network"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "external_url": "https://www.linuxfoundation.org/press/largest-financial-institutions-join-the-global-synchronizer-foundation",
+      "source_url": "https://www.linuxfoundation.org/press/largest-financial-institutions-join-the-global-synchronizer-foundation",
+      "original_url": "https://www.linuxfoundation.org/press/largest-financial-institutions-join-the-global-synchronizer-foundation",
+      "source": "Linux Foundation",
+      "publisher": "Linux Foundation",
+      "links": [
+        {
+          "source": "Linux Foundation",
+          "url": "https://www.linuxfoundation.org/press/largest-financial-institutions-join-the-global-synchronizer-foundation"
+        },
+        {
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Canton_Network"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_1251-est",
       "slug": "canton-development-fund-approves-14-3m-cc-in-two-grants",
       "title": "Canton Development Fund approves 14.3M CC in two grants",
