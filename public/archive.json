@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_0806-est",
+      "slug": "canton-coin-funding-hits-0-0100-as-open-interest-reaches-32-94m",
+      "title": "Canton Coin funding hits 0.0100% as open interest reaches $32.94M",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 8:06 AM ET)\n\n- **Canton Coin funding hits 0.0100% as open interest reaches $32.94M** — CoinGlass's latest aggregate, with data as of November 22 21:14 UTC+8, puts the open-interest-weighted funding rate at 0.0100%, about 10.92% annualised, up from 0.0047% recorded in the 6:51 AM edition, with futures open interest at $32.94 million, futures volume at $11.05 million against spot volume at $3.41 million; the tracked liquidation total is not cited here because it is unchanged from earlier editions today (CoinGlass)\n- **Canton total parties reach 957,205 in latest network read** — CCTools' latest network read, as of November 22 13:10 UTC, puts total parties at 957,205, up from 957,050 recorded in the 6:06 AM edition; this is the total party count, distinct from the validator and transaction counts cited in earlier editions today (CCTools)\n- **Canton DeFi locked value eases near $10.8M as DEX volume slips** — DefiLlama's latest chain read puts total value locked at $10.8 million, down 0.49% over 24 hours, with decentralised exchange volume at $16.78 million over 24 hours, down from $17.01 million recorded in the 6:06 AM edition, and perpetuals volume at $224,143 over 24 hours, with Temple still largest at $5.77 million, ahead of Alpend at $1.8 million and Cantex at $1.67 million across eight tracked protocols (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0740, with a market cap of $2.97 billion and 24-hour trading volume of $5.43 million, down 1.25% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton counts 1,581 validators with 13 Super Validators on the latest network read (CCTools).\n\nOriginal sources:\nCoinGlass: https://www.coinglass.com/currencies/CC\nCCTools: https://cctools.network/network\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "timestamp": "2026-11-22T08:06:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-coin-funding-hits-0-0100-as-open-interest-reaches-32-94m",
+      "image": null,
+      "source_links": [
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        }
+      ],
+      "external_url": "https://www.coinglass.com/currencies/CC",
+      "source_url": "https://www.coinglass.com/currencies/CC",
+      "original_url": "https://www.coinglass.com/currencies/CC",
+      "source": "CoinGlass",
+      "publisher": "CoinGlass",
+      "links": [
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_0651-est",
+      "slug": "canton-s-final-rule-delays-end-user-coin-transfers-by-24-hours",
+      "title": "Canton's final rule delays end-user coin transfers by 24 hours",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 6:51 AM ET)\n\n- **Canton's final rule delays end-user coin transfers by 24 hours** — The Canton Network Docs registry details CIP-0107, at Final status after approval on March 10, 2026, which supports a 24-hour submission delay between preparing and executing all Canton Coin end-user transactions; the delay applies to all token standard operations, making Canton Coin fully compliant with the token standard, and to the Canton Coin actions of creating, renewing and archiving preapprovals, purchasing traffic and tapping funds on DevNet (Canton Network Docs)\n- **Canton Coin futures funding rises to 0.0047% in the wider aggregate** — CoinGlass's latest aggregate, with data as of November 22 19:52 UTC+8, puts the open-interest-weighted funding rate at 0.0047%, about 5.18% annualised, up from 0.0033% recorded in the 6:06 AM edition, with futures open interest at $32.72 million, up 0.22% over 24 hours, futures volume at $10.70 million against spot volume at $3.30 million; the tracked liquidation total is not cited here because it is unchanged from earlier editions today (CoinGlass)\n- **Canton's synchronizer orders encrypted messages it never reads** — BSC News' explainer describes the Global Synchronizer as the shared coordination layer that lets parties on different Canton validators transact with one another: each Super Validator runs a sequencer, which timestamps and orders incoming messages, and a mediator, which collects approvals from the relevant parties, while both components handle only encrypted messages, so the synchronizer can see routing metadata but never transaction contents; ordering runs on a two-thirds Byzantine Fault Tolerant consensus, so the network keeps processing even if a subset of operators goes offline or acts incorrectly (BSC News)\n\nNetwork: Canton Coin (CC) trades at $0.0737, with a market cap of $2.95 billion and 24-hour trading volume of $5.39 million, down 0.75% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton sits directly below Avalanche by market capitalisation, about 1.4% behind Avalanche's $2.99 billion on the latest ranking read (CCTools for market data; Blockdeck for the milestone).\n\nOriginal sources:\nCanton Network Docs: https://docs.canton.network/ai-context/cip-registry\nCoinGlass: https://www.coinglass.com/currencies/CC\nBSC News: https://bsc.news/news/canton-global-synchronizer-encrypted-ordering\nCCTools: https://cctools.network/network",
+      "timestamp": "2026-11-22T06:51:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-s-final-rule-delays-end-user-coin-transfers-by-24-hours",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/ai-context/cip-registry"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "BSC News",
+          "url": "https://bsc.news/news/canton-global-synchronizer-encrypted-ordering"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "external_url": "https://docs.canton.network/ai-context/cip-registry",
+      "source_url": "https://docs.canton.network/ai-context/cip-registry",
+      "original_url": "https://docs.canton.network/ai-context/cip-registry",
+      "source": "Canton Network Docs",
+      "publisher": "Canton Network Docs",
+      "links": [
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/ai-context/cip-registry"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "BSC News",
+          "url": "https://bsc.news/news/canton-global-synchronizer-encrypted-ordering"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_0636-est",
       "slug": "canton-s-approved-free-preapproval-rule-gives-canton-coin-transfers-a-90-day-free-base-win",
       "title": "Canton's approved free preapproval rule gives Canton Coin transfers a 90-day free base window",
