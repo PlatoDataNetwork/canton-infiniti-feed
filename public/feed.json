@@ -29,8 +29,79 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-22T16:06:00-05:00",
+  "updated": "2026-11-22T17:06:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-22_1706-est",
+      "slug": "canton-coin-supply-up-14-2-in-a-year-as-burns-lag-minting",
+      "url": "https://canton.w3ai.io/feed/canton-coin-supply-up-14-2-in-a-year-as-burns-lag-minting",
+      "title": "Canton Coin supply up 14.2% in a year as burns lag minting",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 5:06 PM ET)\n\n- **Canton Coin supply up 14.2% in a year as burns lag minting** — Independent Canton research published in November, with data as of November 14–15, finds Canton Coin's circulating supply rose 14.2% over a year, and the authors of the universal-burn proposal put the trailing-year ratio of coins burned to coins minted at about 0.5, so issuance is still running at roughly twice the pace of the burn that traffic fees generate (Medium)\n- **New Canton validators need a Super Validator approval vote** — Canton's operator tiers are not open the way staking is on other chains: Super Validators vote to approve new validators, adding or removing a Super Validator itself requires a governance vote with a supermajority of existing Super Validator approval, applications to operate a validator node are reviewed by the Canton Foundation's Tokenomics Committee, and institutions that do not run their own node can instead connect through an approved node-as-a-service provider (Proof of Talk)\n- **Coin trackers list no maximum supply for Canton Coin** — CoinGecko and CoinMarketCap both return a null maximum supply for Canton Coin and report its circulating supply as equal to its total supply, with no locked tranche shown in the aggregator data reviewed in September, so the trackers place no fixed cap on the coin even though the Canton Coin white paper sets out a minting schedule of 100 billion coins over the Global Synchronizer's first ten years (Wurrly)\n\nNetwork: Canton Coin (CC) trades at $0.07239, with a market cap of $2.90 billion (rank 26) and 24-hour trading volume of $6.08 million, down 5.44% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (BitcoinValues, reporting CoinGecko figures).\n\nOriginal sources:\nMedium: https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6\nProof of Talk: https://proofoftalk.io/blog/canton-network-explained-regulated-institutions/\nWurrly: https://www.wurrly.org/research/canton/coin\nBitcoinValues: https://bitcoinvalues.net/coins/canton-network/",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 5:06 PM ET)<br/><br/>- **Canton Coin supply up 14.2% in a year as burns lag minting** — Independent Canton research published in November, with data as of November 14–15, finds Canton Coin&#x27;s circulating supply rose 14.2% over a year, and the authors of the universal-burn proposal put the trailing-year ratio of coins burned to coins minted at about 0.5, so issuance is still running at roughly twice the pace of the burn that traffic fees generate (Medium)<br/>- **New Canton validators need a Super Validator approval vote** — Canton&#x27;s operator tiers are not open the way staking is on other chains: Super Validators vote to approve new validators, adding or removing a Super Validator itself requires a governance vote with a supermajority of existing Super Validator approval, applications to operate a validator node are reviewed by the Canton Foundation&#x27;s Tokenomics Committee, and institutions that do not run their own node can instead connect through an approved node-as-a-service provider (Proof of Talk)<br/>- **Coin trackers list no maximum supply for Canton Coin** — CoinGecko and CoinMarketCap both return a null maximum supply for Canton Coin and report its circulating supply as equal to its total supply, with no locked tranche shown in the aggregator data reviewed in September, so the trackers place no fixed cap on the coin even though the Canton Coin white paper sets out a minting schedule of 100 billion coins over the Global Synchronizer&#x27;s first ten years (Wurrly)<br/><br/>Network: Canton Coin (CC) trades at $0.07239, with a market cap of $2.90 billion (rank 26) and 24-hour trading volume of $6.08 million, down 5.44% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (BitcoinValues, reporting CoinGecko figures).<br/><br/>Original sources:<br/>Medium: https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6<br/>Proof of Talk: https://proofoftalk.io/blog/canton-network-explained-regulated-institutions/<br/>Wurrly: https://www.wurrly.org/research/canton/coin<br/>BitcoinValues: https://bitcoinvalues.net/coins/canton-network/</p>",
+      "date_published": "2026-11-22T17:06:00-05:00",
+      "date_modified": "2026-11-22T17:06:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6",
+      "source_url": "https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6",
+      "original_url": "https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6",
+      "source": "Medium",
+      "publisher": "Medium",
+      "links": [
+        {
+          "source": "Medium",
+          "url": "https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6"
+        },
+        {
+          "source": "Proof of Talk",
+          "url": "https://proofoftalk.io/blog/canton-network-explained-regulated-institutions/"
+        },
+        {
+          "source": "Wurrly",
+          "url": "https://www.wurrly.org/research/canton/coin"
+        },
+        {
+          "source": "BitcoinValues",
+          "url": "https://bitcoinvalues.net/coins/canton-network/"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 5:06 PM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 5:06 PM ET)\n\n- **Canton Coin supply up 14.2% in a year as burns lag minting** — Independent Canton research published in November, with data as of November 14–15, finds Canton Coin's circulating supply rose 14.2% over a year, and the authors of the universal-burn proposal put the trailing-year ratio of coins burned to coins minted at about 0.5, so issuance is still running at roughly twice the pace of the burn that traffic fees generate (Medium)\n- **New Canton validators need a Super Validator approval vote** — Canton's operator tiers are not open the way staking is on other chains: Super Validators vote to approve new validators, adding or removing a Super Validator itself requires a governance vote with a supermajority of existing Super Validator approval, applications to operate a validator node are reviewed by the Canton Foundation's Tokenomics Committee, and institutions that do not run their own node can instead connect through an approved node-as-a-service provider (Proof of Talk)\n- **Coin trackers list no maximum supply for Canton Coin** — CoinGecko and CoinMarketCap both return a null maximum supply for Canton Coin and report its circulating supply as equal to its total supply, with no locked tranche shown in the aggregator data reviewed in September, so the trackers place no fixed cap on the coin even though the Canton Coin white paper sets out a minting schedule of 100 billion coins over the Global Synchronizer's first ten years (Wurrly)\n\nNetwork: Canton Coin (CC) trades at $0.07239, with a market cap of $2.90 billion (rank 26) and 24-hour trading volume of $6.08 million, down 5.44% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (BitcoinValues, reporting CoinGecko figures).\n\nOriginal sources:\nMedium: https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6\nProof of Talk: https://proofoftalk.io/blog/canton-network-explained-regulated-institutions/\nWurrly: https://www.wurrly.org/research/canton/coin\nBitcoinValues: https://bitcoinvalues.net/coins/canton-network/",
+      "image_url": null,
+      "published": "2026-11-22T17:06:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "Medium",
+          "url": "https://medium.com/@thetorvian/live-rails-unmeasured-demand-what-cantons-institutional-activity-tells-us-about-canton-coin-ac47b0d879b6"
+        },
+        {
+          "source": "Proof of Talk",
+          "url": "https://proofoftalk.io/blog/canton-network-explained-regulated-institutions/"
+        },
+        {
+          "source": "Wurrly",
+          "url": "https://www.wurrly.org/research/canton/coin"
+        },
+        {
+          "source": "BitcoinValues",
+          "url": "https://bitcoinvalues.net/coins/canton-network/"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-22_1606-est",
       "slug": "canton-funding-reads-0-0050-with-open-interest-at-32-33m",
@@ -7304,43 +7375,6 @@
       "body": "Canton Signal Feed (Nov 18, 2026 · 5:42 AM ET)\n- **DamlFuzz funding vote seeks a free, open-source tool to test Daml contracts for authorisation and privacy failures before users find them** — The vote, opened on November 14, would fund a fuzzer that tries many inputs and sequences of actions against contracts written in Daml, Canton's smart-contract language, checking rules about who can authorise an action and which parties can see the data; the proposed tool would run locally and fit into developers' regular testing, and the vote opening is a proposal stage, not an approved grant or a live tool (CantonNews)\n- **Party-Aware Daml Upgrade and Vetting Planner vote opens to check an application update before it changes a running system** — The separate November 14 vote would combine checks on software packages, dependencies and permissions into a reviewable plan, with vetting meaning declaring which application packages a participant supports; the proposed first version would inspect one participant and produce a plan without making changes itself, flagging gaps where information is missing rather than treating the whole network as ready (CantonNews)\n- **Supanova launchpad liquidity roughly doubles in its first week even as trading volume cools sharply from launch day** — AlphaMemeRadar's review of Supanova, which opened Canton's first memecoin launchpad on November 3, puts its liquidity page on November 11 at 5 pools loaded and $496.9K in total value locked, up from about $247,600 on November 4, while 24-hour volume fell about 95% to 451K CC from 9.73 million CC the day after launch; every trade on the launchpad runs against Canton Coin, tokens trade on a bonding curve with no gas fees and graduate into a liquidity pool, and the review notes a listing or graduation is not an endorsement or a safety check (AlphaMemeRadar)\n- **Canton Coin rebounds from its November 17 low in the latest daily history, rising to $0.08346 from $0.07937** — TrackLivePrice's November 18 daily history, based on CoinGecko data, puts Canton Coin at $0.08346, up from $0.07937 recorded for November 17 and below $0.08260 for November 16, with the move described in the latest snapshot as up 3.82% in 24 hours and down 5.97% over seven days; the daily rows are snapshots, not a forecast (TrackLivePrice)\n\nNetwork: CC $0.08346 | Market cap $3.34B (rank 25) | 24h volume $15.21M | Supply 40,072,068,785 CC, up 3.82% in 24 hours and down 5.97% over seven days as of the 16:10 IST November 18 read; milestone: live MainNet activity stands at 1.00 TPS with total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (TrackLivePrice for market data, reporting CoinGecko figures; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-18T05:42:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-18_0512-est",
-      "slug": "kann-audits-proposes-two-canton-security-projects-covering-independent-audits-of-core-comp",
-      "url": "https://canton.w3ai.io/feed/kann-audits-proposes-two-canton-security-projects-covering-independent-audits-of-core-comp",
-      "title": "Kann Audits proposes two Canton security projects, covering independent audits of core components and AI-assisted scanning of Daml code",
-      "content_text": "Canton Signal Feed (Nov 18, 2026 · 5:12 AM ET)\n- **Kann Audits proposes two Canton security projects, covering independent audits of core components and AI-assisted scanning of Daml code** — The two applications, submitted on November 14, seek assignments within the existing audit programme for independent audits of core components, with no new allocation requested and any work drawing on that programme's approved budget subject to selection, and the Canton Coin equivalent of $45,000 over nine months for an AI-assisted Daml security scanner that would include a catalogue of security weaknesses, developer-tool integration and three months of free access for each Canton team with a researcher reviewing its first scan; both applications still list a need for a champion to support them through the process, so they are proposals, not approved grants or audit appointments (CantonNews)\n- **National Bank of Cambodia is testing tokenized government bonds on Canton in an SBI Holdings proof of concept** — The test, reported on November 18 with interim results due at the Black Swan Summit on November 15 to 16, is separate from a yen stablecoin remittance trial, and service details and timing remain under discussion, so the work is a proof of concept rather than a live government-bond issuance on the network (CoinStats)\n- **Canborsa adds Anthropic-linked markets to its perpetuals venue, listing leverage of up to 10 times for both new tickers** — The ANT and ANTH markets announced on November 13 let traders take a position on price movements without owning Anthropic shares, with leverage amplifying losses as well as gains, and add another category of exposure to a venue that already supports Canton Coin as collateral (CantonNews)\n- **Canton Coin spot prices sit 5.57% apart across exchanges, with no spot route rated worth taking outright** — A live scan at 10:14 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.07952 and dearest on Bitstamp at $0.083952 across 13 exchanges with a liquid spot market, changed from 4.23% recorded on November 15, with the widest spot route, buying on MEXC and selling on LBank at 4.82% after fees, flagged as a suspect pair, and the best futures route long Toobit and short Hyperliquid at 0.09% after fees (ArbitrageGap)\n\nNetwork: CC $0.0847 | Market cap $3.39B (rank 25) | 24h volume $15.37M | Supply 40,071,474,310 CC, up 5.22% in 24 hours and down 5.32% over seven days as of the 10:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 6.4M CC, up from 6.1M CC in the 4:42 AM read, with current activity at 1.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (Criptano for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 5:12 AM ET)<br/>- **Kann Audits proposes two Canton security projects, covering independent audits of core components and AI-assisted scanning of Daml code** — The two applications, submitted on November 14, seek assignments within the existing audit programme for independent audits of core components, with no new allocation requested and any work drawing on that programme&#x27;s approved budget subject to selection, and the Canton Coin equivalent of $45,000 over nine months for an AI-assisted Daml security scanner that would include a catalogue of security weaknesses, developer-tool integration and three months of free access for each Canton team with a researcher reviewing its first scan; both applications still list a need for a champion to support them through the process, so they are proposals, not approved grants or audit appointments (CantonNews)<br/>- **National Bank of Cambodia is testing tokenized government bonds on Canton in an SBI Holdings proof of concept** — The test, reported on November 18 with interim results due at the Black Swan Summit on November 15 to 16, is separate from a yen stablecoin remittance trial, and service details and timing remain under discussion, so the work is a proof of concept rather than a live government-bond issuance on the network (CoinStats)<br/>- **Canborsa adds Anthropic-linked markets to its perpetuals venue, listing leverage of up to 10 times for both new tickers** — The ANT and ANTH markets announced on November 13 let traders take a position on price movements without owning Anthropic shares, with leverage amplifying losses as well as gains, and add another category of exposure to a venue that already supports Canton Coin as collateral (CantonNews)<br/>- **Canton Coin spot prices sit 5.57% apart across exchanges, with no spot route rated worth taking outright** — A live scan at 10:14 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.07952 and dearest on Bitstamp at $0.083952 across 13 exchanges with a liquid spot market, changed from 4.23% recorded on November 15, with the widest spot route, buying on MEXC and selling on LBank at 4.82% after fees, flagged as a suspect pair, and the best futures route long Toobit and short Hyperliquid at 0.09% after fees (ArbitrageGap)<br/><br/>Network: CC $0.0847 | Market cap $3.39B (rank 25) | 24h volume $15.37M | Supply 40,071,474,310 CC, up 5.22% in 24 hours and down 5.32% over seven days as of the 10:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 6.4M CC, up from 6.1M CC in the 4:42 AM read, with current activity at 1.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (Criptano for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-18T05:12:00-05:00",
-      "date_modified": "2026-11-18T05:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 18, 2026 · 5:12 AM ET",
-      "body": "Canton Signal Feed (Nov 18, 2026 · 5:12 AM ET)\n- **Kann Audits proposes two Canton security projects, covering independent audits of core components and AI-assisted scanning of Daml code** — The two applications, submitted on November 14, seek assignments within the existing audit programme for independent audits of core components, with no new allocation requested and any work drawing on that programme's approved budget subject to selection, and the Canton Coin equivalent of $45,000 over nine months for an AI-assisted Daml security scanner that would include a catalogue of security weaknesses, developer-tool integration and three months of free access for each Canton team with a researcher reviewing its first scan; both applications still list a need for a champion to support them through the process, so they are proposals, not approved grants or audit appointments (CantonNews)\n- **National Bank of Cambodia is testing tokenized government bonds on Canton in an SBI Holdings proof of concept** — The test, reported on November 18 with interim results due at the Black Swan Summit on November 15 to 16, is separate from a yen stablecoin remittance trial, and service details and timing remain under discussion, so the work is a proof of concept rather than a live government-bond issuance on the network (CoinStats)\n- **Canborsa adds Anthropic-linked markets to its perpetuals venue, listing leverage of up to 10 times for both new tickers** — The ANT and ANTH markets announced on November 13 let traders take a position on price movements without owning Anthropic shares, with leverage amplifying losses as well as gains, and add another category of exposure to a venue that already supports Canton Coin as collateral (CantonNews)\n- **Canton Coin spot prices sit 5.57% apart across exchanges, with no spot route rated worth taking outright** — A live scan at 10:14 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.07952 and dearest on Bitstamp at $0.083952 across 13 exchanges with a liquid spot market, changed from 4.23% recorded on November 15, with the widest spot route, buying on MEXC and selling on LBank at 4.82% after fees, flagged as a suspect pair, and the best futures route long Toobit and short Hyperliquid at 0.09% after fees (ArbitrageGap)\n\nNetwork: CC $0.0847 | Market cap $3.39B (rank 25) | 24h volume $15.37M | Supply 40,071,474,310 CC, up 5.22% in 24 hours and down 5.32% over seven days as of the 10:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours stand at 6.4M CC, up from 6.1M CC in the 4:42 AM read, with current activity at 1.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (Criptano for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-18T05:12:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
