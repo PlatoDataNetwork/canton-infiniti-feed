@@ -29,8 +29,79 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-22T08:06:00-05:00",
+  "updated": "2026-11-22T08:21:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-22_0821-est",
+      "slug": "canton-coin-burned-reads-14-4-million-in-latest-24-hour-window",
+      "url": "https://canton.w3ai.io/feed/canton-coin-burned-reads-14-4-million-in-latest-24-hour-window",
+      "title": "Canton Coin burned reads 14.4 million in latest 24-hour window",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 8:21 AM ET)\n\n- **Canton Coin burned reads 14.4 million in latest 24-hour window** — CCTools' rolling 24-hour window, as of the November 22 13:00 UTC read, puts burn at 14.4 million Canton Coin against app rewards at 14.0 million Canton Coin, moved from 14.5 million burned and 14.1 million in rewards cited in the 5:21 AM edition; this is the rolling window read, distinct from the November 21 calendar-day record of 15.8 million burned and 15.1 million in rewards cited in the 7:21 PM edition on November 21 (CCTools)\n- **Canton futures open interest reads $32.54M in latest venue read** — Coinfuty's latest read puts total futures open interest at $32.54 million, down 0.34% over 24 hours, with an open-interest-weighted funding rate of positive 0.0037% per four hours, futures volume at $10.75 million, an aggregate long/short ratio of 0.820 and Bybit largest at $10.85 million ahead of Binance at $9.85 million and Hyperliquid at $3.48 million; this is Coinfuty's own venue set, distinct from the wider CoinGlass aggregate cited in the 8:06 AM edition, and the tracked liquidation total is not cited here because it is unchanged from earlier editions today (Coinfuty)\n- **Tradecraft locked value eases to $1.36M in latest protocol read** — DefiLlama's latest protocol rankings put Tradecraft at $1.36 million in locked value, up 0.69% over 24 hours and down from $1.39 million recorded on November 21, as the fourth-largest of the eight tracked Canton protocols (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0737, with a market cap of $2.96 billion and 24-hour trading volume of $5.40 million, down 2.07% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, total Canton transactions reach 608.76 million on the latest network read (The Block for market data; CCTools for the milestone).\n\nOriginal sources:\nCCTools: https://cctools.network/network\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nThe Block: https://www.theblock.co/convert/cc-usd",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 8:21 AM ET)<br/><br/>- **Canton Coin burned reads 14.4 million in latest 24-hour window** — CCTools&#x27; rolling 24-hour window, as of the November 22 13:00 UTC read, puts burn at 14.4 million Canton Coin against app rewards at 14.0 million Canton Coin, moved from 14.5 million burned and 14.1 million in rewards cited in the 5:21 AM edition; this is the rolling window read, distinct from the November 21 calendar-day record of 15.8 million burned and 15.1 million in rewards cited in the 7:21 PM edition on November 21 (CCTools)<br/>- **Canton futures open interest reads $32.54M in latest venue read** — Coinfuty&#x27;s latest read puts total futures open interest at $32.54 million, down 0.34% over 24 hours, with an open-interest-weighted funding rate of positive 0.0037% per four hours, futures volume at $10.75 million, an aggregate long/short ratio of 0.820 and Bybit largest at $10.85 million ahead of Binance at $9.85 million and Hyperliquid at $3.48 million; this is Coinfuty&#x27;s own venue set, distinct from the wider CoinGlass aggregate cited in the 8:06 AM edition, and the tracked liquidation total is not cited here because it is unchanged from earlier editions today (Coinfuty)<br/>- **Tradecraft locked value eases to $1.36M in latest protocol read** — DefiLlama&#x27;s latest protocol rankings put Tradecraft at $1.36 million in locked value, up 0.69% over 24 hours and down from $1.39 million recorded on November 21, as the fourth-largest of the eight tracked Canton protocols (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0737, with a market cap of $2.96 billion and 24-hour trading volume of $5.40 million, down 2.07% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, total Canton transactions reach 608.76 million on the latest network read (The Block for market data; CCTools for the milestone).<br/><br/>Original sources:<br/>CCTools: https://cctools.network/network<br/>Coinfuty: https://www.coinfuty.com/coin/CC/open-interest<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true<br/>The Block: https://www.theblock.co/convert/cc-usd</p>",
+      "date_published": "2026-11-22T08:21:00-05:00",
+      "date_modified": "2026-11-22T08:21:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://cctools.network/network",
+      "source_url": "https://cctools.network/network",
+      "original_url": "https://cctools.network/network",
+      "source": "CCTools",
+      "publisher": "CCTools",
+      "links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/convert/cc-usd"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 8:21 AM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 8:21 AM ET)\n\n- **Canton Coin burned reads 14.4 million in latest 24-hour window** — CCTools' rolling 24-hour window, as of the November 22 13:00 UTC read, puts burn at 14.4 million Canton Coin against app rewards at 14.0 million Canton Coin, moved from 14.5 million burned and 14.1 million in rewards cited in the 5:21 AM edition; this is the rolling window read, distinct from the November 21 calendar-day record of 15.8 million burned and 15.1 million in rewards cited in the 7:21 PM edition on November 21 (CCTools)\n- **Canton futures open interest reads $32.54M in latest venue read** — Coinfuty's latest read puts total futures open interest at $32.54 million, down 0.34% over 24 hours, with an open-interest-weighted funding rate of positive 0.0037% per four hours, futures volume at $10.75 million, an aggregate long/short ratio of 0.820 and Bybit largest at $10.85 million ahead of Binance at $9.85 million and Hyperliquid at $3.48 million; this is Coinfuty's own venue set, distinct from the wider CoinGlass aggregate cited in the 8:06 AM edition, and the tracked liquidation total is not cited here because it is unchanged from earlier editions today (Coinfuty)\n- **Tradecraft locked value eases to $1.36M in latest protocol read** — DefiLlama's latest protocol rankings put Tradecraft at $1.36 million in locked value, up 0.69% over 24 hours and down from $1.39 million recorded on November 21, as the fourth-largest of the eight tracked Canton protocols (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0737, with a market cap of $2.96 billion and 24-hour trading volume of $5.40 million, down 2.07% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, total Canton transactions reach 608.76 million on the latest network read (The Block for market data; CCTools for the milestone).\n\nOriginal sources:\nCCTools: https://cctools.network/network\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nThe Block: https://www.theblock.co/convert/cc-usd",
+      "image_url": null,
+      "published": "2026-11-22T08:21:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/convert/cc-usd"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-22_0806-est",
       "slug": "canton-coin-funding-hits-0-0100-as-open-interest-reaches-32-94m",
@@ -6732,45 +6803,6 @@
       "body": "Canton Signal Feed (Nov 15, 2026 · 8:12 AM ET)\n- **Obsidian Systems' Python tools for Canton application teams pass their vote and are merged** — The 1.27 million CC proposal would generate Python classes from compiled Daml packages, saving developers from recreating those contract definitions by hand; the plan includes delivery and a year of maintenance, and passing and merging is not yet a delivered tool (CantonNews)\n- **Edel reports about $300,000 in stolen EDEL tokens, with the tokens sold or blocked by exchanges** — Edel reported the theft on November 12 and said it was working with authorities and exchanges to investigate, with all the stolen tokens either sold or blocked and a detailed post-mortem promised; it gave no breakdown between the two outcomes, and the notices do not identify the affected wallets or establish that Canton's network or Edel's other products were compromised (CantonNews)\n- **Canton DeFi locked value eases to $11.31 million as 24-hour DEX volume slips to $18.25 million** — DefiLlama's November 15 snapshot puts total value locked down 4.28% in 24 hours, down from $11.42 million recorded at 6:42 AM, with DEX volume at $18.25 million, down from $18.71 million, perps volume at $240,509, Temple still largest at $6.06 million ahead of Alpend at $1.87 million, Cantex at $1.75 million and Tradecraft at $1.44 million, across eight tracked protocols (DefiLlama)\n- **Canton Coin spot prices sit 4.16% apart across exchanges, with no route rated worth taking outright** — A live scan at 13:17 UTC on November 15 puts CC cheapest on WEEX at $0.07847 and dearest on OKX at $0.081736 across 11 exchanges with a liquid spot market, narrowed from 4.39% recorded at 7:42 AM; the widest route, buying on MEXC and selling on LBank at 3.65% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.62% after fees, and all 17 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.08138 | Market cap $3.26B (rank 22) | 24h volume $14.45M spot | Supply 40.06B CC; milestone: live MainNet rewards (24h) hold at 7.7M CC with current activity at 4.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (CoinGlass for market data; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-15T08:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-15_0742-est",
-      "slug": "dedaub-seeks-a-champion-for-damlsec-a-checker-that-scans-compiled-daml-packages-for-securi",
-      "url": "https://canton.w3ai.io/feed/dedaub-seeks-a-champion-for-damlsec-a-checker-that-scans-compiled-daml-packages-for-securi",
-      "title": "Dedaub seeks a champion for DamlSec, a checker that scans compiled Daml packages for security problems before deployment",
-      "content_text": "Canton Signal Feed (Nov 15, 2026 · 7:42 AM ET)\n- **Dedaub seeks a champion for DamlSec, a checker that scans compiled Daml packages for security problems before deployment** — The revised proposal under RFP 22 would check compiled Daml packages for security problems before they are deployed on Canton; Dedaub says its original request was closed during the Development Fund transition, and the revised submission remains a proposal seeking a champion, with no new approval established (CantonNews)\n- **PixelPlex proposes Canton Credentials for a consistent way to identify a party and the services it operates** — The draft aims to give Canton applications a shared way to identify a party and the services it operates; the team is validating a reference implementation and seeking feedback, so it is a discussion draft, not an adopted standard (CantonNews)\n- **Canton scores 75 out of 100 for institutional adoption, ranked fifth of 27 in a new comparison with Chainlink** — TokenSonar's November 15 comparison puts Canton at 75/100 and rank #5 against Chainlink at 65/100 and rank #10, with both classed as Bank Infrastructure and carrying 10 tracked institutional signals each; Canton's tracked partners include Goldman Sachs, BNY Mellon, BNP Paribas, Société Générale, DTCC and JPMorgan Chase, and the scores update twice daily from regulatory filings, named bank deployments, ETF flows and on-chain real-world-asset data rather than price action (TokenSonar)\n- **Canton Coin spot prices widen to 4.39% apart across exchanges, with no route rated worth taking outright** — A live scan at 13:11 UTC on November 15 puts CC cheapest on MEXC at $0.078219 and dearest on OKX at $0.081649 across 11 exchanges with a liquid spot market, widened from 3.22% recorded at 6:42 AM; the widest route, buying on MEXC and selling on OKX at 3.92% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.23% after fees, and all 16 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.08128 | Market cap $3.26B | 24h volume $21.66M | Supply 40.06B CC; milestone: live MainNet rewards (24h) rise to 7.7M CC, up from 7.1M at 6:42 AM, with current activity at 4.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (CoinDataFlow for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 15, 2026 · 7:42 AM ET)<br/>- **Dedaub seeks a champion for DamlSec, a checker that scans compiled Daml packages for security problems before deployment** — The revised proposal under RFP 22 would check compiled Daml packages for security problems before they are deployed on Canton; Dedaub says its original request was closed during the Development Fund transition, and the revised submission remains a proposal seeking a champion, with no new approval established (CantonNews)<br/>- **PixelPlex proposes Canton Credentials for a consistent way to identify a party and the services it operates** — The draft aims to give Canton applications a shared way to identify a party and the services it operates; the team is validating a reference implementation and seeking feedback, so it is a discussion draft, not an adopted standard (CantonNews)<br/>- **Canton scores 75 out of 100 for institutional adoption, ranked fifth of 27 in a new comparison with Chainlink** — TokenSonar&#x27;s November 15 comparison puts Canton at 75/100 and rank #5 against Chainlink at 65/100 and rank #10, with both classed as Bank Infrastructure and carrying 10 tracked institutional signals each; Canton&#x27;s tracked partners include Goldman Sachs, BNY Mellon, BNP Paribas, Société Générale, DTCC and JPMorgan Chase, and the scores update twice daily from regulatory filings, named bank deployments, ETF flows and on-chain real-world-asset data rather than price action (TokenSonar)<br/>- **Canton Coin spot prices widen to 4.39% apart across exchanges, with no route rated worth taking outright** — A live scan at 13:11 UTC on November 15 puts CC cheapest on MEXC at $0.078219 and dearest on OKX at $0.081649 across 11 exchanges with a liquid spot market, widened from 3.22% recorded at 6:42 AM; the widest route, buying on MEXC and selling on OKX at 3.92% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.23% after fees, and all 16 routes in profit are rated risky with none rated take (ArbitrageGap)<br/><br/>Network: CC $0.08128 | Market cap $3.26B | 24h volume $21.66M | Supply 40.06B CC; milestone: live MainNet rewards (24h) rise to 7.7M CC, up from 7.1M at 6:42 AM, with current activity at 4.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (CoinDataFlow for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-15T07:42:00-05:00",
-      "date_modified": "2026-11-15T07:42:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "5",
-        "10",
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 15, 2026 · 7:42 AM ET",
-      "body": "Canton Signal Feed (Nov 15, 2026 · 7:42 AM ET)\n- **Dedaub seeks a champion for DamlSec, a checker that scans compiled Daml packages for security problems before deployment** — The revised proposal under RFP 22 would check compiled Daml packages for security problems before they are deployed on Canton; Dedaub says its original request was closed during the Development Fund transition, and the revised submission remains a proposal seeking a champion, with no new approval established (CantonNews)\n- **PixelPlex proposes Canton Credentials for a consistent way to identify a party and the services it operates** — The draft aims to give Canton applications a shared way to identify a party and the services it operates; the team is validating a reference implementation and seeking feedback, so it is a discussion draft, not an adopted standard (CantonNews)\n- **Canton scores 75 out of 100 for institutional adoption, ranked fifth of 27 in a new comparison with Chainlink** — TokenSonar's November 15 comparison puts Canton at 75/100 and rank #5 against Chainlink at 65/100 and rank #10, with both classed as Bank Infrastructure and carrying 10 tracked institutional signals each; Canton's tracked partners include Goldman Sachs, BNY Mellon, BNP Paribas, Société Générale, DTCC and JPMorgan Chase, and the scores update twice daily from regulatory filings, named bank deployments, ETF flows and on-chain real-world-asset data rather than price action (TokenSonar)\n- **Canton Coin spot prices widen to 4.39% apart across exchanges, with no route rated worth taking outright** — A live scan at 13:11 UTC on November 15 puts CC cheapest on MEXC at $0.078219 and dearest on OKX at $0.081649 across 11 exchanges with a liquid spot market, widened from 3.22% recorded at 6:42 AM; the widest route, buying on MEXC and selling on OKX at 3.92% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.23% after fees, and all 16 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.08128 | Market cap $3.26B | 24h volume $21.66M | Supply 40.06B CC; milestone: live MainNet rewards (24h) rise to 7.7M CC, up from 7.1M at 6:42 AM, with current activity at 4.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (CoinDataFlow for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-15T07:42:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
