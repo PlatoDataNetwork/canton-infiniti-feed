@@ -29,8 +29,71 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-22T08:21:00-05:00",
+  "updated": "2026-11-22T08:36:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-22_0836-est",
+      "slug": "quantstamp-audit-of-canton-coin-found-no-high-or-medium-issues",
+      "url": "https://canton.w3ai.io/feed/quantstamp-audit-of-canton-coin-found-no-high-or-medium-issues",
+      "title": "Quantstamp audit of Canton Coin found no high or medium issues",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 8:36 AM ET)\n\n- **Quantstamp audit of Canton Coin found no high or medium issues** — Quantstamp's audit of the Canton Coin application, the Splice Amulet implementation, carried out from May 5 to June 26, 2025 at the request of the Global Synchronizer Foundation's Tokenomics working group under CIP-0057, recorded seven findings in total, none of high or medium severity: five low-severity issues, four of them fixed and one acknowledged, plus two informational items, both acknowledged; a fix review on July 11, 2025 confirmed every issue had been fixed or acknowledged with sufficient reasoning by the core Splice contributor team (Quantstamp)\n- **Alpend locked value climbs 1.52% in latest protocol read** — DefiLlama's latest protocol rankings put Alpend, the lending protocol, at $1.8 million in locked value, up 1.52% over 24 hours and 2.28% over seven days, holding second place among the eight tracked Canton protocols behind Temple at $5.77 million (DefiLlama)\n- **Canton closes to within 0.8% of Avalanche in market rankings** — Blockdeck's latest ranking read puts Canton at a $2.96 billion market capitalisation, ranked 26th, directly below Avalanche at $2.98 billion, so Canton would need to grow about 0.8% to pass it, narrowed from about 1.4% in the 6:51 AM edition's read, with Ripple USD directly below at $2.87 billion (Blockdeck)\n\nNetwork: Canton Coin (CC) trades at $0.0737, with a market cap of $2.96 billion (rank 26) and 24-hour trading volume of $5.4 million, down 1.29% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton counts 1,581 validators alongside 13 Super Validators on the latest network read (Blockdeck for market data; CCTools for the milestone).\n\nOriginal sources:\nQuantstamp: https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 8:36 AM ET)<br/><br/>- **Quantstamp audit of Canton Coin found no high or medium issues** — Quantstamp&#x27;s audit of the Canton Coin application, the Splice Amulet implementation, carried out from May 5 to June 26, 2025 at the request of the Global Synchronizer Foundation&#x27;s Tokenomics working group under CIP-0057, recorded seven findings in total, none of high or medium severity: five low-severity issues, four of them fixed and one acknowledged, plus two informational items, both acknowledged; a fix review on July 11, 2025 confirmed every issue had been fixed or acknowledged with sufficient reasoning by the core Splice contributor team (Quantstamp)<br/>- **Alpend locked value climbs 1.52% in latest protocol read** — DefiLlama&#x27;s latest protocol rankings put Alpend, the lending protocol, at $1.8 million in locked value, up 1.52% over 24 hours and 2.28% over seven days, holding second place among the eight tracked Canton protocols behind Temple at $5.77 million (DefiLlama)<br/>- **Canton closes to within 0.8% of Avalanche in market rankings** — Blockdeck&#x27;s latest ranking read puts Canton at a $2.96 billion market capitalisation, ranked 26th, directly below Avalanche at $2.98 billion, so Canton would need to grow about 0.8% to pass it, narrowed from about 1.4% in the 6:51 AM edition&#x27;s read, with Ripple USD directly below at $2.87 billion (Blockdeck)<br/><br/>Network: Canton Coin (CC) trades at $0.0737, with a market cap of $2.96 billion (rank 26) and 24-hour trading volume of $5.4 million, down 1.29% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton counts 1,581 validators alongside 13 Super Validators on the latest network read (Blockdeck for market data; CCTools for the milestone).<br/><br/>Original sources:<br/>Quantstamp: https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true<br/>Blockdeck: https://blockdeck.app/coin/canton-network</p>",
+      "date_published": "2026-11-22T08:36:00-05:00",
+      "date_modified": "2026-11-22T08:36:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html",
+      "source_url": "https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html",
+      "original_url": "https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html",
+      "source": "Quantstamp",
+      "publisher": "Quantstamp",
+      "links": [
+        {
+          "source": "Quantstamp",
+          "url": "https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 8:36 AM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 8:36 AM ET)\n\n- **Quantstamp audit of Canton Coin found no high or medium issues** — Quantstamp's audit of the Canton Coin application, the Splice Amulet implementation, carried out from May 5 to June 26, 2025 at the request of the Global Synchronizer Foundation's Tokenomics working group under CIP-0057, recorded seven findings in total, none of high or medium severity: five low-severity issues, four of them fixed and one acknowledged, plus two informational items, both acknowledged; a fix review on July 11, 2025 confirmed every issue had been fixed or acknowledged with sufficient reasoning by the core Splice contributor team (Quantstamp)\n- **Alpend locked value climbs 1.52% in latest protocol read** — DefiLlama's latest protocol rankings put Alpend, the lending protocol, at $1.8 million in locked value, up 1.52% over 24 hours and 2.28% over seven days, holding second place among the eight tracked Canton protocols behind Temple at $5.77 million (DefiLlama)\n- **Canton closes to within 0.8% of Avalanche in market rankings** — Blockdeck's latest ranking read puts Canton at a $2.96 billion market capitalisation, ranked 26th, directly below Avalanche at $2.98 billion, so Canton would need to grow about 0.8% to pass it, narrowed from about 1.4% in the 6:51 AM edition's read, with Ripple USD directly below at $2.87 billion (Blockdeck)\n\nNetwork: Canton Coin (CC) trades at $0.0737, with a market cap of $2.96 billion (rank 26) and 24-hour trading volume of $5.4 million, down 1.29% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton counts 1,581 validators alongside 13 Super Validators on the latest network read (Blockdeck for market data; CCTools for the milestone).\n\nOriginal sources:\nQuantstamp: https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "image_url": null,
+      "published": "2026-11-22T08:36:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "Quantstamp",
+          "url": "https://certificate.quantstamp.com/full/canton-coin-an-implementation-of-splice-amulet/d95ae8a5-34b5-4245-8afc-bfd5435e4632/index.html"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-22_0821-est",
       "slug": "canton-coin-burned-reads-14-4-million-in-latest-24-hour-window",
@@ -6766,43 +6829,6 @@
       "body": "Canton Signal Feed (Nov 15, 2026 · 9:12 AM ET)\n- **Progmat signs with Digital Asset to build tokenized Japanese government bonds on Canton, with live testing starting this month** — The memorandum of understanding announced November 10 will build tokenized Japanese government bonds, called tJGB, that keep the legal status of ordinary book-entry bonds; the first phase connects Progmat's issuance platform to Canton and to Japan's existing book-entry transfer register, a working group of more than 68 organizations formed in May begins live testing this month, and MUFG with three affiliates will test bond-for-cash settlement and the full repo lifecycle, with 24/7 programmable settlement as a target rather than a finished product; Progmat already handles 51 of Japan's 103 disclosed security-token deals, about ¥290.6 billion of ¥470.3 billion issued (Genfinity)\n- **Temple trades $15.6 million in 24 hours as Canton's largest spot venue, with an 88.8% share of spot volume** — The November 15 read at 14:24 UTC puts Temple first of four venues across five markets, led by CBTC/USDCx at $7 million, followed by BETH/USDCx at $2.5 million, CC/USDCx at $2.4 million, eXAU/USDCx at $2 million and eXAG/USDCx at $1.7 million (Canton Venues)\n- **Canton Coin spot prices widen to 4.61% apart across exchanges, with no route rated worth taking outright** — A live scan at 13:36 UTC on November 15 puts CC cheapest on MEXC at $0.078279 and dearest on Bitrue at $0.08189 across 11 exchanges with a liquid spot market, widened from 4.16% recorded at 8:12 AM; the widest route, buying on MEXC and selling on OKX at 4.06% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.61% after fees, and routes in profit carry caveats with none rated take (ArbitrageGap)\n- **Canton Coin futures open interest stands at $35.81 million as 24-hour liquidations reach $207,700, almost entirely longs** — CoinGlass puts open interest down 1.72% in 24 hours, with futures volume at $28.29 million, about 2.1 times spot volume of $13.67 million, tracked liquidations at $207,700 including $205,890 in longs against $1,820 in shorts, and an open-interest-weighted funding rate of -0.0213%, with shorts paying longs (CoinGlass)\n\nNetwork: CC $0.0817 | Market cap $3.27B (rank 25) | 24h volume $21.53M | Supply 40.06B CC; milestone: live MainNet rewards (24h) rise to 8.7M CC, up from 7.7M CC at 8:12 AM, with current activity at 2.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (BlocFolio for market data; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-15T09:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-15_0812-est",
-      "slug": "obsidian-systems-python-tools-for-canton-application-teams-pass-their-vote-and-are-merged",
-      "url": "https://canton.w3ai.io/feed/obsidian-systems-python-tools-for-canton-application-teams-pass-their-vote-and-are-merged",
-      "title": "Obsidian Systems' Python tools for Canton application teams pass their vote and are merged",
-      "content_text": "Canton Signal Feed (Nov 15, 2026 · 8:12 AM ET)\n- **Obsidian Systems' Python tools for Canton application teams pass their vote and are merged** — The 1.27 million CC proposal would generate Python classes from compiled Daml packages, saving developers from recreating those contract definitions by hand; the plan includes delivery and a year of maintenance, and passing and merging is not yet a delivered tool (CantonNews)\n- **Edel reports about $300,000 in stolen EDEL tokens, with the tokens sold or blocked by exchanges** — Edel reported the theft on November 12 and said it was working with authorities and exchanges to investigate, with all the stolen tokens either sold or blocked and a detailed post-mortem promised; it gave no breakdown between the two outcomes, and the notices do not identify the affected wallets or establish that Canton's network or Edel's other products were compromised (CantonNews)\n- **Canton DeFi locked value eases to $11.31 million as 24-hour DEX volume slips to $18.25 million** — DefiLlama's November 15 snapshot puts total value locked down 4.28% in 24 hours, down from $11.42 million recorded at 6:42 AM, with DEX volume at $18.25 million, down from $18.71 million, perps volume at $240,509, Temple still largest at $6.06 million ahead of Alpend at $1.87 million, Cantex at $1.75 million and Tradecraft at $1.44 million, across eight tracked protocols (DefiLlama)\n- **Canton Coin spot prices sit 4.16% apart across exchanges, with no route rated worth taking outright** — A live scan at 13:17 UTC on November 15 puts CC cheapest on WEEX at $0.07847 and dearest on OKX at $0.081736 across 11 exchanges with a liquid spot market, narrowed from 4.39% recorded at 7:42 AM; the widest route, buying on MEXC and selling on LBank at 3.65% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.62% after fees, and all 17 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.08138 | Market cap $3.26B (rank 22) | 24h volume $14.45M spot | Supply 40.06B CC; milestone: live MainNet rewards (24h) hold at 7.7M CC with current activity at 4.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (CoinGlass for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 15, 2026 · 8:12 AM ET)<br/>- **Obsidian Systems&#x27; Python tools for Canton application teams pass their vote and are merged** — The 1.27 million CC proposal would generate Python classes from compiled Daml packages, saving developers from recreating those contract definitions by hand; the plan includes delivery and a year of maintenance, and passing and merging is not yet a delivered tool (CantonNews)<br/>- **Edel reports about $300,000 in stolen EDEL tokens, with the tokens sold or blocked by exchanges** — Edel reported the theft on November 12 and said it was working with authorities and exchanges to investigate, with all the stolen tokens either sold or blocked and a detailed post-mortem promised; it gave no breakdown between the two outcomes, and the notices do not identify the affected wallets or establish that Canton&#x27;s network or Edel&#x27;s other products were compromised (CantonNews)<br/>- **Canton DeFi locked value eases to $11.31 million as 24-hour DEX volume slips to $18.25 million** — DefiLlama&#x27;s November 15 snapshot puts total value locked down 4.28% in 24 hours, down from $11.42 million recorded at 6:42 AM, with DEX volume at $18.25 million, down from $18.71 million, perps volume at $240,509, Temple still largest at $6.06 million ahead of Alpend at $1.87 million, Cantex at $1.75 million and Tradecraft at $1.44 million, across eight tracked protocols (DefiLlama)<br/>- **Canton Coin spot prices sit 4.16% apart across exchanges, with no route rated worth taking outright** — A live scan at 13:17 UTC on November 15 puts CC cheapest on WEEX at $0.07847 and dearest on OKX at $0.081736 across 11 exchanges with a liquid spot market, narrowed from 4.39% recorded at 7:42 AM; the widest route, buying on MEXC and selling on LBank at 3.65% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.62% after fees, and all 17 routes in profit are rated risky with none rated take (ArbitrageGap)<br/><br/>Network: CC $0.08138 | Market cap $3.26B (rank 22) | 24h volume $14.45M spot | Supply 40.06B CC; milestone: live MainNet rewards (24h) hold at 7.7M CC with current activity at 4.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (CoinGlass for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-15T08:12:00-05:00",
-      "date_modified": "2026-11-15T08:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 15, 2026 · 8:12 AM ET",
-      "body": "Canton Signal Feed (Nov 15, 2026 · 8:12 AM ET)\n- **Obsidian Systems' Python tools for Canton application teams pass their vote and are merged** — The 1.27 million CC proposal would generate Python classes from compiled Daml packages, saving developers from recreating those contract definitions by hand; the plan includes delivery and a year of maintenance, and passing and merging is not yet a delivered tool (CantonNews)\n- **Edel reports about $300,000 in stolen EDEL tokens, with the tokens sold or blocked by exchanges** — Edel reported the theft on November 12 and said it was working with authorities and exchanges to investigate, with all the stolen tokens either sold or blocked and a detailed post-mortem promised; it gave no breakdown between the two outcomes, and the notices do not identify the affected wallets or establish that Canton's network or Edel's other products were compromised (CantonNews)\n- **Canton DeFi locked value eases to $11.31 million as 24-hour DEX volume slips to $18.25 million** — DefiLlama's November 15 snapshot puts total value locked down 4.28% in 24 hours, down from $11.42 million recorded at 6:42 AM, with DEX volume at $18.25 million, down from $18.71 million, perps volume at $240,509, Temple still largest at $6.06 million ahead of Alpend at $1.87 million, Cantex at $1.75 million and Tradecraft at $1.44 million, across eight tracked protocols (DefiLlama)\n- **Canton Coin spot prices sit 4.16% apart across exchanges, with no route rated worth taking outright** — A live scan at 13:17 UTC on November 15 puts CC cheapest on WEEX at $0.07847 and dearest on OKX at $0.081736 across 11 exchanges with a liquid spot market, narrowed from 4.39% recorded at 7:42 AM; the widest route, buying on MEXC and selling on LBank at 3.65% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.62% after fees, and all 17 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.08138 | Market cap $3.26B (rank 22) | 24h volume $14.45M spot | Supply 40.06B CC; milestone: live MainNet rewards (24h) hold at 7.7M CC with current activity at 4.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (CoinGlass for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-15T08:12:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
