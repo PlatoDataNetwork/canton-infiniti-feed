@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_1506-est",
+      "slug": "canton-super-validators-validate-every-canton-coin-transfer",
+      "title": "Canton Super Validators validate every Canton Coin transfer",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 3:06 PM ET)\n\n- **Canton Super Validators validate every Canton Coin transfer** — BSC News' explainer sets out the two-tier validator design: Super Validators are invite-only institutions that combine a validator with a Global Synchronizer node, validate every Canton Coin transfer across the network, run shared services such as the Canton Name Service and take part in Byzantine fault tolerant consensus, while a standard validator validates only the transactions its operator is directly involved in; a small set of about 13 infrastructure Super Validators has run since genesis, and counting both tiers the set reached 55 operators in May 2026 (BSC News)\n- **Canton proposals reach 645 with 14 now in progress** — CCTools' governance read as of November 22 at 19:10 UTC puts total Canton proposals at 645, with 14 in progress, 576 executed and 45 rejected for a 93% approval rate, up from 642 total proposals with 11 in progress recorded on November 21 (CCTools)\n- **Wrapped Canton Coin locked value reads $155,009** — DefiLlama's page for wCC, EA Finance's 1:1 wrapped representation of Canton Coin on EVM chains starting with BNB Smart Chain, puts locked value at $155,009 in the November 22 daily snapshot, up from the $152,796 all-time low recorded on November 21 (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.07245, with a market cap of $2.91 billion and 24-hour trading volume of $10.92 million, down 5.24% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, total Canton transactions reach 608.92 million on the latest network read (Crypto.com for market data; CCTools for the milestone).\n\nOriginal sources:\nBSC News: https://bsc.news/post/canton-network-super-validators\nCCTools: https://cctools.network/network\nDefiLlama: https://defillama.com/protocol/wcc\nCrypto.com: https://crypto.com/en/price/canton-network/usd",
+      "timestamp": "2026-11-22T15:06:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-super-validators-validate-every-canton-coin-transfer",
+      "image": null,
+      "source_links": [
+        {
+          "source": "BSC News",
+          "url": "https://bsc.news/post/canton-network-super-validators"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/protocol/wcc"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ],
+      "external_url": "https://bsc.news/post/canton-network-super-validators",
+      "source_url": "https://bsc.news/post/canton-network-super-validators",
+      "original_url": "https://bsc.news/post/canton-network-super-validators",
+      "source": "BSC News",
+      "publisher": "BSC News",
+      "links": [
+        {
+          "source": "BSC News",
+          "url": "https://bsc.news/post/canton-network-super-validators"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/protocol/wcc"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1451-est",
+      "slug": "okcoin-japan-goes-live-as-a-canton-validator-running-on-kiln",
+      "title": "OKCoin Japan goes live as a Canton validator running on Kiln",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 2:51 PM ET)\n\n- **OKCoin Japan goes live as a Canton validator running on Kiln** — OKCoin Japan (OKJ), the Financial Services Agency-registered Japanese exchange in the OK Group, went live as a validator on the Canton Network running on Kiln's infrastructure, in an announcement dated November 13, 2025; Kiln, itself a Canton Super Validator, handles the technical operations while OKJ validates transactions, and Kiln cites $16 billion in delegated assets across more than 50,000 validator nodes reached in 2025 (Kiln)\n- **Canton Coin burned reads 14.1 million in latest 24-hour window** — CCTools' rolling 24-hour window, as of the November 22 19:00 UTC read, puts burn at 14.1 million Canton Coin against app rewards at 13.8 million Canton Coin, eased from 14.4 million burned cited earlier today (CCTools)\n- **Canton Coin futures funding reads 0.0067% in wider aggregate** — CoinGlass's latest aggregate puts the open-interest-weighted funding rate at 0.0067%, about 7.36% annualised, with futures open interest at $32.60 million, futures volume at $12.37 million against spot volume at $4.31 million and tracked liquidations at $4.94 thousand over 24 hours (CoinGlass)\n\nNetwork: Canton Coin (CC) trades at $0.0720, with a market cap of $2.89 billion and 24-hour trading volume of $6.13 million, down 5.30% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, total parties reach 957,770 on the latest network read (CCTools).\n\nOriginal sources:\nKiln: https://www.kiln.fi/post/okcoin-japan-partners-with-kiln-to-launch-as-canton-network-validator\nCCTools: https://cctools.network/network\nCoinGlass: https://www.coinglass.com/currencies/CC",
+      "timestamp": "2026-11-22T14:51:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/okcoin-japan-goes-live-as-a-canton-validator-running-on-kiln",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Kiln",
+          "url": "https://www.kiln.fi/post/okcoin-japan-partners-with-kiln-to-launch-as-canton-network-validator"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        }
+      ],
+      "external_url": "https://www.kiln.fi/post/okcoin-japan-partners-with-kiln-to-launch-as-canton-network-validator",
+      "source_url": "https://www.kiln.fi/post/okcoin-japan-partners-with-kiln-to-launch-as-canton-network-validator",
+      "original_url": "https://www.kiln.fi/post/okcoin-japan-partners-with-kiln-to-launch-as-canton-network-validator",
+      "source": "Kiln",
+      "publisher": "Kiln",
+      "links": [
+        {
+          "source": "Kiln",
+          "url": "https://www.kiln.fi/post/okcoin-japan-partners-with-kiln-to-launch-as-canton-network-validator"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_1436-est",
       "slug": "canton-coin-mica-white-paper-caps-issuance-near-100b-over-decade",
       "title": "Canton Coin MiCA white paper caps issuance near 100B over decade",
