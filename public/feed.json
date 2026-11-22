@@ -29,8 +29,88 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-22T08:36:00-05:00",
+  "updated": "2026-11-22T09:36:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-22_0936-est",
+      "slug": "jpmorgan-to-bring-jpm-coin-natively-to-canton-network",
+      "url": "https://canton.w3ai.io/feed/jpmorgan-to-bring-jpm-coin-natively-to-canton-network",
+      "title": "JPMorgan to bring JPM Coin natively to Canton Network",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 9:36 AM ET)\n\n- **JPMorgan to bring JPM Coin natively to Canton Network** — Digital Asset and Kinexys by JPMorgan announced on January 7, 2026 that they plan to bring JPM Coin, the bank's USD-denominated deposit token (JPMD), natively to Canton, in a phased integration through 2026 that first builds the technical and business frameworks to issue, transfer and redeem the token near instantly; Canton would be JPM Coin's second public blockchain after its November 2025 launch on Base, and the partners plan to explore bringing other Kinexys Digital Payments products, including blockchain deposit accounts, to the network (CoinMarketCap)\n- **Canton MainNet upgrade moves ordering to parallel validators** — Canton's October 10, 2026 MainNet upgrade replaced single-leader transaction ordering with multiple validators ordering in parallel, with more than 800 nodes switching over with almost no downtime; Digital Asset's figure of more than 2,500 transactions per second is a design target for the new ordering system, not a confirmed live-network result (CoinMarketCap)\n- **Canton Coin funding eases to 0.0052% as open interest slips** — CoinGlass's latest aggregate, with data as of November 22 22:46 UTC+8, puts the open-interest-weighted funding rate at 0.0052%, about 5.71% annualised, eased from 0.0100% recorded in the 8:06 AM edition, with futures open interest at $32.24 million, futures volume at $10.99 million against spot volume at $3.55 million and tracked liquidations at $470.60, moved from the $402.18 total frozen across earlier editions today (CoinGlass)\n- **Canton DEX volume eases to $16.39M in latest chain read** — DefiLlama's latest chain read puts decentralised exchange volume at $16.39 million over 24 hours, down from $16.78 million recorded in the 8:06 AM edition, with perpetuals volume at $222,309 over 24 hours and Temple still the largest of the eight tracked protocols at $5.71 million, ahead of Alpend at $1.79 million and Cantex at $1.66 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0727, with a market cap of $2.92 billion and 24-hour trading volume of $5.30 million, down 5.12% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton's issuance rounds reach round #122,822, with about 139,978 rounds remaining before the Epoch 3 halving cuts issuance by 50% (CCTools).\n\nOriginal sources:\nCoinMarketCap: https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1\nCoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCCTools: https://cctools.network/network",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 9:36 AM ET)<br/><br/>- **JPMorgan to bring JPM Coin natively to Canton Network** — Digital Asset and Kinexys by JPMorgan announced on January 7, 2026 that they plan to bring JPM Coin, the bank&#x27;s USD-denominated deposit token (JPMD), natively to Canton, in a phased integration through 2026 that first builds the technical and business frameworks to issue, transfer and redeem the token near instantly; Canton would be JPM Coin&#x27;s second public blockchain after its November 2025 launch on Base, and the partners plan to explore bringing other Kinexys Digital Payments products, including blockchain deposit accounts, to the network (CoinMarketCap)<br/>- **Canton MainNet upgrade moves ordering to parallel validators** — Canton&#x27;s October 10, 2026 MainNet upgrade replaced single-leader transaction ordering with multiple validators ordering in parallel, with more than 800 nodes switching over with almost no downtime; Digital Asset&#x27;s figure of more than 2,500 transactions per second is a design target for the new ordering system, not a confirmed live-network result (CoinMarketCap)<br/>- **Canton Coin funding eases to 0.0052% as open interest slips** — CoinGlass&#x27;s latest aggregate, with data as of November 22 22:46 UTC+8, puts the open-interest-weighted funding rate at 0.0052%, about 5.71% annualised, eased from 0.0100% recorded in the 8:06 AM edition, with futures open interest at $32.24 million, futures volume at $10.99 million against spot volume at $3.55 million and tracked liquidations at $470.60, moved from the $402.18 total frozen across earlier editions today (CoinGlass)<br/>- **Canton DEX volume eases to $16.39M in latest chain read** — DefiLlama&#x27;s latest chain read puts decentralised exchange volume at $16.39 million over 24 hours, down from $16.78 million recorded in the 8:06 AM edition, with perpetuals volume at $222,309 over 24 hours and Temple still the largest of the eight tracked protocols at $5.71 million, ahead of Alpend at $1.79 million and Cantex at $1.66 million (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0727, with a market cap of $2.92 billion and 24-hour trading volume of $5.30 million, down 5.12% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton&#x27;s issuance rounds reach round #122,822, with about 139,978 rounds remaining before the Epoch 3 halving cuts issuance by 50% (CCTools).<br/><br/>Original sources:<br/>CoinMarketCap: https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1<br/>CoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/<br/>CoinGlass: https://www.coinglass.com/currencies/CC<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true<br/>CCTools: https://cctools.network/network</p>",
+      "date_published": "2026-11-22T09:36:00-05:00",
+      "date_modified": "2026-11-22T09:36:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "122",
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1",
+      "source_url": "https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1",
+      "original_url": "https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1",
+      "source": "CoinMarketCap",
+      "publisher": "CoinMarketCap",
+      "links": [
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 9:36 AM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 9:36 AM ET)\n\n- **JPMorgan to bring JPM Coin natively to Canton Network** — Digital Asset and Kinexys by JPMorgan announced on January 7, 2026 that they plan to bring JPM Coin, the bank's USD-denominated deposit token (JPMD), natively to Canton, in a phased integration through 2026 that first builds the technical and business frameworks to issue, transfer and redeem the token near instantly; Canton would be JPM Coin's second public blockchain after its November 2025 launch on Base, and the partners plan to explore bringing other Kinexys Digital Payments products, including blockchain deposit accounts, to the network (CoinMarketCap)\n- **Canton MainNet upgrade moves ordering to parallel validators** — Canton's October 10, 2026 MainNet upgrade replaced single-leader transaction ordering with multiple validators ordering in parallel, with more than 800 nodes switching over with almost no downtime; Digital Asset's figure of more than 2,500 transactions per second is a design target for the new ordering system, not a confirmed live-network result (CoinMarketCap)\n- **Canton Coin funding eases to 0.0052% as open interest slips** — CoinGlass's latest aggregate, with data as of November 22 22:46 UTC+8, puts the open-interest-weighted funding rate at 0.0052%, about 5.71% annualised, eased from 0.0100% recorded in the 8:06 AM edition, with futures open interest at $32.24 million, futures volume at $10.99 million against spot volume at $3.55 million and tracked liquidations at $470.60, moved from the $402.18 total frozen across earlier editions today (CoinGlass)\n- **Canton DEX volume eases to $16.39M in latest chain read** — DefiLlama's latest chain read puts decentralised exchange volume at $16.39 million over 24 hours, down from $16.78 million recorded in the 8:06 AM edition, with perpetuals volume at $222,309 over 24 hours and Temple still the largest of the eight tracked protocols at $5.71 million, ahead of Alpend at $1.79 million and Cantex at $1.66 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0727, with a market cap of $2.92 billion and 24-hour trading volume of $5.30 million, down 5.12% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton's issuance rounds reach round #122,822, with about 139,978 rounds remaining before the Epoch 3 halving cuts issuance by 50% (CCTools).\n\nOriginal sources:\nCoinMarketCap: https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1\nCoinMarketCap: https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/\nCoinGlass: https://www.coinglass.com/currencies/CC\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCCTools: https://cctools.network/network",
+      "image_url": null,
+      "published": "2026-11-22T09:36:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/academy/article/jpmorgan-expands-jpm-coin-to-canton-network-layer-1"
+        },
+        {
+          "source": "CoinMarketCap",
+          "url": "https://coinmarketcap.com/cmc-ai/canton-network/latest-updates/"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-22_0836-est",
       "slug": "quantstamp-audit-of-canton-coin-found-no-high-or-medium-issues",
@@ -6792,43 +6872,6 @@
       "body": "Canton Signal Feed (Nov 15, 2026 · 10:12 AM ET)\n- **About 79% of Canton transactions were executed privately over a 24-hour window in November** — Basis Desk's November 14 summary, drawing on Decrypt and CantonScan data, puts about 79% of updates across a 24-hour period in November as fully private, with participating nodes storing only data relevant to their leg of a transaction and Super Validators ordering encrypted state changes without accessing transaction payloads; it is a privacy-share snapshot from an explainer summary, not a new launch (Basis Desk)\n- **Tritemius expands its iOS wallet through TestFlight, adding Canton assets and two Lightning options** — The update adds support for cETH from onRails, HANDL from HandlPay and Edel's tokenized stock and index products labelled AAPL, MSTR, QQQ and SPY, plus a one-click Lightning option that needs no personal node and a personal-node option using Tritemius as controller; availability is through TestFlight, not a confirmed general App Store release, and the Lightning options do not mean Lightning transactions settle on Canton (CantonNews)\n- **R13N's Canton Reward Engine gets a fresh funding vote, for up to 3,636,363.64 CC** — The reopened vote covers software to help applications calculate and distribute rewards funded by campaign sponsors; the previous vote closed without passing after receiving no binding votes, which is different from members voting against it, and approval remains pending (CantonNews)\n- **MEXC's Featured App status is recommended for pause over Canton Coin locking requirements** — The Tokenomics Committee has recommended pausing MEXC's Featured Application status because it does not meet the Canton Coin locking requirements introduced by CIP-0116, meaning the exchange's party stops earning featured-app rewards until it complies; it is a committee recommendation reported November 12, not a delisting of Canton Coin from the exchange (CC Space)\n\nNetwork: CC $0.0820 | Market cap $3.28B (rank 25) | 24h volume $20.80M | Supply 40,057,309,502 CC; milestone: live MainNet rewards (24h) rise to 9.1M CC, up from 8.7M at 9:12 AM, with current activity at 5.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (Kaavon for market data; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-15T10:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-15_0912-est",
-      "slug": "progmat-signs-with-digital-asset-to-build-tokenized-japanese-government-bonds-on-canton-wi",
-      "url": "https://canton.w3ai.io/feed/progmat-signs-with-digital-asset-to-build-tokenized-japanese-government-bonds-on-canton-wi",
-      "title": "Progmat signs with Digital Asset to build tokenized Japanese government bonds on Canton, with live testing starting this month",
-      "content_text": "Canton Signal Feed (Nov 15, 2026 · 9:12 AM ET)\n- **Progmat signs with Digital Asset to build tokenized Japanese government bonds on Canton, with live testing starting this month** — The memorandum of understanding announced November 10 will build tokenized Japanese government bonds, called tJGB, that keep the legal status of ordinary book-entry bonds; the first phase connects Progmat's issuance platform to Canton and to Japan's existing book-entry transfer register, a working group of more than 68 organizations formed in May begins live testing this month, and MUFG with three affiliates will test bond-for-cash settlement and the full repo lifecycle, with 24/7 programmable settlement as a target rather than a finished product; Progmat already handles 51 of Japan's 103 disclosed security-token deals, about ¥290.6 billion of ¥470.3 billion issued (Genfinity)\n- **Temple trades $15.6 million in 24 hours as Canton's largest spot venue, with an 88.8% share of spot volume** — The November 15 read at 14:24 UTC puts Temple first of four venues across five markets, led by CBTC/USDCx at $7 million, followed by BETH/USDCx at $2.5 million, CC/USDCx at $2.4 million, eXAU/USDCx at $2 million and eXAG/USDCx at $1.7 million (Canton Venues)\n- **Canton Coin spot prices widen to 4.61% apart across exchanges, with no route rated worth taking outright** — A live scan at 13:36 UTC on November 15 puts CC cheapest on MEXC at $0.078279 and dearest on Bitrue at $0.08189 across 11 exchanges with a liquid spot market, widened from 4.16% recorded at 8:12 AM; the widest route, buying on MEXC and selling on OKX at 4.06% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.61% after fees, and routes in profit carry caveats with none rated take (ArbitrageGap)\n- **Canton Coin futures open interest stands at $35.81 million as 24-hour liquidations reach $207,700, almost entirely longs** — CoinGlass puts open interest down 1.72% in 24 hours, with futures volume at $28.29 million, about 2.1 times spot volume of $13.67 million, tracked liquidations at $207,700 including $205,890 in longs against $1,820 in shorts, and an open-interest-weighted funding rate of -0.0213%, with shorts paying longs (CoinGlass)\n\nNetwork: CC $0.0817 | Market cap $3.27B (rank 25) | 24h volume $21.53M | Supply 40.06B CC; milestone: live MainNet rewards (24h) rise to 8.7M CC, up from 7.7M CC at 8:12 AM, with current activity at 2.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (BlocFolio for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 15, 2026 · 9:12 AM ET)<br/>- **Progmat signs with Digital Asset to build tokenized Japanese government bonds on Canton, with live testing starting this month** — The memorandum of understanding announced November 10 will build tokenized Japanese government bonds, called tJGB, that keep the legal status of ordinary book-entry bonds; the first phase connects Progmat&#x27;s issuance platform to Canton and to Japan&#x27;s existing book-entry transfer register, a working group of more than 68 organizations formed in May begins live testing this month, and MUFG with three affiliates will test bond-for-cash settlement and the full repo lifecycle, with 24/7 programmable settlement as a target rather than a finished product; Progmat already handles 51 of Japan&#x27;s 103 disclosed security-token deals, about ¥290.6 billion of ¥470.3 billion issued (Genfinity)<br/>- **Temple trades $15.6 million in 24 hours as Canton&#x27;s largest spot venue, with an 88.8% share of spot volume** — The November 15 read at 14:24 UTC puts Temple first of four venues across five markets, led by CBTC/USDCx at $7 million, followed by BETH/USDCx at $2.5 million, CC/USDCx at $2.4 million, eXAU/USDCx at $2 million and eXAG/USDCx at $1.7 million (Canton Venues)<br/>- **Canton Coin spot prices widen to 4.61% apart across exchanges, with no route rated worth taking outright** — A live scan at 13:36 UTC on November 15 puts CC cheapest on MEXC at $0.078279 and dearest on Bitrue at $0.08189 across 11 exchanges with a liquid spot market, widened from 4.16% recorded at 8:12 AM; the widest route, buying on MEXC and selling on OKX at 4.06% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.61% after fees, and routes in profit carry caveats with none rated take (ArbitrageGap)<br/>- **Canton Coin futures open interest stands at $35.81 million as 24-hour liquidations reach $207,700, almost entirely longs** — CoinGlass puts open interest down 1.72% in 24 hours, with futures volume at $28.29 million, about 2.1 times spot volume of $13.67 million, tracked liquidations at $207,700 including $205,890 in longs against $1,820 in shorts, and an open-interest-weighted funding rate of -0.0213%, with shorts paying longs (CoinGlass)<br/><br/>Network: CC $0.0817 | Market cap $3.27B (rank 25) | 24h volume $21.53M | Supply 40.06B CC; milestone: live MainNet rewards (24h) rise to 8.7M CC, up from 7.7M CC at 8:12 AM, with current activity at 2.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (BlocFolio for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-15T09:12:00-05:00",
-      "date_modified": "2026-11-15T09:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 15, 2026 · 9:12 AM ET",
-      "body": "Canton Signal Feed (Nov 15, 2026 · 9:12 AM ET)\n- **Progmat signs with Digital Asset to build tokenized Japanese government bonds on Canton, with live testing starting this month** — The memorandum of understanding announced November 10 will build tokenized Japanese government bonds, called tJGB, that keep the legal status of ordinary book-entry bonds; the first phase connects Progmat's issuance platform to Canton and to Japan's existing book-entry transfer register, a working group of more than 68 organizations formed in May begins live testing this month, and MUFG with three affiliates will test bond-for-cash settlement and the full repo lifecycle, with 24/7 programmable settlement as a target rather than a finished product; Progmat already handles 51 of Japan's 103 disclosed security-token deals, about ¥290.6 billion of ¥470.3 billion issued (Genfinity)\n- **Temple trades $15.6 million in 24 hours as Canton's largest spot venue, with an 88.8% share of spot volume** — The November 15 read at 14:24 UTC puts Temple first of four venues across five markets, led by CBTC/USDCx at $7 million, followed by BETH/USDCx at $2.5 million, CC/USDCx at $2.4 million, eXAU/USDCx at $2 million and eXAG/USDCx at $1.7 million (Canton Venues)\n- **Canton Coin spot prices widen to 4.61% apart across exchanges, with no route rated worth taking outright** — A live scan at 13:36 UTC on November 15 puts CC cheapest on MEXC at $0.078279 and dearest on Bitrue at $0.08189 across 11 exchanges with a liquid spot market, widened from 4.16% recorded at 8:12 AM; the widest route, buying on MEXC and selling on OKX at 4.06% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.61% after fees, and routes in profit carry caveats with none rated take (ArbitrageGap)\n- **Canton Coin futures open interest stands at $35.81 million as 24-hour liquidations reach $207,700, almost entirely longs** — CoinGlass puts open interest down 1.72% in 24 hours, with futures volume at $28.29 million, about 2.1 times spot volume of $13.67 million, tracked liquidations at $207,700 including $205,890 in longs against $1,820 in shorts, and an open-interest-weighted funding rate of -0.0213%, with shorts paying longs (CoinGlass)\n\nNetwork: CC $0.0817 | Market cap $3.27B (rank 25) | 24h volume $21.53M | Supply 40.06B CC; milestone: live MainNet rewards (24h) rise to 8.7M CC, up from 7.7M CC at 8:12 AM, with current activity at 2.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (BlocFolio for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-15T09:12:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
