@@ -29,8 +29,150 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-21T20:51:00-05:00",
+  "updated": "2026-11-21T22:06:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-21_2206-est",
+      "slug": "canton-app-fees-fall-to-7-130-as-token-incentives-read-1-62-million-in-the-latest-chain-re",
+      "url": "https://canton.w3ai.io/feed/canton-app-fees-fall-to-7-130-as-token-incentives-read-1-62-million-in-the-latest-chain-re",
+      "title": "Canton app fees fall to $7,130 as token incentives read $1.62 million in the latest chain read",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 10:06 PM ET)\n\n- **Canton app fees fall to $7,130 as token incentives read $1.62 million in the latest chain read** — DefiLlama's latest chain read puts app fees at $7,130 over 24 hours, down from $7,486, the figure recorded in every chain read earlier today, with token incentives at $1.62 million over 24 hours, total value locked at $10.95 million and Temple still largest at $5.91 million, up from $5.86 million recorded in the 8:06 PM edition, ahead of Alpend at $1.82 million and Cantex at $1.69 million across eight tracked protocols (DefiLlama)\n- **Canton Coin's open-interest-weighted futures funding eases to positive 0.0015% as open interest reads $32.87 million** — Coinfuty's latest read puts the open-interest-weighted funding rate at positive 0.0015% per four hours, eased from positive 0.0025% recorded in the 8:51 PM edition, with total futures open interest at $32.87 million, down 0.64% over 24 hours, futures volume at $12.04 million, a long/short ratio of 0.854 and Bybit largest at $11.14 million ahead of Binance at $9.93 million; the tracked liquidation total is not cited here because it is unchanged from earlier reads today (Coinfuty)\n- **Canton Coin burned reads 15.5 million in the latest 24-hour window, with app rewards at 14.8 million** — CCTools' rolling 24-hour window, as of the November 22 03:00 UTC read, puts burn at 15.5 million Canton Coin against app rewards at 14.8 million Canton Coin; this is the rolling window read, distinct from the November 21 calendar-day record of 15.8 million burned and 15.1 million in rewards cited in the 7:21 PM edition and from the previous rolling window of 15.7 million burned and 14.9 million in rewards cited in the 8:06 PM edition (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.07534, with a market cap of $3.02 billion (rank 31) and 24-hour trading volume of $6.99 million, up 0.77% in 24 hours, with circulating supply of 40,099,988,997 CC at the November 21 read; as a network milestone, total Canton transactions reach 608.51 million on the latest network read (The Block for market data; CCTools for the milestone).\n\nOriginal sources:\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nCCTools: https://cctools.network/network\nThe Block: https://www.theblock.co/price/canton",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 10:06 PM ET)<br/><br/>- **Canton app fees fall to $7,130 as token incentives read $1.62 million in the latest chain read** — DefiLlama&#x27;s latest chain read puts app fees at $7,130 over 24 hours, down from $7,486, the figure recorded in every chain read earlier today, with token incentives at $1.62 million over 24 hours, total value locked at $10.95 million and Temple still largest at $5.91 million, up from $5.86 million recorded in the 8:06 PM edition, ahead of Alpend at $1.82 million and Cantex at $1.69 million across eight tracked protocols (DefiLlama)<br/>- **Canton Coin&#x27;s open-interest-weighted futures funding eases to positive 0.0015% as open interest reads $32.87 million** — Coinfuty&#x27;s latest read puts the open-interest-weighted funding rate at positive 0.0015% per four hours, eased from positive 0.0025% recorded in the 8:51 PM edition, with total futures open interest at $32.87 million, down 0.64% over 24 hours, futures volume at $12.04 million, a long/short ratio of 0.854 and Bybit largest at $11.14 million ahead of Binance at $9.93 million; the tracked liquidation total is not cited here because it is unchanged from earlier reads today (Coinfuty)<br/>- **Canton Coin burned reads 15.5 million in the latest 24-hour window, with app rewards at 14.8 million** — CCTools&#x27; rolling 24-hour window, as of the November 22 03:00 UTC read, puts burn at 15.5 million Canton Coin against app rewards at 14.8 million Canton Coin; this is the rolling window read, distinct from the November 21 calendar-day record of 15.8 million burned and 15.1 million in rewards cited in the 7:21 PM edition and from the previous rolling window of 15.7 million burned and 14.9 million in rewards cited in the 8:06 PM edition (CCTools)<br/><br/>Network: Canton Coin (CC) trades at $0.07534, with a market cap of $3.02 billion (rank 31) and 24-hour trading volume of $6.99 million, up 0.77% in 24 hours, with circulating supply of 40,099,988,997 CC at the November 21 read; as a network milestone, total Canton transactions reach 608.51 million on the latest network read (The Block for market data; CCTools for the milestone).<br/><br/>Original sources:<br/>DefiLlama: https://defillama.com/chain/canton?tvl=false&amp;events=false&amp;incentives=true<br/>Coinfuty: https://www.coinfuty.com/coin/CC/open-interest<br/>CCTools: https://cctools.network/network<br/>The Block: https://www.theblock.co/price/canton</p>",
+      "date_published": "2026-11-21T22:06:00-05:00",
+      "date_modified": "2026-11-21T22:06:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "source_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "original_url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true",
+      "source": "DefiLlama",
+      "publisher": "DefiLlama",
+      "links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/price/canton"
+        }
+      ],
+      "timestamp": "Nov 21, 2026 · 10:06 PM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 10:06 PM ET)\n\n- **Canton app fees fall to $7,130 as token incentives read $1.62 million in the latest chain read** — DefiLlama's latest chain read puts app fees at $7,130 over 24 hours, down from $7,486, the figure recorded in every chain read earlier today, with token incentives at $1.62 million over 24 hours, total value locked at $10.95 million and Temple still largest at $5.91 million, up from $5.86 million recorded in the 8:06 PM edition, ahead of Alpend at $1.82 million and Cantex at $1.69 million across eight tracked protocols (DefiLlama)\n- **Canton Coin's open-interest-weighted futures funding eases to positive 0.0015% as open interest reads $32.87 million** — Coinfuty's latest read puts the open-interest-weighted funding rate at positive 0.0015% per four hours, eased from positive 0.0025% recorded in the 8:51 PM edition, with total futures open interest at $32.87 million, down 0.64% over 24 hours, futures volume at $12.04 million, a long/short ratio of 0.854 and Bybit largest at $11.14 million ahead of Binance at $9.93 million; the tracked liquidation total is not cited here because it is unchanged from earlier reads today (Coinfuty)\n- **Canton Coin burned reads 15.5 million in the latest 24-hour window, with app rewards at 14.8 million** — CCTools' rolling 24-hour window, as of the November 22 03:00 UTC read, puts burn at 15.5 million Canton Coin against app rewards at 14.8 million Canton Coin; this is the rolling window read, distinct from the November 21 calendar-day record of 15.8 million burned and 15.1 million in rewards cited in the 7:21 PM edition and from the previous rolling window of 15.7 million burned and 14.9 million in rewards cited in the 8:06 PM edition (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.07534, with a market cap of $3.02 billion (rank 31) and 24-hour trading volume of $6.99 million, up 0.77% in 24 hours, with circulating supply of 40,099,988,997 CC at the November 21 read; as a network milestone, total Canton transactions reach 608.51 million on the latest network read (The Block for market data; CCTools for the milestone).\n\nOriginal sources:\nDefiLlama: https://defillama.com/chain/canton?tvl=false&events=false&incentives=true\nCoinfuty: https://www.coinfuty.com/coin/CC/open-interest\nCCTools: https://cctools.network/network\nThe Block: https://www.theblock.co/price/canton",
+      "image_url": null,
+      "published": "2026-11-21T22:06:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?tvl=false&events=false&incentives=true"
+        },
+        {
+          "source": "Coinfuty",
+          "url": "https://www.coinfuty.com/coin/CC/open-interest"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/price/canton"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-21_2121-est",
+      "slug": "canton-protocol-revenue-totals-6-449-over-24-hours-and-209-034-over-30-days-in-the-latest",
+      "url": "https://canton.w3ai.io/feed/canton-protocol-revenue-totals-6-449-over-24-hours-and-209-034-over-30-days-in-the-latest",
+      "title": "Canton protocol revenue totals $6,449 over 24 hours and $209,034 over 30 days in the latest revenue ranking",
+      "content_text": "Canton Signal Feed (Nov 21, 2026 · 9:21 PM ET)\n\n- **Canton protocol revenue totals $6,449 over 24 hours and $209,034 over 30 days in the latest revenue ranking** — DefiLlama's revenue ranking puts Canton protocol revenue at $6,449 over 24 hours, $43,229 over seven days and $209,034 over 30 days, with a weekly change of negative 11.37%, led by Temple at $6,373 over 24 hours ahead of Cantex at $75.67; this is the revenue retained by protocols, distinct from the user-fees ranking cited earlier today (DefiLlama)\n- **Canton Coin's open-interest-weighted futures funding reads negative 0.0072% in the wider derivatives aggregate, with open interest at $33.44 million** — CoinGlass's latest aggregate puts the open-interest-weighted funding rate at negative 0.0072%, with shorts paying longs, futures open interest at $33.44 million, futures volume at $12.83 million against spot volume at $4.63 million; the funding rate has moved toward zero from negative 0.0128% in the CoinGlass read recorded in the 3:51 PM edition, and the tracked liquidation total is not cited here because it is unchanged from that earlier read (CoinGlass)\n- **Canton Coin burned over the last seven recorded days equals 58.3% of issuance, with 93.3 million coins burned against 160.0 million issued** — CCTools' burn-and-issuance record for November 15 to 20 puts burned Canton Coin at 93.3 million against 160.0 million in scheduled issuance, with six of seven days present in both sources; this is the seven-day burn share, distinct from the 30-day burn share cited in the 5:51 PM edition and from the November 21 calendar-day record cited in the 7:21 PM edition (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.07531, with a market cap of $3.02 billion (rank 25) and 24-hour trading volume of $12.96 million, up 0.48% in 24 hours, with circulating supply of 40.1 billion CC at the November 21 read; as a network milestone, Canton sits in the market-cap ranking below Litecoin at $3.09 billion and above Avalanche at $2.93 billion (Crypto.com for price and volume; Blockdeck for market cap and the ranking milestone).\n\nOriginal sources:\nDefiLlama: https://DeFiLlama.com/revenue/chain/canton\nCoinGlass: https://www.coinglass.com/currencies/CC\nCCTools: https://cctools.network/network\nCrypto.com: https://crypto.com/en/price/canton-network/usd",
+      "content_html": "<p>Canton Signal Feed (Nov 21, 2026 · 9:21 PM ET)<br/><br/>- **Canton protocol revenue totals $6,449 over 24 hours and $209,034 over 30 days in the latest revenue ranking** — DefiLlama&#x27;s revenue ranking puts Canton protocol revenue at $6,449 over 24 hours, $43,229 over seven days and $209,034 over 30 days, with a weekly change of negative 11.37%, led by Temple at $6,373 over 24 hours ahead of Cantex at $75.67; this is the revenue retained by protocols, distinct from the user-fees ranking cited earlier today (DefiLlama)<br/>- **Canton Coin&#x27;s open-interest-weighted futures funding reads negative 0.0072% in the wider derivatives aggregate, with open interest at $33.44 million** — CoinGlass&#x27;s latest aggregate puts the open-interest-weighted funding rate at negative 0.0072%, with shorts paying longs, futures open interest at $33.44 million, futures volume at $12.83 million against spot volume at $4.63 million; the funding rate has moved toward zero from negative 0.0128% in the CoinGlass read recorded in the 3:51 PM edition, and the tracked liquidation total is not cited here because it is unchanged from that earlier read (CoinGlass)<br/>- **Canton Coin burned over the last seven recorded days equals 58.3% of issuance, with 93.3 million coins burned against 160.0 million issued** — CCTools&#x27; burn-and-issuance record for November 15 to 20 puts burned Canton Coin at 93.3 million against 160.0 million in scheduled issuance, with six of seven days present in both sources; this is the seven-day burn share, distinct from the 30-day burn share cited in the 5:51 PM edition and from the November 21 calendar-day record cited in the 7:21 PM edition (CCTools)<br/><br/>Network: Canton Coin (CC) trades at $0.07531, with a market cap of $3.02 billion (rank 25) and 24-hour trading volume of $12.96 million, up 0.48% in 24 hours, with circulating supply of 40.1 billion CC at the November 21 read; as a network milestone, Canton sits in the market-cap ranking below Litecoin at $3.09 billion and above Avalanche at $2.93 billion (Crypto.com for price and volume; Blockdeck for market cap and the ranking milestone).<br/><br/>Original sources:<br/>DefiLlama: https://DeFiLlama.com/revenue/chain/canton<br/>CoinGlass: https://www.coinglass.com/currencies/CC<br/>CCTools: https://cctools.network/network<br/>Crypto.com: https://crypto.com/en/price/canton-network/usd</p>",
+      "date_published": "2026-11-21T21:21:00-05:00",
+      "date_modified": "2026-11-21T21:21:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://DeFiLlama.com/revenue/chain/canton",
+      "source_url": "https://DeFiLlama.com/revenue/chain/canton",
+      "original_url": "https://DeFiLlama.com/revenue/chain/canton",
+      "source": "DefiLlama",
+      "publisher": "DefiLlama",
+      "links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://DeFiLlama.com/revenue/chain/canton"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ],
+      "timestamp": "Nov 21, 2026 · 9:21 PM ET",
+      "body": "Canton Signal Feed (Nov 21, 2026 · 9:21 PM ET)\n\n- **Canton protocol revenue totals $6,449 over 24 hours and $209,034 over 30 days in the latest revenue ranking** — DefiLlama's revenue ranking puts Canton protocol revenue at $6,449 over 24 hours, $43,229 over seven days and $209,034 over 30 days, with a weekly change of negative 11.37%, led by Temple at $6,373 over 24 hours ahead of Cantex at $75.67; this is the revenue retained by protocols, distinct from the user-fees ranking cited earlier today (DefiLlama)\n- **Canton Coin's open-interest-weighted futures funding reads negative 0.0072% in the wider derivatives aggregate, with open interest at $33.44 million** — CoinGlass's latest aggregate puts the open-interest-weighted funding rate at negative 0.0072%, with shorts paying longs, futures open interest at $33.44 million, futures volume at $12.83 million against spot volume at $4.63 million; the funding rate has moved toward zero from negative 0.0128% in the CoinGlass read recorded in the 3:51 PM edition, and the tracked liquidation total is not cited here because it is unchanged from that earlier read (CoinGlass)\n- **Canton Coin burned over the last seven recorded days equals 58.3% of issuance, with 93.3 million coins burned against 160.0 million issued** — CCTools' burn-and-issuance record for November 15 to 20 puts burned Canton Coin at 93.3 million against 160.0 million in scheduled issuance, with six of seven days present in both sources; this is the seven-day burn share, distinct from the 30-day burn share cited in the 5:51 PM edition and from the November 21 calendar-day record cited in the 7:21 PM edition (CCTools)\n\nNetwork: Canton Coin (CC) trades at $0.07531, with a market cap of $3.02 billion (rank 25) and 24-hour trading volume of $12.96 million, up 0.48% in 24 hours, with circulating supply of 40.1 billion CC at the November 21 read; as a network milestone, Canton sits in the market-cap ranking below Litecoin at $3.09 billion and above Avalanche at $2.93 billion (Crypto.com for price and volume; Blockdeck for market cap and the ranking milestone).\n\nOriginal sources:\nDefiLlama: https://DeFiLlama.com/revenue/chain/canton\nCoinGlass: https://www.coinglass.com/currencies/CC\nCCTools: https://cctools.network/network\nCrypto.com: https://crypto.com/en/price/canton-network/usd",
+      "image_url": null,
+      "published": "2026-11-21T21:21:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "DefiLlama",
+          "url": "https://DeFiLlama.com/revenue/chain/canton"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        },
+        {
+          "source": "Crypto.com",
+          "url": "https://crypto.com/en/price/canton-network/usd"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-21_2051-est",
       "slug": "canton-perpetuals-volume-reads-221-141-over-24-hours-in-the-latest-chain-read",
@@ -6234,80 +6376,6 @@
       "body": "Canton Signal Feed (Nov 14, 2026 · 6:42 PM ET)\n- **Societe Generale accepts $10 million in tokenized US Treasuries as eligible collateral on Canton** — The bank's Prime Services and Clearing division completed the controlled transaction on November 2 using Treasuries tokenized in the soft launch of DTCC's Tokenization Service, showing the tokens can transfer onchain and be reflected in the bank's existing back-office and collateral systems within its governance, risk and control framework; the bank plans recurring collateral movements and, over time, onchain repo financing, building on its first US tokenized bond issuance on Canton in November 2025 and its Super Validator role announced in May 2026 (Societe Generale via The Asian Banker)\n- **Morgan Stanley pushes its tokenized equity venue Trajectory Cross to the first quarter of 2027, citing thin demand** — The bank confirmed it is among the first banks to use DTCC's Tokenization Service even as its own venue slipped from the second half of 2026, citing limited product availability and thin institutional demand; it is still building wallet infrastructure, and its head of digital asset strategy frames the long-term tokenized asset market at $3 trillion to $10 trillion by 2030 (EX.IO)\n- **Versana's loan data platform on Canton covers roughly $3.5 trillion in commitments across more than 6,000 facilities** — The syndicated loan platform is among the largest live data workloads on the network, sitting alongside the London Stock Exchange Group's DiSH platform, which uses tokenized bank deposits as the cash leg of repo and ran the first tokenized Gilt repo in early 2026 (Medium)\n- **Canton Coin spot prices narrow to 4.39% apart across exchanges, with still no confirmed route worth taking** — A live scan at 00:11 UTC on November 15 puts Canton Coin cheapest on WEEX at $0.07373 and dearest on Bitget at $0.07697 across 12 exchanges with a liquid spot market, narrowed from 8.06% earlier today; the best spot route, buying on MEXC and selling on Kraken, pays 2.01% after taker fees on only $378 at the best book prices with the transfer status unknown, and no route with a confirmed open transfer is rated worth taking (ArbitrageGap)\n\nNetwork: CC $0.07665 | Market cap $3.07B | 24h volume $16.89M | Supply 40.05B CC; milestone: more than 150 live or emerging applications now run on the network (CoinDataFlow for market data; Medium for the milestone)",
       "image_url": null,
       "published": "2026-11-14T18:42:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-14_1812-est",
-      "slug": "canton-s-first-tokenized-stock-debut-drew-five-buys-and-no-sells-with-40-296-changing-hand",
-      "url": "https://canton.w3ai.io/feed/canton-s-first-tokenized-stock-debut-drew-five-buys-and-no-sells-with-40-296-changing-hand",
-      "title": "Canton's first tokenized stock debut drew five buys and no sells, with $40,296 changing hands on day one",
-      "content_text": "Canton Signal Feed (Nov 14, 2026 · 6:12 PM ET)\n- **Canton's first tokenized stock debut drew five buys and no sells, with $40,296 changing hands on day one** — Coindoo's tally of TSV LLC's public trading feed shows five purchases of Canton Strategic Holdings' tokenized CNTN shares on November 4 delivered 18,680 shares for $40,296, an average of $2.16 a share, with per-share prices climbing from $2.08 to $2.37 and the last $10,000 purchase executing after Nasdaq's regular close; Five North sold existing shares, DRW Cumberland was the named buyer behind the first purchases and Flowdesk supplied liquidity, buyers paid in USDCx, and no holder sold into the pool — the pool prices from its own reserves on the Tradecraft automated market maker rather than from Nasdaq's quote, and the SEC order bars primary issuance on the venue, so none of the $40,296 reached the issuer (Coindoo)\n- **OpenAssets deploys its markets-in-a-box platform on Canton, issuing tokenized assets through the DA Registry** — The Pittsburgh-based infrastructure provider's November 5 partnership with Digital Asset lets institutional clients issue and manage their own tokenized assets on Canton using Digital Asset's DA Registry, plugging tokenization into established compliance and custody frameworks instead of requiring firms to build from scratch; the terms of the partnership were not disclosed (Moneyaviro)\n- **CIP-0130 passes with 11 votes in favour, approving a single Super Validator framework for Nomura Group and BOOSTRY** — The proposal, passed November 10 with two non-votes, gives Nomura Group and BOOSTRY one shared Super Validator participation framework with up to 10 in reward weight earned through verified milestones, extending the milestone-based model already used for other large institutional operators on the network (CoinStats)\n- **Canton Coin falls 10.97% in 24 hours to $0.07585, extending its seven-day decline to 19.17%** — CoinGlass' latest aggregated read puts CC at $0.07585 with a 24-hour range of $0.07525 to $0.08601, a move the read attributes to broad market weakness rather than a Canton-specific event, leaving the coin well below the $0.089 area it traded near earlier in the week (CoinGlass)\n\nNetwork: CC $0.0766 | Market cap $3.1B (rank 27) | 24h volume $15.2M | Supply about 40.02B CC; milestone: more than 55 institutions serve as Super Validators on the Global Synchronizer, including Visa, which joined in March 2026 with the highest voting weight (Altcoin Buzz for market data; Medium for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 14, 2026 · 6:12 PM ET)<br/>- **Canton&#x27;s first tokenized stock debut drew five buys and no sells, with $40,296 changing hands on day one** — Coindoo&#x27;s tally of TSV LLC&#x27;s public trading feed shows five purchases of Canton Strategic Holdings&#x27; tokenized CNTN shares on November 4 delivered 18,680 shares for $40,296, an average of $2.16 a share, with per-share prices climbing from $2.08 to $2.37 and the last $10,000 purchase executing after Nasdaq&#x27;s regular close; Five North sold existing shares, DRW Cumberland was the named buyer behind the first purchases and Flowdesk supplied liquidity, buyers paid in USDCx, and no holder sold into the pool — the pool prices from its own reserves on the Tradecraft automated market maker rather than from Nasdaq&#x27;s quote, and the SEC order bars primary issuance on the venue, so none of the $40,296 reached the issuer (Coindoo)<br/>- **OpenAssets deploys its markets-in-a-box platform on Canton, issuing tokenized assets through the DA Registry** — The Pittsburgh-based infrastructure provider&#x27;s November 5 partnership with Digital Asset lets institutional clients issue and manage their own tokenized assets on Canton using Digital Asset&#x27;s DA Registry, plugging tokenization into established compliance and custody frameworks instead of requiring firms to build from scratch; the terms of the partnership were not disclosed (Moneyaviro)<br/>- **CIP-0130 passes with 11 votes in favour, approving a single Super Validator framework for Nomura Group and BOOSTRY** — The proposal, passed November 10 with two non-votes, gives Nomura Group and BOOSTRY one shared Super Validator participation framework with up to 10 in reward weight earned through verified milestones, extending the milestone-based model already used for other large institutional operators on the network (CoinStats)<br/>- **Canton Coin falls 10.97% in 24 hours to $0.07585, extending its seven-day decline to 19.17%** — CoinGlass&#x27; latest aggregated read puts CC at $0.07585 with a 24-hour range of $0.07525 to $0.08601, a move the read attributes to broad market weakness rather than a Canton-specific event, leaving the coin well below the $0.089 area it traded near earlier in the week (CoinGlass)<br/><br/>Network: CC $0.0766 | Market cap $3.1B (rank 27) | 24h volume $15.2M | Supply about 40.02B CC; milestone: more than 55 institutions serve as Super Validators on the Global Synchronizer, including Visa, which joined in March 2026 with the highest voting weight (Altcoin Buzz for market data; Medium for the milestone)</p>",
-      "date_published": "2026-11-14T18:12:00-05:00",
-      "date_modified": "2026-11-14T18:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 6:12 PM ET",
-      "body": "Canton Signal Feed (Nov 14, 2026 · 6:12 PM ET)\n- **Canton's first tokenized stock debut drew five buys and no sells, with $40,296 changing hands on day one** — Coindoo's tally of TSV LLC's public trading feed shows five purchases of Canton Strategic Holdings' tokenized CNTN shares on November 4 delivered 18,680 shares for $40,296, an average of $2.16 a share, with per-share prices climbing from $2.08 to $2.37 and the last $10,000 purchase executing after Nasdaq's regular close; Five North sold existing shares, DRW Cumberland was the named buyer behind the first purchases and Flowdesk supplied liquidity, buyers paid in USDCx, and no holder sold into the pool — the pool prices from its own reserves on the Tradecraft automated market maker rather than from Nasdaq's quote, and the SEC order bars primary issuance on the venue, so none of the $40,296 reached the issuer (Coindoo)\n- **OpenAssets deploys its markets-in-a-box platform on Canton, issuing tokenized assets through the DA Registry** — The Pittsburgh-based infrastructure provider's November 5 partnership with Digital Asset lets institutional clients issue and manage their own tokenized assets on Canton using Digital Asset's DA Registry, plugging tokenization into established compliance and custody frameworks instead of requiring firms to build from scratch; the terms of the partnership were not disclosed (Moneyaviro)\n- **CIP-0130 passes with 11 votes in favour, approving a single Super Validator framework for Nomura Group and BOOSTRY** — The proposal, passed November 10 with two non-votes, gives Nomura Group and BOOSTRY one shared Super Validator participation framework with up to 10 in reward weight earned through verified milestones, extending the milestone-based model already used for other large institutional operators on the network (CoinStats)\n- **Canton Coin falls 10.97% in 24 hours to $0.07585, extending its seven-day decline to 19.17%** — CoinGlass' latest aggregated read puts CC at $0.07585 with a 24-hour range of $0.07525 to $0.08601, a move the read attributes to broad market weakness rather than a Canton-specific event, leaving the coin well below the $0.089 area it traded near earlier in the week (CoinGlass)\n\nNetwork: CC $0.0766 | Market cap $3.1B (rank 27) | 24h volume $15.2M | Supply about 40.02B CC; milestone: more than 55 institutions serve as Super Validators on the Global Synchronizer, including Visa, which joined in March 2026 with the highest voting weight (Altcoin Buzz for market data; Medium for the milestone)",
-      "image_url": null,
-      "published": "2026-11-14T18:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-14_1642-est",
-      "slug": "sec-staff-digital-commodity-view-on-canton-coin-stays-in-focus-as-coverage-weighs-its-limi",
-      "url": "https://canton.w3ai.io/feed/sec-staff-digital-commodity-view-on-canton-coin-stays-in-focus-as-coverage-weighs-its-limi",
-      "title": "SEC staff digital-commodity view on Canton Coin stays in focus as coverage weighs its limits",
-      "content_text": "Canton Signal Feed (Nov 14, 2026 · 4:42 PM ET)\n- **SEC staff digital-commodity view on Canton Coin stays in focus as coverage weighs its limits** — Fresh coverage of the November 3 response notes that staff in the SEC's Division of Corporation Finance viewed Canton Coin as a digital commodity under the facts presented by Digital Asset and would not recommend enforcement action over programmatic minting by Super Validators, Validators and application providers if the stated conditions are followed, covering registration provisions under Section 5 of the Securities Act and Section 12(g) of the Exchange Act; the coverage stresses the limits — the response is a staff position rather than a Commission action, expresses no legal conclusion, relies on Digital Asset's representations and does not address secondary-market trading of CC (ad-hoc-news)\n- **Canton roadmap leads with tokenized stocks, then repo, derivatives and private assets** — Digital Asset CEO Yuval Rooz, speaking in an X Space, put tokenized stocks at the top of the network's sequence after the first trades under the SEC's Innovation Exemption — Canton Strategic Holdings' issuer-sponsored tokenized common stock traded on TSV LLC, announced November 4 — with more firms expected to join repo trading on Canton this year and derivatives and a wider range of private assets to follow; for corporate adoption he cited Uber's treasury pilot, run by HSBC, Franklin Templeton, Tradeweb and Fireblocks on Canton, as the model for bringing in non-financial companies (BSC News)\n- **LayerZero links with Canton to support cross-chain asset transfers for institutional users** — LayerZero has integrated its interoperability protocol with the Canton Network to enable cross-chain transfers, connecting Canton to an interoperability ecosystem LayerZero puts at more than $100 billion in value; the network is built by Digital Asset, whose backers include Goldman Sachs, Microsoft and DTCC, and which confirmed nearly 400 ecosystem participants now engage with Canton (BitRss)\n- **Canton DeFi locked value eases to $11.32 million even as daily DEX volume holds above $20 million** — DefiLlama's November 14 snapshot puts total value locked at $11.32 million, down 6.46% over 24 hours, with 24-hour DEX volume at $20.79 million and seven-day DEX volume at $139.07 million, up 4.77% on the week; Temple remains the largest protocol at $6.18 million locked, ahead of Alpend at $1.8 million and Cantex at $1.72 million (DefiLlama)\n\nNetwork: CC $0.0767 | Market cap $3.08B (rank 27) | 24h volume $14.49M | Supply 40.05B CC; milestone: the network was burning roughly 80% as much CC each day as it minted as of November 2026, below the 1:1 ratio at which supply would start to shrink, with every CC in circulation minted as a reward and no pre-mine or venture allocations (Kriptometre for market data; CVJ for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 14, 2026 · 4:42 PM ET)<br/>- **SEC staff digital-commodity view on Canton Coin stays in focus as coverage weighs its limits** — Fresh coverage of the November 3 response notes that staff in the SEC&#x27;s Division of Corporation Finance viewed Canton Coin as a digital commodity under the facts presented by Digital Asset and would not recommend enforcement action over programmatic minting by Super Validators, Validators and application providers if the stated conditions are followed, covering registration provisions under Section 5 of the Securities Act and Section 12(g) of the Exchange Act; the coverage stresses the limits — the response is a staff position rather than a Commission action, expresses no legal conclusion, relies on Digital Asset&#x27;s representations and does not address secondary-market trading of CC (ad-hoc-news)<br/>- **Canton roadmap leads with tokenized stocks, then repo, derivatives and private assets** — Digital Asset CEO Yuval Rooz, speaking in an X Space, put tokenized stocks at the top of the network&#x27;s sequence after the first trades under the SEC&#x27;s Innovation Exemption — Canton Strategic Holdings&#x27; issuer-sponsored tokenized common stock traded on TSV LLC, announced November 4 — with more firms expected to join repo trading on Canton this year and derivatives and a wider range of private assets to follow; for corporate adoption he cited Uber&#x27;s treasury pilot, run by HSBC, Franklin Templeton, Tradeweb and Fireblocks on Canton, as the model for bringing in non-financial companies (BSC News)<br/>- **LayerZero links with Canton to support cross-chain asset transfers for institutional users** — LayerZero has integrated its interoperability protocol with the Canton Network to enable cross-chain transfers, connecting Canton to an interoperability ecosystem LayerZero puts at more than $100 billion in value; the network is built by Digital Asset, whose backers include Goldman Sachs, Microsoft and DTCC, and which confirmed nearly 400 ecosystem participants now engage with Canton (BitRss)<br/>- **Canton DeFi locked value eases to $11.32 million even as daily DEX volume holds above $20 million** — DefiLlama&#x27;s November 14 snapshot puts total value locked at $11.32 million, down 6.46% over 24 hours, with 24-hour DEX volume at $20.79 million and seven-day DEX volume at $139.07 million, up 4.77% on the week; Temple remains the largest protocol at $6.18 million locked, ahead of Alpend at $1.8 million and Cantex at $1.72 million (DefiLlama)<br/><br/>Network: CC $0.0767 | Market cap $3.08B (rank 27) | 24h volume $14.49M | Supply 40.05B CC; milestone: the network was burning roughly 80% as much CC each day as it minted as of November 2026, below the 1:1 ratio at which supply would start to shrink, with every CC in circulation minted as a reward and no pre-mine or venture allocations (Kriptometre for market data; CVJ for the milestone)</p>",
-      "date_published": "2026-11-14T16:42:00-05:00",
-      "date_modified": "2026-11-14T16:42:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 14, 2026 · 4:42 PM ET",
-      "body": "Canton Signal Feed (Nov 14, 2026 · 4:42 PM ET)\n- **SEC staff digital-commodity view on Canton Coin stays in focus as coverage weighs its limits** — Fresh coverage of the November 3 response notes that staff in the SEC's Division of Corporation Finance viewed Canton Coin as a digital commodity under the facts presented by Digital Asset and would not recommend enforcement action over programmatic minting by Super Validators, Validators and application providers if the stated conditions are followed, covering registration provisions under Section 5 of the Securities Act and Section 12(g) of the Exchange Act; the coverage stresses the limits — the response is a staff position rather than a Commission action, expresses no legal conclusion, relies on Digital Asset's representations and does not address secondary-market trading of CC (ad-hoc-news)\n- **Canton roadmap leads with tokenized stocks, then repo, derivatives and private assets** — Digital Asset CEO Yuval Rooz, speaking in an X Space, put tokenized stocks at the top of the network's sequence after the first trades under the SEC's Innovation Exemption — Canton Strategic Holdings' issuer-sponsored tokenized common stock traded on TSV LLC, announced November 4 — with more firms expected to join repo trading on Canton this year and derivatives and a wider range of private assets to follow; for corporate adoption he cited Uber's treasury pilot, run by HSBC, Franklin Templeton, Tradeweb and Fireblocks on Canton, as the model for bringing in non-financial companies (BSC News)\n- **LayerZero links with Canton to support cross-chain asset transfers for institutional users** — LayerZero has integrated its interoperability protocol with the Canton Network to enable cross-chain transfers, connecting Canton to an interoperability ecosystem LayerZero puts at more than $100 billion in value; the network is built by Digital Asset, whose backers include Goldman Sachs, Microsoft and DTCC, and which confirmed nearly 400 ecosystem participants now engage with Canton (BitRss)\n- **Canton DeFi locked value eases to $11.32 million even as daily DEX volume holds above $20 million** — DefiLlama's November 14 snapshot puts total value locked at $11.32 million, down 6.46% over 24 hours, with 24-hour DEX volume at $20.79 million and seven-day DEX volume at $139.07 million, up 4.77% on the week; Temple remains the largest protocol at $6.18 million locked, ahead of Alpend at $1.8 million and Cantex at $1.72 million (DefiLlama)\n\nNetwork: CC $0.0767 | Market cap $3.08B (rank 27) | 24h volume $14.49M | Supply 40.05B CC; milestone: the network was burning roughly 80% as much CC each day as it minted as of November 2026, below the 1:1 ratio at which supply would start to shrink, with every CC in circulation minted as a reward and no pre-mine or venture allocations (Kriptometre for market data; CVJ for the milestone)",
-      "image_url": null,
-      "published": "2026-11-14T16:42:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
