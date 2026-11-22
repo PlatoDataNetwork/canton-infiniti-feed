@@ -29,8 +29,79 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-22T06:06:00-05:00",
+  "updated": "2026-11-22T06:36:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-22_0636-est",
+      "slug": "canton-s-approved-free-preapproval-rule-gives-canton-coin-transfers-a-90-day-free-base-win",
+      "url": "https://canton.w3ai.io/feed/canton-s-approved-free-preapproval-rule-gives-canton-coin-transfers-a-90-day-free-base-win",
+      "title": "Canton's approved free preapproval rule gives Canton Coin transfers a 90-day free base window",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 6:36 AM ET)\n\n- **Canton's approved free preapproval rule gives Canton Coin transfers a 90-day free base window** — The Canton Network Docs registry details CIP-0119, approved on June 15, 2026, which introduces a free base duration for Canton Coin transfer preapprovals defaulting to 90 days, so a preapproval can be created or renewed using just traffic costs, including the free base traffic rate; the change addresses a bootstrapping problem created when CIP-0096 removed validator liveness rewards, after which most exchanges would only send Canton Coin to parties that already had preapprovals enabled, while enabling a preapproval itself required paying a Canton Coin fee for its expiry duration (Canton Network Docs)\n- **aSOL begins trading on Cantex and OneSwap, bringing a SOL-backed token to two Canton venues** — Cantex opened trading in aSOL on November 19 and Cantor8 announced the OneSwap listing on November 20, giving Canton traders two venues in two days for the token that represents SOL on Canton; Cantex describes aSOL as backed one-for-one by Solana's SOL token and says qualified participants can redeem aSOL for SOL, with HelloMoon identified as the issuer and issuance through Cantor8's C8 Registry in partnership with ACME Markets (CantonNews)\n- **Canton Coin futures open interest reads $26.5 million in a second derivatives aggregate, with average funding at negative 0.0019%** — Coinalyze's latest aggregate puts futures open interest at $26.5 million, down 0.09% over 24 hours, with average funding at negative 0.0019%, a predicted rate of positive 0.0029% and tracked liquidations at $402.20 over 24 hours on $6.7 million of volume; this is Coinalyze's own venue set, a narrower aggregate than the wider CoinGlass total cited in the 6:06 AM edition, so the two open-interest totals are not comparable (Coinalyze)\n\nNetwork: Canton Coin (CC) trades at $0.0736, with a market cap of $2.95 billion (rank 26) and 24-hour trading volume of $5.4 million, down 0.20% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton counts 11 proposals in progress out of 642 total proposals on the latest network read (Blockdeck for market data; CCTools for the milestone).\n\nOriginal sources:\nCanton Network Docs: https://docs.canton.network/ai-context/cip-registry\nCantonNews: https://cantonnews.org/asol-begins-trading-on-cantex-and-oneswap\nCoinalyze: https://coinalyze.net/?ref=dobermanvc.com&p=3\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 6:36 AM ET)<br/><br/>- **Canton&#x27;s approved free preapproval rule gives Canton Coin transfers a 90-day free base window** — The Canton Network Docs registry details CIP-0119, approved on June 15, 2026, which introduces a free base duration for Canton Coin transfer preapprovals defaulting to 90 days, so a preapproval can be created or renewed using just traffic costs, including the free base traffic rate; the change addresses a bootstrapping problem created when CIP-0096 removed validator liveness rewards, after which most exchanges would only send Canton Coin to parties that already had preapprovals enabled, while enabling a preapproval itself required paying a Canton Coin fee for its expiry duration (Canton Network Docs)<br/>- **aSOL begins trading on Cantex and OneSwap, bringing a SOL-backed token to two Canton venues** — Cantex opened trading in aSOL on November 19 and Cantor8 announced the OneSwap listing on November 20, giving Canton traders two venues in two days for the token that represents SOL on Canton; Cantex describes aSOL as backed one-for-one by Solana&#x27;s SOL token and says qualified participants can redeem aSOL for SOL, with HelloMoon identified as the issuer and issuance through Cantor8&#x27;s C8 Registry in partnership with ACME Markets (CantonNews)<br/>- **Canton Coin futures open interest reads $26.5 million in a second derivatives aggregate, with average funding at negative 0.0019%** — Coinalyze&#x27;s latest aggregate puts futures open interest at $26.5 million, down 0.09% over 24 hours, with average funding at negative 0.0019%, a predicted rate of positive 0.0029% and tracked liquidations at $402.20 over 24 hours on $6.7 million of volume; this is Coinalyze&#x27;s own venue set, a narrower aggregate than the wider CoinGlass total cited in the 6:06 AM edition, so the two open-interest totals are not comparable (Coinalyze)<br/><br/>Network: Canton Coin (CC) trades at $0.0736, with a market cap of $2.95 billion (rank 26) and 24-hour trading volume of $5.4 million, down 0.20% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton counts 11 proposals in progress out of 642 total proposals on the latest network read (Blockdeck for market data; CCTools for the milestone).<br/><br/>Original sources:<br/>Canton Network Docs: https://docs.canton.network/ai-context/cip-registry<br/>CantonNews: https://cantonnews.org/asol-begins-trading-on-cantex-and-oneswap<br/>Coinalyze: https://coinalyze.net/?ref=dobermanvc.com&amp;p=3<br/>Blockdeck: https://blockdeck.app/coin/canton-network</p>",
+      "date_published": "2026-11-22T06:36:00-05:00",
+      "date_modified": "2026-11-22T06:36:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://docs.canton.network/ai-context/cip-registry",
+      "source_url": "https://docs.canton.network/ai-context/cip-registry",
+      "original_url": "https://docs.canton.network/ai-context/cip-registry",
+      "source": "Canton Network Docs",
+      "publisher": "Canton Network Docs",
+      "links": [
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/ai-context/cip-registry"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/asol-begins-trading-on-cantex-and-oneswap"
+        },
+        {
+          "source": "Coinalyze",
+          "url": "https://coinalyze.net/?ref=dobermanvc.com&p=3"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 6:36 AM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 6:36 AM ET)\n\n- **Canton's approved free preapproval rule gives Canton Coin transfers a 90-day free base window** — The Canton Network Docs registry details CIP-0119, approved on June 15, 2026, which introduces a free base duration for Canton Coin transfer preapprovals defaulting to 90 days, so a preapproval can be created or renewed using just traffic costs, including the free base traffic rate; the change addresses a bootstrapping problem created when CIP-0096 removed validator liveness rewards, after which most exchanges would only send Canton Coin to parties that already had preapprovals enabled, while enabling a preapproval itself required paying a Canton Coin fee for its expiry duration (Canton Network Docs)\n- **aSOL begins trading on Cantex and OneSwap, bringing a SOL-backed token to two Canton venues** — Cantex opened trading in aSOL on November 19 and Cantor8 announced the OneSwap listing on November 20, giving Canton traders two venues in two days for the token that represents SOL on Canton; Cantex describes aSOL as backed one-for-one by Solana's SOL token and says qualified participants can redeem aSOL for SOL, with HelloMoon identified as the issuer and issuance through Cantor8's C8 Registry in partnership with ACME Markets (CantonNews)\n- **Canton Coin futures open interest reads $26.5 million in a second derivatives aggregate, with average funding at negative 0.0019%** — Coinalyze's latest aggregate puts futures open interest at $26.5 million, down 0.09% over 24 hours, with average funding at negative 0.0019%, a predicted rate of positive 0.0029% and tracked liquidations at $402.20 over 24 hours on $6.7 million of volume; this is Coinalyze's own venue set, a narrower aggregate than the wider CoinGlass total cited in the 6:06 AM edition, so the two open-interest totals are not comparable (Coinalyze)\n\nNetwork: Canton Coin (CC) trades at $0.0736, with a market cap of $2.95 billion (rank 26) and 24-hour trading volume of $5.4 million, down 0.20% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read; as a network milestone, Canton counts 11 proposals in progress out of 642 total proposals on the latest network read (Blockdeck for market data; CCTools for the milestone).\n\nOriginal sources:\nCanton Network Docs: https://docs.canton.network/ai-context/cip-registry\nCantonNews: https://cantonnews.org/asol-begins-trading-on-cantex-and-oneswap\nCoinalyze: https://coinalyze.net/?ref=dobermanvc.com&p=3\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "image_url": null,
+      "published": "2026-11-22T06:36:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "Canton Network Docs",
+          "url": "https://docs.canton.network/ai-context/cip-registry"
+        },
+        {
+          "source": "CantonNews",
+          "url": "https://cantonnews.org/asol-begins-trading-on-cantex-and-oneswap"
+        },
+        {
+          "source": "Coinalyze",
+          "url": "https://coinalyze.net/?ref=dobermanvc.com&p=3"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-22_0606-est",
       "slug": "canton-total-parties-reach-957-050-in-the-latest-network-read",
@@ -6640,43 +6711,6 @@
       "body": "Canton Signal Feed (Nov 15, 2026 · 6:12 AM ET)\n- **Canton's governance runs through a single open CIP process, with more than 117 proposals approved to date** — CantonNews' guide to the Canton Improvement Proposal process sets out five proposal categories covering technical standards, governance, tokenomics, process and informational items, open to any public author with no gatekeeping, moving through drafting and working-group review to sponsorship by two Super Validators, a 10-day Super Validator vote requiring a two-thirds supermajority with no single-entity veto, and on-chain implementation through DevNet, TestNet and MainNet before Final status; cited examples include CIP-0056 on the token standard, CIP-0078 eliminating Canton Coin transfer fees and CIP-0117 introducing Logical Synchronizers (CantonNews)\n- **MainNet upgrade to Splice 0.10.0 is listed for November 16** — The Canton Foundation calendar entry carried in CantonNews' November 15 digest lists the MainNet upgrade to Splice 0.10.0 for November 16, with the digest noting the time as still to be confirmed; it is a scheduled upgrade listing, not a completed upgrade (CantonNews)\n- **Canton DEX volume eases to $18.71 million in 24 hours as perpetuals volume slips to $240,189** — DefiLlama's November 15 snapshot puts DEX volume at $18.71 million, down from $19.21 million recorded at 4:42 AM, with perps volume at $240,189, down from $241,982, total value locked at $11.32 million, down 4.20% in 24 hours, Temple still largest at $6.09 million ahead of Alpend at $1.88 million, Cantex at $1.73 million and Tradecraft at $1.43 million, across eight tracked protocols (DefiLlama)\n- **Canton Coin spot prices narrow to 3.32% apart across exchanges, with no route rated worth taking outright** — A live scan at 11:22 UTC on November 15 puts CC cheapest on WEEX at $0.07805 and dearest on OKX at $0.080644 across 11 exchanges with a liquid spot market, narrowed from 4.77% recorded at 3:42 AM; the widest route, buying on WEEX and selling on OKX at 3.04% after fees, is flagged as a suspect pair, the best futures route is long WhiteBIT and short Lighter at 0.58% after fees, and all 15 routes in profit are rated risky with none rated take (ArbitrageGap)\n\nNetwork: CC $0.0808 | Market cap $3.24B (rank 26) | 24h volume $21.23M | Supply 40.06B CC; milestone: live MainNet rewards (24h) rise to 6.7M CC, up from 6.0M at 4:42 AM, with current activity at 1.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.05B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals (BlocFolio for market data; CantonNews for the milestone)",
       "image_url": null,
       "published": "2026-11-15T06:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-15_0442-est",
-      "slug": "rex-osprey-canton-coin-etf-registration-becomes-effective-with-trading-still-unconfirmed",
-      "url": "https://canton.w3ai.io/feed/rex-osprey-canton-coin-etf-registration-becomes-effective-with-trading-still-unconfirmed",
-      "title": "REX-Osprey Canton Coin ETF registration becomes effective, with trading still unconfirmed",
-      "content_text": "Canton Signal Feed (Nov 15, 2026 · 4:42 AM ET)\n- **REX-Osprey Canton Coin ETF registration becomes effective, with trading still unconfirmed** — The registration statement became effective on November 13; the effective date does not by itself confirm that shares have listed or begun trading, and trading status was treated as unconfirmed at the time of the check (CoinStats)\n- **Fairmint and Blockworks shared Canton asset-data feed passes Development Fund review** — The committee passed the proposal on November 13 for a shared Canton asset-data feed, which requests 2.4 million CC; delivery against project milestones is still pending, so passing is not yet a delivered feed (CoinStats)\n- **OnePump launches on Canton with 52 markets listed on its launchpad** — OneSwap's memecoin launchpad offers token creation, early trading on a bonding curve and graduation into a OneSwap liquidity pool; its public dashboard displayed 52 markets and one graduate on November 14, with JOSE announced as its first graduate with 250,000 CC bonded (CantonNews)\n- **Canton DeFi locked value stands at $11.32 million as 24-hour DEX volume eases to $19.21 million** — DefiLlama's November 15 snapshot puts total value locked down 4.15% in 24 hours, with perps volume at $241,982 over 24 hours and $1.89 million over seven days, Temple still largest at $6.1 million ahead of Alpend at $1.85 million, Cantex at $1.74 million and Tradecraft at $1.43 million, across eight tracked protocols (DefiLlama)\n\nNetwork: CC $0.080666 | Market cap $3.23B (rank 26) | 24h volume $21.01M | Supply 40.06B CC; milestone: live MainNet rewards (24h) rise to 6.0M CC with current activity at 6.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.04B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals, with the MainNet upgrade to Splice 0.10.0 listed for November 16 (Bybit for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 15, 2026 · 4:42 AM ET)<br/>- **REX-Osprey Canton Coin ETF registration becomes effective, with trading still unconfirmed** — The registration statement became effective on November 13; the effective date does not by itself confirm that shares have listed or begun trading, and trading status was treated as unconfirmed at the time of the check (CoinStats)<br/>- **Fairmint and Blockworks shared Canton asset-data feed passes Development Fund review** — The committee passed the proposal on November 13 for a shared Canton asset-data feed, which requests 2.4 million CC; delivery against project milestones is still pending, so passing is not yet a delivered feed (CoinStats)<br/>- **OnePump launches on Canton with 52 markets listed on its launchpad** — OneSwap&#x27;s memecoin launchpad offers token creation, early trading on a bonding curve and graduation into a OneSwap liquidity pool; its public dashboard displayed 52 markets and one graduate on November 14, with JOSE announced as its first graduate with 250,000 CC bonded (CantonNews)<br/>- **Canton DeFi locked value stands at $11.32 million as 24-hour DEX volume eases to $19.21 million** — DefiLlama&#x27;s November 15 snapshot puts total value locked down 4.15% in 24 hours, with perps volume at $241,982 over 24 hours and $1.89 million over seven days, Temple still largest at $6.1 million ahead of Alpend at $1.85 million, Cantex at $1.74 million and Tradecraft at $1.43 million, across eight tracked protocols (DefiLlama)<br/><br/>Network: CC $0.080666 | Market cap $3.23B (rank 26) | 24h volume $21.01M | Supply 40.06B CC; milestone: live MainNet rewards (24h) rise to 6.0M CC with current activity at 6.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.04B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals, with the MainNet upgrade to Splice 0.10.0 listed for November 16 (Bybit for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-15T04:42:00-05:00",
-      "date_modified": "2026-11-15T04:42:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 15, 2026 · 4:42 AM ET",
-      "body": "Canton Signal Feed (Nov 15, 2026 · 4:42 AM ET)\n- **REX-Osprey Canton Coin ETF registration becomes effective, with trading still unconfirmed** — The registration statement became effective on November 13; the effective date does not by itself confirm that shares have listed or begun trading, and trading status was treated as unconfirmed at the time of the check (CoinStats)\n- **Fairmint and Blockworks shared Canton asset-data feed passes Development Fund review** — The committee passed the proposal on November 13 for a shared Canton asset-data feed, which requests 2.4 million CC; delivery against project milestones is still pending, so passing is not yet a delivered feed (CoinStats)\n- **OnePump launches on Canton with 52 markets listed on its launchpad** — OneSwap's memecoin launchpad offers token creation, early trading on a bonding curve and graduation into a OneSwap liquidity pool; its public dashboard displayed 52 markets and one graduate on November 14, with JOSE announced as its first graduate with 250,000 CC bonded (CantonNews)\n- **Canton DeFi locked value stands at $11.32 million as 24-hour DEX volume eases to $19.21 million** — DefiLlama's November 15 snapshot puts total value locked down 4.15% in 24 hours, with perps volume at $241,982 over 24 hours and $1.89 million over seven days, Temple still largest at $6.1 million ahead of Alpend at $1.85 million, Cantex at $1.74 million and Tradecraft at $1.43 million, across eight tracked protocols (DefiLlama)\n\nNetwork: CC $0.080666 | Market cap $3.23B (rank 26) | 24h volume $21.01M | Supply 40.06B CC; milestone: live MainNet rewards (24h) rise to 6.0M CC with current activity at 6.00 TPS, total transactions at 603.6M, total parties at 948.0K and total burned at 6.04B CC, alongside about 1.6K validators, 13 Super Validators and 6 active proposals, with the MainNet upgrade to Splice 0.10.0 listed for November 16 (Bybit for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-15T04:42:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
