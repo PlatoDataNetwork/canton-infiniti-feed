@@ -29,8 +29,79 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-22T19:06:00-05:00",
+  "updated": "2026-11-22T19:51:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-22_1951-est",
+      "slug": "canton-foundation-adds-lloyds-isda-and-galaxy-as-members",
+      "url": "https://canton.w3ai.io/feed/canton-foundation-adds-lloyds-isda-and-galaxy-as-members",
+      "title": "Canton Foundation adds Lloyds, ISDA and Galaxy as members",
+      "content_text": "Canton Signal Feed (Nov 22, 2026 · 7:51 PM ET)\n\n- **Canton Foundation adds Lloyds, ISDA and Galaxy as members** — A Department of Justice notice published in the Federal Register on July 22, 2026 records that the Canton Foundation, formerly the Global Synchronizer Foundation, filed membership changes on May 20, 2026 adding 17 parties to its research venture, among them Lloyds Bank, the International Swaps and Derivatives Association and Galaxy Digital, alongside Kora Labs and USIG Digital; membership remains open and the Foundation says it will file further notices as membership changes (Federal Register)\n- **Taurus adds Canton custody as a Super Validator** — Geneva-based Taurus, founded in 2018 and regulated by FINMA, has added custody support for the Canton Token Standard and joined Canton as a Super Validator, helping validate transactions and operate the Global Synchronizer; the Canton Foundation cited Taurus's relationships with Deutsche Bank, CACEIS, Santander and State Street as a fit for the validator set, in an announcement dated November 25, 2025 (CoinDesk)\n- **Cantex accounts pair a passkey with a 24-word passphrase** — Cantex's custody documentation states that every Cantex user is an external party on Canton holding their own signing keys, with each account secured by a passkey and a 24-word passphrase that derives the account's master key; Cantex holds none of these keys, while Cantex-hosted parties currently depend on a single validator operated by CaviarNine, with multi-hosting across three validators operated by CaviarNine, Digital Asset and Kiln under a two-of-three confirmation threshold listed as the next step (Cantex Docs)\n\nNetwork: Canton Coin (CC) trades at $0.07358, with a market cap of $2.95 billion (rank 26) and 24-hour trading volume of $6.63 million, down 2.80% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (RICHXCAP, reporting CoinGecko figures).\n\nOriginal sources:\nFederal Register: https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923\nCoinDesk: https://www.coindesk.com/tech/2025/11/24/taurus-expands-institutional-footprint-with-super-validator-role-on-canton-network\nCantex Docs: https://docs.cantex.io/introduction/custody-and-infrastructure/\nRICHXCAP: https://richxcap.com/coins/canton-network/",
+      "content_html": "<p>Canton Signal Feed (Nov 22, 2026 · 7:51 PM ET)<br/><br/>- **Canton Foundation adds Lloyds, ISDA and Galaxy as members** — A Department of Justice notice published in the Federal Register on July 22, 2026 records that the Canton Foundation, formerly the Global Synchronizer Foundation, filed membership changes on May 20, 2026 adding 17 parties to its research venture, among them Lloyds Bank, the International Swaps and Derivatives Association and Galaxy Digital, alongside Kora Labs and USIG Digital; membership remains open and the Foundation says it will file further notices as membership changes (Federal Register)<br/>- **Taurus adds Canton custody as a Super Validator** — Geneva-based Taurus, founded in 2018 and regulated by FINMA, has added custody support for the Canton Token Standard and joined Canton as a Super Validator, helping validate transactions and operate the Global Synchronizer; the Canton Foundation cited Taurus&#x27;s relationships with Deutsche Bank, CACEIS, Santander and State Street as a fit for the validator set, in an announcement dated November 25, 2025 (CoinDesk)<br/>- **Cantex accounts pair a passkey with a 24-word passphrase** — Cantex&#x27;s custody documentation states that every Cantex user is an external party on Canton holding their own signing keys, with each account secured by a passkey and a 24-word passphrase that derives the account&#x27;s master key; Cantex holds none of these keys, while Cantex-hosted parties currently depend on a single validator operated by CaviarNine, with multi-hosting across three validators operated by CaviarNine, Digital Asset and Kiln under a two-of-three confirmation threshold listed as the next step (Cantex Docs)<br/><br/>Network: Canton Coin (CC) trades at $0.07358, with a market cap of $2.95 billion (rank 26) and 24-hour trading volume of $6.63 million, down 2.80% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (RICHXCAP, reporting CoinGecko figures).<br/><br/>Original sources:<br/>Federal Register: https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923<br/>CoinDesk: https://www.coindesk.com/tech/2025/11/24/taurus-expands-institutional-footprint-with-super-validator-role-on-canton-network<br/>Cantex Docs: https://docs.cantex.io/introduction/custody-and-infrastructure/<br/>RICHXCAP: https://richxcap.com/coins/canton-network/</p>",
+      "date_published": "2026-11-22T19:51:00-05:00",
+      "date_modified": "2026-11-22T19:51:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923",
+      "source_url": "https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923",
+      "original_url": "https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923",
+      "source": "Federal Register",
+      "publisher": "Federal Register",
+      "links": [
+        {
+          "source": "Federal Register",
+          "url": "https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2025/11/24/taurus-expands-institutional-footprint-with-super-validator-role-on-canton-network"
+        },
+        {
+          "source": "Cantex Docs",
+          "url": "https://docs.cantex.io/introduction/custody-and-infrastructure/"
+        },
+        {
+          "source": "RICHXCAP",
+          "url": "https://richxcap.com/coins/canton-network/"
+        }
+      ],
+      "timestamp": "Nov 22, 2026 · 7:51 PM ET",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 7:51 PM ET)\n\n- **Canton Foundation adds Lloyds, ISDA and Galaxy as members** — A Department of Justice notice published in the Federal Register on July 22, 2026 records that the Canton Foundation, formerly the Global Synchronizer Foundation, filed membership changes on May 20, 2026 adding 17 parties to its research venture, among them Lloyds Bank, the International Swaps and Derivatives Association and Galaxy Digital, alongside Kora Labs and USIG Digital; membership remains open and the Foundation says it will file further notices as membership changes (Federal Register)\n- **Taurus adds Canton custody as a Super Validator** — Geneva-based Taurus, founded in 2018 and regulated by FINMA, has added custody support for the Canton Token Standard and joined Canton as a Super Validator, helping validate transactions and operate the Global Synchronizer; the Canton Foundation cited Taurus's relationships with Deutsche Bank, CACEIS, Santander and State Street as a fit for the validator set, in an announcement dated November 25, 2025 (CoinDesk)\n- **Cantex accounts pair a passkey with a 24-word passphrase** — Cantex's custody documentation states that every Cantex user is an external party on Canton holding their own signing keys, with each account secured by a passkey and a 24-word passphrase that derives the account's master key; Cantex holds none of these keys, while Cantex-hosted parties currently depend on a single validator operated by CaviarNine, with multi-hosting across three validators operated by CaviarNine, Digital Asset and Kiln under a two-of-three confirmation threshold listed as the next step (Cantex Docs)\n\nNetwork: Canton Coin (CC) trades at $0.07358, with a market cap of $2.95 billion (rank 26) and 24-hour trading volume of $6.63 million, down 2.80% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (RICHXCAP, reporting CoinGecko figures).\n\nOriginal sources:\nFederal Register: https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923\nCoinDesk: https://www.coindesk.com/tech/2025/11/24/taurus-expands-institutional-footprint-with-super-validator-role-on-canton-network\nCantex Docs: https://docs.cantex.io/introduction/custody-and-infrastructure/\nRICHXCAP: https://richxcap.com/coins/canton-network/",
+      "image_url": null,
+      "published": "2026-11-22T19:51:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "Federal Register",
+          "url": "https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2025/11/24/taurus-expands-institutional-footprint-with-super-validator-role-on-canton-network"
+        },
+        {
+          "source": "Cantex Docs",
+          "url": "https://docs.cantex.io/introduction/custody-and-infrastructure/"
+        },
+        {
+          "source": "RICHXCAP",
+          "url": "https://richxcap.com/coins/canton-network/"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-22_1906-est",
       "slug": "archax-brings-regulated-exchange-and-custody-to-canton-as-validator",
@@ -7440,43 +7511,6 @@
       "body": "Canton Signal Feed (Nov 18, 2026 · 8:42 AM ET)\n- **MEXC's Featured App status is recommended for a pause over Canton Coin locking requirements** — The Tokenomics Committee has recommended pausing MEXC's Featured Application status because it does not meet the Canton Coin locking requirements introduced by CIP-0116, meaning the exchange's party stops earning featured-app rewards until it complies; the recommendation is an enforcement step under the locking rules, not a delisting of Canton Coin from the exchange (Global Synchronizer Foundation)\n- **OpenZeppelin's Canton Daml library and four reference designs clear the Dev Fund vote** — OpenZeppelin, the smart-contract security firm recently acquired by S&P Global, has had its open-source Daml contracts library and four reference application designs for Canton — a privacy-preserving DEX, a lending protocol, cross-chain stablecoin payments and one further design — approved by Digital Asset and passed by the Dev Fund committee, giving teams building financial apps on Canton vetted, reusable building blocks instead of starting from scratch (Canton Network Forum)\n- **Rome Protocol launches Ostia, a zero-knowledge EVM chain settling on Canton** — Rome Protocol has put Ostia live on Canton DevNet as an Ethereum-compatible chain whose blocks are proved with zero-knowledge proofs and settled in a single Canton transaction, with a bridge that moves Canton Coin and ERC-20 tokens between the two sides; the code is open source, so Solidity developers can now deploy to a chain that settles on Canton, and the launch is on DevNet, not MainNet (Canton Network Forum)\n- **DTCC plans to connect its tokenization service to Solana in the second half of 2027, with a Stellar connection planned for the first half** — The service launched on Canton and DTCC's private Besu network on October 28 and runs under agreements with 20 participants, and the November 15 expansion plan was characterised as a multichain strategy rather than a move away from Canton, so Canton remains the first live venue while the other connections are future work (CoinStats)\n\nNetwork: CC $0.082087 | Market cap $3.3B (rank 25) | 24h volume $11.7M | Supply 40,069,805,635 CC, down 0.1% in 24 hours and down 7.5% over seven days as of the November 18 read; milestone: more than 650 firms have connected to Canton in two years, per Digital Asset's Canton Summit 2026 recap (Crypheat for market data; Canton Network for the milestone)",
       "image_url": null,
       "published": "2026-11-18T08:42:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-18_0812-est",
-      "slug": "further-asset-management-is-approved-as-a-canton-super-validator-the-first-at-that-tier-wi",
-      "url": "https://canton.w3ai.io/feed/further-asset-management-is-approved-as-a-canton-super-validator-the-first-at-that-tier-wi",
-      "title": "Further Asset Management is approved as a Canton Super Validator, the first at that tier with a dedicated Middle East presence",
-      "content_text": "Canton Signal Feed (Nov 18, 2026 · 8:12 AM ET)\n- **Further Asset Management is approved as a Canton Super Validator, the first at that tier with a dedicated Middle East presence** — Further announced today that existing Super Validator operators approved it under CIP-0113, giving it a formal governance role in the Global Synchronizer and a Super Validator node linking the UAE ecosystem; the firm says the move takes it from capital provider to active network operator, one of a small number of non-bank institutional validators on Canton, and Digital Asset chief executive Yuval Rooz said Further brings a live portfolio of companies that will generate real transaction volume on the network (Further Asset Management)\n- **Canton's governance locks move from votes to code as CIP-0127 sets out on-chain enforcement of validator and app lock-ups** — The Canton Network Docs describe a governance lock as a Canton Coin holding locked to meet the requirements set by CIP-0105 for Super Validators and CIP-0116 for Featured Apps, with CIP-0127 as the functional specification defining the lock lifecycle and wallet workflows; governance locks are available from Splice 0.10.0 onwards, its first two increments are included in that release, every lock must hold at least 10,000 CC, and until custom controllers arrive all Super Validator rights owners and Featured App providers must use the compatibility mode the proposal defines (Canton Network Docs)\n- **Canton's on-chain governance record stands at 573 executed proposals against 45 rejected, a 93% approval rate** — CCTools' governance data as of 12:10 UTC on November 18 puts the network's cumulative record at 573 executed and 45 rejected proposals, with total Canton Coin supply at 40.07 billion CC derived from the protocol itself; the figures are a cumulative governance snapshot, not a count of votes held today (CCTools)\n- **Canton Coin spot prices sit 6.96% apart across exchanges, with no route rated worth taking outright** — A live scan at 06:25 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.078731 and dearest on XT at $0.08421 across 12 exchanges with a liquid spot market, widened from the 5.57% spread recorded earlier today; the widest route, buying on MEXC and selling on Bitget at 6.75% after fees, is flagged as a suspect pair, and the best futures route is long MEXC perpetuals and short Lighter perpetuals at 0.08% after fees (ArbitrageGap)\n\nNetwork: CC $0.0837 | Market cap $3.35B (rank 25) | 24h volume $15.28M | Supply 40,072,068,785 CC, up 3.75% in 24 hours and down 5.97% over seven days as of the 13:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours reach 8.6M CC, up from 6.4M CC at the 5:12 AM read, with current activity at 2.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (CoinMarketHelp for market data; CantonNews for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 8:12 AM ET)<br/>- **Further Asset Management is approved as a Canton Super Validator, the first at that tier with a dedicated Middle East presence** — Further announced today that existing Super Validator operators approved it under CIP-0113, giving it a formal governance role in the Global Synchronizer and a Super Validator node linking the UAE ecosystem; the firm says the move takes it from capital provider to active network operator, one of a small number of non-bank institutional validators on Canton, and Digital Asset chief executive Yuval Rooz said Further brings a live portfolio of companies that will generate real transaction volume on the network (Further Asset Management)<br/>- **Canton&#x27;s governance locks move from votes to code as CIP-0127 sets out on-chain enforcement of validator and app lock-ups** — The Canton Network Docs describe a governance lock as a Canton Coin holding locked to meet the requirements set by CIP-0105 for Super Validators and CIP-0116 for Featured Apps, with CIP-0127 as the functional specification defining the lock lifecycle and wallet workflows; governance locks are available from Splice 0.10.0 onwards, its first two increments are included in that release, every lock must hold at least 10,000 CC, and until custom controllers arrive all Super Validator rights owners and Featured App providers must use the compatibility mode the proposal defines (Canton Network Docs)<br/>- **Canton&#x27;s on-chain governance record stands at 573 executed proposals against 45 rejected, a 93% approval rate** — CCTools&#x27; governance data as of 12:10 UTC on November 18 puts the network&#x27;s cumulative record at 573 executed and 45 rejected proposals, with total Canton Coin supply at 40.07 billion CC derived from the protocol itself; the figures are a cumulative governance snapshot, not a count of votes held today (CCTools)<br/>- **Canton Coin spot prices sit 6.96% apart across exchanges, with no route rated worth taking outright** — A live scan at 06:25 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.078731 and dearest on XT at $0.08421 across 12 exchanges with a liquid spot market, widened from the 5.57% spread recorded earlier today; the widest route, buying on MEXC and selling on Bitget at 6.75% after fees, is flagged as a suspect pair, and the best futures route is long MEXC perpetuals and short Lighter perpetuals at 0.08% after fees (ArbitrageGap)<br/><br/>Network: CC $0.0837 | Market cap $3.35B (rank 25) | 24h volume $15.28M | Supply 40,072,068,785 CC, up 3.75% in 24 hours and down 5.97% over seven days as of the 13:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours reach 8.6M CC, up from 6.4M CC at the 5:12 AM read, with current activity at 2.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (CoinMarketHelp for market data; CantonNews for the milestone)</p>",
-      "date_published": "2026-11-18T08:12:00-05:00",
-      "date_modified": "2026-11-18T08:12:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 18, 2026 · 8:12 AM ET",
-      "body": "Canton Signal Feed (Nov 18, 2026 · 8:12 AM ET)\n- **Further Asset Management is approved as a Canton Super Validator, the first at that tier with a dedicated Middle East presence** — Further announced today that existing Super Validator operators approved it under CIP-0113, giving it a formal governance role in the Global Synchronizer and a Super Validator node linking the UAE ecosystem; the firm says the move takes it from capital provider to active network operator, one of a small number of non-bank institutional validators on Canton, and Digital Asset chief executive Yuval Rooz said Further brings a live portfolio of companies that will generate real transaction volume on the network (Further Asset Management)\n- **Canton's governance locks move from votes to code as CIP-0127 sets out on-chain enforcement of validator and app lock-ups** — The Canton Network Docs describe a governance lock as a Canton Coin holding locked to meet the requirements set by CIP-0105 for Super Validators and CIP-0116 for Featured Apps, with CIP-0127 as the functional specification defining the lock lifecycle and wallet workflows; governance locks are available from Splice 0.10.0 onwards, its first two increments are included in that release, every lock must hold at least 10,000 CC, and until custom controllers arrive all Super Validator rights owners and Featured App providers must use the compatibility mode the proposal defines (Canton Network Docs)\n- **Canton's on-chain governance record stands at 573 executed proposals against 45 rejected, a 93% approval rate** — CCTools' governance data as of 12:10 UTC on November 18 puts the network's cumulative record at 573 executed and 45 rejected proposals, with total Canton Coin supply at 40.07 billion CC derived from the protocol itself; the figures are a cumulative governance snapshot, not a count of votes held today (CCTools)\n- **Canton Coin spot prices sit 6.96% apart across exchanges, with no route rated worth taking outright** — A live scan at 06:25 UTC on November 18 puts Canton Coin cheapest on MEXC at $0.078731 and dearest on XT at $0.08421 across 12 exchanges with a liquid spot market, widened from the 5.57% spread recorded earlier today; the widest route, buying on MEXC and selling on Bitget at 6.75% after fees, is flagged as a suspect pair, and the best futures route is long MEXC perpetuals and short Lighter perpetuals at 0.08% after fees (ArbitrageGap)\n\nNetwork: CC $0.0837 | Market cap $3.35B (rank 25) | 24h volume $15.28M | Supply 40,072,068,785 CC, up 3.75% in 24 hours and down 5.97% over seven days as of the 13:00 UTC November 18 read; milestone: live MainNet rewards over 24 hours reach 8.6M CC, up from 6.4M CC at the 5:12 AM read, with current activity at 2.00 TPS, total transactions at 605.7M, total parties at 951.1K, about 1.6K validators, 13 Super Validators and 4 active proposals (CoinMarketHelp for market data; CantonNews for the milestone)",
-      "image_url": null,
-      "published": "2026-11-18T08:12:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
