@@ -1,6 +1,159 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_1906-est",
+      "slug": "archax-brings-regulated-exchange-and-custody-to-canton-as-validator",
+      "title": "Archax brings regulated exchange and custody to Canton as validator",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 7:06 PM ET)\n\n- **Archax brings regulated exchange and custody to Canton as validator** — The Canton ecosystem directory lists Archax, a UK and EU regulated digital asset exchange, broker and custodian, as a validator on Canton, where it also provides market infrastructure and services on the network (Canton Ecosystem)\n- **TermPrime offers fixed-rate term financing on Canton** — TermPrime, built by Term Structure Labs, is the first fixed-rate, fixed-term financing venue on Canton, giving institutions a permissioned place to borrow and lend with known, KYB-checked counterparties; in an early test, two counterparties settled a seven-day deal using CBTC as collateral and Canton Coin as the borrowed asset, repaid before maturity, with assets held in custody throughout and atomic settlement via Canton's native synchronizer (PR Newswire)\n- **TermPrime counterparty network grows to nine institutions** — TermPrime completed its first live trade on Canton at the end of June and has since grown its counterparty network to nine institutions, while Term Structure Labs' TermMax protocol runs an early validator node on Canton (CryptoBriefing)\n\nNetwork: Canton Coin (CC) trades at $0.0733, with a market cap of $2.94 billion (rank 26) and 24-hour trading volume of $6.6 million, down 3.48% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (Blockdeck).\n\nOriginal sources:\nCanton Ecosystem: https://www.cantonecosystem.com/?f30afd7b_page=3\nPR Newswire: https://www.prnewswire.com/news-releases/confidential-fixed-rate-term-financing-for-institutions-termprime-goes-live-on-canton-network-302814489.html\nCryptoBriefing: https://cryptobriefing.com/yzi-labs-backs-termmax-to-advance-on-chain-bond-market-infrastructure/\nBlockdeck: https://blockdeck.app/coin/canton-network",
+      "timestamp": "2026-11-22T19:06:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/archax-brings-regulated-exchange-and-custody-to-canton-as-validator",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Canton Ecosystem",
+          "url": "https://www.cantonecosystem.com/?f30afd7b_page=3"
+        },
+        {
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/confidential-fixed-rate-term-financing-for-institutions-termprime-goes-live-on-canton-network-302814489.html"
+        },
+        {
+          "source": "CryptoBriefing",
+          "url": "https://cryptobriefing.com/yzi-labs-backs-termmax-to-advance-on-chain-bond-market-infrastructure/"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ],
+      "external_url": "https://www.cantonecosystem.com/?f30afd7b_page=3",
+      "source_url": "https://www.cantonecosystem.com/?f30afd7b_page=3",
+      "original_url": "https://www.cantonecosystem.com/?f30afd7b_page=3",
+      "source": "Canton Ecosystem",
+      "publisher": "Canton Ecosystem",
+      "links": [
+        {
+          "source": "Canton Ecosystem",
+          "url": "https://www.cantonecosystem.com/?f30afd7b_page=3"
+        },
+        {
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/confidential-fixed-rate-term-financing-for-institutions-termprime-goes-live-on-canton-network-302814489.html"
+        },
+        {
+          "source": "CryptoBriefing",
+          "url": "https://cryptobriefing.com/yzi-labs-backs-termmax-to-advance-on-chain-bond-market-infrastructure/"
+        },
+        {
+          "source": "Blockdeck",
+          "url": "https://blockdeck.app/coin/canton-network"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1736-est",
+      "slug": "elliptic-operates-a-canton-super-validator-for-analytics",
+      "title": "Elliptic operates a Canton Super Validator for analytics",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 5:36 PM ET)\n\n- **Elliptic operates a Canton Super Validator for analytics** — The Canton ecosystem directory lists Elliptic, a blockchain analytics firm, as integrated with Canton and operating a Super Validator on the network, placing an analytics provider among the operators that run Global Synchronizer infrastructure and governance tooling (Canton Ecosystem)\n- **Canton Foundation renamed from Global Synchronizer body in 2025** — The Global Synchronizer Foundation was announced on July 1, 2024 with Linux Foundation support and 18 founding members, among them Broadridge, Digital Asset, Euroclear and Tradeweb, and it became the Canton Foundation on September 22, 2025, in what it described as a change in name only (Proof of Talk)\n- **DTCC executive Johnna Powell chairs Canton Foundation board** — A review of the banks and firms behind Canton records DTCC's Johnna Powell as chair of the Canton Foundation board, with Digital Asset also holding a board seat, and the Foundation hosting the committees that support Global Synchronizer governance without changing protocol rules on its own (BSCN)\n\nNetwork: Canton Coin (CC) trades at $0.07189, with a market cap of $2.88 billion (rank 32) and 24-hour trading volume of $6.17 million, down 5.50% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (The Block).\n\nOriginal sources:\nCanton Ecosystem: https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2\nProof of Talk: https://proofoftalk.io/blog/canton-network-explained-regulated-institutions/\nBSCN: https://www.bscn-test-blogs.org/post/banks-firms-behind-canton\nThe Block: https://www.theblock.co/price/canton",
+      "timestamp": "2026-11-22T17:36:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/elliptic-operates-a-canton-super-validator-for-analytics",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Canton Ecosystem",
+          "url": "https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2"
+        },
+        {
+          "source": "Proof of Talk",
+          "url": "https://proofoftalk.io/blog/canton-network-explained-regulated-institutions/"
+        },
+        {
+          "source": "BSCN",
+          "url": "https://www.bscn-test-blogs.org/post/banks-firms-behind-canton"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/price/canton"
+        }
+      ],
+      "external_url": "https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2",
+      "source_url": "https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2",
+      "original_url": "https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2",
+      "source": "Canton Ecosystem",
+      "publisher": "Canton Ecosystem",
+      "links": [
+        {
+          "source": "Canton Ecosystem",
+          "url": "https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2"
+        },
+        {
+          "source": "Proof of Talk",
+          "url": "https://proofoftalk.io/blog/canton-network-explained-regulated-institutions/"
+        },
+        {
+          "source": "BSCN",
+          "url": "https://www.bscn-test-blogs.org/post/banks-firms-behind-canton"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/price/canton"
+        }
+      ]
+    },
+    {
+      "id": "canton-2026-11-22_1721-est",
+      "slug": "splice-lab-puts-canton-synchronizer-code-under-open-governance",
+      "title": "Splice lab puts Canton synchronizer code under open governance",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 5:21 PM ET)\n\n- **Splice lab puts Canton synchronizer code under open governance** — The Linux Foundation's July 1, 2024 formation release for the Global Synchronizer Foundation records that a new lab called Splice was formed in the Hyperledger Foundation to provide open-source governance for the code used by Global Synchronizer nodes, and that Splice enables anyone in the Canton Network to launch their own version of a synchronizer to meet their interoperability needs; the Foundation itself governs one node in the decentralised Global Synchronizer, whose MainNet went live on June 25, 2024 (Linux Foundation)\n- **Zodia Custody supports institutional custody of Canton Coin** — ChainReport's institution register records Zodia Custody, backed by Standard Chartered, Northern Trust and others, as supporting institutional custody of Canton Coin, live since July 29, 2025; the register counts the custody relationship separately from running a validator, and lists buying or holding the asset for clients as distinct from operating on the chain itself (ChainReport)\n- **Canton launched in 2023 with Goldman, BNP and Microsoft backing** — Digital Asset announced the Canton Network on May 9, 2023 with participants including Goldman Sachs, BNP Paribas, Deutsche Börse Group, Cboe Global Markets and Microsoft, and the founding participant list named 30 firms, among them ASX, Broadridge, Capgemini, Cumberland, Deloitte, EquiLend, Moody's, Paxos and S&P Global; the Global Synchronizer and Canton Coin went live on July 1, 2024 (Eco)\n\nNetwork: Canton Coin (CC) trades at $0.0721, with a market cap of $2.89 billion and 24-hour trading volume of $6.15 million, down 5.16% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (CCTools).\n\nOriginal sources:\nLinux Foundation: https://www.linuxfoundation.org/press/leading-market-participants-partner-with-the-linux-foundation-to-form-the-global-synchronizer-foundation\nChainReport: https://chainreport.co/institutions-onchain/chain/canton/\nEco: https://eco.com/support/en/articles/17272664-what-is-canton-network\nCCTools: https://cctools.network/network",
+      "timestamp": "2026-11-22T17:21:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/splice-lab-puts-canton-synchronizer-code-under-open-governance",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Linux Foundation",
+          "url": "https://www.linuxfoundation.org/press/leading-market-participants-partner-with-the-linux-foundation-to-form-the-global-synchronizer-foundation"
+        },
+        {
+          "source": "ChainReport",
+          "url": "https://chainreport.co/institutions-onchain/chain/canton/"
+        },
+        {
+          "source": "Eco",
+          "url": "https://eco.com/support/en/articles/17272664-what-is-canton-network"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "external_url": "https://www.linuxfoundation.org/press/leading-market-participants-partner-with-the-linux-foundation-to-form-the-global-synchronizer-foundation",
+      "source_url": "https://www.linuxfoundation.org/press/leading-market-participants-partner-with-the-linux-foundation-to-form-the-global-synchronizer-foundation",
+      "original_url": "https://www.linuxfoundation.org/press/leading-market-participants-partner-with-the-linux-foundation-to-form-the-global-synchronizer-foundation",
+      "source": "Linux Foundation",
+      "publisher": "Linux Foundation",
+      "links": [
+        {
+          "source": "Linux Foundation",
+          "url": "https://www.linuxfoundation.org/press/leading-market-participants-partner-with-the-linux-foundation-to-form-the-global-synchronizer-foundation"
+        },
+        {
+          "source": "ChainReport",
+          "url": "https://chainreport.co/institutions-onchain/chain/canton/"
+        },
+        {
+          "source": "Eco",
+          "url": "https://eco.com/support/en/articles/17272664-what-is-canton-network"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_1706-est",
       "slug": "canton-coin-supply-up-14-2-in-a-year-as-burns-lag-minting",
       "title": "Canton Coin supply up 14.2% in a year as burns lag minting",
