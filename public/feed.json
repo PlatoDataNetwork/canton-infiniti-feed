@@ -29,8 +29,87 @@
   "refresh_interval_minutes": 15,
   "page_refresh_seconds": 60,
   "generator": "Canton Signal Feed briefing pipeline (Infiniti Signals)",
-  "updated": "2026-11-23T03:51:00-05:00",
+  "updated": "2026-11-23T04:36:00-05:00",
   "items": [
+    {
+      "id": "canton-2026-11-23_0436-est",
+      "slug": "hackenproof-runs-bug-bounties-and-audits-for-canton",
+      "url": "https://canton.w3ai.io/feed/hackenproof-runs-bug-bounties-and-audits-for-canton",
+      "title": "HackenProof runs bug bounties and audits for Canton",
+      "content_text": "Canton Signal Feed (Nov 23, 2026 · 4:36 AM ET)\n\n- **HackenProof runs bug bounties and audits for Canton** — The Canton ecosystem directory lists HackenProof as an expert bug bounty and crowdsourced audit platform for the Canton ecosystem, carried as a featured application and service provider on the network (Canton Ecosystem)\n- **Canton Coin funding rises to +0.0068% as longs pay shorts** — CoinGlass's latest aggregate puts the open-interest-weighted funding rate at +0.0068%, about +7.43% annualised with longs paying shorts, up from the +0.0053% recorded in the 3:51 AM edition, with futures open interest at $33.91 million, up 5.07% over 24 hours, and an open-interest-to-market-cap ratio of 1.11% (CoinGlass)\n- **Thetanuts runs on-chain options for altcoins on Canton** — The Canton ecosystem directory lists Thetanuts Finance as a decentralised on-chain options protocol focused on altcoin options, where it also operates as a validator (Canton Ecosystem)\n- **Canton DEX volume rises to $16.54M in latest chain read** — DefiLlama's latest chain read puts decentralised exchange volume at $16.54 million over 24 hours, up from the $16.29 million recorded in the 1:36 AM edition, with perpetuals volume at $305,115 and Temple still the largest tracked protocol at $5.89 million, ahead of Alpend at $1.88 million and Cantex at $1.71 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0761, with a market cap of $3.05 billion and 24-hour trading volume of $8.37 million, up 4.40% in 24 hours, with circulating supply of 40.11 billion CC at the November 23 read (CCTools).\n\nOriginal sources:\nCanton Ecosystem: https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2\nCoinGlass: https://www.coinglass.com/currencies/CC\nCanton Ecosystem: https://www.cantonecosystem.com/?23102b98_page=4&f30afd7b_page=2\nDefiLlama: https://defillama.com/chain/canton?chainRevenue=true&tvl=false\nCCTools: https://cctools.network/network",
+      "content_html": "<p>Canton Signal Feed (Nov 23, 2026 · 4:36 AM ET)<br/><br/>- **HackenProof runs bug bounties and audits for Canton** — The Canton ecosystem directory lists HackenProof as an expert bug bounty and crowdsourced audit platform for the Canton ecosystem, carried as a featured application and service provider on the network (Canton Ecosystem)<br/>- **Canton Coin funding rises to +0.0068% as longs pay shorts** — CoinGlass&#x27;s latest aggregate puts the open-interest-weighted funding rate at +0.0068%, about +7.43% annualised with longs paying shorts, up from the +0.0053% recorded in the 3:51 AM edition, with futures open interest at $33.91 million, up 5.07% over 24 hours, and an open-interest-to-market-cap ratio of 1.11% (CoinGlass)<br/>- **Thetanuts runs on-chain options for altcoins on Canton** — The Canton ecosystem directory lists Thetanuts Finance as a decentralised on-chain options protocol focused on altcoin options, where it also operates as a validator (Canton Ecosystem)<br/>- **Canton DEX volume rises to $16.54M in latest chain read** — DefiLlama&#x27;s latest chain read puts decentralised exchange volume at $16.54 million over 24 hours, up from the $16.29 million recorded in the 1:36 AM edition, with perpetuals volume at $305,115 and Temple still the largest tracked protocol at $5.89 million, ahead of Alpend at $1.88 million and Cantex at $1.71 million (DefiLlama)<br/><br/>Network: Canton Coin (CC) trades at $0.0761, with a market cap of $3.05 billion and 24-hour trading volume of $8.37 million, up 4.40% in 24 hours, with circulating supply of 40.11 billion CC at the November 23 read (CCTools).<br/><br/>Original sources:<br/>Canton Ecosystem: https://www.cantonecosystem.com/?23102b98_page=2&amp;f30afd7b_page=2<br/>CoinGlass: https://www.coinglass.com/currencies/CC<br/>Canton Ecosystem: https://www.cantonecosystem.com/?23102b98_page=4&amp;f30afd7b_page=2<br/>DefiLlama: https://defillama.com/chain/canton?chainRevenue=true&amp;tvl=false<br/>CCTools: https://cctools.network/network</p>",
+      "date_published": "2026-11-23T04:36:00-05:00",
+      "date_modified": "2026-11-23T04:36:00-05:00",
+      "authors": [
+        {
+          "name": "Infiniti Signals",
+          "url": "https://infiniti.w3ai.io"
+        }
+      ],
+      "tags": [
+        "Canton Network",
+        "Canton Coin",
+        "tokenization",
+        "RWA",
+        "Digital Asset",
+        "institutional blockchain"
+      ],
+      "image": null,
+      "external_url": "https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2",
+      "source_url": "https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2",
+      "original_url": "https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2",
+      "source": "Canton Ecosystem",
+      "publisher": "Canton Ecosystem",
+      "links": [
+        {
+          "source": "Canton Ecosystem",
+          "url": "https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "Canton Ecosystem",
+          "url": "https://www.cantonecosystem.com/?23102b98_page=4&f30afd7b_page=2"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?chainRevenue=true&tvl=false"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ],
+      "timestamp": "Nov 23, 2026 · 4:36 AM ET",
+      "body": "Canton Signal Feed (Nov 23, 2026 · 4:36 AM ET)\n\n- **HackenProof runs bug bounties and audits for Canton** — The Canton ecosystem directory lists HackenProof as an expert bug bounty and crowdsourced audit platform for the Canton ecosystem, carried as a featured application and service provider on the network (Canton Ecosystem)\n- **Canton Coin funding rises to +0.0068% as longs pay shorts** — CoinGlass's latest aggregate puts the open-interest-weighted funding rate at +0.0068%, about +7.43% annualised with longs paying shorts, up from the +0.0053% recorded in the 3:51 AM edition, with futures open interest at $33.91 million, up 5.07% over 24 hours, and an open-interest-to-market-cap ratio of 1.11% (CoinGlass)\n- **Thetanuts runs on-chain options for altcoins on Canton** — The Canton ecosystem directory lists Thetanuts Finance as a decentralised on-chain options protocol focused on altcoin options, where it also operates as a validator (Canton Ecosystem)\n- **Canton DEX volume rises to $16.54M in latest chain read** — DefiLlama's latest chain read puts decentralised exchange volume at $16.54 million over 24 hours, up from the $16.29 million recorded in the 1:36 AM edition, with perpetuals volume at $305,115 and Temple still the largest tracked protocol at $5.89 million, ahead of Alpend at $1.88 million and Cantex at $1.71 million (DefiLlama)\n\nNetwork: Canton Coin (CC) trades at $0.0761, with a market cap of $3.05 billion and 24-hour trading volume of $8.37 million, up 4.40% in 24 hours, with circulating supply of 40.11 billion CC at the November 23 read (CCTools).\n\nOriginal sources:\nCanton Ecosystem: https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2\nCoinGlass: https://www.coinglass.com/currencies/CC\nCanton Ecosystem: https://www.cantonecosystem.com/?23102b98_page=4&f30afd7b_page=2\nDefiLlama: https://defillama.com/chain/canton?chainRevenue=true&tvl=false\nCCTools: https://cctools.network/network",
+      "image_url": null,
+      "published": "2026-11-23T04:36:00-05:00",
+      "kind": "briefing",
+      "source_links": [
+        {
+          "source": "Canton Ecosystem",
+          "url": "https://www.cantonecosystem.com/?23102b98_page=2&f30afd7b_page=2"
+        },
+        {
+          "source": "CoinGlass",
+          "url": "https://www.coinglass.com/currencies/CC"
+        },
+        {
+          "source": "Canton Ecosystem",
+          "url": "https://www.cantonecosystem.com/?23102b98_page=4&f30afd7b_page=2"
+        },
+        {
+          "source": "DefiLlama",
+          "url": "https://defillama.com/chain/canton?chainRevenue=true&tvl=false"
+        },
+        {
+          "source": "CCTools",
+          "url": "https://cctools.network/network"
+        }
+      ]
+    },
     {
       "id": "canton-2026-11-23_0351-est",
       "slug": "canton-coin-funding-rises-to-0-0053-as-open-interest-holds",
@@ -7947,43 +8026,6 @@
       "body": "Canton Signal Feed (Nov 18, 2026 · 6:12 PM ET)\n\n- **London Stock Exchange Group is approved as a Canton Super Validator under CIP-0124, with a maximum weight of 10** — The approval brings major financial market infrastructure expertise to the network's operator set, and Super Validators are voting to put the weight in place, with the change taking effect on October 10, 2026 (Global Synchronizer Foundation via CC Space)\n- **A planned tokenized securities venue relies on the same SEC Innovation Exemption that produced the first live trades on Canton** — Formation Securities has notified the SEC of a tokenized securities venue on Solana with trading expected in early 2027, opening with Galaxy Digital, Exodus Movement and Forward Industries and relying on the exemption that produced the first live trades on the Canton Network, with distribution through broker-dealer Alpaca and custodians Anchorage, BitGo and Fireblocks (Suit Up)\n- **The Tie closes its Canton privacy series by arguing regulators are converging on selective disclosure** — The final part of the five-part series compares Canton's selective-disclosure privacy model, where each participant sees only the transaction views it is entitled to, with privacy coins, zero-knowledge designs and app- or wallet-level privacy add-ons, and argues selective disclosure is the model regulators are converging on (Canton Network via CC Space)\n\nNetwork: CC $0.0816 | Market cap $3.27B (rank 25) | 24h volume $12.81M | Circulating supply 40,077,505,741 CC, down 0.66% in 24 hours and down 11.68% over seven days as of the 23:15 UTC November 18 read; milestone: Shinhan Asset Management became the first Korean financial institution approved as a Canton Super Validator in September 2026 (Criptano, reporting CoinGecko figures, for market data; Decrypt for the milestone)",
       "image_url": null,
       "published": "2026-11-18T18:12:00-05:00",
-      "kind": "briefing",
-      "source_links": []
-    },
-    {
-      "id": "canton-2026-11-18_1742-est",
-      "slug": "a16z-crypto-is-cleared-to-join-canton-as-a-super-validator-with-its-weight-assigned-to-the",
-      "url": "https://canton.w3ai.io/feed/a16z-crypto-is-cleared-to-join-canton-as-a-super-validator-with-its-weight-assigned-to-the",
-      "title": "a16z crypto is cleared to join Canton as a Super Validator, with its weight assigned to the MPC-Holding-Inc node",
-      "content_text": "Canton Signal Feed (Nov 18, 2026 · 5:42 PM ET)\n- **a16z crypto is cleared to join Canton as a Super Validator, with its weight assigned to the MPC-Holding-Inc node** — Super Validators approved adding a16z crypto's Super Validator weight to the MPC-Holding-Inc node following CIP-0123, giving the venture firm the go-ahead to operate as a Super Validator on Canton; the approval follows its earlier clearance to run a Super Validator with a maximum earnable weight of 10, bringing a major crypto investor into the group of operators running the Global Synchronizer (Global Synchronizer Foundation via CC Space)\n- **Kaiko joins the Canton Foundation's tokenized collateral workstream, bringing licensed pricing feeds to onchain settlement** — The market data provider has joined the Foundation's Collateral Sub-Committee, bringing licensed pricing feeds including Bloomberg evaluated pricing and NCFX FX benchmarks onto Canton and connectivity from FIX, SWIFT/ISO 20022 and APIs to onchain settlement; trusted pricing is described as the missing piece for central counterparties and market infrastructures to accept tokenized assets as collateral and margin (Canton Network Forum via CC Space)\n- **DRW and Marex execute the first OTC derivative referencing a fully tokenized index on Canton** — In October 2026 the two trading firms executed a total return swap on S&P Dow Jones Indices' iBoxx investment-grade benchmark, which data firm Kaiko tokenized on Canton; the trade ran on Derivnex, an institutional derivatives platform built on Canton, and was billed as the first over-the-counter derivative of its kind referencing a fully tokenized index (CVJ.AI)\n- **Pinnaccle is approved as a Featured App on Canton, with on-chain Super Validator confirmation still to come** — The Canton Foundation's Tokenomics Committee approved Pinnaccle for Featured App status, which still needs on-chain approval by the Super Validators, and announced that version 2.0b of the Featured App Guidance starts applying on November 5, 2026; Featured App status lets an application earn boosted Canton Coin rewards for the activity it drives (Global Synchronizer Foundation via CC Space)\n\nNetwork: CC $0.0820 | Market cap $3.28B (rank 25) | 24h volume $11.70M | Circulating supply 40,069,805,635 CC, up 0.21% in 24 hours and down 7.47% over seven days as of the November 18 read; milestone: Canton recorded more than $155 million in network fees in the third quarter of 2026, the highest among the blockchains in a comparison by blockchain security firm CertiK, with fees paid by burning Canton Coin (AgentFlare, reporting CoinGecko figures, for market data; CVJ.AI, reporting CertiK, for the milestone)",
-      "content_html": "<p>Canton Signal Feed (Nov 18, 2026 · 5:42 PM ET)<br/>- **a16z crypto is cleared to join Canton as a Super Validator, with its weight assigned to the MPC-Holding-Inc node** — Super Validators approved adding a16z crypto&#x27;s Super Validator weight to the MPC-Holding-Inc node following CIP-0123, giving the venture firm the go-ahead to operate as a Super Validator on Canton; the approval follows its earlier clearance to run a Super Validator with a maximum earnable weight of 10, bringing a major crypto investor into the group of operators running the Global Synchronizer (Global Synchronizer Foundation via CC Space)<br/>- **Kaiko joins the Canton Foundation&#x27;s tokenized collateral workstream, bringing licensed pricing feeds to onchain settlement** — The market data provider has joined the Foundation&#x27;s Collateral Sub-Committee, bringing licensed pricing feeds including Bloomberg evaluated pricing and NCFX FX benchmarks onto Canton and connectivity from FIX, SWIFT/ISO 20022 and APIs to onchain settlement; trusted pricing is described as the missing piece for central counterparties and market infrastructures to accept tokenized assets as collateral and margin (Canton Network Forum via CC Space)<br/>- **DRW and Marex execute the first OTC derivative referencing a fully tokenized index on Canton** — In October 2026 the two trading firms executed a total return swap on S&amp;P Dow Jones Indices&#x27; iBoxx investment-grade benchmark, which data firm Kaiko tokenized on Canton; the trade ran on Derivnex, an institutional derivatives platform built on Canton, and was billed as the first over-the-counter derivative of its kind referencing a fully tokenized index (CVJ.AI)<br/>- **Pinnaccle is approved as a Featured App on Canton, with on-chain Super Validator confirmation still to come** — The Canton Foundation&#x27;s Tokenomics Committee approved Pinnaccle for Featured App status, which still needs on-chain approval by the Super Validators, and announced that version 2.0b of the Featured App Guidance starts applying on November 5, 2026; Featured App status lets an application earn boosted Canton Coin rewards for the activity it drives (Global Synchronizer Foundation via CC Space)<br/><br/>Network: CC $0.0820 | Market cap $3.28B (rank 25) | 24h volume $11.70M | Circulating supply 40,069,805,635 CC, up 0.21% in 24 hours and down 7.47% over seven days as of the November 18 read; milestone: Canton recorded more than $155 million in network fees in the third quarter of 2026, the highest among the blockchains in a comparison by blockchain security firm CertiK, with fees paid by burning Canton Coin (AgentFlare, reporting CoinGecko figures, for market data; CVJ.AI, reporting CertiK, for the milestone)</p>",
-      "date_published": "2026-11-18T17:42:00-05:00",
-      "date_modified": "2026-11-18T17:42:00-05:00",
-      "authors": [
-        {
-          "name": "Infiniti Signals",
-          "url": "https://infiniti.w3ai.io"
-        }
-      ],
-      "tags": [
-        "Canton Network",
-        "Canton Coin",
-        "tokenization",
-        "RWA",
-        "Digital Asset",
-        "institutional blockchain"
-      ],
-      "image": null,
-      "external_url": null,
-      "source_url": null,
-      "original_url": null,
-      "source": null,
-      "publisher": null,
-      "links": [],
-      "timestamp": "Nov 18, 2026 · 5:42 PM ET",
-      "body": "Canton Signal Feed (Nov 18, 2026 · 5:42 PM ET)\n- **a16z crypto is cleared to join Canton as a Super Validator, with its weight assigned to the MPC-Holding-Inc node** — Super Validators approved adding a16z crypto's Super Validator weight to the MPC-Holding-Inc node following CIP-0123, giving the venture firm the go-ahead to operate as a Super Validator on Canton; the approval follows its earlier clearance to run a Super Validator with a maximum earnable weight of 10, bringing a major crypto investor into the group of operators running the Global Synchronizer (Global Synchronizer Foundation via CC Space)\n- **Kaiko joins the Canton Foundation's tokenized collateral workstream, bringing licensed pricing feeds to onchain settlement** — The market data provider has joined the Foundation's Collateral Sub-Committee, bringing licensed pricing feeds including Bloomberg evaluated pricing and NCFX FX benchmarks onto Canton and connectivity from FIX, SWIFT/ISO 20022 and APIs to onchain settlement; trusted pricing is described as the missing piece for central counterparties and market infrastructures to accept tokenized assets as collateral and margin (Canton Network Forum via CC Space)\n- **DRW and Marex execute the first OTC derivative referencing a fully tokenized index on Canton** — In October 2026 the two trading firms executed a total return swap on S&P Dow Jones Indices' iBoxx investment-grade benchmark, which data firm Kaiko tokenized on Canton; the trade ran on Derivnex, an institutional derivatives platform built on Canton, and was billed as the first over-the-counter derivative of its kind referencing a fully tokenized index (CVJ.AI)\n- **Pinnaccle is approved as a Featured App on Canton, with on-chain Super Validator confirmation still to come** — The Canton Foundation's Tokenomics Committee approved Pinnaccle for Featured App status, which still needs on-chain approval by the Super Validators, and announced that version 2.0b of the Featured App Guidance starts applying on November 5, 2026; Featured App status lets an application earn boosted Canton Coin rewards for the activity it drives (Global Synchronizer Foundation via CC Space)\n\nNetwork: CC $0.0820 | Market cap $3.28B (rank 25) | 24h volume $11.70M | Circulating supply 40,069,805,635 CC, up 0.21% in 24 hours and down 7.47% over seven days as of the November 18 read; milestone: Canton recorded more than $155 million in network fees in the third quarter of 2026, the highest among the blockchains in a comparison by blockchain security firm CertiK, with fees paid by burning Canton Coin (AgentFlare, reporting CoinGecko figures, for market data; CVJ.AI, reporting CertiK, for the milestone)",
-      "image_url": null,
-      "published": "2026-11-18T17:42:00-05:00",
       "kind": "briefing",
       "source_links": []
     }
