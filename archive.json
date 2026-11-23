@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "id": "canton-2026-11-22_1951-est",
+      "slug": "canton-foundation-adds-lloyds-isda-and-galaxy-as-members",
+      "title": "Canton Foundation adds Lloyds, ISDA and Galaxy as members",
+      "body": "Canton Signal Feed (Nov 22, 2026 · 7:51 PM ET)\n\n- **Canton Foundation adds Lloyds, ISDA and Galaxy as members** — A Department of Justice notice published in the Federal Register on July 22, 2026 records that the Canton Foundation, formerly the Global Synchronizer Foundation, filed membership changes on May 20, 2026 adding 17 parties to its research venture, among them Lloyds Bank, the International Swaps and Derivatives Association and Galaxy Digital, alongside Kora Labs and USIG Digital; membership remains open and the Foundation says it will file further notices as membership changes (Federal Register)\n- **Taurus adds Canton custody as a Super Validator** — Geneva-based Taurus, founded in 2018 and regulated by FINMA, has added custody support for the Canton Token Standard and joined Canton as a Super Validator, helping validate transactions and operate the Global Synchronizer; the Canton Foundation cited Taurus's relationships with Deutsche Bank, CACEIS, Santander and State Street as a fit for the validator set, in an announcement dated November 25, 2025 (CoinDesk)\n- **Cantex accounts pair a passkey with a 24-word passphrase** — Cantex's custody documentation states that every Cantex user is an external party on Canton holding their own signing keys, with each account secured by a passkey and a 24-word passphrase that derives the account's master key; Cantex holds none of these keys, while Cantex-hosted parties currently depend on a single validator operated by CaviarNine, with multi-hosting across three validators operated by CaviarNine, Digital Asset and Kiln under a two-of-three confirmation threshold listed as the next step (Cantex Docs)\n\nNetwork: Canton Coin (CC) trades at $0.07358, with a market cap of $2.95 billion (rank 26) and 24-hour trading volume of $6.63 million, down 2.80% in 24 hours, with circulating supply of 40.10 billion CC at the November 22 read (RICHXCAP, reporting CoinGecko figures).\n\nOriginal sources:\nFederal Register: https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923\nCoinDesk: https://www.coindesk.com/tech/2025/11/24/taurus-expands-institutional-footprint-with-super-validator-role-on-canton-network\nCantex Docs: https://docs.cantex.io/introduction/custody-and-infrastructure/\nRICHXCAP: https://richxcap.com/coins/canton-network/",
+      "timestamp": "2026-11-22T19:51:00-05:00",
+      "kind": "briefing",
+      "url": "https://canton.w3ai.io/feed/canton-foundation-adds-lloyds-isda-and-galaxy-as-members",
+      "image": null,
+      "source_links": [
+        {
+          "source": "Federal Register",
+          "url": "https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2025/11/24/taurus-expands-institutional-footprint-with-super-validator-role-on-canton-network"
+        },
+        {
+          "source": "Cantex Docs",
+          "url": "https://docs.cantex.io/introduction/custody-and-infrastructure/"
+        },
+        {
+          "source": "RICHXCAP",
+          "url": "https://richxcap.com/coins/canton-network/"
+        }
+      ],
+      "external_url": "https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923",
+      "source_url": "https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923",
+      "original_url": "https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923",
+      "source": "Federal Register",
+      "publisher": "Federal Register",
+      "links": [
+        {
+          "source": "Federal Register",
+          "url": "https://public-inspection.federalregister.gov/2026-14818.pdf?1784637923"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2025/11/24/taurus-expands-institutional-footprint-with-super-validator-role-on-canton-network"
+        },
+        {
+          "source": "Cantex Docs",
+          "url": "https://docs.cantex.io/introduction/custody-and-infrastructure/"
+        },
+        {
+          "source": "RICHXCAP",
+          "url": "https://richxcap.com/coins/canton-network/"
+        }
+      ]
+    },
+    {
       "id": "canton-2026-11-22_1906-est",
       "slug": "archax-brings-regulated-exchange-and-custody-to-canton-as-validator",
       "title": "Archax brings regulated exchange and custody to Canton as validator",
